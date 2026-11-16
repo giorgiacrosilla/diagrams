@@ -1,0 +1,182 @@
+{
+  "element_analysis": [
+    {
+      "id": 1,
+      "relation_type": "text_shape",
+      "subject": "PATER",
+      "predicate": "connected_to",
+      "object": "SPS SCS",
+      "certainty": "high",
+      "evidence": "The upper left circle and the upper right circle are joined by a straight horizontal double-line band along the top side of the inverted triangle. The band contains the text \"NON EST\" along its length, written horizontally and reading left to right.",
+      "updated_at": ""
+    },
+    {
+      "id": 2,
+      "relation_type": "text_shape",
+      "subject": "PATER",
+      "predicate": "connected_to",
+      "object": "DEVS",
+      "certainty": "high",
+      "evidence": "A straight double-line band runs diagonally downward and to the right from the upper left circle to the central circle. It contains the text \"EST\", written along the band and tilted with it.",
+      "updated_at": ""
+    },
+    {
+      "id": 3,
+      "relation_type": "text_shape",
+      "subject": "SPS SCS",
+      "predicate": "connected_to",
+      "object": "DEVS",
+      "certainty": "high",
+      "evidence": "A straight double-line band runs diagonally downward and to the left from the upper right circle to the central circle. It contains the text \"EST\", written along the band and tilted with it. The text is partly worn and appears mirrored or inverted.",
+      "updated_at": ""
+    },
+    {
+      "id": 4,
+      "relation_type": "text_shape",
+      "subject": "PATER",
+      "predicate": "connected_to",
+      "object": "FILIVS",
+      "certainty": "high",
+      "evidence": "A long straight double-line band forms the left side of the inverted triangle and runs diagonally from the upper left circle down to the bottom circle. It contains the text \"NON EST\", written along the band and tilted with it.",
+      "updated_at": ""
+    },
+    {
+      "id": 5,
+      "relation_type": "text_shape",
+      "subject": "SPS SCS",
+      "predicate": "connected_to",
+      "object": "FILIVS",
+      "certainty": "high",
+      "evidence": "A long straight double-line band forms the right side of the inverted triangle and runs diagonally from the upper right circle down to the bottom circle. It contains the text \"NON EST\", written along the band and tilted with it.",
+      "updated_at": ""
+    },
+    {
+      "id": 6,
+      "relation_type": "text_shape",
+      "subject": "DEVS",
+      "predicate": "connected_to",
+      "object": "FILIVS",
+      "certainty": "high",
+      "evidence": "A short vertical double-line band runs from the bottom of the central circle to the bottom circle. It contains a short text, read as \"EST\" (possibly \"ET\"), written vertically along the band near the central circle. The crucifix figure overlaps the lower part of this band.",
+      "updated_at": ""
+    },
+    {
+      "id": 7,
+      "relation_type": "figurative",
+      "subject": "crucifix figure",
+      "predicate": "below",
+      "object": "DEVS",
+      "certainty": "medium",
+      "evidence": "A small figure with arms outstretched horizontally is shown on a cross with a vertical shaft. It is placed on the vertical band, below the central circle. The top of the cross touches the band just beneath that circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 8,
+      "relation_type": "figurative",
+      "subject": "crucifix figure",
+      "predicate": "above",
+      "object": "FILIVS",
+      "certainty": "medium",
+      "evidence": "The lower end of the cross and the figure's feet lie just above the bottom circle, on the same vertical axis as the band that joins the central circle to the bottom circle.",
+      "updated_at": ""
+    }
+  ],
+  "interpretation": [
+    {
+      "id": 1,
+      "subject": "PATER",
+      "predicate": "connected_to",
+      "object": "SPS SCS",
+      "diagram_classification": "theological (Trinitarian diagram, Scutum fidei / Shield of the Trinity type)",
+      "interpretation": "PATER (Pater, the Father) and SPS SCS (Spiritus Sanctus, the Holy Spirit) are joined by the upper side of the triangle, which carries \"NON EST\" (non est, 'is not'). The link states that the Father is not the Holy Spirit. It affirms the distinction of the persons.",
+      "basis": "textual",
+      "certainty": "high",
+      "evidence": "The labels PATER and the abbreviated SPS SCS, together with the band text \"NON EST\", are visible. In Step 1 the right circle was read as \"SPS SCS\"; the reading is worn but plausible. The scheme matches the Trinitarian diagram in which the outer sides say \"non est\" and the inner radii say \"est\". This comes from external knowledge of the tradition, which is widely attested from the 12th century.",
+      "updated_at": ""
+    },
+    {
+      "id": 2,
+      "subject": "PATER",
+      "predicate": "connected_to",
+      "object": "DEVS",
+      "diagram_classification": "theological (Trinitarian diagram)",
+      "interpretation": "The inner band reads \"EST\" (est, 'is'). It states that the Father is God (Pater est Deus). It affirms the shared divine essence of the Father.",
+      "basis": "textual",
+      "certainty": "high",
+      "evidence": "The band text \"EST\" joins the label PATER to the central circle, read in Step 1 as \"DEVS\". The central circle is readable as DEVS but is slightly worn. The Trinitarian formula is external knowledge.",
+      "updated_at": ""
+    },
+    {
+      "id": 3,
+      "subject": "SPS SCS",
+      "predicate": "connected_to",
+      "object": "DEVS",
+      "diagram_classification": "theological (Trinitarian diagram)",
+      "interpretation": "The band reads \"EST\" and states that the Holy Spirit is God (Spiritus Sanctus est Deus). The Spirit shares the divine essence with the Father and the Son.",
+      "basis": "textual",
+      "certainty": "high",
+      "evidence": "The band text, in the Step 1 reading \"EST\", joins SPS SCS to DEVS. Step 1 noted that the text looks mirrored or inverted. This is probably due to the writing direction along the band and to wear, and it does not change the reading. The formula is external knowledge.",
+      "updated_at": ""
+    },
+    {
+      "id": 4,
+      "subject": "PATER",
+      "predicate": "connected_to",
+      "object": "FILIVS",
+      "diagram_classification": "theological (Trinitarian diagram)",
+      "interpretation": "The left side of the triangle carries \"NON EST\". It states that the Father is not the Son (Pater non est Filius). The persons are distinct from one another.",
+      "basis": "textual",
+      "certainty": "high",
+      "evidence": "The band text \"NON EST\" and the labels PATER and FILIVS (Filius, the Son) are visible. The rule that the outer sides distinguish the persons comes from external knowledge of the diagram type.",
+      "updated_at": ""
+    },
+    {
+      "id": 5,
+      "subject": "SPS SCS",
+      "predicate": "connected_to",
+      "object": "FILIVS",
+      "diagram_classification": "theological (Trinitarian diagram)",
+      "interpretation": "The right side of the triangle carries \"NON EST\". It states that the Holy Spirit is not the Son (Spiritus Sanctus non est Filius). This completes the three distinctions of persons on the outer sides.",
+      "basis": "textual",
+      "certainty": "high",
+      "evidence": "The band text \"NON EST\" is written along the right side between SPS SCS and FILIVS. The right-side text is partly worn, but the reading is consistent with the left side and the top side.",
+      "updated_at": ""
+    },
+    {
+      "id": 6,
+      "subject": "DEVS",
+      "predicate": "connected_to",
+      "object": "FILIVS",
+      "diagram_classification": "theological (Trinitarian diagram with crucifixion)",
+      "interpretation": "The vertical band between the central circle and the bottom circle states that the Son is God (Filius est Deus). This completes the three affirmations of identity of essence. The crucifix on the band shows the Son's incarnation and passion, linking the divine essence with the human death of the Son.",
+      "basis": "textual",
+      "certainty": "medium",
+      "evidence": "Step 1 read the vertical band text as \"EST\" (possibly \"ET\"). The reading \"EST\" fits the pattern of the other inner bands, so the interpretation is textual and structural. The link between the crucifix and the Son is external knowledge. The Step 1 entry itself is compatible with the interpretation, but the doubtful reading of the text lowers the certainty.",
+      "updated_at": ""
+    },
+    {
+      "id": 7,
+      "subject": "crucifix figure",
+      "predicate": "below",
+      "object": "DEVS",
+      "diagram_classification": "theological (Trinitarian diagram with crucifixion)",
+      "interpretation": "The crucifix figure represents the crucified Christ, the Son incarnate. It is placed below DEVS on the axis of the divine essence. It shows that the Son, God by nature, is the one who suffered on the cross. It is a visual addition to the abstract scheme of the diagram.",
+      "basis": "external",
+      "certainty": "medium",
+      "evidence": "Visible: a figure with outstretched arms on a cross, set on the vertical band under the central circle. The identification as Christ crucified comes from medieval iconography. The Step 1 predicate \"below\" is used although the figure overlaps the connecting band. Strictly, \"connected_to\" might apply, so the certainty is only medium.",
+      "updated_at": ""
+    },
+    {
+      "id": 8,
+      "subject": "crucifix figure",
+      "predicate": "above",
+      "object": "FILIVS",
+      "diagram_classification": "theological (Trinitarian diagram with crucifixion)",
+      "interpretation": "The crucified figure is placed directly above the circle labelled FILIVS. This ties the figure to the Son, the second person. It shows that the incarnate and crucified Christ is the Son of the Trinity.",
+      "basis": "visual",
+      "certainty": "medium",
+      "evidence": "Visible: the feet of the figure and the foot of the cross lie just above the bottom circle, on the same vertical axis. The identification of the figure with the person named FILIVS rests on this proximity and on external iconographic knowledge. As in entry 7, the figure overlaps the connecting band, so the Step 1 predicate is only an approximation.",
+      "updated_at": ""
+    }
+  ]
+}
