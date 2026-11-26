@@ -1,0 +1,5 @@
+anthropic
+pillow 
+pendulum 
+python-dotenv 
+openai
