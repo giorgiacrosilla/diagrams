@@ -1055,48 +1055,6 @@
     ]
   },
   {
-    "image_id": "92f356c4-e763-422f-aa4b-93e40dc57b03",
-    "label": "Biblical Zodiac",
-    "filename": "92f356c4-e763-422f-aa4b-93e40dc57b03.jpg",
-    "manuscript_number": "32191, f. 1r",
-    "date_original": "c. 1200 AD",
-    "relations": [
-      {
-        "id": 1,
-        "relation_type": "text_shape",
-        "subject": "scorpius",
-        "predicate": "connected_to",
-        "object": "daniel",
-        "interpretation": "",
-        "certainty": "high",
-        "evidence": "",
-        "updated_at": "2026-11-08 20:59:59"
-      },
-      {
-        "id": 2,
-        "relation_type": "geometric",
-        "subject": "wheel",
-        "predicate": "contains",
-        "object": "radial bands",
-        "interpretation": "",
-        "certainty": "high",
-        "evidence": "",
-        "updated_at": "2026-11-08 21:01:30"
-      },
-      {
-        "id": 3,
-        "relation_type": "text_shape",
-        "subject": "virgo",
-        "predicate": "connected_to",
-        "object": "alexander",
-        "interpretation": "",
-        "certainty": "high",
-        "evidence": "",
-        "updated_at": "2026-11-08 21:02:10"
-      }
-    ]
-  },
-  {
     "image_id": "fdbf4247-7ad9-4348-a7e9-5b717401d7c9",
     "label": "Six gates of Jerusalem",
     "filename": "fdbf4247-7ad9-4348-a7e9-5b717401d7c9.jpg",
