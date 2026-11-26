@@ -7,6 +7,7 @@ Your goal is to:
 2. Transcribe all the text in the diagram, following the TRANSCRIPTION rules.
 3. Define the relationships between the text and the geometrical or figurative elements.
 4. Define the relationships between the geometrical and figurative elements.
+5. Do not rely on external knowledge. 
 Each relationship you identify becomes one entry in the output. Every element and every text you identify must appear in at least one entry.
  
 ### OBJECTIVITY
