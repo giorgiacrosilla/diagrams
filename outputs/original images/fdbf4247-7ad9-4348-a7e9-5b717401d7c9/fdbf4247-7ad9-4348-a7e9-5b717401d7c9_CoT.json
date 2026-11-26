@@ -1,0 +1,184 @@
+{
+  "element_analysis": [
+    {
+      "id": 1,
+      "relation_type": "geometric",
+      "subject": "middle band",
+      "predicate": "inside",
+      "object": "outer band",
+      "certainty": "high",
+      "evidence": "Two concentric red circles form an outer ring; the next ring lies inside it.",
+      "updated_at": ""
+    },
+    {
+      "id": 2,
+      "relation_type": "geometric",
+      "subject": "central circle",
+      "predicate": "inside",
+      "object": "middle band",
+      "certainty": "high",
+      "evidence": "Central circle with a dotted inner outline is concentric with and enclosed by the middle ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 3,
+      "relation_type": "geometric",
+      "subject": "Pera aquilonii [uncertain reading]",
+      "predicate": "inside",
+      "object": "outer band",
+      "certainty": "medium",
+      "evidence": "Rectangular compartment at the top of the outer ring, bounded by two black radial lines. The text is written inside it in dark ink and the reading is uncertain.",
+      "updated_at": ""
+    },
+    {
+      "id": 4,
+      "relation_type": "geometric",
+      "subject": "Porta [illegible] so Raphaim [uncertain reading]",
+      "predicate": "inside",
+      "object": "outer band",
+      "certainty": "medium",
+      "evidence": "Rectangular compartment at the upper left of the outer ring, bounded by black lines, with text written vertically inside it. The reading is partly uncertain.",
+      "updated_at": ""
+    },
+    {
+      "id": 5,
+      "relation_type": "geometric",
+      "subject": "[illegible] (upper right compartment)",
+      "predicate": "inside",
+      "object": "outer band",
+      "certainty": "medium",
+      "evidence": "Rectangular compartment at the upper right of the outer ring, with several lines of slanted dark text that is hard to read.",
+      "updated_at": ""
+    },
+    {
+      "id": 6,
+      "relation_type": "text_shape",
+      "subject": "Habitacio (middle band)",
+      "predicate": "inside",
+      "object": "middle band",
+      "certainty": "high",
+      "evidence": "Red text written along the top of the ring between the outer circle and the central circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 7,
+      "relation_type": "text_shape",
+      "subject": "Moabit [uncertain reading]",
+      "predicate": "inside",
+      "object": "middle band",
+      "certainty": "medium",
+      "evidence": "Red text written at the upper right of the ring, rotated to follow the curve.",
+      "updated_at": ""
+    },
+    {
+      "id": 8,
+      "relation_type": "text_shape",
+      "subject": "Propheta [uncertain reading]",
+      "predicate": "inside",
+      "object": "middle band",
+      "certainty": "medium",
+      "evidence": "Red text written at the left of the ring, rotated to follow the curve.",
+      "updated_at": ""
+    },
+    {
+      "id": 9,
+      "relation_type": "geometric",
+      "subject": "[illegible] (lower right compartment)",
+      "predicate": "inside",
+      "object": "outer band",
+      "certainty": "medium",
+      "evidence": "Rectangular compartment at the lower right of the outer ring, bounded by black lines, with red text inside.",
+      "updated_at": ""
+    },
+    {
+      "id": 10,
+      "relation_type": "text_shape",
+      "subject": "Habitacio (central circle)",
+      "predicate": "inside",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "Black text on the first line inside the central circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 11,
+      "relation_type": "text_shape",
+      "subject": "Legis 7",
+      "predicate": "inside",
+      "object": "central circle",
+      "certainty": "medium",
+      "evidence": "Red text on the second line inside the central circle, ending in a '7'-like sign.",
+      "updated_at": ""
+    },
+    {
+      "id": 12,
+      "relation_type": "text_shape",
+      "subject": "Sacerdotuas [uncertain reading]",
+      "predicate": "inside",
+      "object": "central circle",
+      "certainty": "medium",
+      "evidence": "Black text on the third line inside the central circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 13,
+      "relation_type": "text_shape",
+      "subject": "Amon [uncertain reading]",
+      "predicate": "inside",
+      "object": "middle band",
+      "certainty": "low",
+      "evidence": "Red text at the right and lower right of the ring, rotated along the curve.",
+      "updated_at": ""
+    },
+    {
+      "id": 14,
+      "relation_type": "text_shape",
+      "subject": "7 (lower left of middle band)",
+      "predicate": "inside",
+      "object": "middle band",
+      "certainty": "low",
+      "evidence": "Small red '7'-like sign at the lower left of the ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 15,
+      "relation_type": "text_shape",
+      "subject": "[illegible] (lower left text)",
+      "predicate": "inside",
+      "object": "middle band",
+      "certainty": "low",
+      "evidence": "Red text at the lower left of the ring, faded and partly illegible, over a stained area.",
+      "updated_at": ""
+    },
+    {
+      "id": 16,
+      "relation_type": "geometric",
+      "subject": "Porta [illegible] (bottom compartment)",
+      "predicate": "inside",
+      "object": "outer band",
+      "certainty": "medium",
+      "evidence": "Rectangular compartment at the bottom of the outer ring, bounded by black lines. The text inside is written upside down and is partly illegible.",
+      "updated_at": ""
+    },
+    {
+      "id": 17,
+      "relation_type": "geometric",
+      "subject": "Pera aquilonii [uncertain reading]",
+      "predicate": "above",
+      "object": "Porta [illegible] (bottom compartment)",
+      "certainty": "high",
+      "evidence": "The top compartment lies directly above the bottom compartment on the vertical axis of the diagram.",
+      "updated_at": ""
+    }
+  ],
+  "interpretation": [
+    {
+      "diagram_classification": "Biblical-geographical / typological diagram, probably a plan of the Israelite camp in the wilderness, with the tribes arranged around the Tabernacle and the priesthood",
+      "interpretation": "The diagram is a concentric scheme. The central circle carries the words \"Habitacio\", \"Legis\" and \"Sacerdotuas\", which I read as the dwelling of the law and of the priesthood, that is, the Tabernacle or sanctuary at the centre. The middle ring carries further words in red, including \"Habitacio\", \"Propheta\" and what may be \"Moabit\" or \"Amon\" (the readings are uncertain). The outer ring is divided by radial lines into rectangular compartments. These are placed at the top, upper left, upper right, lower right and bottom, and they contain text that appears to begin with \"Porta\" or \"Pera\" (\"gate\"). The most probable reading is a plan of the encampment of Israel or of the Holy City, with gates arranged around a central sanctuary. The inscriptions are probably the names of the gates or tribes, with a possible orientation to the four cardinal directions. The reading \"aquilonii\" (north) in the top compartment supports a cardinal orientation. A ring of gates around a sacred centre is also a familiar pattern in diagrams of the heavenly Jerusalem and of Ezekiel's temple vision. I cannot say with confidence which of these the scheme follows.",
+      "basis": "textual",
+      "certainty": "low",
+      "evidence": "Visible: concentric circles; a central circle with a dotted inner contour; an outer ring divided into compartments by black radial lines; red text along the middle ring. Written: \"Habitacio\", \"Legis 7\", \"Sacerdotuas\", \"Propheta\", \"Porta\", \"aquilonii\". Most of the text is faded or illegible and my Step 1 readings are tentative. For example, \"Pera aquilonii\", \"Moabit\", \"Amon\" and \"Raphaim\" are uncertain, and Step 1 gives the compartments inconsistent names. Step 1 also does not clearly separate the red and black texts or the 7-like sign (possibly an abbreviation for \"et\"). The identification with a camp plan or a Jerusalem-type scheme comes from external knowledge of medieval diagrams and is not confirmed by a legible title. The names \"Moabit\", \"Amon\" and \"Raphaim\" would point to the peoples of the Promised Land, which fits a biblical-geographical context, but this depends on uncertain readings. No source is named because I am not confident of one.",
+      "updated_at": ""
+    }
+  ]
+}

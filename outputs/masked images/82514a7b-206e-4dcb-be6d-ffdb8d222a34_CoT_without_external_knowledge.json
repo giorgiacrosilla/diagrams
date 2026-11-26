@@ -1,0 +1,113 @@
+{
+  "element_analysis": [
+    {
+      "id": 1,
+      "relation_type": "geometric",
+      "subject": "upper semicircle shape",
+      "predicate": "connected_to",
+      "object": "large circular line",
+      "certainty": "high",
+      "evidence": "The large circular line passes through the upper semicircle shape; a short straight vertical line (the flat edge of the semicircle) crosses the circular line at the top.",
+      "updated_at": ""
+    },
+    {
+      "id": 2,
+      "relation_type": "geometric",
+      "subject": "upper left semicircle shape",
+      "predicate": "connected_to",
+      "object": "large circular line",
+      "certainty": "high",
+      "evidence": "The large circular line crosses the upper left semicircle shape, which is tilted with its flat edge facing lower left.",
+      "updated_at": ""
+    },
+    {
+      "id": 3,
+      "relation_type": "geometric",
+      "subject": "upper right crescent shape",
+      "predicate": "connected_to",
+      "object": "large circular line",
+      "certainty": "high",
+      "evidence": "The large circular line touches and crosses the thin crescent shape at the upper right, with the crescent opening toward the upper left.",
+      "updated_at": ""
+    },
+    {
+      "id": 4,
+      "relation_type": "figurative",
+      "subject": "left circle",
+      "predicate": "connected_to",
+      "object": "large circular line",
+      "certainty": "high",
+      "evidence": "The large circular line passes through the left filled brown circle, dividing it vertically.",
+      "updated_at": ""
+    },
+    {
+      "id": 5,
+      "relation_type": "figurative",
+      "subject": "right circle with rays",
+      "predicate": "connected_to",
+      "object": "large circular line",
+      "certainty": "high",
+      "evidence": "The large circular line passes through the right filled brown circle, which is surrounded by short radiating strokes.",
+      "updated_at": ""
+    },
+    {
+      "id": 6,
+      "relation_type": "figurative",
+      "subject": "left circle",
+      "predicate": "connected_to",
+      "object": "right circle with rays",
+      "certainty": "high",
+      "evidence": "A straight, thick horizontal line joins the right edge of the left circle to the left side of the right circle with rays, crossing the interior of the large circular line.",
+      "updated_at": ""
+    },
+    {
+      "id": 7,
+      "relation_type": "geometric",
+      "subject": "lower left semicircle shape",
+      "predicate": "connected_to",
+      "object": "large circular line",
+      "certainty": "high",
+      "evidence": "The large circular line crosses the lower left semicircle shape, which is tilted with its flat edge facing upper left.",
+      "updated_at": ""
+    },
+    {
+      "id": 8,
+      "relation_type": "geometric",
+      "subject": "lower right crescent shape",
+      "predicate": "connected_to",
+      "object": "large circular line",
+      "certainty": "high",
+      "evidence": "The large circular line touches the thin crescent shape at the lower right, with the crescent opening toward the upper left.",
+      "updated_at": ""
+    },
+    {
+      "id": 9,
+      "relation_type": "geometric",
+      "subject": "lower semicircle shape",
+      "predicate": "connected_to",
+      "object": "large circular line",
+      "certainty": "high",
+      "evidence": "The large circular line passes through the lower semicircle shape; its flat vertical edge crosses the circular line at the bottom.",
+      "updated_at": ""
+    },
+    {
+      "id": 10,
+      "relation_type": "geometric",
+      "subject": "upper semicircle shape",
+      "predicate": "above",
+      "object": "lower semicircle shape",
+      "certainty": "high",
+      "evidence": "The upper semicircle shape is at the top of the diagram and the lower semicircle shape at the bottom.",
+      "updated_at": ""
+    }
+  ],
+  "interpretation": [
+    {
+      "diagram_classification": "cosmological / astronomical (diagram of lunar phases)",
+      "interpretation": "The diagram most likely shows the phases of the moon in relation to the sun. The right circle with radiating strokes is the sun, the left circle on the opposite side of the orbit is the full moon (or the earth/moon in opposition), and the thick horizontal line is the axis of opposition between them. The large circular line is the moon's orbit. The crescent shapes near the sun represent the waxing and waning thin crescents, the two half-discs at the top and bottom represent the first and last quarters, and the two shapes at the left, larger than half, represent the gibbous phases. The moon is thus shown at eight positions around its circuit, with the illuminated part always turned towards the sun, so that the phase grows as the moon moves away from the sun and is full when opposite it.",
+      "basis": "visual",
+      "certainty": "medium",
+      "evidence": "The diagram has no transcribed text, so the interpretation rests on visible features. The right circle is surrounded by short radiating strokes, which is a conventional way of depicting the sun. The shapes on the circular line grow progressively from thin crescents (nearest the sun) through half-discs to larger-than-half shapes, and finally to the full circle opposite the sun. This progression matches the sequence of lunar phases. The straight line joining the two large circles marks the sun-moon alignment. Step 1 named the left circle and the right circle only by visual description and did not state their identity; Step 1 also recorded the shapes as 'connected_to' the circular line, which is a visual overlap and not a physical link. The identification relies on knowledge of medieval computus and astronomical diagrams, with no source named, so certainty is medium. The left circle could alternatively be read as the earth, but its position on the orbit suggests the full moon."
+    }
+  ]
+}

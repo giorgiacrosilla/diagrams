@@ -1,0 +1,153 @@
+{
+  "element_analysis": [
+    {
+      "id": 1,
+      "relation_type": "figurative",
+      "subject": "SATU RNUS",
+      "predicate": "connected_to",
+      "object": "outermost circle",
+      "certainty": "high",
+      "evidence": "Small human head with blue hair at the top of the diagram, placed on the upper arc of the outermost circle, which passes through it. The text \"SATU\" is written to its left and \"RNUS\" to its right, both in red."
+    },
+    {
+      "id": 2,
+      "relation_type": "figurative",
+      "subject": "IO UIS",
+      "predicate": "connected_to",
+      "object": "second circle",
+      "certainty": "high",
+      "evidence": "Small human head with grey-brown hair, placed on the upper arc of the second circle from outside. The text \"IO\" is written to its left and \"UIS\" to its right, both in red."
+    },
+    {
+      "id": 3,
+      "relation_type": "figurative",
+      "subject": "MA RS",
+      "predicate": "connected_to",
+      "object": "third circle",
+      "certainty": "high",
+      "evidence": "Small human head with blue hair, placed on the upper arc of the third circle from outside. The text \"MA\" is to its left and \"RS\" to its right, both in red."
+    },
+    {
+      "id": 4,
+      "relation_type": "figurative",
+      "subject": "SO L",
+      "predicate": "connected_to",
+      "object": "fourth circle",
+      "certainty": "high",
+      "evidence": "Orange-coloured head with faint short radiating strokes above and around it, placed on the upper arc of the fourth circle from outside. The text \"SO\" is to its left and \"L\" to its right, both in red."
+    },
+    {
+      "id": 5,
+      "relation_type": "figurative",
+      "subject": "UE NUS",
+      "predicate": "connected_to",
+      "object": "fifth circle",
+      "certainty": "medium",
+      "evidence": "Small human head with dark blue-grey hair, placed on the upper arc of the fifth circle from outside. The text \"UE\" (the second letter is uncertain) is to its left and \"NUS\" to its right, both in red."
+    },
+    {
+      "id": 6,
+      "relation_type": "figurative",
+      "subject": "MER CUR",
+      "predicate": "connected_to",
+      "object": "sixth circle",
+      "certainty": "high",
+      "evidence": "Small human head with blue hair or headgear, placed on the upper arc of the sixth circle from outside. The text \"MER\" is to its left and \"CUR\" to its right, both in red. Its lower part nearly touches the head below it."
+    },
+    {
+      "id": 7,
+      "relation_type": "figurative",
+      "subject": "LU NA",
+      "predicate": "connected_to",
+      "object": "innermost circle",
+      "certainty": "high",
+      "evidence": "Small human head with dark blue-grey hair, placed on the upper arc of the innermost circle. The text \"LU\" is to its left and \"NA\" to its right, both in red."
+    },
+    {
+      "id": 8,
+      "relation_type": "text_shape",
+      "subject": "TER RA",
+      "predicate": "inside",
+      "object": "innermost circle",
+      "certainty": "high",
+      "evidence": "Small brown filled dot at the centre of the innermost circle, with the text \"TER\" to its left and \"RA\" to its right, in red."
+    },
+    {
+      "id": 9,
+      "relation_type": "geometric",
+      "subject": "second circle",
+      "predicate": "inside",
+      "object": "outermost circle",
+      "certainty": "high",
+      "evidence": "Concentric circles; the second circle is entirely enclosed by the outermost circle."
+    },
+    {
+      "id": 10,
+      "relation_type": "geometric",
+      "subject": "third circle",
+      "predicate": "inside",
+      "object": "second circle",
+      "certainty": "high",
+      "evidence": "Concentric circles; the third circle is entirely enclosed by the second circle."
+    },
+    {
+      "id": 11,
+      "relation_type": "geometric",
+      "subject": "fourth circle",
+      "predicate": "inside",
+      "object": "third circle",
+      "certainty": "high",
+      "evidence": "Concentric circles; the fourth circle is entirely enclosed by the third circle."
+    },
+    {
+      "id": 12,
+      "relation_type": "geometric",
+      "subject": "fifth circle",
+      "predicate": "inside",
+      "object": "fourth circle",
+      "certainty": "high",
+      "evidence": "Concentric circles; the fifth circle is entirely enclosed by the fourth circle."
+    },
+    {
+      "id": 13,
+      "relation_type": "geometric",
+      "subject": "sixth circle",
+      "predicate": "inside",
+      "object": "fifth circle",
+      "certainty": "high",
+      "evidence": "Concentric circles; the sixth circle is entirely enclosed by the fifth circle."
+    },
+    {
+      "id": 14,
+      "relation_type": "geometric",
+      "subject": "innermost circle",
+      "predicate": "inside",
+      "object": "sixth circle",
+      "certainty": "high",
+      "evidence": "Concentric circles; the innermost circle is entirely enclosed by the sixth circle."
+    }
+  ],
+  "interpretation": [
+    {
+      "diagram_classification": "cosmological (geocentric planetary diagram of concentric spheres)",
+      "interpretation": "The diagram shows the geocentric order of the cosmos. The Earth (TER RA) is a small central point. Around it are seven concentric circles, which are the orbits or spheres of the seven planets. From the centre outwards they are Luna (the Moon), Mercurius, Venus, Sol (the Sun), Mars, Jupiter (Iovis) and Saturnus. Each planet is shown as a small personified head placed on its own circle and aligned on one vertical axis. The orange head with short rays stands for the Sun. The diagram illustrates the Ptolemaic/Macrobian ordering of the planets, in which the Sun is in the fourth, middle place between three upper and three lower planets. Such figures usually accompany a text on astronomy or cosmography and show the planets' relative positions and distances.",
+      "basis": "textual",
+      "certainty": "high",
+      "evidence": "Written in the diagram: the red labels \"SATU RNUS\", \"IO UIS\", \"MA RS\", \"SO L\", \"UE NUS\", \"MER CUR\", \"LU NA\" and \"TER RA\". Visible: seven concentric circles with a head on each, and a brown dot at the centre. The orange head with faint strokes around it is consistent with the Sun. The order is read from the labels and the position of the circles. The 'UE NUS' label is uncertain, but the planet's place in the sequence (between the Sun and Mercury) supports reading it as Venus. External knowledge: the order Moon–Mercury–Venus–Sun–Mars–Jupiter–Saturn is the common Latin order in the tradition of Macrobius, Martianus Capella and Isidore. I am not certain which text this manuscript accompanies, so I do not name one."
+    },
+    {
+      "diagram_classification": "cosmological (personification of planets)",
+      "interpretation": "The heads on the circles personify the planets as divine or astral beings. Each head is split by the circle on which it sits, so that it seems to belong to that planetary sphere. The head of Sol is orange and has rays, which marks it as a light-giving body and sets it apart from the others. The heads of Saturnus, Mars and Mercurius have blue headgear or hair, and those of Iovis, Venus and Luna are darker. This probably serves to tell the planets apart. The names are written in red and split around each head. The aligned heads give a schematic cross-section of the cosmos from Earth to the highest planet.",
+      "basis": "visual",
+      "certainty": "medium",
+      "evidence": "Visible: small human heads placed on the upper arcs of the circles, the names divided with one part on each side of the head, the orange head with radiating strokes for SO L, and the brown dot for TER RA. The reading as personified planets comes from the labels and from the medieval convention of showing planets as human figures. The colour distinctions are described from the image, but their exact purpose is uncertain."
+    },
+    {
+      "diagram_classification": "cosmological (relation of the Earth to the planetary spheres)",
+      "interpretation": "The nested circles show a hierarchy of spheres. The Earth is at the lowest and central place, and the spheres grow in size and height towards Saturn. They are drawn as equally spaced concentric rings. The diagram is therefore schematic and gives order, not true proportion or distance. It does not show the zodiac or the fixed stars, only the planets and the Earth.",
+      "basis": "visual",
+      "certainty": "medium",
+      "evidence": "Visible: concentric circles each enclosed in the next, as in Step 1 entries 9–14, with the innermost circle containing the Earth label and dot. The regular spacing shows the diagram is schematic. Step 1 treats the head–circle relations as 'connected_to'; this is reasonable because each circle passes through its head. The absence of a zodiac band or outer sphere is observed from the image. I am less sure what text on the page the diagram illustrates."
+    }
+  ]
+}

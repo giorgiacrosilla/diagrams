@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometric",
+    "subject": "green square frame",
+    "predicate": "contains",
+    "object": "orange rhombus with four ringed circles",
+    "certainty": "high",
+    "evidence": "The green band with thin dark outlines forms a square border with small Y-shaped marks at the four corners. The orange rhombus sits inside it, and its corner circles touch the middle of each side of the frame.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "geometric",
+    "subject": "top ringed circle",
+    "predicate": "connected_to",
+    "object": "left ringed circle",
+    "certainty": "high",
+    "evidence": "A broad orange diagonal band runs from the lower left of the top circle down to the upper right of the left circle.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "geometric",
+    "subject": "top ringed circle",
+    "predicate": "connected_to",
+    "object": "right ringed circle",
+    "certainty": "high",
+    "evidence": "A broad orange diagonal band runs from the lower right of the top circle down to the upper left of the right circle.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "geometric",
+    "subject": "left ringed circle",
+    "predicate": "connected_to",
+    "object": "bottom ringed circle",
+    "certainty": "high",
+    "evidence": "A broad orange diagonal band runs from the lower right of the left circle down to the upper left of the bottom circle.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "geometric",
+    "subject": "right ringed circle",
+    "predicate": "connected_to",
+    "object": "bottom ringed circle",
+    "certainty": "high",
+    "evidence": "A broad orange diagonal band runs from the lower left of the right circle down to the upper right of the bottom circle.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "geometric",
+    "subject": "top ringed circle",
+    "predicate": "connected_to",
+    "object": "thin horizontal line in the lower middle of the rhombus",
+    "certainty": "high",
+    "evidence": "A thin dark vertical line runs from the bottom of the top circle straight down the center of the rhombus. It meets a thin horizontal line, forming an inverted T.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "geometric",
+    "subject": "dark red circle with grid pattern",
+    "predicate": "inside",
+    "object": "green square frame",
+    "certainty": "high",
+    "evidence": "The circle is filled dark red with a grid of thin lines. It sits in the upper left corner area, between the frame and the upper left side of the rhombus.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "geometric",
+    "subject": "dark red circle with grid pattern",
+    "predicate": "above",
+    "object": "dark grey circle",
+    "certainty": "high",
+    "evidence": "The grid-patterned circle is in the upper left corner. The dark grey circle is in the lower left corner, below the left ringed circle.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "geometric",
+    "subject": "pale grey-green circle",
+    "predicate": "inside",
+    "object": "green square frame",
+    "certainty": "high",
+    "evidence": "The pale circle with a thin dark red outline is in the upper right corner area, outside the rhombus.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "geometric",
+    "subject": "pale grey-green circle",
+    "predicate": "above",
+    "object": "green circle",
+    "certainty": "high",
+    "evidence": "The pale circle is in the upper right corner. The mid-green circle is in the lower right corner, below the right ringed circle.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "geometric",
+    "subject": "dark grey circle",
+    "predicate": "inside",
+    "object": "green square frame",
+    "certainty": "high",
+    "evidence": "The dark grey circle with a dark red outline is in the lower left corner area, outside the rhombus.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "geometric",
+    "subject": "green circle",
+    "predicate": "inside",
+    "object": "green square frame",
+    "certainty": "high",
+    "evidence": "The mid-green circle with a dark red outline is in the lower right corner area, outside the rhombus.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 13,
+    "relation_type": "geometric",
+    "subject": "left ringed circle",
+    "predicate": "connected_to",
+    "object": "green square frame",
+    "certainty": "medium",
+    "evidence": "The orange ring overlaps the left side of the green frame. The right ringed circle likewise overlaps the right side, the top circle the top side, and the bottom circle the bottom side.",
+    "updated_at": "2026-11-18T12:22Z"
+  }
+]

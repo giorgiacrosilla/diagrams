@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "relation_type": "text_shape",
+    "subject": "MVNDVS ANNVS HOMO",
+    "predicate": "inside",
+    "object": "central circle",
+    "certainty": "high",
+    "evidence": "Three lines of capital text are written in the innermost circle at the centre of the diagram.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "geometric",
+    "subject": "central circle",
+    "predicate": "inside",
+    "object": "outer circle",
+    "certainty": "high",
+    "evidence": "The central circle is concentric with, and enclosed by, the large outer circle drawn in black ink.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "geometric",
+    "subject": "central circle",
+    "predicate": "inside",
+    "object": "interlaced bands",
+    "certainty": "medium",
+    "evidence": "Several concentric rings of interwoven red-outlined bands surround the central circle and cross each other in an alternating over-and-under pattern.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "text_shape",
+    "subject": "Sicca",
+    "predicate": "inside",
+    "object": "band segment at upper left",
+    "certainty": "medium",
+    "evidence": "The word is written in black along a band segment in the upper-left part of the outer ring.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "text_shape",
+    "subject": "Ignis",
+    "predicate": "inside",
+    "object": "band segment at top",
+    "certainty": "medium",
+    "evidence": "The word is written in black on a band segment at the top, to the right of 'Sicca'.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "text_shape",
+    "subject": "Calidus (upper right)",
+    "predicate": "inside",
+    "object": "band segment at upper right",
+    "certainty": "medium",
+    "evidence": "The word is written in black along a band segment in the upper-right part of the outer ring.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "text_shape",
+    "subject": "Calidus (right)",
+    "predicate": "inside",
+    "object": "band segment at right",
+    "certainty": "medium",
+    "evidence": "The word is written in black along a band segment on the right side, below the first 'Calidus'.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "text_shape",
+    "subject": "Aer",
+    "predicate": "inside",
+    "object": "band segment at right",
+    "certainty": "medium",
+    "evidence": "The word is written in black along the right edge, below the second 'Calidus'.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "text_shape",
+    "subject": "Humidy",
+    "predicate": "inside",
+    "object": "band segment at lower right",
+    "certainty": "medium",
+    "evidence": "The word is written in black along a band segment at the lower right of the outer ring; the ending is hard to read.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "text_shape",
+    "subject": "humidus",
+    "predicate": "inside",
+    "object": "band segment at bottom right",
+    "certainty": "low",
+    "evidence": "Upside-down black text at the bottom right is written along a band segment; reading is uncertain.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "text_shape",
+    "subject": "Aqua",
+    "predicate": "inside",
+    "object": "band segment at bottom",
+    "certainty": "medium",
+    "evidence": "Upside-down black text at the bottom of the outer ring.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "text_shape",
+    "subject": "Frigida (bottom)",
+    "predicate": "inside",
+    "object": "band segment at bottom left",
+    "certainty": "medium",
+    "evidence": "Upside-down black text along a band segment at the lower left of the outer ring.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 13,
+    "relation_type": "text_shape",
+    "subject": "Frigida (left)",
+    "predicate": "inside",
+    "object": "band segment at left",
+    "certainty": "medium",
+    "evidence": "Black text runs vertically along a band segment on the left side of the outer ring.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 14,
+    "relation_type": "text_shape",
+    "subject": "Sicca (left)",
+    "predicate": "inside",
+    "object": "band segment at upper left",
+    "certainty": "medium",
+    "evidence": "Black text runs vertically along a band segment on the upper left of the outer ring.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 15,
+    "relation_type": "text_shape",
+    "subject": "Colera",
+    "predicate": "inside",
+    "object": "red band segment at top of inner ring",
+    "certainty": "medium",
+    "evidence": "Red text is written on a band segment in the inner ring at the top, below 'Ignis'.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 16,
+    "relation_type": "text_shape",
+    "subject": "Sanguis",
+    "predicate": "inside",
+    "object": "band segment at right of inner ring",
+    "certainty": "medium",
+    "evidence": "Black text runs vertically on a band segment in the inner ring at the right.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 17,
+    "relation_type": "text_shape",
+    "subject": "Ver",
+    "predicate": "inside",
+    "object": "band segment at right of inner ring",
+    "certainty": "medium",
+    "evidence": "Short black text is written on a band segment to the right of 'Sanguis'.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 18,
+    "relation_type": "text_shape",
+    "subject": "melancho",
+    "predicate": "inside",
+    "object": "band segment at left of inner ring",
+    "certainty": "low",
+    "evidence": "Black text on a band segment at the left of the inner ring; the ending is partly illegible.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 19,
+    "relation_type": "text_shape",
+    "subject": "Flegma",
+    "predicate": "inside",
+    "object": "band segment at bottom of inner ring",
+    "certainty": "low",
+    "evidence": "Red inverted text on a band segment at the bottom of the inner ring; the reading is uncertain.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 20,
+    "relation_type": "geometric",
+    "subject": "outer circle",
+    "predicate": "contains",
+    "object": "interlaced bands",
+    "certainty": "high",
+    "evidence": "The bands form concentric rings entirely within the outer black circle.",
+    "updated_at": "2026-11-17T10:46Z"
+  }
+]

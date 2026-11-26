@@ -1,0 +1,174 @@
+{
+  "element_analysis": [
+    {
+      "id": 1,
+      "relation_type": "geometric",
+      "subject": "upper left brown arc",
+      "predicate": "connected_to",
+      "object": "outer circle band",
+      "certainty": "high",
+      "evidence": "The brown arc starts at the inner edge of the outer yellow ring near the top (upper centre-left) and ends at the ring on the left side. It bows toward the lower right.",
+      "updated_at": ""
+    },
+    {
+      "id": 2,
+      "relation_type": "geometric",
+      "subject": "upper central yellow arc",
+      "predicate": "connected_to",
+      "object": "outer circle band",
+      "certainty": "high",
+      "evidence": "The yellow arc starts at the ring at the upper left of the top and ends at the ring at the upper right. It sags downward in a shallow curve.",
+      "updated_at": ""
+    },
+    {
+      "id": 3,
+      "relation_type": "geometric",
+      "subject": "upper right green arc",
+      "predicate": "connected_to",
+      "object": "outer circle band",
+      "certainty": "high",
+      "evidence": "The green arc starts at the ring at the top right and ends at the ring at the right side. It curves down and to the right through the upper right interior.",
+      "updated_at": ""
+    },
+    {
+      "id": 4,
+      "relation_type": "geometric",
+      "subject": "left yellow arc",
+      "predicate": "connected_to",
+      "object": "outer circle band",
+      "certainty": "high",
+      "evidence": "The yellow arc starts at the ring at the upper left and ends at the ring at the lower left. It bulges toward the centre of the diagram.",
+      "updated_at": ""
+    },
+    {
+      "id": 5,
+      "relation_type": "geometric",
+      "subject": "right brown arc",
+      "predicate": "connected_to",
+      "object": "outer circle band",
+      "certainty": "high",
+      "evidence": "The brown/orange arc starts at the ring on the right, slightly above the middle, and ends at the ring at the lower right. It bulges to the left, toward the centre.",
+      "updated_at": ""
+    },
+    {
+      "id": 6,
+      "relation_type": "geometric",
+      "subject": "lower left brown arc",
+      "predicate": "connected_to",
+      "object": "outer circle band",
+      "certainty": "high",
+      "evidence": "The brown arc starts at the ring on the left side, slightly below the middle, and ends at the ring at the lower left. It bows toward the lower right.",
+      "updated_at": ""
+    },
+    {
+      "id": 7,
+      "relation_type": "geometric",
+      "subject": "lower right yellow arc",
+      "predicate": "connected_to",
+      "object": "outer circle band",
+      "certainty": "high",
+      "evidence": "The yellow arc starts at the ring at the bottom, just right of centre, and ends at the ring on the right side, lower than the middle. It rises in a wide curve.",
+      "updated_at": ""
+    },
+    {
+      "id": 8,
+      "relation_type": "geometric",
+      "subject": "bottom green arc",
+      "predicate": "connected_to",
+      "object": "outer circle band",
+      "certainty": "high",
+      "evidence": "The green arc starts at the ring at the lower left and ends at the ring at the bottom. It arches upward through the lower interior.",
+      "updated_at": ""
+    },
+    {
+      "id": 9,
+      "relation_type": "geometric",
+      "subject": "upper left brown arc",
+      "predicate": "connected_to",
+      "object": "upper central yellow arc",
+      "certainty": "medium",
+      "evidence": "The two arcs cross in the upper centre-left, where the brown arc runs over the yellow arc.",
+      "updated_at": ""
+    },
+    {
+      "id": 10,
+      "relation_type": "geometric",
+      "subject": "upper central yellow arc",
+      "predicate": "connected_to",
+      "object": "upper right green arc",
+      "certainty": "medium",
+      "evidence": "The two arcs cross and overlap in the upper centre-right, near the lowest point of the yellow arc.",
+      "updated_at": ""
+    },
+    {
+      "id": 11,
+      "relation_type": "geometric",
+      "subject": "upper left brown arc",
+      "predicate": "connected_to",
+      "object": "left yellow arc",
+      "certainty": "medium",
+      "evidence": "The two arcs cross on the left side of the centre, where the brown arc's lower end meets the yellow arc.",
+      "updated_at": ""
+    },
+    {
+      "id": 12,
+      "relation_type": "geometric",
+      "subject": "upper right green arc",
+      "predicate": "connected_to",
+      "object": "right brown arc",
+      "certainty": "medium",
+      "evidence": "The two arcs cross on the right of the centre, where the green arc passes over the brown arc.",
+      "updated_at": ""
+    },
+    {
+      "id": 13,
+      "relation_type": "geometric",
+      "subject": "left yellow arc",
+      "predicate": "connected_to",
+      "object": "lower left brown arc",
+      "certainty": "medium",
+      "evidence": "The two arcs cross on the left side, below the centre.",
+      "updated_at": ""
+    },
+    {
+      "id": 14,
+      "relation_type": "geometric",
+      "subject": "right brown arc",
+      "predicate": "connected_to",
+      "object": "lower right yellow arc",
+      "certainty": "medium",
+      "evidence": "The two arcs cross on the right side, below the centre.",
+      "updated_at": ""
+    },
+    {
+      "id": 15,
+      "relation_type": "geometric",
+      "subject": "lower left brown arc",
+      "predicate": "connected_to",
+      "object": "bottom green arc",
+      "certainty": "medium",
+      "evidence": "The two arcs cross at the lower left, where the brown arc's lower portion runs through the green arc.",
+      "updated_at": ""
+    },
+    {
+      "id": 16,
+      "relation_type": "geometric",
+      "subject": "bottom green arc",
+      "predicate": "connected_to",
+      "object": "lower right yellow arc",
+      "certainty": "medium",
+      "evidence": "The two arcs cross at the bottom, right of centre.",
+      "updated_at": ""
+    }
+  ],
+  "interpretation": [
+    {
+      "diagram_classification": "geometric / possibly cosmological or computistic diagram (uninterpreted in detail)",
+      "interpretation": "The diagram shows a large outer circular band enclosing eight arcs of different colours (yellow, brown/orange and green) that cross and overlap one another around an empty centre. The arrangement is regular and wheel-like, with the arcs set around the circumference. No label identifies it. It may belong to a cosmological, astronomical or computistic tradition in which interlocking arcs stand for cycles or the interplay of elements or periods. Nothing in the image confirms this, so the diagram cannot be interpreted with any specificity.",
+      "basis": "visual",
+      "certainty": "low",
+      "evidence": "No text is written in the diagram, so the interpretation rests on visible features alone. These are the outer ring, eight coloured arcs each attached to it at both ends, the overlaps between neighbouring arcs, and the empty centre. The marginal text on the page is not part of the diagram and has not been used. Step 1 lists the arcs and their connections but names no text, so no label can support a more specific reading. Step 1 also treats arc crossings as \"connected_to\", which describes overlap rather than a joining line. This is a limitation of those entries, not a correction. Because of the missing labels, the specific meaning of the colours and arcs is uninterpreted.",
+      "updated_at": ""
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "diagram_classification": "cosmological / natural-philosophical (macrocosm–microcosm diagram of the correspondences between the four elements, qualities, seasons, humours and ages)",
+    "interpretation": "The diagram is a concentric, interlaced scheme that links the world (Mundus), the year (Annus) and the human being (Homo), the three terms written in the central circle. Around the centre, the rings are divided into four sectors. Each sector combines one element (Ignis, Aer, Aqua, and presumably Terra), its paired qualities (Siccus/Calidus, Calidus/Humidus, Humidus/Frigidus, Frigidus/Siccus), a season (Aestas at the top, Ver at the right, and presumably Autumnus and Hiems in the other sectors), and a bodily humour (Colera at the top, Sanguis at the right, Melancolia at the left, and presumably Phlegma at the bottom). The interlaced bands show that adjacent elements share a quality: fire is hot and dry, air is hot and moist, water is moist and cold, earth is cold and dry. The same fourfold order therefore governs the cosmos, the cycle of time and the human constitution. This is the microcosm–macrocosm idea, in which the human body reflects the structure of the universe and of the year.",
+    "basis": "textual",
+    "certainty": "medium",
+    "evidence": "The central inscription reads MUNDUS ANNUS HOMO. The legible labels include the elements Ignis, Aer and Aqua. The qualities Sicca, Calidus, Humidus and Frigida appear in the outer ring. The seasons Aestas (abbreviated) and Ver appear, as do the humours Colera, Sanguis and Melancolia. The outer-ring qualities sit at the junctions of adjacent sectors, which fits the standard pairing of the four elements, qualities, seasons and humours. Some labels are abbreviated or hard to read, and the remaining elements, seasons and humours (Terra, Autumnus, Hiems, Phlegma) are inferred from the symmetry of the scheme rather than read directly.",
+    "updated_at": "2026-11-18T13:16Z"
+  }
+]

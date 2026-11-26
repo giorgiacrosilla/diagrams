@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "diagram_classification": "cosmological / natural-philosophical (macrocosm–microcosm diagram of the four elements, qualities, seasons and humours)",
+    "interpretation": "The diagram is a circular scheme of correspondences between the world (mundus), the year (annus) and the human being (homo), the three terms written in the centre. The outer ring names the four elements: ignis (fire) at the top, aer (air) on the right, aqua (water) at the bottom and terra (earth) on the left. Next to each element are its paired qualities: calidus/siccus (hot and dry) for fire, calidus/humidus (hot and moist) for air, humidus/frigidus (moist and cold) for water, and frigidus/siccus (cold and dry) for earth. The inner ring assigns a season to each element: aestas (summer) to fire, ver (spring) to air, hiemps (winter) to water and autumnus (autumn) to earth. The innermost ring assigns a humour: cholera (yellow bile) to summer/fire, sanguis (blood) to spring/air, phlegma (phlegm) to winter/water and melancholia (black bile) to autumn/earth. The interlocking coloured arcs (red, yellow, blue-grey) link adjacent elements through their shared qualities. The diagram thus shows the unity of macrocosm (world), time (year) and microcosm (human being), all governed by the same fourfold structure.",
+    "basis": "textual",
+    "certainty": "high",
+    "evidence": "The central words mundus, annus, homo state the three levels of correspondence. The labels ignis, aer, aqua and terra mark the elements. The qualities calidus, siccus, humidus and frigidus sit on the outer ring between them. The seasons aestas, ver, hiemps and autumnus and the humours colera, sanguis, flegma and melancholia sit in the inner zones aligned with the elements. The overlapping arcs mark which elements share a quality: fire and air share heat, air and water share moisture, water and earth share cold, and earth and fire share dryness. The repeated fourfold arrangement matches the well-known medieval scheme of world, year and human being.",
+    "updated_at": "2026-11-18T13:17Z"
+  }
+]

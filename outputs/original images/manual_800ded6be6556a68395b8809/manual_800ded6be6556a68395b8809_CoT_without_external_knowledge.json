@@ -1,0 +1,442 @@
+{
+  "element_analysis": [
+    {
+      "id": 1,
+      "relation_type": "text_shape",
+      "subject": "secca (upper left, top)",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "high",
+      "evidence": "Text written along the curve in the upper-left compartment of the outer band of the large circle, between a blue line and the compartment of \"IGNIS\".",
+      "updated_at": ""
+    },
+    {
+      "id": 2,
+      "relation_type": "text_shape",
+      "subject": "IGNIS",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "high",
+      "evidence": "Red text at the top of the outer band, between an orange radial line on the left and a yellow radial line on the right.",
+      "updated_at": ""
+    },
+    {
+      "id": 3,
+      "relation_type": "text_shape",
+      "subject": "calidur",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "high",
+      "evidence": "Text running along the outer band in the upper-right compartment, with the baseline following the curve.",
+      "updated_at": ""
+    },
+    {
+      "id": 4,
+      "relation_type": "text_shape",
+      "subject": "secca (left)",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "high",
+      "evidence": "Text written along the outer band on the upper left side, rotated to follow the curve, below the compartment of the other \"secca\".",
+      "updated_at": ""
+    },
+    {
+      "id": 5,
+      "relation_type": "text_shape",
+      "subject": "calidus",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "high",
+      "evidence": "Text written along the outer band on the upper right side, rotated to follow the curve.",
+      "updated_at": ""
+    },
+    {
+      "id": 6,
+      "relation_type": "text_shape",
+      "subject": "TERRA",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "high",
+      "evidence": "Red text in two lines (\"TER\" / \"RA\") in the outer band at the left side.",
+      "updated_at": ""
+    },
+    {
+      "id": 7,
+      "relation_type": "text_shape",
+      "subject": "AER",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "high",
+      "evidence": "Red text written vertically in the outer band at the right side.",
+      "updated_at": ""
+    },
+    {
+      "id": 8,
+      "relation_type": "text_shape",
+      "subject": "frigidus (left)",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "medium",
+      "evidence": "Text written along the outer band on the lower left side, rotated to follow the curve (letters read approximately as \"TRIGIDUS\").",
+      "updated_at": ""
+    },
+    {
+      "id": 9,
+      "relation_type": "text_shape",
+      "subject": "humidus (right)",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "high",
+      "evidence": "Text written along the outer band on the lower right side, rotated to follow the curve.",
+      "updated_at": ""
+    },
+    {
+      "id": 10,
+      "relation_type": "text_shape",
+      "subject": "frigidur",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "high",
+      "evidence": "Text written upside down along the outer band at the bottom left.",
+      "updated_at": ""
+    },
+    {
+      "id": 11,
+      "relation_type": "text_shape",
+      "subject": "humidus (lower right)",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "high",
+      "evidence": "Text written upside down along the outer band at the bottom right.",
+      "updated_at": ""
+    },
+    {
+      "id": 12,
+      "relation_type": "text_shape",
+      "subject": "aqua",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "medium",
+      "evidence": "Red text written upside down at the bottom of the outer band, between a yellow and an orange radial line.",
+      "updated_at": ""
+    },
+    {
+      "id": 13,
+      "relation_type": "geometric",
+      "subject": "inner circle",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "high",
+      "evidence": "A yellow circle concentric with the outer circle is set inside it, leaving a band for the outer labels.",
+      "updated_at": ""
+    },
+    {
+      "id": 14,
+      "relation_type": "text_shape",
+      "subject": "AESTAS",
+      "predicate": "inside",
+      "object": "inner circle",
+      "certainty": "high",
+      "evidence": "Text at the top of the inner circle, in a compartment bounded by two orange and yellow arcs and a short blue arc below.",
+      "updated_at": ""
+    },
+    {
+      "id": 15,
+      "relation_type": "text_shape",
+      "subject": "colera",
+      "predicate": "inside",
+      "object": "inner circle",
+      "certainty": "high",
+      "evidence": "Text in the compartment below the \"AESTAS\" compartment, above the central region.",
+      "updated_at": ""
+    },
+    {
+      "id": 16,
+      "relation_type": "text_shape",
+      "subject": "autumnus",
+      "predicate": "inside",
+      "object": "inner circle",
+      "certainty": "medium",
+      "evidence": "Text written vertically in two lines (\"autu\" / \"nus\") in the left compartment of the inner circle, bounded by a short vertical blue line on its right.",
+      "updated_at": ""
+    },
+    {
+      "id": 17,
+      "relation_type": "text_shape",
+      "subject": "melancolia",
+      "predicate": "inside",
+      "object": "inner circle",
+      "certainty": "high",
+      "evidence": "Text written vertically in two lines (\"melan\" / \"colia\") between two vertical blue lines at the left of the central region.",
+      "updated_at": ""
+    },
+    {
+      "id": 18,
+      "relation_type": "text_shape",
+      "subject": "mundus annus homo",
+      "predicate": "inside",
+      "object": "inner circle",
+      "certainty": "high",
+      "evidence": "Red free-standing text in three lines (\"mundus\" / \"annus\" / \"homo\") at the center of the inner circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 19,
+      "relation_type": "text_shape",
+      "subject": "sanguis",
+      "predicate": "inside",
+      "object": "inner circle",
+      "certainty": "high",
+      "evidence": "Text written vertically (with a final \"s\" set below) in the right compartment, next to a vertical blue line.",
+      "updated_at": ""
+    },
+    {
+      "id": 20,
+      "relation_type": "text_shape",
+      "subject": "uer",
+      "predicate": "inside",
+      "object": "inner circle",
+      "certainty": "high",
+      "evidence": "Text written vertically in the right compartment, between two vertical blue lines near the right edge of the inner circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 21,
+      "relation_type": "text_shape",
+      "subject": "humor",
+      "predicate": "inside",
+      "object": "inner circle",
+      "certainty": "high",
+      "evidence": "Text written upside down in the lower compartment of the inner circle, above a short blue arc.",
+      "updated_at": ""
+    },
+    {
+      "id": 22,
+      "relation_type": "text_shape",
+      "subject": "flegmus",
+      "predicate": "inside",
+      "object": "inner circle",
+      "certainty": "medium",
+      "evidence": "Text written upside down at the bottom of the inner circle, below the short blue arc, with a final \"s\" set below the main word.",
+      "updated_at": ""
+    },
+    {
+      "id": 23,
+      "relation_type": "text_shape",
+      "subject": "secca (upper left, top)",
+      "predicate": "connected_to",
+      "object": "IGNIS",
+      "certainty": "medium",
+      "evidence": "Adjacent compartments of the outer band, joined along a shared orange radial line.",
+      "updated_at": ""
+    },
+    {
+      "id": 24,
+      "relation_type": "text_shape",
+      "subject": "IGNIS",
+      "predicate": "connected_to",
+      "object": "calidur",
+      "certainty": "medium",
+      "evidence": "Adjacent compartments of the outer band, joined along a shared yellow radial line.",
+      "updated_at": ""
+    },
+    {
+      "id": 25,
+      "relation_type": "text_shape",
+      "subject": "calidur",
+      "predicate": "connected_to",
+      "object": "calidus",
+      "certainty": "medium",
+      "evidence": "Adjacent compartments of the outer band, joined along a shared blue radial line.",
+      "updated_at": ""
+    },
+    {
+      "id": 26,
+      "relation_type": "text_shape",
+      "subject": "calidus",
+      "predicate": "connected_to",
+      "object": "AER",
+      "certainty": "medium",
+      "evidence": "Adjacent compartments of the outer band, joined along a shared orange and yellow line.",
+      "updated_at": ""
+    },
+    {
+      "id": 27,
+      "relation_type": "text_shape",
+      "subject": "AER",
+      "predicate": "connected_to",
+      "object": "humidus (right)",
+      "certainty": "medium",
+      "evidence": "Adjacent compartments of the outer band, joined along a shared dark and orange line.",
+      "updated_at": ""
+    },
+    {
+      "id": 28,
+      "relation_type": "text_shape",
+      "subject": "humidus (right)",
+      "predicate": "connected_to",
+      "object": "humidus (lower right)",
+      "certainty": "medium",
+      "evidence": "Adjacent compartments of the outer band, joined along a shared yellow radial line.",
+      "updated_at": ""
+    },
+    {
+      "id": 29,
+      "relation_type": "text_shape",
+      "subject": "humidus (lower right)",
+      "predicate": "connected_to",
+      "object": "aqua",
+      "certainty": "medium",
+      "evidence": "Adjacent compartments of the outer band, joined along a shared yellow and orange radial line.",
+      "updated_at": ""
+    },
+    {
+      "id": 30,
+      "relation_type": "text_shape",
+      "subject": "aqua",
+      "predicate": "connected_to",
+      "object": "frigidur",
+      "certainty": "medium",
+      "evidence": "Adjacent compartments of the outer band, joined along a shared yellow radial line.",
+      "updated_at": ""
+    },
+    {
+      "id": 31,
+      "relation_type": "text_shape",
+      "subject": "frigidur",
+      "predicate": "connected_to",
+      "object": "frigidus (left)",
+      "certainty": "medium",
+      "evidence": "Adjacent compartments of the outer band, joined along a shared blue radial line.",
+      "updated_at": ""
+    },
+    {
+      "id": 32,
+      "relation_type": "text_shape",
+      "subject": "frigidus (left)",
+      "predicate": "connected_to",
+      "object": "TERRA",
+      "certainty": "medium",
+      "evidence": "Adjacent compartments of the outer band, joined along a shared yellow radial line.",
+      "updated_at": ""
+    },
+    {
+      "id": 33,
+      "relation_type": "text_shape",
+      "subject": "TERRA",
+      "predicate": "connected_to",
+      "object": "secca (left)",
+      "certainty": "medium",
+      "evidence": "Adjacent compartments of the outer band, joined along a shared orange radial line.",
+      "updated_at": ""
+    },
+    {
+      "id": 34,
+      "relation_type": "text_shape",
+      "subject": "secca (left)",
+      "predicate": "connected_to",
+      "object": "secca (upper left, top)",
+      "certainty": "medium",
+      "evidence": "Adjacent compartments of the outer band, joined along a shared blue radial line.",
+      "updated_at": ""
+    },
+    {
+      "id": 35,
+      "relation_type": "text_shape",
+      "subject": "AESTAS",
+      "predicate": "connected_to",
+      "object": "colera",
+      "certainty": "medium",
+      "evidence": "The two compartments are separated and joined by a short horizontal blue arc between the two texts.",
+      "updated_at": ""
+    },
+    {
+      "id": 36,
+      "relation_type": "text_shape",
+      "subject": "autumnus",
+      "predicate": "connected_to",
+      "object": "melancolia",
+      "certainty": "medium",
+      "evidence": "The two compartments are separated and joined by a short vertical blue line between the two texts.",
+      "updated_at": ""
+    },
+    {
+      "id": 37,
+      "relation_type": "text_shape",
+      "subject": "melancolia",
+      "predicate": "connected_to",
+      "object": "mundus annus homo",
+      "certainty": "medium",
+      "evidence": "A long vertical blue arc lies between the \"melancolia\" compartment and the central text.",
+      "updated_at": ""
+    },
+    {
+      "id": 38,
+      "relation_type": "text_shape",
+      "subject": "sanguis",
+      "predicate": "connected_to",
+      "object": "mundus annus homo",
+      "certainty": "medium",
+      "evidence": "A long vertical blue arc lies between the \"sanguis\" compartment and the central text.",
+      "updated_at": ""
+    },
+    {
+      "id": 39,
+      "relation_type": "text_shape",
+      "subject": "sanguis",
+      "predicate": "connected_to",
+      "object": "uer",
+      "certainty": "medium",
+      "evidence": "The two compartments are separated and joined by a short vertical blue line between the two texts.",
+      "updated_at": ""
+    },
+    {
+      "id": 40,
+      "relation_type": "text_shape",
+      "subject": "humor",
+      "predicate": "connected_to",
+      "object": "flegmus",
+      "certainty": "medium",
+      "evidence": "The two compartments are separated and joined by a short horizontal blue arc between the two texts.",
+      "updated_at": ""
+    },
+    {
+      "id": 41,
+      "relation_type": "text_shape",
+      "subject": "colera",
+      "predicate": "above",
+      "object": "mundus annus homo",
+      "certainty": "medium",
+      "evidence": "The \"colera\" text is located higher than the central text, separated by a long blue arc.",
+      "updated_at": ""
+    },
+    {
+      "id": 42,
+      "relation_type": "text_shape",
+      "subject": "mundus annus homo",
+      "predicate": "above",
+      "object": "humor",
+      "certainty": "medium",
+      "evidence": "The central text is located higher than the upside-down \"humor\" text, separated by a long blue arc.",
+      "updated_at": ""
+    }
+  ],
+  "interpretation": [
+    {
+      "diagram_classification": "cosmological / natural-philosophical diagram (a concentric, compartmented circle of correspondences between macrocosm, time and the human body; comparable to the medieval 'sphere of the elements' or 'microcosm' schemes, e.g. in computistic and scientific compilations)",
+      "interpretation": "The diagram sets out the correspondence of the four elements, their qualities, the four seasons and the four humours. The central label \"mundus annus homo\" (world, year, man) names the three levels the scheme is meant to unify: the cosmos, the cycle of the year and the human being. The outer band gives the elements with their paired qualities: \"IGNIS\" with \"calidur\"/\"calidus\" (hot) and \"secca\"/\"secca\" (dry), \"AER\" with \"calidus\" and \"humidus\" (hot and moist), \"aqua\" with \"humidus\" and \"frigidur\"/\"frigidus\" (moist and cold), and \"TERRA\" with \"frigidus\" and \"secca\" (cold and dry). The inner ring gives the seasons and humours that match them: \"AESTAS\" (summer) with \"colera\" (choler), \"autumnus\" with \"melancolia\", \"uer\" (spring) with \"sanguis\", and \"hiemps\" (winter) with \"humor\"/\"flegmus\" (phlegm). The interlaced arcs in red, yellow and blue join each element to the two qualities it shares with its neighbours, so each quality is shared by two adjacent elements. The scheme therefore shows the cyclical, continuous and mutually dependent structure of the world, time and the human body.",
+      "basis": "textual",
+      "certainty": "high",
+      "evidence": "Transcribed labels belong to the standard vocabulary of the four elements (ignis, aer, aqua, terra), the qualities (calidus, humidus, frigidus, siccus), the seasons (aestas, autumnus, hiems, ver) and the humours (colera, melancolia, sanguis, flegma). The central label \"mundus annus homo\" states the macrocosm-year-microcosm correspondence directly. The concentric layout (outer elements and qualities, inner seasons and humours, centre with the three-term formula) is consistent with this reading. Caveats on Step 1: the labels \"secca\" and \"frigidus/frigidur\" and \"humidus\" are repeated and their assignment to elements is inferred from position. Entries 8 and 16 were transcribed with uncertainty (\"TRIGIDUS\", \"autumnus\"), and entries 21 and 22 (\"humor\", \"flegmus\") read as upside-down text, so the identification of the winter/phlegm compartment is lower in certainty. The Step 1 relations \"connected_to\" between adjacent outer compartments are weak readings of shared dividing lines, not true connections. The colour-coding of the arcs has no explicit label and is not interpreted.",
+      "updated_at": ""
+    },
+    {
+      "diagram_classification": "medical-computistic diagram (humoral theory linked to the calendar)",
+      "interpretation": "The inner ring pairs each season with a humour, in an order of succession around the circle that follows the cycle of the year: summer with choler, autumn with melancholy, winter with phlegm and spring with blood. This presents the human temperament and its changes as governed by the same qualitative cycle as the seasons and the elements, so that health and disease are understood as a balance or imbalance of qualities, as in humoral medicine.",
+      "basis": "textual",
+      "certainty": "medium",
+      "evidence": "The labels \"AESTAS\"/\"colera\", \"autumnus\"/\"melancolia\", \"uer\"/\"sanguis\" and \"humor\"/\"flegmus\" (with \"hiemps\") are placed in paired compartments separated by short blue lines, which suggests pairing. The reading of the winter pair is uncertain because of the inverted script and the odd word \"humor\", which may stand for a quality or may be a label for the humour section rather than a distinct item; this lowers certainty. No source is named, since the specific text behind the diagram cannot be identified with confidence.",
+      "updated_at": ""
+    }
+  ]
+}

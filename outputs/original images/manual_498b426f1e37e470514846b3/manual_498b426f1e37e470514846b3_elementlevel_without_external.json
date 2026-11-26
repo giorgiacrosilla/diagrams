@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometric",
+    "subject": "large outer circle with orange-red double outline",
+    "predicate": "contains",
+    "object": "central area with text \"AN NÚS\"",
+    "certainty": "high",
+    "evidence": "The large circle encloses all the arcs, the lens-shaped segments and the central text.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "text_shape",
+    "subject": "AN NUS",
+    "predicate": "inside",
+    "object": "large outer circle with orange-red double outline",
+    "certainty": "high",
+    "evidence": "The text \"AN\" above \"NÚS\" is written in the central area of the circle, at the intersection of the overlapping arcs.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "text_shape",
+    "subject": "UER ORI ENS",
+    "predicate": "inside",
+    "object": "top segment bounded by brown and grey arcs",
+    "certainty": "medium",
+    "evidence": "The text is written in three lines at the top of the circle, within a segment bounded by curved arcs.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "text_shape",
+    "subject": "humi dus",
+    "predicate": "inside",
+    "object": "top-left segment of the circle",
+    "certainty": "medium",
+    "evidence": "The text is written along the curve in the upper left, between the outer circle and a brown arc.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "text_shape",
+    "subject": "calidus",
+    "predicate": "inside",
+    "object": "upper-right segment of the circle",
+    "certainty": "medium",
+    "evidence": "The text is written along the curved edge in the upper right, between the outer circle and a yellow arc.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "text_shape",
+    "subject": "calidus",
+    "predicate": "inside",
+    "object": "top segment bounded by brown and grey arcs",
+    "certainty": "low",
+    "evidence": "A second word, \"calidus\" (partly curved), appears at the top between UER ORI ENS and the upper-right text; its exact segment is uncertain.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "text_shape",
+    "subject": "AESTAS",
+    "predicate": "inside",
+    "object": "right segment of the circle",
+    "certainty": "medium",
+    "evidence": "The text is written along the right edge, curved along the outer circle.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "text_shape",
+    "subject": "orientes",
+    "predicate": "inside",
+    "object": "right segment of the circle",
+    "certainty": "low",
+    "evidence": "The text is written vertically on the right side near the yellow arc; the reading is uncertain.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "text_shape",
+    "subject": "SICCA",
+    "predicate": "inside",
+    "object": "lower-right segment of the circle",
+    "certainty": "medium",
+    "evidence": "The text is written along the curve at the lower right, near the dark brown arc.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "text_shape",
+    "subject": "SICCUS",
+    "predicate": "inside",
+    "object": "bottom-right segment of the circle",
+    "certainty": "low",
+    "evidence": "The text is written at the bottom right, along the curve; the reading is uncertain.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "text_shape",
+    "subject": "occi dens",
+    "predicate": "inside",
+    "object": "bottom segment of the circle",
+    "certainty": "low",
+    "evidence": "The text is written upside down in the lower segment between arcs; the reading is uncertain.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "text_shape",
+    "subject": "frigidus",
+    "predicate": "inside",
+    "object": "lower-left segment of the circle",
+    "certainty": "medium",
+    "evidence": "The text is written along the curve at the lower left, near the yellow arc.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 13,
+    "relation_type": "text_shape",
+    "subject": "hiemps sep ten trio",
+    "predicate": "inside",
+    "object": "left segment of the circle",
+    "certainty": "low",
+    "evidence": "The text is written in several lines on the left side between the grey and yellow arcs; the reading is uncertain.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 14,
+    "relation_type": "text_shape",
+    "subject": "humidus",
+    "predicate": "inside",
+    "object": "left segment of the circle",
+    "certainty": "low",
+    "evidence": "The text is written along the curve at the upper left between the outer circle and the grey arc.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 15,
+    "relation_type": "geometric",
+    "subject": "yellow arc on the right",
+    "predicate": "inside",
+    "object": "large outer circle with orange-red double outline",
+    "certainty": "high",
+    "evidence": "The yellow arc runs vertically inside the circle on the right and ends at the circle's edge.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 16,
+    "relation_type": "geometric",
+    "subject": "grey arc on the left",
+    "predicate": "inside",
+    "object": "large outer circle with orange-red double outline",
+    "certainty": "high",
+    "evidence": "The grey arc curves from the upper left toward the lower part, inside the circle.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 17,
+    "relation_type": "geometric",
+    "subject": "dark brown arc at lower right",
+    "predicate": "inside",
+    "object": "large outer circle with orange-red double outline",
+    "certainty": "high",
+    "evidence": "The arc curves from the right side toward the bottom, inside the circle.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 18,
+    "relation_type": "geometric",
+    "subject": "yellow arc on the left",
+    "predicate": "inside",
+    "object": "large outer circle with orange-red double outline",
+    "certainty": "medium",
+    "evidence": "The yellow arc curves in the lower left inside the circle.",
+    "updated_at": "2026-11-18T13:12Z"
+  }
+]

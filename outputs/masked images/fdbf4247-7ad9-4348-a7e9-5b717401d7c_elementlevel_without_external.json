@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometric",
+    "subject": "outer circle",
+    "predicate": "contains",
+    "object": "second concentric circle",
+    "certainty": "high",
+    "evidence": "Two red concentric circles form the outer boundary; the second circle lies just inside the outermost one, and they are not joined by any line.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "geometric",
+    "subject": "second concentric circle",
+    "predicate": "contains",
+    "object": "ring divided into compartments",
+    "certainty": "high",
+    "evidence": "Between the outer red circles and an inner red circle there is an annular band. Pairs of short parallel dark lines cross it radially and divide it into about ten segments, some lightly tinted.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "geometric",
+    "subject": "ring divided into compartments",
+    "predicate": "contains",
+    "object": "inner circle with dotted border",
+    "certainty": "high",
+    "evidence": "At the center is a smaller circle outlined in red and bordered by a ring of small dark dots. It sits inside the segmented band and has no connecting lines to it.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "geometric",
+    "subject": "inner circle with dotted border",
+    "predicate": "contains",
+    "object": "central blank circular area",
+    "certainty": "medium",
+    "evidence": "The innermost area is empty of text and figures, with a pale uniform fill.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "geometric",
+    "subject": "vertical double line at left",
+    "predicate": "connected_to",
+    "object": "outer circle",
+    "certainty": "low",
+    "evidence": "Two parallel dark vertical lines run along the left edge and touch or approach the outer circle's left side. The point of contact is not clear, and the lines extend upward toward a small circle at the top left.",
+    "updated_at": "2026-11-18T12:22Z"
+  }
+]

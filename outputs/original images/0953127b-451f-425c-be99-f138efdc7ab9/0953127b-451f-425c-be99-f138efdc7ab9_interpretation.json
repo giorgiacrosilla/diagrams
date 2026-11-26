@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "diagram_classification": "theological (Trinitarian diagram, a 'Scutum fidei' or 'Shield of the Trinity' type)",
+    "interpretation": "The diagram is a visual statement of Trinitarian doctrine. It is an inverted triangle with three roundels at the vertices, probably reading PATER (top left), SPIRITUS SANCTUS (top right) and FILIUS (bottom). A fourth roundel at the centre reads DEUS. Short bands run from the centre to each vertex and are labelled EST (the Father is God, the Son is God, the Holy Spirit is God). The three sides of the triangle are labelled NON EST (the Father is not the Son, the Son is not the Holy Spirit, the Holy Spirit is not the Father). Together these show the unity of one divine essence and the distinction of three persons. A crucified Christ is placed on the band between DEUS and FILIUS. This points to the Son's incarnation and sacrifice, and to the Trinity as revealed in the Passion. The Crucifixion also marks the Son as the person of the Trinity who became visible in history. The faint circular figure behind the triangle seems to be show-through or an unrelated diagram on the other side of the page, so I leave it uninterpreted.",
+    "basis": "textual",
+    "certainty": "high",
+    "evidence": "Visible: the legible labels PATER, FILIUS and DEUS, the repeated EST on the inner bands, the repeated NON EST on the outer sides, the triangle with roundels at the vertices, and the crucifix beside the FILIUS roundel. The top-right roundel is partly illegible but is consistent with Spiritus Sanctus. External knowledge: this configuration matches the medieval Trinitarian 'Shield of the Trinity' diagram (scutum fidei), which has roots in Peter of Poitiers and 12th-century theological teaching. The addition of the crucifix is a known variant that stresses Christ's role. The show-through circular design is judged unrelated to the main diagram.",
+    "updated_at": "2026-11-17T11:13Z"
+  }
+]

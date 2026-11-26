@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometrical",
+    "subject": "outer circle",
+    "predicate": "contains",
+    "object": "second concentric circle",
+    "certainty": "high",
+    "evidence": "Two red concentric circles are drawn close together at the outer edge of the diagram; the second lies just inside the first.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "geometrical",
+    "subject": "outer annular band divided into segments",
+    "predicate": "inside",
+    "object": "outer circle",
+    "certainty": "high",
+    "evidence": "A ring-shaped band lies between the outer red circles and the inner circle. It is divided by pairs of parallel dark radial lines into about eight segments.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "geometrical",
+    "subject": "top segment of the annular band",
+    "predicate": "connected_to",
+    "object": "upper right segment of the annular band",
+    "certainty": "medium",
+    "evidence": "The segments are adjacent and separated only by a pair of parallel dark radial lines at the upper right, around the 1 o'clock position.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "geometrical",
+    "subject": "upper right segment of the annular band",
+    "predicate": "connected_to",
+    "object": "right segment of the annular band",
+    "certainty": "medium",
+    "evidence": "A pair of parallel dark radial lines at the right separates the adjacent segments, around the 2 o'clock position.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "geometrical",
+    "subject": "inner circle with dotted ring",
+    "predicate": "inside",
+    "object": "annular band divided into segments",
+    "certainty": "high",
+    "evidence": "A smaller central circle is outlined in red with a ring of small dark dots along its inner edge. It sits at the center of the diagram, surrounded by the segmented band.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "geometrical",
+    "subject": "central blank circular field",
+    "predicate": "inside",
+    "object": "inner circle with dotted ring",
+    "certainty": "high",
+    "evidence": "The central area inside the dotted ring is empty, with no text or figures.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "geometrical",
+    "subject": "vertical double line at left",
+    "predicate": "connected_to",
+    "object": "outer circle",
+    "certainty": "low",
+    "evidence": "Two parallel vertical dark lines run along the left edge and appear to touch or tangent the outer circle near the lower left. It is unclear whether they actually join.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "geometrical",
+    "subject": "small partial circles at upper left and right margins",
+    "predicate": "above",
+    "object": "outer circle",
+    "certainty": "low",
+    "evidence": "Partial circular outlines at the upper left corner and along the right edge are cut off by the image border. They are faint and lie outside the main diagram.",
+    "updated_at": "2026-11-18T11:26Z"
+  }
+]

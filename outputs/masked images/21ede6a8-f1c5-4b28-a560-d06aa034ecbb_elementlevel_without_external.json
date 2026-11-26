@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "relation_type": "figurative",
+    "subject": "sun-like disc with a face and red pointed rays at top",
+    "predicate": "connected_to",
+    "object": "large outer ring with tick marks",
+    "certainty": "medium",
+    "evidence": "the lower rays of the red-rayed face disc touch the upper edge of the outer ring at the top centre; a faint vertical line runs through the face and continues down into the ring",
+    "updated_at": "2026-11-18T12:21Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "text_shape",
+    "subject": "upper text line \"ist tem weil der ein stunde ... in diser spere gestehen stet\"",
+    "predicate": "above",
+    "object": "sun-like disc with a face and red pointed rays at top",
+    "certainty": "medium",
+    "evidence": "a line of brown script with a red paragraph mark at the right runs along the top margin directly over the face disc; the transcription is partly uncertain: [illegible] portions remain",
+    "updated_at": "2026-11-18T12:21Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "figurative",
+    "subject": "brown crescent with red outline at left",
+    "predicate": "connected_to",
+    "object": "large outer ring with tick marks",
+    "certainty": "medium",
+    "evidence": "the inner curve of the left crescent touches the left edge of the ring; a thin horizontal line passes through the crescent and continues across the diagram",
+    "updated_at": "2026-11-18T12:21Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "figurative",
+    "subject": "small star-shaped outline at left",
+    "predicate": "connected_to",
+    "object": "brown crescent with red outline at left",
+    "certainty": "low",
+    "evidence": "the small five-pointed outline lies on the thin horizontal line extending left of the crescent, which links it to the crescent",
+    "updated_at": "2026-11-18T12:21Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "figurative",
+    "subject": "brown crescent with red outline at right",
+    "predicate": "connected_to",
+    "object": "large outer ring with tick marks",
+    "certainty": "medium",
+    "evidence": "the inner curve of the right crescent touches the right edge of the ring on the horizontal axis",
+    "updated_at": "2026-11-18T12:21Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "figurative",
+    "subject": "brown disc with red double-ring outline and faint face-like marks at bottom",
+    "predicate": "connected_to",
+    "object": "large outer ring with tick marks",
+    "certainty": "medium",
+    "evidence": "the top of the lower disc touches the bottom edge of the ring; a faint vertical line passes through the disc",
+    "updated_at": "2026-11-18T12:21Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "geometric",
+    "subject": "large outer ring with tick marks",
+    "predicate": "contains",
+    "object": "inner thin circle",
+    "certainty": "high",
+    "evidence": "the ring, drawn with short radial tick marks, encloses a thinner concentric circle",
+    "updated_at": "2026-11-18T12:21Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "geometric",
+    "subject": "small brown central disc with red outline",
+    "predicate": "inside",
+    "object": "inner thin circle",
+    "certainty": "high",
+    "evidence": "the small disc sits at the centre where the radiating lines converge",
+    "updated_at": "2026-11-18T12:21Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "geometric",
+    "subject": "small brown central disc with red outline",
+    "predicate": "connected_to",
+    "object": "inner thin circle",
+    "certainty": "medium",
+    "evidence": "many thin radial lines extend from the central disc outward past the inner circle toward the outer ring",
+    "updated_at": "2026-11-18T12:21Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "geometric",
+    "subject": "ring of small red dots",
+    "predicate": "inside",
+    "object": "large outer ring with tick marks",
+    "certainty": "high",
+    "evidence": "small red dots are arranged in a circle between the inner thin circle and the outer ring, crossed by the radial lines",
+    "updated_at": "2026-11-18T12:21Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "geometric",
+    "subject": "short red radiating strokes outside the ring",
+    "predicate": "below",
+    "object": "upper text line \"ist tem weil der ein stunde ... in diser spere gestehen stet\"",
+    "certainty": "low",
+    "evidence": "short red strokes radiate outward at intervals around the outer ring, extending from the sun-like disc region downward and around; the strokes lie below the text at the top",
+    "updated_at": "2026-11-18T12:21Z"
+  }
+]

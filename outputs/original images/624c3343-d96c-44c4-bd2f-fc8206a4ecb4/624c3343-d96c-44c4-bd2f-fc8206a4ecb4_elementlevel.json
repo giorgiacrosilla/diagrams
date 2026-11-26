@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometric",
+    "subject": "green square frame",
+    "predicate": "contains",
+    "object": "orange diamond-shaped quadrilateral",
+    "certainty": "high",
+    "evidence": "A green band forms an outer square with small cross-like marks at its corners; the orange band quadrilateral with a circle at each vertex sits inside it, with the circles touching the frame's sides.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "text_shape",
+    "subject": "E AUS R",
+    "predicate": "inside",
+    "object": "top circle",
+    "certainty": "high",
+    "evidence": "Letters \"E\", \"AUS\" and \"R\" are arranged in several lines inside the top circle with an orange ring.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "geometric",
+    "subject": "top circle",
+    "predicate": "connected_to",
+    "object": "left circle",
+    "certainty": "high",
+    "evidence": "Joined by an orange diagonal band running from the top circle down to the left on which is written \"VER CALIDVM ET HVMIDVM\", reading upward from the left circle to the top circle.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "geometric",
+    "subject": "top circle",
+    "predicate": "connected_to",
+    "object": "right circle",
+    "certainty": "high",
+    "evidence": "Joined by an orange diagonal band running down to the right on which is written \"AESTAS CALIDA SICCA\", reading downward from the top circle to the right circle.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "geometric",
+    "subject": "left circle",
+    "predicate": "connected_to",
+    "object": "bottom circle",
+    "certainty": "high",
+    "evidence": "Joined by an orange diagonal band on which is written \"HIEMPS FRIGIDVS HVMIDVS\", the text being upside down relative to the page.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "geometric",
+    "subject": "right circle",
+    "predicate": "connected_to",
+    "object": "bottom circle",
+    "certainty": "high",
+    "evidence": "Joined by an orange diagonal band on which is written \"AVTVMNVS SICCVS FRIGIDVS\" (upside-down text, partly worn: \"HVMHVS SICCVS FRIGIDVS\").",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "text_shape",
+    "subject": "H ORIE S",
+    "predicate": "inside",
+    "object": "left circle",
+    "certainty": "high",
+    "evidence": "Letters \"H\", \"ORIE\", \"S\" are written in lines inside the left circle with an orange ring.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "text_shape",
+    "subject": "DE OCCLNS",
+    "predicate": "inside",
+    "object": "right circle",
+    "certainty": "medium",
+    "evidence": "Letters are arranged in vertical lines rotated sideways inside the right circle; reading uncertain: \"DE\", \"OCCI\", \"NS\".",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "text_shape",
+    "subject": "L AQUI O",
+    "predicate": "inside",
+    "object": "bottom circle",
+    "certainty": "high",
+    "evidence": "Letters \"L\", \"AQUI\", \"O\" are written in lines inside the bottom circle with an orange ring.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "text_shape",
+    "subject": "IGNIS",
+    "predicate": "inside",
+    "object": "dark red circle with grid pattern",
+    "certainty": "high",
+    "evidence": "The word \"IGNIS\" is written in dark letters across a dark red circle with a thin grid of lines, at the upper left.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "text_shape",
+    "subject": "AER",
+    "predicate": "inside",
+    "object": "pale green circle",
+    "certainty": "high",
+    "evidence": "The word \"AER\" is written in red letters in a pale green-grey circle at the upper right.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "text_shape",
+    "subject": "TERRA",
+    "predicate": "inside",
+    "object": "dark grey circle",
+    "certainty": "high",
+    "evidence": "The word \"TERRA\" is written in red-brown letters across a dark grey-black circle at the lower left.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 13,
+    "relation_type": "text_shape",
+    "subject": "AQUA",
+    "predicate": "inside",
+    "object": "green circle",
+    "certainty": "high",
+    "evidence": "The word \"AQUA\" is written in letters in a green circle at the lower right.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 14,
+    "relation_type": "text_shape",
+    "subject": "CALIDUS (upper left)",
+    "predicate": "above",
+    "object": "IGNIS",
+    "certainty": "medium",
+    "evidence": "The word is written in red to the upper right of the dark red circle, near the top of the frame.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 15,
+    "relation_type": "text_shape",
+    "subject": "SICCUS",
+    "predicate": "below",
+    "object": "IGNIS",
+    "certainty": "medium",
+    "evidence": "The word is written in red just below and to the left of the dark red circle.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 16,
+    "relation_type": "text_shape",
+    "subject": "CALIDUS (upper right)",
+    "predicate": "above",
+    "object": "AER",
+    "certainty": "medium",
+    "evidence": "The word is written in red above and to the left of the pale green circle.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 17,
+    "relation_type": "text_shape",
+    "subject": "HVMIDUS",
+    "predicate": "below",
+    "object": "AER",
+    "certainty": "medium",
+    "evidence": "The word, partly written as \"YMIDVS\", is placed in red below and to the left of the pale green circle.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 18,
+    "relation_type": "text_shape",
+    "subject": "SICCA (lower left)",
+    "predicate": "above",
+    "object": "TERRA",
+    "certainty": "medium",
+    "evidence": "The word is written in red above the dark grey circle, to the left of the lower-left band.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 19,
+    "relation_type": "text_shape",
+    "subject": "FRIGIDA (lower left)",
+    "predicate": "below",
+    "object": "TERRA",
+    "certainty": "medium",
+    "evidence": "The word is written in red below and to the right of the dark grey circle.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 20,
+    "relation_type": "text_shape",
+    "subject": "HYMIDA",
+    "predicate": "above",
+    "object": "AQUA",
+    "certainty": "medium",
+    "evidence": "The word is written in red above and to the right of the green circle at lower right.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 21,
+    "relation_type": "text_shape",
+    "subject": "FRIGIDA (lower right)",
+    "predicate": "below",
+    "object": "AQUA",
+    "certainty": "medium",
+    "evidence": "The word is written in red below and to the left of the green circle.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 22,
+    "relation_type": "geometric",
+    "subject": "vertical line",
+    "predicate": "connected_to",
+    "object": "top circle",
+    "certainty": "high",
+    "evidence": "A thin dark red vertical line runs from the bottom of the top circle down through the center of the diamond to a horizontal line.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 23,
+    "relation_type": "geometric",
+    "subject": "vertical line",
+    "predicate": "connected_to",
+    "object": "horizontal line",
+    "certainty": "high",
+    "evidence": "The vertical line meets a thin horizontal line at its lower end, forming a T-shape; the horizontal line spans between the lower-left and lower-right bands.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 24,
+    "relation_type": "text_shape",
+    "subject": "ASIA",
+    "predicate": "inside",
+    "object": "upper left section of diamond",
+    "certainty": "high",
+    "evidence": "The word is written in red in the area left of the vertical line and above the horizontal line.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 25,
+    "relation_type": "text_shape",
+    "subject": "AFRICA",
+    "predicate": "inside",
+    "object": "upper right section of diamond",
+    "certainty": "high",
+    "evidence": "The word is written in red in the area right of the vertical line and above the horizontal line.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 26,
+    "relation_type": "text_shape",
+    "subject": "EVROPA",
+    "predicate": "inside",
+    "object": "lower section of diamond",
+    "certainty": "high",
+    "evidence": "The word is written in red in the area below the horizontal line.",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 27,
+    "relation_type": "figurative",
+    "subject": "dark red circle with grid pattern",
+    "predicate": "connected_to",
+    "object": "orange diamond-shaped quadrilateral",
+    "certainty": "low",
+    "evidence": "The circle is placed in the upper left corner between the frame and the band, near but not clearly touching the band.",
+    "updated_at": "2026-11-17T10:46Z"
+  }
+]

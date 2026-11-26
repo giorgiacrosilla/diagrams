@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "diagram_classification": "theological (Trinitarian diagram combined with a crucifixion image)",
+    "interpretation": "The diagram shows a downward-pointing triangle with a circle at each of its three corners. A fourth circle sits at the centre, joined to the three corner circles by lines. A crucified figure hangs on the vertical axis between the central circle and the bottom circle. The structure most plausibly represents the Trinity as three distinct but connected units (the corner circles) that share one common centre (the central circle), which suggests unity of essence. The crucifix on the central axis links the Trinitarian scheme to the Passion and to Christ's mediating, redemptive role. The circles are empty in the image, so their exact identities (for example Father, Son, Holy Spirit) are not stated and are inferred from the form. The faint circular and architectural drawings in the background look like show-through from the other side of the leaf or from other pages. They are not part of this diagram and are left uninterpreted.",
+    "basis": "visual",
+    "certainty": "medium",
+    "evidence": "Three equal circles at the vertices of a triangle, linked by the triangle's sides, suggest three equal and distinct entities in a closed relationship. The central circle is joined to all three vertices by radiating lines, which suggests a shared centre or unity. The crucified Christ is drawn on the vertical axis directly beneath the central circle and above the bottom circle, so the Passion is tied to the diagram's structure. The circles contain no legible text, so the identification of each one is an inference from the geometry. The background circular and architectural lines are faint, offset and unconnected to the main figure, which indicates show-through or an earlier drawing.",
+    "updated_at": "2026-11-18T12:13Z"
+  }
+]

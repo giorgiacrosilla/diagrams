@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometric",
+    "subject": "large circle (thin brown line)",
+    "predicate": "contains",
+    "object": "horizontal line joining the left disc and the right radiating disc",
+    "certainty": "high",
+    "evidence": "The horizontal line runs across the interior of the large circular line, between the left and right discs.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "geometric",
+    "subject": "left brown disc",
+    "predicate": "connected_to",
+    "object": "right brown disc with short radiating strokes",
+    "certainty": "high",
+    "evidence": "A straight, slightly thicker horizontal brown line runs from the right edge of the left disc to the left edge of the right disc.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "geometric",
+    "subject": "left brown disc",
+    "predicate": "connected_to",
+    "object": "large circle (thin brown line)",
+    "certainty": "high",
+    "evidence": "The circle line passes through the left disc, which sits on the circumference.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "geometric",
+    "subject": "right brown disc with short radiating strokes",
+    "predicate": "connected_to",
+    "object": "large circle (thin brown line)",
+    "certainty": "high",
+    "evidence": "The circle line passes through the right disc, which sits on the circumference and has short radiating strokes around its edge.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "geometric",
+    "subject": "top half-disc",
+    "predicate": "connected_to",
+    "object": "large circle (thin brown line)",
+    "certainty": "high",
+    "evidence": "The circle line crosses the flat-sided half-disc at the top. The flat side faces left.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "geometric",
+    "subject": "bottom half-disc",
+    "predicate": "connected_to",
+    "object": "large circle (thin brown line)",
+    "certainty": "high",
+    "evidence": "The circle line crosses the flat-sided half-disc at the bottom. The flat side faces left.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "geometric",
+    "subject": "upper-left partial disc",
+    "predicate": "connected_to",
+    "object": "large circle (thin brown line)",
+    "certainty": "high",
+    "evidence": "The circle line passes through the upper-left shape, which is cut off along a tilted flat edge.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "geometric",
+    "subject": "lower-left partial disc",
+    "predicate": "connected_to",
+    "object": "large circle (thin brown line)",
+    "certainty": "high",
+    "evidence": "The circle line passes through the lower-left shape, which is cut off along a tilted flat edge.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "geometric",
+    "subject": "upper-right crescent",
+    "predicate": "connected_to",
+    "object": "large circle (thin brown line)",
+    "certainty": "high",
+    "evidence": "The thin crescent crosses the circle line at the upper right. Its horns point up and to the left.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "geometric",
+    "subject": "lower-right crescent",
+    "predicate": "connected_to",
+    "object": "large circle (thin brown line)",
+    "certainty": "high",
+    "evidence": "The thin crescent crosses the circle line at the lower right. Its horns point up and to the left.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "geometric",
+    "subject": "top half-disc",
+    "predicate": "above",
+    "object": "upper-right crescent",
+    "certainty": "medium",
+    "evidence": "The top half-disc is placed at the top of the circle, higher than the crescent at the upper right.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "geometric",
+    "subject": "upper-left partial disc",
+    "predicate": "above",
+    "object": "left brown disc",
+    "certainty": "medium",
+    "evidence": "The upper-left partial disc is placed on the circle higher than the left disc.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 13,
+    "relation_type": "geometric",
+    "subject": "left brown disc",
+    "predicate": "above",
+    "object": "lower-left partial disc",
+    "certainty": "medium",
+    "evidence": "The left disc is placed on the circle at mid-height, above the lower-left partial disc.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 14,
+    "relation_type": "geometric",
+    "subject": "right brown disc with short radiating strokes",
+    "predicate": "above",
+    "object": "lower-right crescent",
+    "certainty": "medium",
+    "evidence": "The right disc is placed at mid-height on the circle, above the lower-right crescent.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 15,
+    "relation_type": "geometric",
+    "subject": "lower-right crescent",
+    "predicate": "above",
+    "object": "bottom half-disc",
+    "certainty": "medium",
+    "evidence": "The lower-right crescent is placed on the circle higher than the bottom half-disc.",
+    "updated_at": "2026-11-18T12:22Z"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometric",
+    "subject": "outer orange circle",
+    "predicate": "contains",
+    "object": "inner circle with yellow and blue ring",
+    "certainty": "high",
+    "evidence": "The large orange circle encloses the whole wheel, and the smaller concentric ring with yellow and blue segments sits at its centre.",
+    "updated_at": "2026-11-18T13:13Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "figurative",
+    "subject": "head in profile facing right with collar",
+    "predicate": "inside",
+    "object": "inner circle with yellow and blue ring",
+    "certainty": "high",
+    "evidence": "A head and neck with a dark collar, shown in profile facing right, fill the central ring. The head has an orange-tinted cap or hair and a blue outline.",
+    "updated_at": "2026-11-18T13:13Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "geometric",
+    "subject": "vertical radial line at top",
+    "predicate": "connected_to",
+    "object": "inner circle with yellow and blue ring",
+    "certainty": "high",
+    "evidence": "A thin brown line runs from the top of the inner ring up to the top triangular ornament at the outer circle. Twelve such lines divide the space between the rings into twelve sectors.",
+    "updated_at": "2026-11-18T13:13Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "geometric",
+    "subject": "top yellow triangular knotwork ornament",
+    "predicate": "connected_to",
+    "object": "vertical radial line at top",
+    "certainty": "medium",
+    "evidence": "The yellow triangle with interlace pattern sits at the outer rim, at the upper end of the top vertical line. Similar yellow and blue triangles are at the outer ends of the other radial lines.",
+    "updated_at": "2026-11-18T13:13Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "geometric",
+    "subject": "outer orange circle",
+    "predicate": "contains",
+    "object": "twelve radial sectors",
+    "certainty": "high",
+    "evidence": "The space between the outer circle and the inner ring is divided by twelve radial lines into wedge-shaped sectors, each holding red and black text.",
+    "updated_at": "2026-11-18T13:13Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "text_shape",
+    "subject": "SUB SOLANV OS",
+    "predicate": "inside",
+    "object": "sector at top left of the vertical line",
+    "certainty": "medium",
+    "evidence": "Red text in three lines (read as 'SUB / SOLAnU / OS') is written along the sector to the left of the top vertical line.",
+    "updated_at": "2026-11-18T13:13Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "text_shape",
+    "subject": "apolio tes",
+    "predicate": "inside",
+    "object": "sector at top left of the vertical line",
+    "certainty": "medium",
+    "evidence": "Black text in two lines is written below the red text, in the same sector.",
+    "updated_at": "2026-11-18T13:13Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "text_shape",
+    "subject": "EURUS (red)",
+    "predicate": "inside",
+    "object": "sector at top right of the vertical line",
+    "certainty": "high",
+    "evidence": "Red capital text curves along the upper outer part of the sector to the right of the top vertical line.",
+    "updated_at": "2026-11-18T13:13Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "text_shape",
+    "subject": "eurus (black)",
+    "predicate": "inside",
+    "object": "sector at top right of the vertical line",
+    "certainty": "high",
+    "evidence": "Black text is written horizontally in the same sector, below the red text.",
+    "updated_at": "2026-11-18T13:13Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "text_shape",
+    "subject": "EURO AUSTER (red)",
+    "predicate": "inside",
+    "object": "upper right sector, second clockwise from the top",
+    "certainty": "medium",
+    "evidence": "Red text is written along the outer edge of the sector and rotated, with 'EURO' and 'AUSTER' on separate lines.",
+    "updated_at": "2026-11-18T13:13Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "text_shape",
+    "subject": "euro nou (black)",
+    "predicate": "inside",
+    "object": "upper right sector, second clockwise from the top",
+    "certainty": "low",
+    "evidence": "Black text is rotated and written inside the sector, below the red text. The reading is uncertain.",
+    "updated_at": "2026-11-18T13:13Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "text_shape",
+    "subject": "AUSTER (red)",
+    "predicate": "inside",
+    "object": "right sector above the horizontal line",
+    "certainty": "medium",
+    "evidence": "Red text is written along the outer rim, rotated to run downwards.",
+    "updated_at": "2026-11-18T13:13Z"
+  },
+  {
+    "id": 13,
+    "relation_type": "text_shape",
+    "subject": "nonus",
+    "predicate": "inside",
+    "object": "right sector above the horizontal line",
+    "certainty": "medium",
+    "evidence": "Black text is rotated vertically near the outer part of the sector.",
+    "updated_at": "2026-11-18T13:13Z"
+  },
+  {
+    "id": 14,
+    "relation_type": "text_shape",
+    "subject": "erus",
+    "predicate": "inside",
+    "object": "right sector above the horizontal line",
+    "certainty": "medium",
+    "evidence": "Small black text is written horizontally near the inner ring.",
+    "updated_at": "2026-11-18T13:13Z"
+  },
+  {
+    "id": 15,
+    "relation_type": "text_shape",
+    "subject": "AUSTRO AFRICUS (red)",
+    "predicate": "inside",
+    "object": "right sector below the horizontal line",
+    "certainty": "low",
+    "evidence": "Red text is written along the outer rim in several lines, partly 'AUSTRO' and partly 'AFRIC US'. The reading is uncertain.",
+    "updated_at": "2026-11-18T13:13Z"
+  },
+  {
+    "id": 16,
+    "relation_type": "text_shape",
+    "subject": "liborus",
+    "predicate": "inside",
+    "object": "right sector below the horizontal line",
+    "certainty": "medium",
+    "evidence": "Black text is rotated vertically in the same sector, near the inner ring.",
+    "updated_at": "2026-11-18T13:13Z"
+  },
+  {
+    "id": 17,
+    "relation_type": "text_shape",
+    "subject": "AFRICUS (red)",
+    "predicate": "inside",
+    "object": "lower right sector",
+    "certainty": "medium",
+    "evidence": "Red text is written upside down or rotated along the outer rim of the sector.",
+    "updated_at": "2026-11-18T13:13Z"
+  },
+  {
+    "id": 18,
+    "relation_type": "text_shape",
+    "subject": "lips",
+    "predicate": "inside",
+    "object": "lower right sector",
+    "certainty": "medium",
+    "evidence": "Black text is rotated and upside down inside the sector.",
+    "updated_at": "2026-11-18T13:13Z"
+  },
+  {
+    "id": 19,
+    "relation_type": "text_shape",
+    "subject": "FAVONIUS (red)",
+    "predicate": "inside",
+    "object": "bottom right sector next to the bottom vertical line",
+    "certainty": "medium",
+    "evidence": "Red text is written upside down along the outer part of the sector, as 'FAUO NIUS'.",
+    "updated_at": "2026-11-18T13:13Z"
+  },
+  {
+    "id": 20,
+    "relation_type": "text_shape",
+    "subject": "zephirus",
+    "predicate": "inside",
+    "object": "bottom right sector next to the bottom vertical line",
+    "certainty": "medium",
+    "evidence": "Black text is written upside down in two lines, 'zephi / rus', in the same sector.",
+    "updated_at": "2026-11-18T13:13Z"
+  },
+  {
+    "id": 21,
+    "relation_type": "text_shape",
+    "subject": "CHORUS (red)",
+    "predicate": "inside",
+    "object": "bottom left sector next to the bottom vertical line",
+    "certainty": "medium",
+    "evidence": "Red text is written upside down along the outer rim of the sector.",
+    "updated_at": "2026-11-18T13:13Z"
+  },
+  {
+    "id": 22,
+    "relation_type": "text_shape",
+    "subject": "agrer ir",
+    "predicate": "inside",
+    "object": "bottom left sector next to the bottom vertical line",
+    "certainty": "low",
+    "evidence": "Black upside-down text appears in two or three short lines. The reading is uncertain.",
+    "updated_at": "2026-11-18T13:13Z"
+  },
+  {
+    "id": 23,
+    "relation_type": "text_shape",
+    "subject": "CIRCIUS (red)",
+    "predicate": "inside",
+    "object": "lower left sector",
+    "certainty": "medium",
+    "evidence": "Red text is written along the outer rim, rotated.",
+    "updated_at": "2026-11-18T13:13Z"
+  },
+  {
+    "id": 24,
+    "relation_type": "text_shape",
+    "subject": "marcius",
+    "predicate": "inside",
+    "object": "lower left sector",
+    "certainty": "low",
+    "evidence": "Black rotated text is written near the inner ring. The reading is uncertain.",
+    "updated_at": "2026-11-18T13:13Z"
+  },
+  {
+    "id": 25,
+    "relation_type": "text_shape",
+    "subject": "SEPTENTRIO (red)",
+    "predicate": "inside",
+    "object": "left sector below the horizontal line",
+    "certainty": "medium",
+    "evidence": "Red text is written along the outer rim and rotated. The letters 'TRIO' and 'SEPTEN' are visible in separate parts.",
+    "updated_at": "2026-11-18T13:13Z"
+  },
+  {
+    "id": 26,
+    "relation_type": "text_shape",
+    "subject": "aparcias",
+    "predicate": "inside",
+    "object": "left sector below the horizontal line",
+    "certainty": "low",
+    "evidence": "Black rotated text near the inner ring, written in two lines. The reading is uncertain.",
+    "updated_at": "2026-11-18T13:13Z"
+  },
+  {
+    "id": 27,
+    "relation_type": "text_shape",
+    "subject": "AQUILO (red)",
+    "predicate": "inside",
+    "object": "left sector above the horizontal line",
+    "certainty": "medium",
+    "evidence": "Red text is written vertically along the outer rim.",
+    "updated_at": "2026-11-18T13:13Z"
+  },
+  {
+    "id": 28,
+    "relation_type": "text_shape",
+    "subject": "boreas",
+    "predicate": "inside",
+    "object": "left sector above the horizontal line",
+    "certainty": "low",
+    "evidence": "Black rotated text, 'bore / as', is written near the inner ring.",
+    "updated_at": "2026-11-18T13:13Z"
+  },
+  {
+    "id": 29,
+    "relation_type": "text_shape",
+    "subject": "VULTURNUS (red)",
+    "predicate": "inside",
+    "object": "upper left sector",
+    "certainty": "medium",
+    "evidence": "Red text is written along the outer edge, rotated and split across lines as 'UULTUR / NUR'.",
+    "updated_at": "2026-11-18T13:13Z"
+  },
+  {
+    "id": 30,
+    "relation_type": "text_shape",
+    "subject": "cilciar",
+    "predicate": "inside",
+    "object": "upper left sector",
+    "certainty": "low",
+    "evidence": "Black rotated text is written inside the sector, near the inner ring. The reading is uncertain.",
+    "updated_at": "2026-11-18T13:13Z"
+  }
+]

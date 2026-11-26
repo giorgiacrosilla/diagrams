@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometric",
+    "subject": "inverted triangle",
+    "predicate": "contains",
+    "object": "central circle with text \"DEUS\"",
+    "certainty": "high",
+    "evidence": "A large downward-pointing triangle drawn with double red lines encloses a circle at its center. The triangle has circles at its top left, top right and bottom vertices.",
+    "updated_at": "2026-11-17T10:45Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "text_shape",
+    "subject": "PATER",
+    "predicate": "inside",
+    "object": "top left circle",
+    "certainty": "high",
+    "evidence": "The word \"PATER\" is written inside the circle at the top left vertex of the triangle.",
+    "updated_at": "2026-11-17T10:45Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "text_shape",
+    "subject": "top right circle",
+    "predicate": "connected_to",
+    "object": "top left circle",
+    "certainty": "high",
+    "evidence": "A double-lined band along the top side of the triangle joins the two circles and carries the text \"NON EST\" written along it. The text is partly abraded. The right circle contains text that is partly illegible: \"SPS SCS\" [illegible].",
+    "updated_at": "2026-11-17T10:45Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "text_shape",
+    "subject": "FILIUS",
+    "predicate": "inside",
+    "object": "bottom circle",
+    "certainty": "high",
+    "evidence": "The word \"FILIUS\" is written inside the circle at the bottom vertex of the triangle.",
+    "updated_at": "2026-11-17T10:45Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "text_shape",
+    "subject": "DEUS",
+    "predicate": "inside",
+    "object": "central circle",
+    "certainty": "medium",
+    "evidence": "The text inside the central circle is written in abbreviated or damaged letters and reads approximately \"DEUS\".",
+    "updated_at": "2026-11-17T10:45Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "geometric",
+    "subject": "PATER",
+    "predicate": "connected_to",
+    "object": "DEUS",
+    "certainty": "high",
+    "evidence": "A double-lined band runs diagonally from the top left circle to the central circle. It carries the text \"EST\" written along it.",
+    "updated_at": "2026-11-17T10:45Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "geometric",
+    "subject": "top right circle",
+    "predicate": "connected_to",
+    "object": "DEUS",
+    "certainty": "high",
+    "evidence": "A double-lined band runs diagonally from the top right circle to the central circle. It carries the text \"EST\" written along it, which reads upside down or mirrored.",
+    "updated_at": "2026-11-17T10:45Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "geometric",
+    "subject": "PATER",
+    "predicate": "connected_to",
+    "object": "FILIUS",
+    "certainty": "high",
+    "evidence": "A double-lined band along the left side of the triangle runs from the top left circle down to the bottom circle. It carries the text \"NON EST\" written along it.",
+    "updated_at": "2026-11-17T10:45Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "geometric",
+    "subject": "top right circle",
+    "predicate": "connected_to",
+    "object": "FILIUS",
+    "certainty": "high",
+    "evidence": "A double-lined band along the right side of the triangle runs from the top right circle down to the bottom circle. It carries the text \"NON EST\" written along it.",
+    "updated_at": "2026-11-17T10:45Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "geometric",
+    "subject": "DEUS",
+    "predicate": "connected_to",
+    "object": "FILIUS",
+    "certainty": "high",
+    "evidence": "A vertical band runs from the central circle down to the bottom circle. It carries the text \"EST\" written along it. The crucifix figure overlaps this band.",
+    "updated_at": "2026-11-17T10:45Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "figurative",
+    "subject": "figure with outstretched arms on a cross",
+    "predicate": "above",
+    "object": "FILIUS",
+    "certainty": "high",
+    "evidence": "A small figure with arms stretched horizontally is attached to a cross. The figure is placed on the vertical band between the central circle and the bottom circle, just above the bottom circle.",
+    "updated_at": "2026-11-17T10:45Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "figurative",
+    "subject": "figure with outstretched arms on a cross",
+    "predicate": "below",
+    "object": "DEUS",
+    "certainty": "high",
+    "evidence": "The figure on the cross hangs below the central circle, over the vertical band that descends from it.",
+    "updated_at": "2026-11-17T10:45Z"
+  }
+]

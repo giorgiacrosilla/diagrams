@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "diagram_classification": "cosmological (planetary spheres / geocentric arrangement of the seven planets)",
+    "interpretation": "The diagram shows a geocentric cosmos made of concentric circles around a central point, which stands for the Earth. Seven circles are drawn around it. Each circle carries a small human head on a single vertical axis at the top, and each head stands for a planet or luminary on its own orbit. The circles are nested in order of distance from the centre. The heads are probably the planetary deities or personifications of the seven planets. The reddish head in the middle of the sequence is probably the Sun, because it is the only one with a distinct colour and radiating strokes. The head nearest the centre, with a crescent beneath it, is probably the Moon. The heads are therefore probably ordered from the Moon outward through the Sun to the outermost planet, which would be Saturn. The surrounding text appears to be a Latin explanatory text on the planets, but it is partly illegible and shows through from the reverse of the page, so it is not used here. The identification of individual planets other than the Sun and the Moon is uncertain.",
+    "basis": "visual",
+    "certainty": "medium",
+    "evidence": "Concentric circles surround a central dot (the Earth). Seven circles carry seven heads aligned on one vertical axis. The central head is red-orange with radiating lines, which suggests the Sun. The innermost head has a crescent, which suggests the Moon. The other heads are blue-haloed or pale. The outermost head is at the top of the largest circle. The surrounding Latin text is in a continuous column, so the diagram illustrates it.",
+    "updated_at": "2026-11-18T12:13Z"
+  }
+]

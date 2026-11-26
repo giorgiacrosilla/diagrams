@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometric",
+    "subject": "large green outer circle",
+    "predicate": "contains",
+    "object": "small central circle with pinkish-brown band",
+    "certainty": "high",
+    "evidence": "The small central ring sits in the middle of the large green ring and is enclosed by it. The two are linked only through the spokes, which are described in separate relations.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "geometric",
+    "subject": "small central circle with pinkish-brown band",
+    "predicate": "connected_to",
+    "object": "large green outer circle",
+    "certainty": "high",
+    "evidence": "Twelve radial bands (spokes) run from the central ring to the green outer ring, like a wheel. Their colours alternate between pinkish, beige/yellowish and green. Their ends have small curved flared lines where they meet the rings.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "geometric",
+    "subject": "vertical pinkish spoke at top",
+    "predicate": "connected_to",
+    "object": "small central circle with pinkish-brown band",
+    "certainty": "high",
+    "evidence": "A pinkish vertical band runs from the top of the central ring up to the green outer ring, with flared curved lines at both ends.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "geometric",
+    "subject": "green spoke at upper right",
+    "predicate": "connected_to",
+    "object": "small central circle with pinkish-brown band",
+    "certainty": "medium",
+    "evidence": "A green diagonal band runs from the upper right of the central ring up to the outer ring, with flared curved lines at its ends.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "geometric",
+    "subject": "beige spoke at right, slightly above horizontal",
+    "predicate": "connected_to",
+    "object": "small central circle with pinkish-brown band",
+    "certainty": "medium",
+    "evidence": "A beige/yellowish diagonal band runs from the right side of the central ring up and to the right to the outer ring.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "geometric",
+    "subject": "horizontal green-and-beige spoke at right",
+    "predicate": "connected_to",
+    "object": "small central circle with pinkish-brown band",
+    "certainty": "medium",
+    "evidence": "A horizontal band, green near the outer ring and beige near the centre, runs from the right side of the central ring to the outer ring.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "geometric",
+    "subject": "pinkish spoke at lower right",
+    "predicate": "connected_to",
+    "object": "small central circle with pinkish-brown band",
+    "certainty": "medium",
+    "evidence": "A pinkish diagonal band runs from the lower right of the central ring down and to the right to the outer ring.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "geometric",
+    "subject": "beige spoke at bottom right",
+    "predicate": "connected_to",
+    "object": "small central circle with pinkish-brown band",
+    "certainty": "medium",
+    "evidence": "A beige diagonal band runs from the lower part of the central ring down and to the right to the outer ring.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "geometric",
+    "subject": "vertical pinkish spoke at bottom",
+    "predicate": "connected_to",
+    "object": "small central circle with pinkish-brown band",
+    "certainty": "high",
+    "evidence": "A pinkish vertical band runs from the bottom of the central ring down to the outer ring, with flared curved lines at both ends.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "geometric",
+    "subject": "green spoke at bottom left",
+    "predicate": "connected_to",
+    "object": "small central circle with pinkish-brown band",
+    "certainty": "medium",
+    "evidence": "A green diagonal band runs from the lower left of the central ring down and to the left to the outer ring.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "geometric",
+    "subject": "beige spoke at lower left",
+    "predicate": "connected_to",
+    "object": "small central circle with pinkish-brown band",
+    "certainty": "medium",
+    "evidence": "A beige diagonal band runs from the left of the central ring down and to the left to the outer ring.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "geometric",
+    "subject": "horizontal green spoke at left",
+    "predicate": "connected_to",
+    "object": "small central circle with pinkish-brown band",
+    "certainty": "medium",
+    "evidence": "A horizontal green band with a beige inner strip runs from the left side of the central ring to the outer ring.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 13,
+    "relation_type": "geometric",
+    "subject": "beige spoke at upper left",
+    "predicate": "connected_to",
+    "object": "small central circle with pinkish-brown band",
+    "certainty": "medium",
+    "evidence": "A beige diagonal band runs from the upper left of the central ring up and to the left to the outer ring.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 14,
+    "relation_type": "geometric",
+    "subject": "beige spoke at top left",
+    "predicate": "connected_to",
+    "object": "small central circle with pinkish-brown band",
+    "certainty": "medium",
+    "evidence": "A beige diagonal band runs from the upper left of the central ring up to the outer ring, steeper than the neighbouring spoke to its left.",
+    "updated_at": "2026-11-18T12:22Z"
+  }
+]

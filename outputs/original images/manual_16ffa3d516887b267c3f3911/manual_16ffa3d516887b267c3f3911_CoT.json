@@ -1,0 +1,312 @@
+{
+  "element_analysis": [
+    {
+      "id": 1,
+      "relation_type": "text_shape",
+      "subject": "ORIENS",
+      "predicate": "above",
+      "object": "outer green ring",
+      "certainty": "high",
+      "evidence": "Free-standing capital-letter text at the top, outside the outer green ring and above its upper edge. It is not connected to the ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 2,
+      "relation_type": "geometric",
+      "subject": "central ring",
+      "predicate": "connected_to",
+      "object": "outer green ring",
+      "certainty": "high",
+      "evidence": "The pinkish central ring and the green outer ring are joined by twelve radial bands. Starting from the top they are: pink vertical, green, tan, green horizontal, tan-pink, tan, pink vertical, green, tan, green horizontal, tan, tan. Each band runs from the central ring to the outer ring and splits the space between them into twelve sectors.",
+      "updated_at": ""
+    },
+    {
+      "id": 3,
+      "relation_type": "geometric",
+      "subject": "central circle",
+      "predicate": "inside",
+      "object": "central ring",
+      "certainty": "high",
+      "evidence": "The empty circle with no text lies in the centre and is enclosed by the pinkish ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 4,
+      "relation_type": "text_shape",
+      "subject": "uulturnus calciar.",
+      "predicate": "inside",
+      "object": "sector 11-12 o'clock",
+      "certainty": "high",
+      "evidence": "Text in two lines, written slanted, in the upper part of the sector between the upper-left tan band and the top pink vertical band.",
+      "updated_at": ""
+    },
+    {
+      "id": 5,
+      "relation_type": "text_shape",
+      "subject": "sub sola nur apeli oter.",
+      "predicate": "inside",
+      "object": "sector 12-1 o'clock",
+      "certainty": "high",
+      "evidence": "Text in three lines at the top of the sector between the top pink vertical band and the upper-right green band.",
+      "updated_at": ""
+    },
+    {
+      "id": 6,
+      "relation_type": "text_shape",
+      "subject": "aquilo boreas",
+      "predicate": "inside",
+      "object": "sector 10-11 o'clock",
+      "certainty": "high",
+      "evidence": "Text in two lines, rotated, in the upper part of the sector next to the outer ring, between two tan bands in the upper left.",
+      "updated_at": ""
+    },
+    {
+      "id": 7,
+      "relation_type": "text_shape",
+      "subject": "& apella tiue.",
+      "predicate": "inside",
+      "object": "sector 11-12 o'clock",
+      "certainty": "high",
+      "evidence": "Text in two lines, slanted, in the lower part of the sector, below \"uulturnus calciar.\".",
+      "updated_at": ""
+    },
+    {
+      "id": 8,
+      "relation_type": "text_shape",
+      "subject": "haec rum",
+      "predicate": "inside",
+      "object": "sector 12-1 o'clock",
+      "certainty": "medium",
+      "evidence": "The words \"haec\" and \"rum\" are written on a diagonal in the lower part of the sector, below \"sub sola nur apeli oter.\". They are read here as one text.",
+      "updated_at": ""
+    },
+    {
+      "id": 9,
+      "relation_type": "text_shape",
+      "subject": "eurus euro",
+      "predicate": "inside",
+      "object": "sector 1-2 o'clock",
+      "certainty": "medium",
+      "evidence": "Single line of text, rotated, along the outer edge of the sector between the upper-right green band and the tan band. The transcription is approximate.",
+      "updated_at": ""
+    },
+    {
+      "id": 10,
+      "relation_type": "text_shape",
+      "subject": "pprie",
+      "predicate": "inside",
+      "object": "sector 10-11 o'clock",
+      "certainty": "medium",
+      "evidence": "Short rotated text in the lower part of the sector, near the central ring and below \"aquilo boreas\".",
+      "updated_at": ""
+    },
+    {
+      "id": 11,
+      "relation_type": "text_shape",
+      "subject": "septentrio aparcias",
+      "predicate": "inside",
+      "object": "sector 9-10 o'clock",
+      "certainty": "medium",
+      "evidence": "Two rotated lines along the outer edge of the left sector above the horizontal green band.",
+      "updated_at": ""
+    },
+    {
+      "id": 12,
+      "relation_type": "text_shape",
+      "subject": "distincte",
+      "predicate": "inside",
+      "object": "sector 9-10 o'clock",
+      "certainty": "high",
+      "evidence": "Single rotated word in the inner part of the same sector, near the central ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 13,
+      "relation_type": "text_shape",
+      "subject": "eurous ter. euro notus",
+      "predicate": "inside",
+      "object": "sector 2-3 o'clock",
+      "certainty": "medium",
+      "evidence": "Several rotated lines along the outer edge of the sector between the tan band and the horizontal green band on the right. The transcription is approximate.",
+      "updated_at": ""
+    },
+    {
+      "id": 14,
+      "relation_type": "text_shape",
+      "subject": "signa",
+      "predicate": "inside",
+      "object": "sector 2-3 o'clock",
+      "certainty": "low",
+      "evidence": "Single rotated word in the inner part of the sector, closer to the central ring than \"eurous ter. euro notus\". The letters are hard to read.",
+      "updated_at": ""
+    },
+    {
+      "id": 15,
+      "relation_type": "text_shape",
+      "subject": "XII",
+      "predicate": "inside",
+      "object": "sector 3-4 o'clock",
+      "certainty": "medium",
+      "evidence": "Rotated Roman-numeral-like characters in the inner part of the sector below the horizontal green band.",
+      "updated_at": ""
+    },
+    {
+      "id": 16,
+      "relation_type": "text_shape",
+      "subject": "auster notus",
+      "predicate": "inside",
+      "object": "sector 3-4 o'clock",
+      "certainty": "high",
+      "evidence": "Two rotated lines along the outer edge of the same sector.",
+      "updated_at": ""
+    },
+    {
+      "id": 17,
+      "relation_type": "text_shape",
+      "subject": "uento",
+      "predicate": "inside",
+      "object": "sector 4-5 o'clock",
+      "certainty": "medium",
+      "evidence": "Single rotated word in the upper, inner part of the lower-right sector.",
+      "updated_at": ""
+    },
+    {
+      "id": 18,
+      "relation_type": "text_shape",
+      "subject": "auster africus libonom",
+      "predicate": "inside",
+      "object": "sector 4-5 o'clock",
+      "certainty": "medium",
+      "evidence": "Three rotated lines along the outer edge of the lower-right sector. The transcription is approximate.",
+      "updated_at": ""
+    },
+    {
+      "id": 19,
+      "relation_type": "text_shape",
+      "subject": "rum",
+      "predicate": "inside",
+      "object": "sector 5-6 o'clock",
+      "certainty": "medium",
+      "evidence": "Short upside-down text in the inner part of the sector, left of the lower-right tan band. It sits on the same line as \"uento\" in the neighbouring sector.",
+      "updated_at": ""
+    },
+    {
+      "id": 20,
+      "relation_type": "text_shape",
+      "subject": "africus libr",
+      "predicate": "inside",
+      "object": "sector 5-6 o'clock",
+      "certainty": "medium",
+      "evidence": "Upside-down line of text along the outer edge of the sector, just right of the bottom pink vertical band.",
+      "updated_at": ""
+    },
+    {
+      "id": 21,
+      "relation_type": "text_shape",
+      "subject": "iuxta",
+      "predicate": "inside",
+      "object": "sector 6-7 o'clock",
+      "certainty": "medium",
+      "evidence": "Upside-down word in the inner part of the sector, left of the bottom pink vertical band.",
+      "updated_at": ""
+    },
+    {
+      "id": 22,
+      "relation_type": "text_shape",
+      "subject": "faboniur zepphir nu",
+      "predicate": "inside",
+      "object": "sector 6-7 o'clock",
+      "certainty": "medium",
+      "evidence": "Three upside-down lines along the outer edge of the same sector. The transcription is approximate.",
+      "updated_at": ""
+    },
+    {
+      "id": 23,
+      "relation_type": "text_shape",
+      "subject": "ordine",
+      "predicate": "inside",
+      "object": "sector 7-8 o'clock",
+      "certainty": "medium",
+      "evidence": "Upside-down word in the inner part of the lower-left sector.",
+      "updated_at": ""
+    },
+    {
+      "id": 24,
+      "relation_type": "text_shape",
+      "subject": "chorur argeftr",
+      "predicate": "inside",
+      "object": "sector 7-8 o'clock",
+      "certainty": "low",
+      "evidence": "Upside-down text in two lines along the outer edge of the lower-left sector. The letters are hard to read.",
+      "updated_at": ""
+    },
+    {
+      "id": 25,
+      "relation_type": "text_shape",
+      "subject": "suum",
+      "predicate": "inside",
+      "object": "sector 8-9 o'clock",
+      "certainty": "medium",
+      "evidence": "Single rotated word in the inner part of the left sector below the horizontal green band.",
+      "updated_at": ""
+    },
+    {
+      "id": 26,
+      "relation_type": "text_shape",
+      "subject": "circius marcias",
+      "predicate": "inside",
+      "object": "sector 8-9 o'clock",
+      "certainty": "medium",
+      "evidence": "Two rotated lines along the outer edge of the same sector. The transcription is approximate.",
+      "updated_at": ""
+    },
+    {
+      "id": 27,
+      "relation_type": "text_shape",
+      "subject": "SEPTENTRIO",
+      "predicate": "below",
+      "object": "ORIENS",
+      "certainty": "low",
+      "evidence": "Free-standing rotated capital text outside the outer ring on the left, at a lower position than ORIENS. No allowed predicate fits a side position, so \"below\" is the closest. The text is not connected to the ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 28,
+      "relation_type": "text_shape",
+      "subject": "MERIDIES",
+      "predicate": "below",
+      "object": "ORIENS",
+      "certainty": "low",
+      "evidence": "Free-standing rotated capital text outside the outer ring on the right, at a lower position than ORIENS. No allowed predicate fits a side position, so \"below\" is the closest. The text is not connected to the ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 29,
+      "relation_type": "text_shape",
+      "subject": "OCCIDENS",
+      "predicate": "below",
+      "object": "outer green ring",
+      "certainty": "high",
+      "evidence": "Free-standing upside-down capital text at the bottom, outside the outer ring and below its lower edge.",
+      "updated_at": ""
+    }
+  ],
+  "interpretation": [
+    {
+      "diagram_classification": "cosmological / meteorological (wind rose, or wind wheel)",
+      "interpretation": "The diagram is a wheel of the twelve winds. The four cardinal points are written outside the wheel (ORIENS at top, MERIDIES at right, OCCIDENS at bottom, SEPTENTRIO at left), so the diagram is oriented with east at the top. The twelve sectors between the radial bands hold the names of winds, each placed in the direction it blows from. The wind names are the usual Latin ones and their variants: subsolanus, eurus, euronotus, auster/notus, austroafricus, africus, favonius/zephyrus, caurus/corus (written 'chorur'), circius, septentrio, aquilo/boreas, vulturnus. This is the classical twelve-wind scheme transmitted to the Middle Ages through Isidore of Seville and Bede, and it is typical of the diagrams that accompany De natura rerum and computus or natural-science texts. The short words in the inner part of the sectors (such as 'appellatiue', 'distincte', 'iuxta', 'ordine', 'haec', 'rum') seem to belong to a running sentence in the Latin text. They probably say that these winds are named or distinguished 'properly' (proprie) or 'in order'. They are not wind names. The empty central circle is the hub of the wheel and holds no text.",
+      "basis": "textual",
+      "certainty": "medium",
+      "evidence": "Written in the diagram: the four cardinal-point labels outside the ring (ORIENS, MERIDIES, OCCIDENS, SEPTENTRIO) and wind names that are recognisable despite the approximate Step 1 readings (sub sola nur, eurus, euro ter. euro notus, auster notus, africus, faboniur zepphir nu, aquilo boreas, uulturnus, circius, septentrio). Visible: a wheel with a double outer ring, twelve radial spokes and a hub. External knowledge: the twelve-wind scheme in Isidore (Etymologiae XIII, De natura rerum) and Bede, and the habit of drawing it as a wheel with east at the top. Problems with Step 1: the sector numbering in Step 1 is only a rough clock-face approximation. Several transcriptions are approximate or doubtful ('eurous ter.', 'signa', 'XII', 'chorur argeftr', 'faboniur', 'africus libr', 'libonom'). The 'haec rum' reading is a guess. The reading of 'XII' as a number is uncertain. The predicates used for SEPTENTRIO and MERIDIES ('below' ORIENS) are only approximations of the real side-by-side layout. The assignment of each wind to a precise direction was not checked against a source, so the finer details remain uncertain.",
+      "updated_at": ""
+    },
+    {
+      "diagram_classification": "structural / diagrammatic layout of the wheel",
+      "interpretation": "The structure encodes a division of the horizon into twelve equal parts, with the four cardinal winds on the main axes (vertical and horizontal) and eight further winds placed between them in pairs. The vertical and horizontal bands are coloured differently from the diagonal ones. This probably marks the principal axes, which carry the four cardinal points. The outer green ring frames the whole horizon. The central ring and empty circle stand for the earth or the observer's place as the centre from which the winds are counted. This last point is an inference and is not stated in the text.",
+      "basis": "visual",
+      "certainty": "medium",
+      "evidence": "Visible: twelve radial bands running from the central ring to the outer ring and dividing the space into twelve sectors; the four main axes are drawn with a different colouring (pink and green) from the diagonal tan ones; the empty central circle is enclosed by a pinkish ring; each sector contains text arranged along its outer edge and close to the hub. External: the common medieval pattern of a wind wheel with a hub at the centre. The symbolic reading of the hub as the earth is not confirmed by any inscription, so it is tentative.",
+      "updated_at": ""
+    }
+  ]
+}

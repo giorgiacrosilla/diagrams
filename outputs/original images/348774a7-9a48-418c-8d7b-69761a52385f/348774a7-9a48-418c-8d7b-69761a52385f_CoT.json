@@ -1,0 +1,257 @@
+{
+  "element_analysis": [
+    {
+      "id": 1,
+      "relation_type": "geometric",
+      "subject": "inner ring of interlaced bands",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "high",
+      "evidence": "A thin black outer circle encloses a concentric ring of interlaced red-outlined bands and the central circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 2,
+      "relation_type": "text_shape",
+      "subject": "Sicca (upper left)",
+      "predicate": "connected_to",
+      "object": "Ignis",
+      "certainty": "medium",
+      "evidence": "Two adjacent curved bands in the upper-left part of the ring meet and interlace. The text \"Sicca\" is written on the left band and \"Ignis\" on the band at the top.",
+      "updated_at": ""
+    },
+    {
+      "id": 3,
+      "relation_type": "text_shape",
+      "subject": "Ignis",
+      "predicate": "connected_to",
+      "object": "Calidvs (upper right)",
+      "certainty": "medium",
+      "evidence": "The band at the top labelled \"Ignis\" continues to the right into the curved band labelled \"Calidvs\" in the upper right, where they interlace.",
+      "updated_at": ""
+    },
+    {
+      "id": 4,
+      "relation_type": "text_shape",
+      "subject": "Ignis",
+      "predicate": "above",
+      "object": "Es [illegible]",
+      "certainty": "medium",
+      "evidence": "A short band with the text \"Es\" and a second, hard-to-read abbreviated word sits directly below the \"Ignis\" band at the top of the diagram.",
+      "updated_at": ""
+    },
+    {
+      "id": 5,
+      "relation_type": "text_shape",
+      "subject": "Es [illegible]",
+      "predicate": "above",
+      "object": "Colera",
+      "certainty": "medium",
+      "evidence": "The small labelled band at the top centre lies above the curved inner band labelled \"Colera\", which is written along its curve.",
+      "updated_at": ""
+    },
+    {
+      "id": 6,
+      "relation_type": "text_shape",
+      "subject": "Calidvs (upper right)",
+      "predicate": "connected_to",
+      "object": "Calidvs (right)",
+      "certainty": "medium",
+      "evidence": "Two curved bands on the upper right, each labelled \"Calidvs\", follow the ring and interlace. The upper one is written along its curve, the lower one is turned to read downward.",
+      "updated_at": ""
+    },
+    {
+      "id": 7,
+      "relation_type": "text_shape",
+      "subject": "Calidvs (right)",
+      "predicate": "connected_to",
+      "object": "Aer",
+      "certainty": "low",
+      "evidence": "On the right side the band labelled \"Calidvs\" meets the adjacent band labelled \"Aer\". The text is rotated along the band.",
+      "updated_at": ""
+    },
+    {
+      "id": 8,
+      "relation_type": "text_shape",
+      "subject": "Aer",
+      "predicate": "connected_to",
+      "object": "Humidvs (right)",
+      "certainty": "medium",
+      "evidence": "The band labelled \"Aer\" continues downward into the band labelled \"Humidvs\" on the right, with both texts rotated along the ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 9,
+      "relation_type": "text_shape",
+      "subject": "Ver",
+      "predicate": "connected_to",
+      "object": "Sangvis",
+      "certainty": "medium",
+      "evidence": "Two inner bands on the right side, labelled \"Ver\" and \"Sangvis\", have vertically rotated text and are interlaced with each other.",
+      "updated_at": ""
+    },
+    {
+      "id": 10,
+      "relation_type": "text_shape",
+      "subject": "Humidvs (right)",
+      "predicate": "connected_to",
+      "object": "Humidvs (lower right)",
+      "certainty": "medium",
+      "evidence": "The bands labelled \"Humidvs\" on the right and lower right follow the ring and interlace at the lower right.",
+      "updated_at": ""
+    },
+    {
+      "id": 11,
+      "relation_type": "text_shape",
+      "subject": "Humidvs (lower right)",
+      "predicate": "connected_to",
+      "object": "Aqua",
+      "certainty": "medium",
+      "evidence": "At the bottom right the band labelled \"Humidvs\" (upside down) continues into the band labelled \"Aqua\", which is also upside down.",
+      "updated_at": ""
+    },
+    {
+      "id": 12,
+      "relation_type": "text_shape",
+      "subject": "Aqua",
+      "predicate": "connected_to",
+      "object": "Frigida (lower left)",
+      "certainty": "medium",
+      "evidence": "At the bottom the band labelled \"Aqua\" continues to the lower left into the band labelled \"Frigida\", with both texts upside down.",
+      "updated_at": ""
+    },
+    {
+      "id": 13,
+      "relation_type": "text_shape",
+      "subject": "Frigida (lower left)",
+      "predicate": "connected_to",
+      "object": "Frigida (left)",
+      "certainty": "medium",
+      "evidence": "Two bands on the lower left, each labelled \"Frigida\", follow the ring and interlace. One is written along the curve at the bottom, the other reads vertically on the left.",
+      "updated_at": ""
+    },
+    {
+      "id": 14,
+      "relation_type": "text_shape",
+      "subject": "Frigida (left)",
+      "predicate": "connected_to",
+      "object": "Sicca (left)",
+      "certainty": "medium",
+      "evidence": "The vertical band on the left labelled \"Frigida\" continues upward into the band labelled \"Sicca\", with both texts rotated along the left edge of the ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 15,
+      "relation_type": "text_shape",
+      "subject": "Sicca (left)",
+      "predicate": "connected_to",
+      "object": "Sicca (upper left)",
+      "certainty": "medium",
+      "evidence": "The left band labelled \"Sicca\" continues upward around the ring into the upper-left band also labelled \"Sicca\".",
+      "updated_at": ""
+    },
+    {
+      "id": 16,
+      "relation_type": "text_shape",
+      "subject": "Ter ra",
+      "predicate": "connected_to",
+      "object": "Frigida (left)",
+      "certainty": "low",
+      "evidence": "A short band at the far left holds the abbreviated text \"Ter\" and \"ra\" (hard to read). It sits against the \"Frigida\" band on the left and is interlaced with it.",
+      "updated_at": ""
+    },
+    {
+      "id": 17,
+      "relation_type": "text_shape",
+      "subject": "Ter ra",
+      "predicate": "connected_to",
+      "object": "Avt[illegible] (left inner band)",
+      "certainty": "low",
+      "evidence": "Next to the left band is a small inner band with abbreviated, partly illegible text beginning \"Avt\". It is interlaced with the band labelled \"Ter ra\".",
+      "updated_at": ""
+    },
+    {
+      "id": 18,
+      "relation_type": "text_shape",
+      "subject": "Avt[illegible] (left inner band)",
+      "predicate": "connected_to",
+      "object": "melancho",
+      "certainty": "low",
+      "evidence": "The inner band with the abbreviated text is adjacent to the diagonal inner band labelled \"melancho\", which is written along the band and may be cut off. The two interlace.",
+      "updated_at": ""
+    },
+    {
+      "id": 19,
+      "relation_type": "text_shape",
+      "subject": "Colera",
+      "predicate": "connected_to",
+      "object": "melancho",
+      "certainty": "low",
+      "evidence": "The inner circular ring of bands carries the labels \"Colera\" at the top and \"melancho\" at the left. The interlaced inner bands join the two.",
+      "updated_at": ""
+    },
+    {
+      "id": 20,
+      "relation_type": "text_shape",
+      "subject": "Hiem[illegible]",
+      "predicate": "connected_to",
+      "object": "Aqua",
+      "certainty": "low",
+      "evidence": "Near the bottom centre a small band holds the upside-down text \"Hi\" followed by a hard-to-read abbreviation. It lies between the inner and outer ring of bands near the \"Aqua\" band and is interlaced with them.",
+      "updated_at": ""
+    },
+    {
+      "id": 21,
+      "relation_type": "text_shape",
+      "subject": "Hiem[illegible]",
+      "predicate": "above",
+      "object": "[illegible] (lower inner arc)",
+      "certainty": "low",
+      "evidence": "Below the small bottom-centre band is a curved inner arc with partly legible upside-down text, perhaps \"flegma\" or similar. It is too faint to read.",
+      "updated_at": ""
+    },
+    {
+      "id": 22,
+      "relation_type": "text_shape",
+      "subject": "MVNDVS ANNVS HOMO",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "high",
+      "evidence": "Three lines of text, \"MVNDVS.\", \"ANNVS.\" and \"HOMO.\", are written in the central circle, which lies inside the ring of interlaced bands and the outer circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 23,
+      "relation_type": "text_shape",
+      "subject": "MVNDVS ANNVS HOMO",
+      "predicate": "inside",
+      "object": "inner ring of interlaced bands",
+      "certainty": "high",
+      "evidence": "The central circle with the three-line text is concentric with the ring of interlaced bands and is enclosed by them.",
+      "updated_at": ""
+    }
+  ],
+  "interpretation": [
+    {
+      "diagram_classification": "cosmological / natural-philosophical diagram (concentric scheme of the four elements, qualities, seasons and humours, microcosm–macrocosm)",
+      "interpretation": "The diagram is a medieval scheme of correspondences between the macrocosm (mundus), time (annus) and the human being (homo), as named in the central circle. Around this centre, a ring of interlaced bands links the four elements (Ignis, Aer, Aqua, Terra) with the four qualities (Calidus, Siccus, Humidus, Frigidus), the four seasons (Ver, Aestas, Autumnus, Hiems) and the four humours (Sanguis, Colera, Melancholia, Flegma). The interlacing shows that each element shares one quality with the element before it and one with the element after it. Fire is hot and dry, air hot and humid, water humid and cold, earth cold and dry. The wheel thus presents one common fourfold order governing the world, the year and the human body.",
+      "basis": "textual",
+      "certainty": "high",
+      "evidence": "Written in the diagram: the central text \"MVNDVS. ANNVS. HOMO.\"; the repeated quality labels \"Sicca\", \"Calidvs\", \"Humidvs\", \"Frigida\"; the element labels \"Ignis\", \"Aer\", \"Aqua\" and, with the abbreviated reading from Step 1, \"Terra\"; the humoral terms \"Colera\", \"Sangvis\" and \"melancho\"; the seasonal terms \"Ver\" and \"Hi[em]\". Visible: concentric circles and interlaced bands, with the paired quality labels placed between the element labels. External knowledge: this is the standard early medieval fourfold scheme, familiar from Isidore of Seville's De natura rerum and from Bede's computistical works. This identification of the tradition is a general one and I cannot name a specific source for this copy with confidence. Step 1 problems: the transcriptions \"Ter ra\", \"Avt[illegible]\" (probably \"Aestas\" or \"Autumnus\"), \"Hiem[illegible]\" and the lower inner arc (probably \"Flegma\") are uncertain. Entries 16–21 are low-certainty. Several \"connected_to\" relations in Step 1 between text labels (for example Sicca–Ignis) describe interlaced bands and not necessarily a causal link. The Step 1 reading \"Es\" near the top may be part of \"Aestas\", which Step 1 did not record correctly."
+    },
+    {
+      "diagram_classification": "microcosm–macrocosm and temporal diagram (world, year, man)",
+      "interpretation": "The central circle \"MVNDVS ANNVS HOMO\" is the key to the whole scheme. It declares that the world (space and elements), the year (time and seasons) and man (the body and its humours) all share the same structure. The concentric rings each express one of these three domains. The outer ring carries the elements and qualities (world), the middle ring the seasons (year) and the inner ring the humours (man). The three lines in the centre stand for the three parallel orders of reality.",
+      "basis": "textual",
+      "certainty": "medium",
+      "evidence": "Written: the three words in the central circle, with each ring labelled with terms from one of the three domains. Visible: the concentric arrangement. External: the mundus–annus–homo triad is a well-known medieval formula for the microcosm–macrocosm correspondence. The assignment of particular rings to particular domains rests on partly illegible labels (Step 1 entries 16–21) and so is only medium certain."
+    },
+    {
+      "diagram_classification": "visual / structural device (interlaced bands)",
+      "interpretation": "The interlacing of the bands is a diagrammatic device that shows the combination and transition of the paired qualities. Each band, with one quality label, passes over and under the bands of neighbouring qualities, so that adjacent elements are visibly bound together. The repeated labels (two \"Calidvs\", two \"Frigida\", two \"Sicca\", two \"Humidvs\") mark the quality that is shared by two neighbouring elements. The closed ring suggests the cycle of the seasons and the continuous transformation of the elements into one another.",
+      "basis": "visual",
+      "certainty": "medium",
+      "evidence": "Visible: red-outlined bands pass over and under each other in a closed ring, with the same quality words repeated on the two adjacent bands. External: the shared qualities of neighbouring elements are standard in the tradition. The significance of the interlacing is my own inference from the form and is not stated in the text. Step 1 entries 2–15 connect these labels but give only low-to-medium certainty on a few of the transitions, such as Calidvs–Aer."
+    }
+  ]
+}

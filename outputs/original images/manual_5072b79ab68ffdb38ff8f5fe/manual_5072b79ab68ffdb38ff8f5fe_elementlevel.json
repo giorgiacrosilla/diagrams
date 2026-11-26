@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometric",
+    "subject": "top arc with yellow and pink bands",
+    "predicate": "inside",
+    "object": "outer yellow circle",
+    "certainty": "high",
+    "evidence": "The arc lies within the large outer circle, which is a wide yellow band.",
+    "updated_at": "2026-11-17T11:10Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "geometric",
+    "subject": "green arc at upper right",
+    "predicate": "inside",
+    "object": "outer yellow circle",
+    "certainty": "high",
+    "evidence": "The green band curves inside the outer circle's upper right and crosses the top arc.",
+    "updated_at": "2026-11-17T11:10Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "geometric",
+    "subject": "orange-brown arc at right",
+    "predicate": "inside",
+    "object": "outer yellow circle",
+    "certainty": "high",
+    "evidence": "The orange-brown arc lies against the right inner edge of the outer circle and overlaps the green arc.",
+    "updated_at": "2026-11-17T11:10Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "geometric",
+    "subject": "yellow arc at lower right",
+    "predicate": "inside",
+    "object": "outer yellow circle",
+    "certainty": "high",
+    "evidence": "The pale yellow arc lies within the lower right of the outer circle and overlaps the right arc.",
+    "updated_at": "2026-11-17T11:10Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "geometric",
+    "subject": "green arc at bottom",
+    "predicate": "inside",
+    "object": "outer yellow circle",
+    "certainty": "high",
+    "evidence": "The thick green arc lies at the bottom of the outer circle and overlaps the yellow arc at lower right.",
+    "updated_at": "2026-11-17T11:10Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "geometric",
+    "subject": "brown and yellow arc at lower left",
+    "predicate": "inside",
+    "object": "outer yellow circle",
+    "certainty": "high",
+    "evidence": "The brown and yellow arc curves from the lower left towards the center and overlaps the bottom green arc.",
+    "updated_at": "2026-11-17T11:10Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "geometric",
+    "subject": "pink and yellow arc at left",
+    "predicate": "inside",
+    "object": "outer yellow circle",
+    "certainty": "high",
+    "evidence": "The pink and yellow arcs at the left overlap the top arc and the lower left arc.",
+    "updated_at": "2026-11-17T11:10Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "text_shape",
+    "subject": "AN NV s",
+    "predicate": "inside",
+    "object": "outer yellow circle",
+    "certainty": "high",
+    "evidence": "Large capital letters with green and brown hatched strokes at the center of the diagram. A small 's' follows the final V.",
+    "updated_at": "2026-11-17T11:10Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "text_shape",
+    "subject": "humi 'dus",
+    "predicate": "inside",
+    "object": "top arc with yellow and pink bands",
+    "certainty": "high",
+    "evidence": "Text in the upper left part of the top arc, written in two lines.",
+    "updated_at": "2026-11-17T11:10Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "text_shape",
+    "subject": "uer o ri eng",
+    "predicate": "inside",
+    "object": "top arc with yellow and pink bands",
+    "certainty": "medium",
+    "evidence": "Short text fragments stacked vertically between the pink arc and the green arc, in the upper part of the diagram. 'eng' is at the lower end, near the overlap with the green arc.",
+    "updated_at": "2026-11-17T11:10Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "text_shape",
+    "subject": "cali dus",
+    "predicate": "inside",
+    "object": "green arc at upper right",
+    "certainty": "high",
+    "evidence": "Text in two lines within the area bounded by the green band and the yellow arc at upper right.",
+    "updated_at": "2026-11-17T11:10Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "text_shape",
+    "subject": "caludus",
+    "predicate": "inside",
+    "object": "orange-brown arc at right",
+    "certainty": "high",
+    "evidence": "Text written along the curve at the upper right of the right-hand arc, rotated.",
+    "updated_at": "2026-11-17T11:10Z"
+  },
+  {
+    "id": 13,
+    "relation_type": "text_shape",
+    "subject": "estas",
+    "predicate": "inside",
+    "object": "orange-brown arc at right",
+    "certainty": "medium",
+    "evidence": "Text running vertically along the right side of the arc, below 'caludus'.",
+    "updated_at": "2026-11-17T11:10Z"
+  },
+  {
+    "id": 14,
+    "relation_type": "text_shape",
+    "subject": "dies",
+    "predicate": "inside",
+    "object": "orange-brown arc at right",
+    "certainty": "medium",
+    "evidence": "Short rotated text on the left side of the right-hand arc, below the green band.",
+    "updated_at": "2026-11-17T11:10Z"
+  },
+  {
+    "id": 15,
+    "relation_type": "text_shape",
+    "subject": "me ri",
+    "predicate": "inside",
+    "object": "orange-brown arc at right",
+    "certainty": "medium",
+    "evidence": "Short rotated text fragments between 'dies' and 'estas'.",
+    "updated_at": "2026-11-17T11:10Z"
+  },
+  {
+    "id": 16,
+    "relation_type": "text_shape",
+    "subject": "siccus",
+    "predicate": "inside",
+    "object": "yellow arc at lower right",
+    "certainty": "medium",
+    "evidence": "Rotated text near the outer edge, in the lower right of the diagram, inside the yellow arc.",
+    "updated_at": "2026-11-17T11:10Z"
+  },
+  {
+    "id": 17,
+    "relation_type": "text_shape",
+    "subject": "siccus",
+    "predicate": "inside",
+    "object": "green arc at bottom",
+    "certainty": "medium",
+    "evidence": "Upside-down text at the bottom right of the green arc, near the outer circle.",
+    "updated_at": "2026-11-17T11:10Z"
+  },
+  {
+    "id": 18,
+    "relation_type": "text_shape",
+    "subject": "autum nus",
+    "predicate": "inside",
+    "object": "green arc at bottom",
+    "certainty": "medium",
+    "evidence": "Upside-down text at the bottom of the diagram, in two stacked parts, near the outer circle.",
+    "updated_at": "2026-11-17T11:10Z"
+  },
+  {
+    "id": 19,
+    "relation_type": "text_shape",
+    "subject": "sue ci oc",
+    "predicate": "inside",
+    "object": "green arc at bottom",
+    "certainty": "low",
+    "evidence": "Upside-down short fragments stacked vertically in the center of the bottom arc. The reading is uncertain.",
+    "updated_at": "2026-11-17T11:10Z"
+  },
+  {
+    "id": 20,
+    "relation_type": "text_shape",
+    "subject": "frigidus",
+    "predicate": "inside",
+    "object": "green arc at bottom",
+    "certainty": "medium",
+    "evidence": "Upside-down text at the bottom left of the green arc.",
+    "updated_at": "2026-11-17T11:10Z"
+  },
+  {
+    "id": 21,
+    "relation_type": "text_shape",
+    "subject": "frigidus",
+    "predicate": "inside",
+    "object": "brown and yellow arc at lower left",
+    "certainty": "medium",
+    "evidence": "Rotated text along the lower left curve of the diagram, written in two lines.",
+    "updated_at": "2026-11-17T11:10Z"
+  },
+  {
+    "id": 22,
+    "relation_type": "text_shape",
+    "subject": "hiems",
+    "predicate": "inside",
+    "object": "pink and yellow arc at left",
+    "certainty": "medium",
+    "evidence": "Rotated text at the left side, above 'frigidus', along with the fragments 'sep', 'ten' and 'tri'.",
+    "updated_at": "2026-11-17T11:10Z"
+  },
+  {
+    "id": 23,
+    "relation_type": "text_shape",
+    "subject": "humi dus",
+    "predicate": "inside",
+    "object": "pink and yellow arc at left",
+    "certainty": "high",
+    "evidence": "Rotated text in the upper part of the left arc, written in two lines.",
+    "updated_at": "2026-11-17T11:10Z"
+  },
+  {
+    "id": 24,
+    "relation_type": "geometric",
+    "subject": "top arc with yellow and pink bands",
+    "predicate": "above",
+    "object": "green arc at bottom",
+    "certainty": "medium",
+    "evidence": "The top arc is located at the upper part of the circle and the green arc at the bottom.",
+    "updated_at": "2026-11-17T11:10Z"
+  }
+]

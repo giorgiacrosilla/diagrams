@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "diagram_classification": "cosmological (astronomical): geocentric planetary diagram of concentric spheres or orbits",
+    "interpretation": "The diagram shows the geocentric order of the seven planets as a set of concentric circles around a central Earth (TERRA, a small dot at the centre). From the centre outward the labelled bodies are Luna, Mercurius, Venus, Sol, Mars, Iovis (Jupiter) and Saturnus. Each planet is a small anthropomorphic head set on its own orbit, all aligned on one vertical axis. The Sun is the only body with a radiating, reddish-orange head, which marks its special status. The Moon's head may have a crescent. The heads personify the planets as the classical planetary deities. The scheme is the standard medieval (Macrobian/Plinian-type) Ptolemaic planetary order, with the Sun in the fourth, central position among the seven. The diagram illustrates the hierarchy of the heavens and the increasing distance of each planet from the Earth. It probably accompanies a text on astronomy or natural philosophy, such as the order of the planets or the cosmos. The text on the page is not legible enough to confirm this.",
+    "basis": "visual",
+    "certainty": "high",
+    "evidence": "Visible: seven concentric circles around a central dot labelled TER-RA. Red labels give the names SATURNUS, IOVIS, MARS, SOL, VENUS, MERCURIUS and LUNA, and each sits at a head on its circle. The Sun's head is orange with rays. Moving outward from the Earth the order is Luna, Mercurius, Venus, Sol, Mars, Iovis, Saturnus. External knowledge: this is the usual geocentric planetary order in early medieval computistical and astronomical manuscripts, where planets are shown as personified heads or busts. The identification of a crescent on the Moon is uncertain. The link to a specific source text is not asserted.",
+    "updated_at": "2026-11-17T11:13Z"
+  }
+]

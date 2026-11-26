@@ -1,0 +1,154 @@
+{
+  "element_analysis": [
+    {
+      "id": 1,
+      "relation_type": "geometric",
+      "subject": "second circle",
+      "predicate": "inside",
+      "object": "outermost circle",
+      "certainty": "high",
+      "evidence": "The second thin dark circle is concentric with, and lies entirely within, the largest circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 2,
+      "relation_type": "geometric",
+      "subject": "third circle",
+      "predicate": "inside",
+      "object": "second circle",
+      "certainty": "high",
+      "evidence": "The third thin dark circle is concentric with, and lies entirely within, the second circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 3,
+      "relation_type": "geometric",
+      "subject": "fourth circle",
+      "predicate": "inside",
+      "object": "third circle",
+      "certainty": "high",
+      "evidence": "The fourth thin circle is concentric with, and lies entirely within, the third circle. Its line is slightly reddish near the top.",
+      "updated_at": ""
+    },
+    {
+      "id": 4,
+      "relation_type": "geometric",
+      "subject": "fifth circle",
+      "predicate": "inside",
+      "object": "fourth circle",
+      "certainty": "high",
+      "evidence": "The fifth thin circle is concentric with, and lies entirely within, the fourth circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 5,
+      "relation_type": "geometric",
+      "subject": "sixth circle",
+      "predicate": "inside",
+      "object": "fifth circle",
+      "certainty": "high",
+      "evidence": "The sixth thin circle is concentric with, and lies entirely within, the fifth circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 6,
+      "relation_type": "geometric",
+      "subject": "innermost circle",
+      "predicate": "inside",
+      "object": "sixth circle",
+      "certainty": "high",
+      "evidence": "The smallest circle is concentric with, and lies entirely within, the sixth circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 7,
+      "relation_type": "figurative",
+      "subject": "head on outermost circle",
+      "predicate": "connected_to",
+      "object": "outermost circle",
+      "certainty": "medium",
+      "evidence": "A small head with a blue-outlined hair or headdress sits at the top point of the largest circle, overlapping its line. It is the uppermost of seven heads stacked on a vertical axis.",
+      "updated_at": ""
+    },
+    {
+      "id": 8,
+      "relation_type": "figurative",
+      "subject": "head on second circle",
+      "predicate": "connected_to",
+      "object": "second circle",
+      "certainty": "medium",
+      "evidence": "A small head with pale face and tan hair sits at the top point of the second circle, overlapping its line.",
+      "updated_at": ""
+    },
+    {
+      "id": 9,
+      "relation_type": "figurative",
+      "subject": "head on third circle",
+      "predicate": "connected_to",
+      "object": "third circle",
+      "certainty": "medium",
+      "evidence": "A small head with a blue-outlined headdress sits at the top point of the third circle, overlapping its line.",
+      "updated_at": ""
+    },
+    {
+      "id": 10,
+      "relation_type": "figurative",
+      "subject": "orange head on fourth circle",
+      "predicate": "connected_to",
+      "object": "fourth circle",
+      "certainty": "medium",
+      "evidence": "A small head with an orange face and faint radiating lines around it sits at the top point of the fourth circle, overlapping its line.",
+      "updated_at": ""
+    },
+    {
+      "id": 11,
+      "relation_type": "figurative",
+      "subject": "head on fifth circle",
+      "predicate": "connected_to",
+      "object": "fifth circle",
+      "certainty": "medium",
+      "evidence": "A small head with dark blue-outlined hair sits at the top point of the fifth circle, overlapping its line.",
+      "updated_at": ""
+    },
+    {
+      "id": 12,
+      "relation_type": "figurative",
+      "subject": "head on sixth circle",
+      "predicate": "connected_to",
+      "object": "sixth circle",
+      "certainty": "medium",
+      "evidence": "A small head with a blue headdress and a small crescent-shaped mark below the chin sits at the top point of the sixth circle, overlapping its line.",
+      "updated_at": ""
+    },
+    {
+      "id": 13,
+      "relation_type": "figurative",
+      "subject": "head on innermost circle",
+      "predicate": "connected_to",
+      "object": "innermost circle",
+      "certainty": "medium",
+      "evidence": "A small head with blue-outlined hair sits at the top point of the innermost circle, overlapping its line. It is the lowest of the seven heads.",
+      "updated_at": ""
+    },
+    {
+      "id": 14,
+      "relation_type": "geometric",
+      "subject": "central dot",
+      "predicate": "inside",
+      "object": "innermost circle",
+      "certainty": "high",
+      "evidence": "A small brownish dot lies at the common centre of all the concentric circles, inside the smallest circle.",
+      "updated_at": ""
+    }
+  ],
+  "interpretation": [
+    {
+      "diagram_classification": "cosmological (planetary spheres diagram)",
+      "interpretation": "The diagram appears to represent the geocentric cosmos as seven concentric planetary orbits around a central Earth. The central dot would be the Earth, and each of the seven concentric circles would be the orbit of one of the seven planets (Moon, Mercury, Venus, Sun, Mars, Jupiter, Saturn). The heads placed on a vertical axis at the top of each circle would be personifications of the planets. The orange head with radiating lines in the fourth circle from the outside would be the Sun, which sits in the middle of the series of seven. The head with a crescent-like mark on the second circle from the centre would be the Moon, or possibly a nearby planet. The outermost circle would be Saturn and the innermost circle the Moon, following the usual order of the planets in the Ptolemaic scheme. The text on the page around the diagram probably explains the order and distances of the planetary spheres, but no label is part of the diagram itself.",
+      "basis": "visual",
+      "certainty": "medium",
+      "evidence": "The diagram has seven concentric circles around a central dot, with seven heads aligned on one vertical axis, one per circle. This matches medieval diagrams of the planetary spheres. The only head that stands out is the orange, radiating one in the fourth position, which fits the Sun in the middle of the sequence. This also fits the order of the planets in the geocentric system. There is no transcribed label inside the diagram, so the identification of the individual planets rests on visual features and diagrammatic tradition, not on text. Step 1 did not record the marginal text of the page, which is not part of the diagram. In Step 1, the heads were related to the circles with 'connected_to' on the basis of overlap, which is a weak reading. The identification of the second head from the centre as the Moon is uncertain, since the crescent-shaped mark is small and unclear.",
+      "updated_at": ""
+    }
+  ]
+}

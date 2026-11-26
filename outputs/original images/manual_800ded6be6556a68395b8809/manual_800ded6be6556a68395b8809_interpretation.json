@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "diagram_classification": "Cosmological / natural-philosophical (computistical-medical): a diagram of the correspondences among the four elements, the four qualities, the four seasons and the four humours, within the macrocosm-microcosm scheme (mundus, annus, homo).",
+    "interpretation": "The circular diagram sets out the fourfold harmony of the cosmos. The centre is labelled \"mundus annus homo\" (world, year, man), which makes the three levels of macrocosm, time and microcosm parallel. Four groups of correspondences are arranged around the centre. IGNIS (fire) is paired with calidus (hot) and siccus (dry), the season aestas (summer) and the humour colera (choler, yellow bile). AER (air) is paired with humidus and calidus, ver (spring) and sanguis (blood). AQUA (water) is paired with frigidus and humidus, hiems (winter) and the humour (phlegm). TERRA (earth) is paired with siccus and frigidus, autumnus (autumn) and melancolia (black bile). The interlocking coloured arcs (red, blue-grey, yellow) link each element to its two neighbouring qualities, so that each element shares one quality with the next. This shows the elements as transforming into one another in a cyclical, balanced system. The diagram expresses the idea that the order of the universe, the cycle of the year and the human constitution are governed by the same fourfold structure.",
+    "basis": "textual",
+    "certainty": "high",
+    "evidence": "Visible text: the central \"mundus annus homo\" (in red); the outer ring labels IGNIS, AER, AQUA, TERRA, with the qualities calidus, siccus, humidus, frigidus; and the inner labels aestas, colera, ver, sanguis, hiems, phlegma and humor, autumnus, melancolia. The qualities appear in pairs between the elements, and the overlapping arcs link adjacent elements. The interpretation also draws on the well-known medieval tradition of macrocosm-microcosm correspondences, in the manner of Isidore of Seville's De natura rerum and later Carolingian computistical and scientific miscellanies. I am confident of the general tradition but not of a specific source for this exact diagram. Some labels are upside down or abbreviated, for example the partly legible \"humor\" and \"flegmas\" at the bottom, so those readings are less certain.",
+    "updated_at": "2026-11-17T11:14Z"
+  }
+]

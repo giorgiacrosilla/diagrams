@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometrical",
+    "subject": "large green outer ring",
+    "predicate": "contains",
+    "object": "central circle with pinkish band",
+    "certainty": "high",
+    "evidence": "The central circle with a pinkish band lies in the middle of the large green ring, which encloses it and the twelve spokes.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "geometrical",
+    "subject": "upper-left beige spoke (near 11 o'clock)",
+    "predicate": "connected_to",
+    "object": "large green outer ring",
+    "certainty": "high",
+    "evidence": "Beige band running from the inner edge of the green ring at the upper left toward the centre, with small curved flares at the joint.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "geometrical",
+    "subject": "upper-left beige spoke (near 11 o'clock)",
+    "predicate": "connected_to",
+    "object": "central circle with pinkish band",
+    "certainty": "high",
+    "evidence": "The inner end of the beige band touches the outer edge of the central circle, with a curved flare at the joint.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "geometrical",
+    "subject": "top pink spoke (12 o'clock)",
+    "predicate": "connected_to",
+    "object": "large green outer ring",
+    "certainty": "high",
+    "evidence": "Vertical pinkish band meets the green ring at the top, with curved flares on both sides.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "geometrical",
+    "subject": "top pink spoke (12 o'clock)",
+    "predicate": "connected_to",
+    "object": "central circle with pinkish band",
+    "certainty": "high",
+    "evidence": "The lower end of the vertical pinkish band meets the top of the central circle.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "geometrical",
+    "subject": "upper-right green spoke (near 1 o'clock)",
+    "predicate": "connected_to",
+    "object": "large green outer ring",
+    "certainty": "high",
+    "evidence": "Green diagonal band joins the green ring at the upper right.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "geometrical",
+    "subject": "upper-right green spoke (near 1 o'clock)",
+    "predicate": "connected_to",
+    "object": "central circle with pinkish band",
+    "certainty": "high",
+    "evidence": "The lower end of the green diagonal band meets the upper right of the central circle.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "geometrical",
+    "subject": "right-upper beige spoke (near 2 o'clock)",
+    "predicate": "connected_to",
+    "object": "large green outer ring",
+    "certainty": "high",
+    "evidence": "Beige band rises from the central circle to the green ring at the right.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "geometrical",
+    "subject": "right-upper beige spoke (near 2 o'clock)",
+    "predicate": "connected_to",
+    "object": "central circle with pinkish band",
+    "certainty": "high",
+    "evidence": "The inner end of the beige band meets the right side of the central circle.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "geometrical",
+    "subject": "right horizontal green and beige spoke (3 o'clock)",
+    "predicate": "connected_to",
+    "object": "large green outer ring",
+    "certainty": "high",
+    "evidence": "Horizontal band, green near the circle and beige near the ring, reaches the green ring at the right.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "geometrical",
+    "subject": "right horizontal green and beige spoke (3 o'clock)",
+    "predicate": "connected_to",
+    "object": "central circle with pinkish band",
+    "certainty": "high",
+    "evidence": "The horizontal band begins at the right edge of the central circle.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "geometrical",
+    "subject": "right-lower pink spoke (near 4 o'clock)",
+    "predicate": "connected_to",
+    "object": "large green outer ring",
+    "certainty": "high",
+    "evidence": "Pinkish diagonal band reaches the green ring at the lower right.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 13,
+    "relation_type": "geometrical",
+    "subject": "right-lower pink spoke (near 4 o'clock)",
+    "predicate": "connected_to",
+    "object": "central circle with pinkish band",
+    "certainty": "high",
+    "evidence": "The inner end of the pinkish band meets the lower right of the central circle.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 14,
+    "relation_type": "geometrical",
+    "subject": "lower-right beige spoke (near 5 o'clock)",
+    "predicate": "connected_to",
+    "object": "large green outer ring",
+    "certainty": "high",
+    "evidence": "Beige diagonal band reaches the green ring at the lower right.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 15,
+    "relation_type": "geometrical",
+    "subject": "lower-right beige spoke (near 5 o'clock)",
+    "predicate": "connected_to",
+    "object": "central circle with pinkish band",
+    "certainty": "high",
+    "evidence": "The inner end of the beige band meets the lower part of the central circle.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 16,
+    "relation_type": "geometrical",
+    "subject": "bottom pink spoke (6 o'clock)",
+    "predicate": "connected_to",
+    "object": "large green outer ring",
+    "certainty": "high",
+    "evidence": "Vertical pinkish band reaches the green ring at the bottom.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 17,
+    "relation_type": "geometrical",
+    "subject": "bottom pink spoke (6 o'clock)",
+    "predicate": "connected_to",
+    "object": "central circle with pinkish band",
+    "certainty": "high",
+    "evidence": "The upper end of the vertical pinkish band meets the bottom of the central circle.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 18,
+    "relation_type": "geometrical",
+    "subject": "lower-left green spoke (near 7 o'clock)",
+    "predicate": "connected_to",
+    "object": "large green outer ring",
+    "certainty": "high",
+    "evidence": "Green diagonal band reaches the green ring at the lower left.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 19,
+    "relation_type": "geometrical",
+    "subject": "lower-left green spoke (near 7 o'clock)",
+    "predicate": "connected_to",
+    "object": "central circle with pinkish band",
+    "certainty": "high",
+    "evidence": "The upper end of the green band meets the lower left of the central circle.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 20,
+    "relation_type": "geometrical",
+    "subject": "left-lower beige spoke (near 8 o'clock)",
+    "predicate": "connected_to",
+    "object": "large green outer ring",
+    "certainty": "high",
+    "evidence": "Beige diagonal band reaches the green ring at the lower left.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 21,
+    "relation_type": "geometrical",
+    "subject": "left-lower beige spoke (near 8 o'clock)",
+    "predicate": "connected_to",
+    "object": "central circle with pinkish band",
+    "certainty": "high",
+    "evidence": "The inner end of the beige band meets the left side of the central circle.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 22,
+    "relation_type": "geometrical",
+    "subject": "left horizontal green spoke (9 o'clock)",
+    "predicate": "connected_to",
+    "object": "large green outer ring",
+    "certainty": "high",
+    "evidence": "Horizontal green band reaches the green ring at the left.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 23,
+    "relation_type": "geometrical",
+    "subject": "left horizontal green spoke (9 o'clock)",
+    "predicate": "connected_to",
+    "object": "central circle with pinkish band",
+    "certainty": "high",
+    "evidence": "The inner end of the horizontal band meets the left edge of the central circle.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 24,
+    "relation_type": "geometrical",
+    "subject": "left-upper beige spoke (near 10 o'clock)",
+    "predicate": "connected_to",
+    "object": "large green outer ring",
+    "certainty": "high",
+    "evidence": "Beige diagonal band reaches the green ring at the upper left.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 25,
+    "relation_type": "geometrical",
+    "subject": "left-upper beige spoke (near 10 o'clock)",
+    "predicate": "connected_to",
+    "object": "central circle with pinkish band",
+    "certainty": "high",
+    "evidence": "The inner end of the beige band meets the upper left of the central circle.",
+    "updated_at": "2026-11-18T11:26Z"
+  }
+]

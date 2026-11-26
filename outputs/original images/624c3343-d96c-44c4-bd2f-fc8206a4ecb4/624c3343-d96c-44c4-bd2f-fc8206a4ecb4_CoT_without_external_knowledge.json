@@ -1,0 +1,374 @@
+{
+  "element_analysis": [
+    {
+      "id": 1,
+      "relation_type": "geometric",
+      "subject": "corner mark (upper left)",
+      "predicate": "connected_to",
+      "object": "outer green square frame",
+      "certainty": "medium",
+      "evidence": "Small Y-shaped red mark at the upper left corner, joined to the corner of the green square frame.",
+      "updated_at": ""
+    },
+    {
+      "id": 2,
+      "relation_type": "geometric",
+      "subject": "inner rectangle",
+      "predicate": "inside",
+      "object": "outer green square frame",
+      "certainty": "high",
+      "evidence": "A thin-lined rectangle is drawn just inside the green band that forms the outer square frame.",
+      "updated_at": ""
+    },
+    {
+      "id": 3,
+      "relation_type": "text_shape",
+      "subject": "E AUS R",
+      "predicate": "connected_to",
+      "object": "VER CALIDYM ET HYMIDYM",
+      "certainty": "high",
+      "evidence": "The top circle (double orange ring, letters E / AUS / R stacked vertically) touches the upper end of the orange diagonal band running down to the left circle. The band contains the text \"VER CALIDYM ET HYMIDYM\" along its length, reading upward to the right.",
+      "updated_at": ""
+    },
+    {
+      "id": 4,
+      "relation_type": "text_shape",
+      "subject": "E AUS R",
+      "predicate": "connected_to",
+      "object": "AESTAS CALIDA SICCA",
+      "certainty": "high",
+      "evidence": "The top circle touches the upper end of the orange diagonal band running down to the right circle. The band contains the text \"AESTAS CALIDA SICCA\" along its length, reading downward to the right.",
+      "updated_at": ""
+    },
+    {
+      "id": 5,
+      "relation_type": "geometric",
+      "subject": "E AUS R",
+      "predicate": "connected_to",
+      "object": "vertical line",
+      "certainty": "high",
+      "evidence": "A thin red vertical line starts at the bottom of the top circle and runs straight down through the middle of the inner space.",
+      "updated_at": ""
+    },
+    {
+      "id": 6,
+      "relation_type": "text_shape",
+      "subject": "CALIDYS (upper left)",
+      "predicate": "inside",
+      "object": "inner rectangle",
+      "certainty": "high",
+      "evidence": "Free-standing red text in the upper left of the inner rectangle, to the right of the dark circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 7,
+      "relation_type": "geometric",
+      "subject": "IGNIS",
+      "predicate": "inside",
+      "object": "inner rectangle",
+      "certainty": "high",
+      "evidence": "Dark red circle filled with a grid pattern, with the text \"IGNIS\" written inside it, located in the upper left of the inner rectangle.",
+      "updated_at": ""
+    },
+    {
+      "id": 8,
+      "relation_type": "text_shape",
+      "subject": "CALIDYS (upper right)",
+      "predicate": "inside",
+      "object": "inner rectangle",
+      "certainty": "high",
+      "evidence": "Free-standing red text in the upper right of the inner rectangle, to the left of the pale green circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 9,
+      "relation_type": "geometric",
+      "subject": "AER",
+      "predicate": "inside",
+      "object": "inner rectangle",
+      "certainty": "high",
+      "evidence": "Pale green circle with the text \"AER\" written inside it, located in the upper right of the inner rectangle.",
+      "updated_at": ""
+    },
+    {
+      "id": 10,
+      "relation_type": "text_shape",
+      "subject": "IGNIS",
+      "predicate": "above",
+      "object": "SICCYS",
+      "certainty": "medium",
+      "evidence": "The free-standing text \"SICCYS\" sits just below the lower left edge of the dark red circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 11,
+      "relation_type": "text_shape",
+      "subject": "SICCYS",
+      "predicate": "inside",
+      "object": "inner rectangle",
+      "certainty": "high",
+      "evidence": "Free-standing red text at the left edge inside the inner rectangle.",
+      "updated_at": ""
+    },
+    {
+      "id": 12,
+      "relation_type": "text_shape",
+      "subject": "AER",
+      "predicate": "above",
+      "object": "YMIDYS",
+      "certainty": "medium",
+      "evidence": "The free-standing text \"YMIDYS\" sits below the lower left edge of the pale green circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 13,
+      "relation_type": "text_shape",
+      "subject": "YMIDYS",
+      "predicate": "inside",
+      "object": "inner rectangle",
+      "certainty": "high",
+      "evidence": "Free-standing red text at the right side inside the inner rectangle.",
+      "updated_at": ""
+    },
+    {
+      "id": 14,
+      "relation_type": "text_shape",
+      "subject": "ASIA",
+      "predicate": "above",
+      "object": "horizontal line",
+      "certainty": "medium",
+      "evidence": "Free-standing red text in the left central space, left of the vertical line and above the horizontal line.",
+      "updated_at": ""
+    },
+    {
+      "id": 15,
+      "relation_type": "text_shape",
+      "subject": "AFRICA",
+      "predicate": "above",
+      "object": "horizontal line",
+      "certainty": "medium",
+      "evidence": "Free-standing red text in the right central space, right of the vertical line and above the horizontal line.",
+      "updated_at": ""
+    },
+    {
+      "id": 16,
+      "relation_type": "text_shape",
+      "subject": "H ORIE S",
+      "predicate": "connected_to",
+      "object": "VER CALIDYM ET HYMIDYM",
+      "certainty": "high",
+      "evidence": "The left circle (double orange ring, letters H / ORIE / S stacked) touches the lower end of the orange diagonal band that contains the text \"VER CALIDYM ET HYMIDYM\", reading upward to the right.",
+      "updated_at": ""
+    },
+    {
+      "id": 17,
+      "relation_type": "text_shape",
+      "subject": "H ORIE S",
+      "predicate": "connected_to",
+      "object": "HIEMPS FRIGIDYS HYMIDYS",
+      "certainty": "high",
+      "evidence": "The left circle touches the upper end of the orange diagonal band running down to the bottom circle. The band contains the text \"HIEMPS FRIGIDYS HYMIDYS\", written upside down along its length.",
+      "updated_at": ""
+    },
+    {
+      "id": 18,
+      "relation_type": "text_shape",
+      "subject": "DE OCCI NS",
+      "predicate": "connected_to",
+      "object": "AESTAS CALIDA SICCA",
+      "certainty": "high",
+      "evidence": "The right circle (double orange ring, text rotated sideways in several lines) touches the lower end of the orange diagonal band that contains \"AESTAS CALIDA SICCA\".",
+      "updated_at": ""
+    },
+    {
+      "id": 19,
+      "relation_type": "text_shape",
+      "subject": "DE OCCI NS",
+      "predicate": "connected_to",
+      "object": "LHVMNVS SICCYS FRIGIDYS",
+      "certainty": "medium",
+      "evidence": "The right circle touches the upper end of the orange diagonal band running down to the bottom circle. The band contains the upside-down text \"LHVMNVS SICCYS FRIGIDYS\" (first word hard to read).",
+      "updated_at": ""
+    },
+    {
+      "id": 20,
+      "relation_type": "geometric",
+      "subject": "vertical line",
+      "predicate": "connected_to",
+      "object": "horizontal line",
+      "certainty": "high",
+      "evidence": "The thin red vertical line from the top circle ends on the thin red horizontal line, forming a T-junction.",
+      "updated_at": ""
+    },
+    {
+      "id": 21,
+      "relation_type": "text_shape",
+      "subject": "horizontal line",
+      "predicate": "connected_to",
+      "object": "HIEMPS FRIGIDYS HYMIDYS",
+      "certainty": "medium",
+      "evidence": "The left end of the thin red horizontal line meets the lower left orange band at about the lower third of the diagram.",
+      "updated_at": ""
+    },
+    {
+      "id": 22,
+      "relation_type": "text_shape",
+      "subject": "horizontal line",
+      "predicate": "connected_to",
+      "object": "LHVMNVS SICCYS FRIGIDYS",
+      "certainty": "medium",
+      "evidence": "The right end of the thin red horizontal line meets the lower right orange band.",
+      "updated_at": ""
+    },
+    {
+      "id": 23,
+      "relation_type": "text_shape",
+      "subject": "SICCA",
+      "predicate": "above",
+      "object": "TERRA",
+      "certainty": "high",
+      "evidence": "Free-standing red text at the left, located above the dark grey circle in the lower left.",
+      "updated_at": ""
+    },
+    {
+      "id": 24,
+      "relation_type": "text_shape",
+      "subject": "EYROPA",
+      "predicate": "below",
+      "object": "horizontal line",
+      "certainty": "high",
+      "evidence": "Free-standing red text in the lower central space, below the horizontal line.",
+      "updated_at": ""
+    },
+    {
+      "id": 25,
+      "relation_type": "text_shape",
+      "subject": "HYMIDA",
+      "predicate": "above",
+      "object": "AQUA",
+      "certainty": "high",
+      "evidence": "Free-standing red text at the right, located above the green circle in the lower right.",
+      "updated_at": ""
+    },
+    {
+      "id": 26,
+      "relation_type": "geometric",
+      "subject": "TERRA",
+      "predicate": "inside",
+      "object": "inner rectangle",
+      "certainty": "high",
+      "evidence": "Dark grey mottled circle with the text \"TERRA\" written inside it, located in the lower left of the inner rectangle.",
+      "updated_at": ""
+    },
+    {
+      "id": 27,
+      "relation_type": "geometric",
+      "subject": "AQUA",
+      "predicate": "inside",
+      "object": "inner rectangle",
+      "certainty": "high",
+      "evidence": "Green circle with the text \"AQUA\" written inside it, located in the lower right of the inner rectangle.",
+      "updated_at": ""
+    },
+    {
+      "id": 28,
+      "relation_type": "text_shape",
+      "subject": "TERRA",
+      "predicate": "above",
+      "object": "FRIGIDA (lower left)",
+      "certainty": "medium",
+      "evidence": "The free-standing text \"FRIGIDA\" sits beside and just below the lower right edge of the dark grey circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 29,
+      "relation_type": "text_shape",
+      "subject": "AQUA",
+      "predicate": "above",
+      "object": "FRIGIDA (lower right)",
+      "certainty": "medium",
+      "evidence": "The free-standing text \"FRIGIDA\" sits beside and just below the lower left edge of the green circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 30,
+      "relation_type": "text_shape",
+      "subject": "FRIGIDA (lower left)",
+      "predicate": "inside",
+      "object": "inner rectangle",
+      "certainty": "high",
+      "evidence": "Free-standing red text at the bottom left inside the inner rectangle.",
+      "updated_at": ""
+    },
+    {
+      "id": 31,
+      "relation_type": "text_shape",
+      "subject": "FRIGIDA (lower right)",
+      "predicate": "inside",
+      "object": "inner rectangle",
+      "certainty": "high",
+      "evidence": "Free-standing red text at the bottom right inside the inner rectangle.",
+      "updated_at": ""
+    },
+    {
+      "id": 32,
+      "relation_type": "text_shape",
+      "subject": "L AQUI O",
+      "predicate": "connected_to",
+      "object": "HIEMPS FRIGIDYS HYMIDYS",
+      "certainty": "high",
+      "evidence": "The bottom circle (double orange ring, letters L / AQUI / O) touches the lower end of the orange diagonal band that contains \"HIEMPS FRIGIDYS HYMIDYS\".",
+      "updated_at": ""
+    },
+    {
+      "id": 33,
+      "relation_type": "text_shape",
+      "subject": "L AQUI O",
+      "predicate": "connected_to",
+      "object": "LHVMNVS SICCYS FRIGIDYS",
+      "certainty": "high",
+      "evidence": "The bottom circle touches the lower end of the orange diagonal band that contains the upside-down text \"LHVMNVS SICCYS FRIGIDYS\".",
+      "updated_at": ""
+    },
+    {
+      "id": 34,
+      "relation_type": "geometric",
+      "subject": "corner mark (lower left)",
+      "predicate": "connected_to",
+      "object": "outer green square frame",
+      "certainty": "medium",
+      "evidence": "Small Y-shaped red mark at the lower left corner, joined to the corner of the green frame.",
+      "updated_at": ""
+    },
+    {
+      "id": 35,
+      "relation_type": "geometric",
+      "subject": "corner mark (lower right)",
+      "predicate": "connected_to",
+      "object": "outer green square frame",
+      "certainty": "medium",
+      "evidence": "Small Y-shaped red mark at the lower right corner, joined to the corner of the green frame.",
+      "updated_at": ""
+    },
+    {
+      "id": 36,
+      "relation_type": "geometric",
+      "subject": "corner mark (upper right)",
+      "predicate": "connected_to",
+      "object": "outer green square frame",
+      "certainty": "medium",
+      "evidence": "Small Y-shaped red mark at the upper right corner, joined to the corner of the green frame.",
+      "updated_at": ""
+    }
+  ],
+  "interpretation": [
+    {
+      "diagram_classification": "cosmological / natural-philosophical diagram (combined diagram of the four elements, four qualities, four seasons, four winds or cardinal directions and the three continents)",
+      "interpretation": "The diagram sets out a scheme of correspondences between macrocosmic orders. The four coloured circles IGNIS, AER, AQUA and TERRA stand for the four elements. Each is paired with two of the qualities CALIDYS, SICCYS, YMIDYS, HYMIDA, SICCA and FRIGIDA: fire is hot and dry, air hot and moist, water moist and cold, earth dry and cold. The four outer circles carry the names of the directions or winds: AUSER (south) at the top, HORIES (oriens, east) at the left, DE OCCINS (occidens, west) at the right and AQUILO (north) at the bottom. The orange bands joining these circles carry the seasons with their qualities: VER CALIDYM ET HYMIDYM (spring, hot and moist), AESTAS CALIDA SICCA (summer, hot and dry), and the two lower bands for autumn and winter. The lower left band reads HIEMPS FRIGIDYS HYMIDYS, an ordering that does not match the winter quality scheme exactly and may be a scribal or copying variant. The lower right band reads LHVMNVS SICCYS FRIGIDYS, probably AVTVMNVS, autumn, cold and dry. The inner T-shaped division into ASIA, AFRICA and EYROPA recalls the tripartite world map (T-O scheme). The whole diagram links the elements, qualities, seasons, winds and the known world in one harmonious macrocosmic structure inside a square frame.",
+      "basis": "textual",
+      "certainty": "medium",
+      "evidence": "The labels IGNIS, AER, AQUA and TERRA, the quality words, the season names on the bands (VER, AESTAS, HIEMPS), the direction names (AUSER, HORIES, DE OCCINS, AQUILO) and the continent names ASIA, AFRICA and EYROPA are all transcribed in Step 1. The pairing of elements with qualities and seasons follows the standard medieval scheme of four elements, four qualities and four seasons. The band texts are hard to read in places. The reading of \"LHVMNVS\" as autumn is a conjecture. The Step 1 entries naming bands such as \"HIEMPS FRIGIDYS HYMIDYS\" and \"LHVMNVS SICCYS FRIGIDYS\" as objects of connected_to are uncertain, and the horizontal line is treated as connected to bands that it may only touch. The Step 1 entry linking the horizontal line to the bands is of low reliability. The Step 1 entry 'E AUS R' correctly reads the stacked letters of AUSER. Step 1 entries 10 and 12 use 'above' to relate circles to the quality labels; that relation is loose and the labels are better read as attributes of the elements. The dated sources and exact tradition (for example Isidorian or Bedan-type cosmological schemes) are not claimed here because they cannot be confirmed from the image alone.",
+      "updated_at": ""
+    }
+  ]
+}

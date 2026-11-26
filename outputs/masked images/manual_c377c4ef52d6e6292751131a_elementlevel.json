@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometrical",
+    "subject": "large outer orange circle",
+    "predicate": "contains",
+    "object": "small central circle with yellow and blue ring",
+    "certainty": "high",
+    "evidence": "The large orange circle encloses the whole diagram, and the small central circle sits at its center.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "figurative",
+    "subject": "profile head with blue and yellow band at the neck",
+    "predicate": "inside",
+    "object": "small central circle with yellow and blue ring",
+    "certainty": "high",
+    "evidence": "The head in profile facing right is enclosed within the yellow and blue ring at the center. The neck and shoulder band touches the lower edge of the ring.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "geometrical",
+    "subject": "small central circle with yellow and blue ring",
+    "predicate": "connected_to",
+    "object": "yellow triangle with knot pattern at top",
+    "certainty": "high",
+    "evidence": "A thin dark straight line runs vertically upward from the top of the central ring to the triangle at the top of the outer circle.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "geometrical",
+    "subject": "small central circle with yellow and blue ring",
+    "predicate": "connected_to",
+    "object": "blue triangle with knot pattern at upper right (first)",
+    "certainty": "high",
+    "evidence": "A thin dark straight line runs diagonally from the central ring up and to the right to the triangle near the outer circle.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "geometrical",
+    "subject": "small central circle with yellow and blue ring",
+    "predicate": "connected_to",
+    "object": "blue triangle with knot pattern at right (upper)",
+    "certainty": "high",
+    "evidence": "A thin dark straight line runs from the central ring to the right and slightly upward to the triangle at the outer circle.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "geometrical",
+    "subject": "small central circle with yellow and blue ring",
+    "predicate": "connected_to",
+    "object": "yellow triangle with knot pattern at right",
+    "certainty": "high",
+    "evidence": "A thin dark horizontal line runs from the right side of the central ring to the triangle at the right edge of the outer circle.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "geometrical",
+    "subject": "small central circle with yellow and blue ring",
+    "predicate": "connected_to",
+    "object": "blue triangle with knot pattern at lower right (first)",
+    "certainty": "high",
+    "evidence": "A thin dark straight line runs diagonally from the central ring down and to the right to the triangle near the outer circle.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "geometrical",
+    "subject": "small central circle with yellow and blue ring",
+    "predicate": "connected_to",
+    "object": "blue triangle with knot pattern at lower right (second)",
+    "certainty": "high",
+    "evidence": "A thin dark straight line runs from the lower right of the central ring down to the triangle near the outer circle.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "geometrical",
+    "subject": "small central circle with yellow and blue ring",
+    "predicate": "connected_to",
+    "object": "yellow triangle with knot pattern at bottom",
+    "certainty": "high",
+    "evidence": "A thin dark line runs almost vertically downward from the bottom of the central ring to the triangle at the bottom of the outer circle.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "geometrical",
+    "subject": "small central circle with yellow and blue ring",
+    "predicate": "connected_to",
+    "object": "blue triangle with knot pattern at lower left (second)",
+    "certainty": "high",
+    "evidence": "A thin dark straight line runs from the lower left of the central ring down and to the left to the triangle near the outer circle.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "geometrical",
+    "subject": "small central circle with yellow and blue ring",
+    "predicate": "connected_to",
+    "object": "blue triangle with knot pattern at lower left (first)",
+    "certainty": "high",
+    "evidence": "A thin dark straight line runs from the central ring down and to the left to the triangle at the outer circle.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "geometrical",
+    "subject": "small central circle with yellow and blue ring",
+    "predicate": "connected_to",
+    "object": "yellow triangle with knot pattern at left",
+    "certainty": "high",
+    "evidence": "A thin dark horizontal line runs from the left side of the central ring to the triangle at the left edge of the outer circle.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 13,
+    "relation_type": "geometrical",
+    "subject": "small central circle with yellow and blue ring",
+    "predicate": "connected_to",
+    "object": "blue triangle with knot pattern at upper left (lower)",
+    "certainty": "high",
+    "evidence": "A thin dark straight line runs from the central ring up and to the left to the triangle near the outer circle.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 14,
+    "relation_type": "geometrical",
+    "subject": "small central circle with yellow and blue ring",
+    "predicate": "connected_to",
+    "object": "blue triangle with knot pattern at upper left (upper)",
+    "certainty": "high",
+    "evidence": "A thin dark straight line runs from the upper left of the central ring up to the triangle near the outer circle.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 15,
+    "relation_type": "geometrical",
+    "subject": "large outer orange circle",
+    "predicate": "contains",
+    "object": "yellow triangle with knot pattern at top",
+    "certainty": "medium",
+    "evidence": "The triangle sits against the inner edge of the orange circle at the top, with its upper side touching the ring.",
+    "updated_at": "2026-11-18T11:27Z"
+  }
+]

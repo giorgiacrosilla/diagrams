@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "relation_type": "text_shape",
+    "subject": "Cor?",
+    "predicate": "connected_to",
+    "object": "sun-like figure with a human face and red rays",
+    "certainty": "low",
+    "evidence": "Red text 'Cor?' (partly uncertain) is written to the left of the radiate disc with a face, at the top of the diagram. No line joins them; the text is only adjacent. Connected_to is the closest predicate, so certainty is low.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "text_shape",
+    "subject": "Sol's",
+    "predicate": "connected_to",
+    "object": "sun-like figure with a human face and red rays",
+    "certainty": "low",
+    "evidence": "Red text reading approximately 'Sohs' is written to the right of the radiate disc with a face. No line joins them; the text is only adjacent. Connected_to is the closest predicate, so certainty is low.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "figurative",
+    "subject": "sun-like figure with a human face and red rays",
+    "predicate": "above",
+    "object": "large outer concentric ring with tick marks",
+    "certainty": "high",
+    "evidence": "The radiate face disc sits at the top, touching or nearly touching the upper edge of the outer ring. Thin lines run through it toward the centre, so it may be joined to the ring.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "figurative",
+    "subject": "left brown crescent with red outline",
+    "predicate": "connected_to",
+    "object": "large outer concentric ring with tick marks",
+    "certainty": "medium",
+    "evidence": "The crescent is on the left edge of the ring, its concave side facing the ring. A thin horizontal line passes through the ring toward the central disc.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "figurative",
+    "subject": "right brown crescent with red outline",
+    "predicate": "connected_to",
+    "object": "large outer concentric ring with tick marks",
+    "certainty": "medium",
+    "evidence": "The crescent is on the right edge of the ring, its concave side facing the ring. A thin line from the central disc runs to the right edge.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "text_shape",
+    "subject": "Nox",
+    "predicate": "below",
+    "object": "brown ring-shaped disc with red outline and faint cross-like marks",
+    "certainty": "high",
+    "evidence": "Red text 'Nox' is written under the brown circular shape at the bottom of the diagram.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "figurative",
+    "subject": "brown ring-shaped disc with red outline and faint cross-like marks",
+    "predicate": "below",
+    "object": "large outer concentric ring with tick marks",
+    "certainty": "high",
+    "evidence": "The disc is at the bottom, just outside the lower edge of the outer ring.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "geometric",
+    "subject": "inner concentric circle",
+    "predicate": "inside",
+    "object": "large outer concentric ring with tick marks",
+    "certainty": "high",
+    "evidence": "A thinner circle lies inside the outer ring, which is bordered by short radial tick marks.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "geometric",
+    "subject": "small central brown disc with red outline",
+    "predicate": "inside",
+    "object": "inner concentric circle",
+    "certainty": "high",
+    "evidence": "The small brown disc sits at the common centre of the circles.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "geometric",
+    "subject": "small central brown disc with red outline",
+    "predicate": "connected_to",
+    "object": "inner concentric circle",
+    "certainty": "medium",
+    "evidence": "Many thin radial lines run from the central disc out to the circle and beyond, dividing the ring into sectors.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "text_shape",
+    "subject": "Oriens",
+    "predicate": "inside",
+    "object": "inner concentric circle",
+    "certainty": "high",
+    "evidence": "Red text 'Oriens' lies left of the central disc, inside the inner circle, on the left horizontal radial line.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "text_shape",
+    "subject": "Occidens (partly illegible: 'Ornid[illegible]')",
+    "predicate": "inside",
+    "object": "inner concentric circle",
+    "certainty": "medium",
+    "evidence": "Red text, partly smudged, lies right of the central disc, inside the inner circle, on the right horizontal radial line.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 13,
+    "relation_type": "text_shape",
+    "subject": "red vertical text above the centre ('medius' [illegible])",
+    "predicate": "inside",
+    "object": "inner concentric circle",
+    "certainty": "low",
+    "evidence": "Red vertical text lies above the central disc, inside the inner circle, along the vertical line. It is hard to read.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 14,
+    "relation_type": "text_shape",
+    "subject": "red vertical text below the centre ([illegible])",
+    "predicate": "inside",
+    "object": "inner concentric circle",
+    "certainty": "low",
+    "evidence": "Red vertical text lies below the central disc, inside the inner circle, along the vertical line. It is hard to read.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 15,
+    "relation_type": "text_shape",
+    "subject": "numerals 1 to 24 written in brown ink with red dots (e.g. '8', '9', '10', '11', '18', '19', '20', '21', '22')",
+    "predicate": "inside",
+    "object": "large outer concentric ring with tick marks",
+    "certainty": "medium",
+    "evidence": "Numerals are arranged in a circle in the band between the inner circle and the outer tick-marked ring. Each is placed within a sector between radial lines, with red dots near them. Some numerals are hard to read.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 16,
+    "relation_type": "figurative",
+    "subject": "small star-like outline figure at left",
+    "predicate": "connected_to",
+    "object": "left brown crescent with red outline",
+    "certainty": "low",
+    "evidence": "A small star-shaped figure lies to the left of the left crescent, on the horizontal line that extends beyond the ring.",
+    "updated_at": "2026-11-18T13:10Z"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometric",
+    "subject": "large outer circular band (yellow)",
+    "predicate": "contains",
+    "object": "six overlapping circular arcs/lobes arranged around the center",
+    "certainty": "high",
+    "evidence": "The outer yellow ring encloses all the colored arcs (brown, green, yellow), which meet or cross its inner edge around the circumference.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "text_shape",
+    "subject": "ANNVS",
+    "predicate": "inside",
+    "object": "large outer circular band (yellow)",
+    "certainty": "high",
+    "evidence": "The large decorated letters 'AN NV S' (the final letter small) stand in the center of the space enclosed by the outer ring, with green and brown stripes inside some letters.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "text_shape",
+    "subject": "humidus (top lobe, text 'humi' / 'dus')",
+    "predicate": "inside",
+    "object": "top-left arc lobe (brown and yellow arcs)",
+    "certainty": "medium",
+    "evidence": "The words 'humi' and 'dus' are written inside the lens-shaped area bounded by the yellow arc below and brown arc to the right at the top of the diagram.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "text_shape",
+    "subject": "uer / o / ri / ens (vertical text at top)",
+    "predicate": "inside",
+    "object": "overlap area between top humidus lobe and calidus lobe",
+    "certainty": "medium",
+    "evidence": "The syllables 'uer', 'o', 'ri', 'ens' are stacked vertically in the narrow band between the brown arc and the green arc at the top.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "text_shape",
+    "subject": "calidus (top right, text 'cali' / 'dus')",
+    "predicate": "inside",
+    "object": "top-right lobe bounded by green arc and yellow arc",
+    "certainty": "medium",
+    "evidence": "'cali' and 'dus' are written within the lens-shaped region to the right of the green band at the top.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "text_shape",
+    "subject": "caludus (right, text along the arc)",
+    "predicate": "inside",
+    "object": "right lobe bounded by brown arc and green arc",
+    "certainty": "medium",
+    "evidence": "'caludus' is written along the upper right, between the brown arc and the green band that curves across to the right.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "text_shape",
+    "subject": "estas / me / ri / dies (right vertical text)",
+    "predicate": "inside",
+    "object": "right lobe bounded by brown arc and yellow arc",
+    "certainty": "medium",
+    "evidence": "'estas', 'me', 'ri', and 'dies' are written in the right-hand region between the lower edge of the green band and the yellow arc below.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "text_shape",
+    "subject": "siccus (right lower, text 'siccus')",
+    "predicate": "inside",
+    "object": "lower-right region bounded by yellow arc and brown arc",
+    "certainty": "medium",
+    "evidence": "The word 'siccus' is written along the curve between the yellow arc and the outer ring at the lower right.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "text_shape",
+    "subject": "siccus (bottom, text 'siccus' at lower right of the bottom lobe)",
+    "predicate": "inside",
+    "object": "bottom-right lobe bounded by yellow arc and green arc",
+    "certainty": "medium",
+    "evidence": "The word at the bottom, right of center, is written between the yellow arc and the green band near the outer ring.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "text_shape",
+    "subject": "autumnus / oc / ci / sus (bottom center vertical text)",
+    "predicate": "inside",
+    "object": "bottom lobe bounded by green arc",
+    "certainty": "medium",
+    "evidence": "The syllables 'sue', 'ci', 'oc', 'nus', 'autum' are stacked vertically in the central lower region under the green arc, and appear upside down.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "text_shape",
+    "subject": "frigidus (bottom left, upside-down text 'frigi' / 'dus')",
+    "predicate": "inside",
+    "object": "bottom-left region bounded by green arc and brown arc",
+    "certainty": "medium",
+    "evidence": "'frigi' and 'dus' are written to the left of the vertical stack, between the green band and the brown arc.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "text_shape",
+    "subject": "frigidus (left, text 'frigi' / 'dus')",
+    "predicate": "inside",
+    "object": "left-bottom lobe bounded by brown arc and yellow arc",
+    "certainty": "medium",
+    "evidence": "The words 'frigi' and 'dus' are written along the left edge, rotated, inside the lens-shaped region at lower left.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 13,
+    "relation_type": "text_shape",
+    "subject": "hiemps / sep / ten / tri / orta (left vertical text columns)",
+    "predicate": "inside",
+    "object": "left region of the outer ring between two arcs",
+    "certainty": "low",
+    "evidence": "Rotated text columns including 'hiems', 'sep', 'ten', and a partly legible word such as 'orta' lie between the brown arc and the left outer ring; some portions are hard to read.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 14,
+    "relation_type": "text_shape",
+    "subject": "humidus (upper left, text 'humi' / 'dus' rotated)",
+    "predicate": "inside",
+    "object": "upper-left lobe bounded by brown arc and yellow arc",
+    "certainty": "medium",
+    "evidence": "The words 'humi' and 'dus' are written rotated along the left, within the lens-shaped area bounded by the brown arc.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 15,
+    "relation_type": "geometric",
+    "subject": "green arc (top right)",
+    "predicate": "connected_to",
+    "object": "green arc (right, curving to the center-right)",
+    "certainty": "medium",
+    "evidence": "A green band runs from the top edge near 'uer' down and curves across to the right near 'caludus', forming a continuous stroke.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 16,
+    "relation_type": "geometric",
+    "subject": "top lobe arcs (brown and yellow)",
+    "predicate": "above",
+    "object": "ANNVS",
+    "certainty": "medium",
+    "evidence": "The top lobes lie in the upper portion of the diagram while the central lettering is below them.",
+    "updated_at": "2026-11-18T13:12Z"
+  }
+]

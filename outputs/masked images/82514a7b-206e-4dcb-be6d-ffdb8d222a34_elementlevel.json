@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometrical",
+    "subject": "large circle",
+    "predicate": "contains",
+    "object": "horizontal line",
+    "certainty": "high",
+    "evidence": "The thin brown circular line encloses the horizontal band running between the left disc and the right radiating disc.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "figurative",
+    "subject": "left round disc",
+    "predicate": "connected_to",
+    "object": "right round disc with radiating short strokes",
+    "certainty": "high",
+    "evidence": "A straight, thick horizontal brown line runs from the right edge of the left disc to the left edge of the right disc, which has short radiating strokes around it.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "figurative",
+    "subject": "left round disc",
+    "predicate": "connected_to",
+    "object": "large circle",
+    "certainty": "medium",
+    "evidence": "The circular line passes through the left disc and is drawn over it as a vertical-ish line at the disc's left-center portion.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "figurative",
+    "subject": "right round disc with radiating short strokes",
+    "predicate": "connected_to",
+    "object": "large circle",
+    "certainty": "medium",
+    "evidence": "The circle line passes through the right disc, visible as a vertical line within the disc.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "figurative",
+    "subject": "upper half-disc at top",
+    "predicate": "connected_to",
+    "object": "large circle",
+    "certainty": "high",
+    "evidence": "The circle line crosses the half-disc at the top, with a vertical straight edge on its left side.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "figurative",
+    "subject": "lower half-disc at bottom",
+    "predicate": "connected_to",
+    "object": "large circle",
+    "certainty": "high",
+    "evidence": "The circle line crosses the half-disc at the bottom, with a flat vertical edge on its left side.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "figurative",
+    "subject": "upper-left small half-disc",
+    "predicate": "connected_to",
+    "object": "large circle",
+    "certainty": "high",
+    "evidence": "The circle line passes diagonally through the upper-left half-disc, whose flat edge faces lower-left.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "figurative",
+    "subject": "lower-left small half-disc",
+    "predicate": "connected_to",
+    "object": "large circle",
+    "certainty": "high",
+    "evidence": "The circle line passes through the lower-left half-disc, whose flat edge faces upper-left.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "figurative",
+    "subject": "upper-right crescent",
+    "predicate": "connected_to",
+    "object": "large circle",
+    "certainty": "high",
+    "evidence": "The circle line meets and crosses the thin crescent at the upper right, which opens toward the lower left.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "figurative",
+    "subject": "lower-right crescent",
+    "predicate": "connected_to",
+    "object": "large circle",
+    "certainty": "high",
+    "evidence": "The circle line touches the thin crescent at the lower right, which opens toward the upper left.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "figurative",
+    "subject": "upper half-disc at top",
+    "predicate": "above",
+    "object": "left round disc",
+    "certainty": "high",
+    "evidence": "The top half-disc is positioned at the top of the diagram, higher than the left disc at mid-height.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "figurative",
+    "subject": "lower half-disc at bottom",
+    "predicate": "below",
+    "object": "right round disc with radiating short strokes",
+    "certainty": "high",
+    "evidence": "The bottom half-disc sits at the bottom of the circle, lower than the right disc at mid-height.",
+    "updated_at": "2026-11-18T11:26Z"
+  }
+]

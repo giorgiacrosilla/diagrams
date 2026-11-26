@@ -1,0 +1,424 @@
+{
+  "element_analysis": [
+    {
+      "id": 1,
+      "relation_type": "text_shape",
+      "subject": "ORIENS",
+      "predicate": "above",
+      "object": "outer green circle",
+      "certainty": "high",
+      "evidence": "Free-standing word \"ORIENS\" written outside the ring, above its top edge.",
+      "updated_at": ""
+    },
+    {
+      "id": 2,
+      "relation_type": "text_shape",
+      "subject": "SEPTENTRIO",
+      "predicate": "above",
+      "object": "outer green circle",
+      "certainty": "low",
+      "evidence": "Free-standing word \"SEPTENTRIO\" written vertically outside the ring, level with its left edge. It is neither above nor below the ring, so \"above\" is only the closest allowed predicate.",
+      "updated_at": ""
+    },
+    {
+      "id": 3,
+      "relation_type": "text_shape",
+      "subject": "MERIDIES",
+      "predicate": "above",
+      "object": "outer green circle",
+      "certainty": "low",
+      "evidence": "Free-standing word \"MERIDIES\" written vertically outside the ring, level with its right edge. It is neither above nor below the ring, so \"above\" is only the closest allowed predicate.",
+      "updated_at": ""
+    },
+    {
+      "id": 4,
+      "relation_type": "text_shape",
+      "subject": "OCCIDENS",
+      "predicate": "below",
+      "object": "outer green circle",
+      "certainty": "high",
+      "evidence": "Free-standing word \"OCCIDENS\" written upside down outside the ring, below its bottom edge.",
+      "updated_at": ""
+    },
+    {
+      "id": 5,
+      "relation_type": "geometric",
+      "subject": "central circle",
+      "predicate": "inside",
+      "object": "outer green circle",
+      "certainty": "high",
+      "evidence": "Small empty circle with a pinkish outline at the centre of the large green ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 6,
+      "relation_type": "geometric",
+      "subject": "top vertical tan spoke",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "Radial tan band running from the top of the central circle upward.",
+      "updated_at": ""
+    },
+    {
+      "id": 7,
+      "relation_type": "geometric",
+      "subject": "top vertical tan spoke",
+      "predicate": "connected_to",
+      "object": "outer green circle",
+      "certainty": "high",
+      "evidence": "Its upper end meets the inner edge of the green ring at the top.",
+      "updated_at": ""
+    },
+    {
+      "id": 8,
+      "relation_type": "geometric",
+      "subject": "upper right green spoke",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "Radial green band starting at the upper right of the central circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 9,
+      "relation_type": "geometric",
+      "subject": "upper right green spoke",
+      "predicate": "connected_to",
+      "object": "outer green circle",
+      "certainty": "high",
+      "evidence": "Its outer end meets the green ring at the upper right.",
+      "updated_at": ""
+    },
+    {
+      "id": 10,
+      "relation_type": "geometric",
+      "subject": "right upper tan spoke",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "Radial tan band starting at the right side of the central circle and rising to the right.",
+      "updated_at": ""
+    },
+    {
+      "id": 11,
+      "relation_type": "geometric",
+      "subject": "right upper tan spoke",
+      "predicate": "connected_to",
+      "object": "outer green circle",
+      "certainty": "high",
+      "evidence": "Its outer end meets the green ring at the right.",
+      "updated_at": ""
+    },
+    {
+      "id": 12,
+      "relation_type": "geometric",
+      "subject": "right horizontal green spoke",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "Horizontal green band running from the right of the central circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 13,
+      "relation_type": "geometric",
+      "subject": "right horizontal green spoke",
+      "predicate": "connected_to",
+      "object": "outer green circle",
+      "certainty": "high",
+      "evidence": "Its right end meets the green ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 14,
+      "relation_type": "geometric",
+      "subject": "right lower tan spoke",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "Radial tan band going down and to the right from the central circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 15,
+      "relation_type": "geometric",
+      "subject": "right lower tan spoke",
+      "predicate": "connected_to",
+      "object": "outer green circle",
+      "certainty": "high",
+      "evidence": "Its outer end meets the green ring at the lower right.",
+      "updated_at": ""
+    },
+    {
+      "id": 16,
+      "relation_type": "geometric",
+      "subject": "lower right tan spoke",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "Radial tan band going down and to the right from the lower part of the central circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 17,
+      "relation_type": "geometric",
+      "subject": "lower right tan spoke",
+      "predicate": "connected_to",
+      "object": "outer green circle",
+      "certainty": "high",
+      "evidence": "Its outer end meets the green ring at the lower right.",
+      "updated_at": ""
+    },
+    {
+      "id": 18,
+      "relation_type": "geometric",
+      "subject": "bottom vertical tan spoke",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "Vertical tan band descending from the bottom of the central circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 19,
+      "relation_type": "geometric",
+      "subject": "bottom vertical tan spoke",
+      "predicate": "connected_to",
+      "object": "outer green circle",
+      "certainty": "high",
+      "evidence": "Its lower end meets the green ring at the bottom.",
+      "updated_at": ""
+    },
+    {
+      "id": 20,
+      "relation_type": "geometric",
+      "subject": "lower left green spoke",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "Radial green band going down and to the left from the central circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 21,
+      "relation_type": "geometric",
+      "subject": "lower left green spoke",
+      "predicate": "connected_to",
+      "object": "outer green circle",
+      "certainty": "high",
+      "evidence": "Its outer end meets the green ring at the lower left.",
+      "updated_at": ""
+    },
+    {
+      "id": 22,
+      "relation_type": "geometric",
+      "subject": "left lower tan spoke",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "Radial tan band going down and to the left from the left side of the central circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 23,
+      "relation_type": "geometric",
+      "subject": "left lower tan spoke",
+      "predicate": "connected_to",
+      "object": "outer green circle",
+      "certainty": "high",
+      "evidence": "Its outer end meets the green ring at the left.",
+      "updated_at": ""
+    },
+    {
+      "id": 24,
+      "relation_type": "geometric",
+      "subject": "left horizontal green spoke",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "Horizontal green band running from the left of the central circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 25,
+      "relation_type": "geometric",
+      "subject": "left horizontal green spoke",
+      "predicate": "connected_to",
+      "object": "outer green circle",
+      "certainty": "high",
+      "evidence": "Its left end meets the green ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 26,
+      "relation_type": "geometric",
+      "subject": "left upper tan spoke",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "Radial tan band going up and to the left from the central circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 27,
+      "relation_type": "geometric",
+      "subject": "left upper tan spoke",
+      "predicate": "connected_to",
+      "object": "outer green circle",
+      "certainty": "high",
+      "evidence": "Its outer end meets the green ring at the upper left.",
+      "updated_at": ""
+    },
+    {
+      "id": 28,
+      "relation_type": "geometric",
+      "subject": "upper left tan spoke",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "Radial tan band going up and slightly to the left from the central circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 29,
+      "relation_type": "geometric",
+      "subject": "upper left tan spoke",
+      "predicate": "connected_to",
+      "object": "outer green circle",
+      "certainty": "high",
+      "evidence": "Its outer end meets the green ring at the upper left.",
+      "updated_at": ""
+    },
+    {
+      "id": 30,
+      "relation_type": "text_shape",
+      "subject": "uulturnus calciar. & apella tiue.",
+      "predicate": "inside",
+      "object": "outer green circle",
+      "certainty": "high",
+      "evidence": "Sector between the upper left tan spoke and the top vertical tan spoke, with curved boundary lines. The text is written in it. Its text includes \"uulturnus\", \"calciar.\", \"& apella\" and \"tiue.\".",
+      "updated_at": ""
+    },
+    {
+      "id": 31,
+      "relation_type": "text_shape",
+      "subject": "sub sola nur apeli oter. haec",
+      "predicate": "inside",
+      "object": "outer green circle",
+      "certainty": "high",
+      "evidence": "Sector between the top vertical tan spoke and the upper right green spoke. The text is written in it. Its text includes \"sub sola nur apeli oter.\" and \"haec\".",
+      "updated_at": ""
+    },
+    {
+      "id": 32,
+      "relation_type": "text_shape",
+      "subject": "eurus euro rum",
+      "predicate": "inside",
+      "object": "outer green circle",
+      "certainty": "medium",
+      "evidence": "Sector between the upper right green spoke and the right upper tan spoke. Its text includes \"eurus euro\" and \"rum\". The transcription is uncertain.",
+      "updated_at": ""
+    },
+    {
+      "id": 33,
+      "relation_type": "text_shape",
+      "subject": "aquilo boreas ppre",
+      "predicate": "inside",
+      "object": "outer green circle",
+      "certainty": "medium",
+      "evidence": "Sector between the left upper tan spoke and the upper left tan spoke. Its text includes \"aquilo boreas\" and \"ppre\".",
+      "updated_at": ""
+    },
+    {
+      "id": 34,
+      "relation_type": "text_shape",
+      "subject": "euronotus ter. euro notus signa",
+      "predicate": "inside",
+      "object": "outer green circle",
+      "certainty": "medium",
+      "evidence": "Sector between the right upper tan spoke and the right horizontal green spoke. Its text includes \"euro...us ter. euro notus\" and \"signa\". The transcription is uncertain.",
+      "updated_at": ""
+    },
+    {
+      "id": 35,
+      "relation_type": "text_shape",
+      "subject": "septentrio a parcias distincte",
+      "predicate": "inside",
+      "object": "outer green circle",
+      "certainty": "medium",
+      "evidence": "Sector between the left horizontal green spoke and the left upper tan spoke. Its text includes \"septentrio\", \"a parcias\" and \"distincte\".",
+      "updated_at": ""
+    },
+    {
+      "id": 36,
+      "relation_type": "text_shape",
+      "subject": "auster notus XII",
+      "predicate": "inside",
+      "object": "outer green circle",
+      "certainty": "medium",
+      "evidence": "Sector between the right horizontal green spoke and the right lower tan spoke. Its text includes \"auster notus\" and \"XII\".",
+      "updated_at": ""
+    },
+    {
+      "id": 37,
+      "relation_type": "text_shape",
+      "subject": "circius marcias suum",
+      "predicate": "inside",
+      "object": "outer green circle",
+      "certainty": "medium",
+      "evidence": "Sector between the left lower tan spoke and the left horizontal green spoke. Its text includes \"circius marcias\" and \"suum\".",
+      "updated_at": ""
+    },
+    {
+      "id": 38,
+      "relation_type": "text_shape",
+      "subject": "uento auster africus uibonom",
+      "predicate": "inside",
+      "object": "outer green circle",
+      "certainty": "low",
+      "evidence": "Sector between the right lower tan spoke and the lower right tan spoke. Its text includes \"uento\" and \"auster africus uibonom\". The transcription is uncertain.",
+      "updated_at": ""
+    },
+    {
+      "id": 39,
+      "relation_type": "text_shape",
+      "subject": "ordine chorus agrestis",
+      "predicate": "inside",
+      "object": "outer green circle",
+      "certainty": "low",
+      "evidence": "Sector between the lower left green spoke and the left lower tan spoke. Its upside-down text includes \"ordine\" and \"chorus agrestis\". The transcription is uncertain.",
+      "updated_at": ""
+    },
+    {
+      "id": 40,
+      "relation_type": "text_shape",
+      "subject": "rum africus libr",
+      "predicate": "inside",
+      "object": "outer green circle",
+      "certainty": "low",
+      "evidence": "Sector between the lower right tan spoke and the bottom vertical tan spoke. Its upside-down text includes \"rum\" and \"africus libr\". The transcription is uncertain.",
+      "updated_at": ""
+    },
+    {
+      "id": 41,
+      "relation_type": "text_shape",
+      "subject": "iuxta zepphirnu fabonius",
+      "predicate": "inside",
+      "object": "outer green circle",
+      "certainty": "low",
+      "evidence": "Sector between the bottom vertical tan spoke and the lower left green spoke. Its upside-down text includes \"iuxta\", \"zepphir nu\" and \"fabonius\". The transcription is uncertain.",
+      "updated_at": ""
+    }
+  ],
+  "interpretation": [
+    {
+      "diagram_classification": "cosmological / meteorological diagram: wind rose (wheel of the twelve winds) with the four cardinal directions",
+      "interpretation": "The diagram is a wind wheel. A circle is divided by twelve radial bands into twelve sectors. Each sector carries the name of a wind, often with a second (Greek or Latin) name or a short explanatory phrase. The four cardinal points are written outside the ring: ORIENS (top, east), MERIDIES (right, south), OCCIDENS (bottom, west) and SEPTENTRIO (left, north). The wheel is therefore oriented with east at the top. The sector names are consistent with this: the winds of the east and south-east (\"eurus\", \"euro notus\", \"sub solanus\", \"apeliotes\"), the south (\"auster\", \"notus\"), the south-west and west (\"africus\", \"libs\", \"zephyrus\", \"fabonius\"), and the north-west and north (\"chorus\", \"circius\", \"septentrio\", \"aquilo\", \"boreas\"). The words \"vulturnus\" and \"calcias\" probably belong to the upper-left sector. The central empty circle is the hub of the wheel. The alternation of green and tan spokes probably marks the cardinal axes (the green horizontal and diagonal spokes) against the intermediate directions, but this is not certain. Phrases such as \"haec sunt\", \"appellantur\" or \"distincte\", \"a parcias\" and \"signa\" suggest explanatory prose. They probably say that these winds are called by these names and distinguished by their regions. The diagram thus works as a schematic compendium of wind names arranged around the horizon, in the tradition of medieval texts on natural science and computus.",
+      "basis": "textual",
+      "certainty": "medium",
+      "evidence": "Wind names are legible in the sectors (e.g. \"auster\", \"africus\", \"aquilo\", \"boreas\", \"circius\", \"euro notus\", \"zepphir\", \"fabonius\", \"uulturnus\", \"sub solanus\"). The cardinal terms ORIENS, MERIDIES, OCCIDENS and SEPTENTRIO are written outside the ring. The wheel form with twelve radial divisions and a central hub is visible. Several Step 1 transcriptions are uncertain, particularly in the lower, upside-down sectors, where text was recorded with low certainty. Some sector names in Step 1 are also partial or merged (e.g. \"uento auster africus uibonom\", \"ordine chorus agrestis\"). The Step 1 predicates for the cardinal labels SEPTENTRIO and MERIDIES (\"above\" the ring) are only approximate, because these words sit beside the ring, not above it. The \"XII\" in the right-hand sector supports the count of twelve winds. The specific source is not named because it cannot be identified with confidence.",
+      "updated_at": ""
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometric",
+    "subject": "large outer green circle",
+    "predicate": "contains",
+    "object": "small central circle",
+    "certainty": "high",
+    "evidence": "The small central circle with a pinkish-orange band and an empty interior sits at the centre of the large green ring.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "geometric",
+    "subject": "small central circle",
+    "predicate": "connected_to",
+    "object": "large outer green circle",
+    "certainty": "high",
+    "evidence": "Twelve radiating bands (alternately green, pinkish and ochre) run from the central circle's ring to the inner edge of the outer green ring, with thin curved lines at their bases.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "geometric",
+    "subject": "large outer green circle",
+    "predicate": "contains",
+    "object": "twelve wedge-shaped sectors",
+    "certainty": "high",
+    "evidence": "The radiating bands divide the space between the central circle and the outer ring into twelve wedge-shaped sectors, each containing handwritten text.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "text_shape",
+    "subject": "ORIENS",
+    "predicate": "above",
+    "object": "large outer green circle",
+    "certainty": "high",
+    "evidence": "The word is written outside the ring at the top of the diagram.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "text_shape",
+    "subject": "MERIDIES",
+    "predicate": "contains",
+    "object": "large outer green circle",
+    "certainty": "low",
+    "evidence": "The word is written vertically outside the ring on the right, rotated. The reading is uncertain (possibly 'MERIDIES'). No predicate fits well because the text is outside the circle and not connected to it; 'contains' is the closest and is used with low certainty.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "text_shape",
+    "subject": "OCCIDENS",
+    "predicate": "below",
+    "object": "large outer green circle",
+    "certainty": "high",
+    "evidence": "The word is written upside down outside the ring at the bottom of the diagram.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "text_shape",
+    "subject": "SEPTENTRIO",
+    "predicate": "contains",
+    "object": "large outer green circle",
+    "certainty": "low",
+    "evidence": "The word is written vertically outside the ring on the left, rotated. No predicate fits well because the text is outside the circle; 'contains' is the closest and is used with low certainty.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "text_shape",
+    "subject": "uulturnus calciar",
+    "predicate": "inside",
+    "object": "sector at top left of the vertical top band",
+    "certainty": "high",
+    "evidence": "The text 'uulturnus calciar' is written in two lines in the wedge-shaped sector immediately left of the top vertical band.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "text_shape",
+    "subject": "sub sola nur apeli oter",
+    "predicate": "inside",
+    "object": "sector at top right of the vertical top band",
+    "certainty": "high",
+    "evidence": "The text 'sub sola nur apeli oter.' is written in the wedge-shaped sector immediately right of the top vertical band.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "text_shape",
+    "subject": "& apella tiue / ppre",
+    "predicate": "inside",
+    "object": "sector at top left of the vertical top band",
+    "certainty": "low",
+    "evidence": "The text '& apella tiue' and 'ppre' (reading uncertain) appears below 'uulturnus calciar', in the same sector and along its adjacent bands.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "text_shape",
+    "subject": "haec rum",
+    "predicate": "inside",
+    "object": "sector at top right of the vertical top band",
+    "certainty": "medium",
+    "evidence": "The words 'haec' and 'rum' (reading of the second is uncertain) are written in the lower part of the sector right of the top band, below 'sub sola nur apeli oter'.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "text_shape",
+    "subject": "eurus eurо",
+    "predicate": "inside",
+    "object": "upper right sector between green band and ochre band",
+    "certainty": "medium",
+    "evidence": "The text 'eurus euro' (reading uncertain) is written diagonally along the sector at upper right.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 13,
+    "relation_type": "text_shape",
+    "subject": "eurоnоter. euro notus",
+    "predicate": "inside",
+    "object": "right sector above the horizontal green band",
+    "certainty": "medium",
+    "evidence": "Rotated text reading approximately 'eurоnоter. euro notus' with 'sigma' (uncertain) is written in the sector above the horizontal green band on the right.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 14,
+    "relation_type": "text_shape",
+    "subject": "XII",
+    "predicate": "inside",
+    "object": "right sector below the horizontal green band",
+    "certainty": "medium",
+    "evidence": "The rotated numeral 'XII' (uncertain) appears in the sector below the horizontal green band on the right, beside 'auster notus'.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 15,
+    "relation_type": "text_shape",
+    "subject": "auster notus",
+    "predicate": "inside",
+    "object": "right sector below the horizontal green band",
+    "certainty": "medium",
+    "evidence": "Rotated text reading approximately 'auster notus' is written near the outer ring in the sector below the horizontal band.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 16,
+    "relation_type": "text_shape",
+    "subject": "auster africus libonotus",
+    "predicate": "inside",
+    "object": "lower right sector",
+    "certainty": "low",
+    "evidence": "Rotated text reading approximately 'auster africus libonotus' and 'uentorum' (uncertain) is written in the lower right sectors.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 17,
+    "relation_type": "text_shape",
+    "subject": "africus lib",
+    "predicate": "inside",
+    "object": "sector at bottom right of the lower vertical band",
+    "certainty": "low",
+    "evidence": "Upside-down text reading approximately 'africus lib' is written near the outer ring at the bottom.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 18,
+    "relation_type": "text_shape",
+    "subject": "fabonius zepphirus",
+    "predicate": "inside",
+    "object": "sector at bottom left of the lower vertical band",
+    "certainty": "low",
+    "evidence": "Upside-down text reading approximately 'fabonius zepphirus' / 'nus' is written near the lower outer ring.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 19,
+    "relation_type": "text_shape",
+    "subject": "iuxta ordine",
+    "predicate": "inside",
+    "object": "lower left sector",
+    "certainty": "low",
+    "evidence": "Upside-down text reading approximately 'iuxta ordine' is written in the lower left sectors.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 20,
+    "relation_type": "text_shape",
+    "subject": "corus argestes",
+    "predicate": "inside",
+    "object": "left sector below the horizontal band",
+    "certainty": "low",
+    "evidence": "Upside-down text reading approximately 'corus argestes' is written in the sector near the outer ring at lower left.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 21,
+    "relation_type": "text_shape",
+    "subject": "circius marciar",
+    "predicate": "inside",
+    "object": "left sector below the horizontal green band",
+    "certainty": "low",
+    "evidence": "Rotated text reading approximately 'circius marciar' and 'suum' is written in the sector just below the horizontal green band on the left.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 22,
+    "relation_type": "text_shape",
+    "subject": "septentrio a parcias",
+    "predicate": "inside",
+    "object": "left sector above the horizontal green band",
+    "certainty": "medium",
+    "evidence": "Rotated text reading approximately 'septentrio a parcias' and 'distinctе' is written in the sector just above the horizontal green band on the left.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 23,
+    "relation_type": "text_shape",
+    "subject": "aquilo boreas",
+    "predicate": "inside",
+    "object": "upper left sector",
+    "certainty": "medium",
+    "evidence": "Rotated text reading 'aquilo boreas' is written in the wedge-shaped sector at upper left.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 24,
+    "relation_type": "geometric",
+    "subject": "horizontal green band",
+    "predicate": "connected_to",
+    "object": "small central circle",
+    "certainty": "high",
+    "evidence": "A horizontal green band crosses on both sides of the central circle, reaching the outer ring at left and right.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 25,
+    "relation_type": "geometric",
+    "subject": "vertical pinkish band at top",
+    "predicate": "connected_to",
+    "object": "small central circle",
+    "certainty": "high",
+    "evidence": "A vertical pinkish-orange band runs from the top of the central circle to the outer ring at the top, below 'ORIENS'.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 26,
+    "relation_type": "geometric",
+    "subject": "vertical pinkish band at bottom",
+    "predicate": "connected_to",
+    "object": "small central circle",
+    "certainty": "high",
+    "evidence": "A vertical pinkish band runs from the bottom of the central circle to the outer ring at the bottom, above 'OCCIDENS'.",
+    "updated_at": "2026-11-18T13:12Z"
+  }
+]

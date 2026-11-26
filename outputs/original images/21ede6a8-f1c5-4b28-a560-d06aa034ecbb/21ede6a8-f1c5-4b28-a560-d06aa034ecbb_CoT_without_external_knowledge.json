@@ -1,0 +1,184 @@
+{
+  "element_analysis": [
+    {
+      "id": 1,
+      "relation_type": "text_shape",
+      "subject": "top manuscript text",
+      "predicate": "above",
+      "object": "sun figure",
+      "certainty": "high",
+      "evidence": "Lines of running script at the top edge of the page, partly legible and partly [illegible]: \"ist em weil ser ein stunde als in diser spere gestehen stet\". They lie above the sun figure and are not enclosed in any element.",
+      "updated_at": ""
+    },
+    {
+      "id": 2,
+      "relation_type": "text_shape",
+      "subject": "Cor?",
+      "predicate": "below",
+      "object": "top manuscript text",
+      "certainty": "low",
+      "evidence": "Free-standing red text \"Cor?\" (reading uncertain) to the left of the sun figure, below the top lines of script. It is not written inside or on any element.",
+      "updated_at": ""
+    },
+    {
+      "id": 3,
+      "relation_type": "text_shape",
+      "subject": "sohs",
+      "predicate": "below",
+      "object": "top manuscript text",
+      "certainty": "low",
+      "evidence": "Free-standing red text \"sohs\" (reading uncertain) to the right of the sun figure, below the top lines of script. It is not written inside or on any element.",
+      "updated_at": ""
+    },
+    {
+      "id": 4,
+      "relation_type": "figurative",
+      "subject": "sun figure",
+      "predicate": "connected_to",
+      "object": "outer hatched ring",
+      "certainty": "medium",
+      "evidence": "Round disc with a human-like face (eyes, nose, mouth) surrounded by red pointed rays. The lower rays touch the top of the hatched outer ring, and a thin vertical line runs from the disc towards the centre of the diagram.",
+      "updated_at": ""
+    },
+    {
+      "id": 5,
+      "relation_type": "geometric",
+      "subject": "inner circle",
+      "predicate": "inside",
+      "object": "outer hatched ring",
+      "certainty": "high",
+      "evidence": "A thin concentric circle lies inside the wide band of short radial hatch marks that forms the outer ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 6,
+      "relation_type": "text_shape",
+      "subject": "numerals",
+      "predicate": "inside",
+      "object": "outer hatched ring",
+      "certainty": "medium",
+      "evidence": "Numerals (e.g. \"8\", \"9\", \"10\", \"11\", \"18\", \"19\", \"20\", \"21\", \"22\", \"23\", \"1\"; others partly illegible) are written in red and brown in a circle in the annulus between the inner circle and the hatched ring, each next to a radial line.",
+      "updated_at": ""
+    },
+    {
+      "id": 7,
+      "relation_type": "geometric",
+      "subject": "central circle",
+      "predicate": "connected_to",
+      "object": "inner circle",
+      "certainty": "medium",
+      "evidence": "Small brown-filled circle with a red outline at the centre. Many thin radial lines run from it outwards to the inner circle and the outer ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 8,
+      "relation_type": "text_shape",
+      "subject": "top vertical text",
+      "predicate": "inside",
+      "object": "inner circle",
+      "certainty": "low",
+      "evidence": "Red text written vertically in the upper part of the inner circle, above the central circle, partly illegible: \"[illegible]dies\".",
+      "updated_at": ""
+    },
+    {
+      "id": 9,
+      "relation_type": "text_shape",
+      "subject": "Oriens",
+      "predicate": "inside",
+      "object": "inner circle",
+      "certainty": "medium",
+      "evidence": "Red text \"Oriens\" (reading uncertain) written horizontally in the left part of the inner circle, to the left of the central circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 10,
+      "relation_type": "text_shape",
+      "subject": "Omidɛ",
+      "predicate": "inside",
+      "object": "inner circle",
+      "certainty": "low",
+      "evidence": "Red text, uncertain and partly illegible, \"Omidɛ[illegible]\", written horizontally in the right part of the inner circle, to the right of the central circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 11,
+      "relation_type": "text_shape",
+      "subject": "bottom vertical text",
+      "predicate": "inside",
+      "object": "inner circle",
+      "certainty": "low",
+      "evidence": "Red text written vertically in the lower part of the inner circle, below the central circle, mostly illegible: \"Septe[illegible]\".",
+      "updated_at": ""
+    },
+    {
+      "id": 12,
+      "relation_type": "figurative",
+      "subject": "left crescent",
+      "predicate": "connected_to",
+      "object": "outer hatched ring",
+      "certainty": "medium",
+      "evidence": "Brown crescent with a red outline, opening to the right, at the left edge of the ring. Its inner curve touches the hatched ring, and a faint horizontal line continues from it across the diagram.",
+      "updated_at": ""
+    },
+    {
+      "id": 13,
+      "relation_type": "figurative",
+      "subject": "star outline",
+      "predicate": "connected_to",
+      "object": "left crescent",
+      "certainty": "low",
+      "evidence": "Small star drawn in thin brown outline to the left of the left crescent, on the same horizontal line as the crescent's centre. A faint line may join them.",
+      "updated_at": ""
+    },
+    {
+      "id": 14,
+      "relation_type": "figurative",
+      "subject": "right crescent",
+      "predicate": "connected_to",
+      "object": "outer hatched ring",
+      "certainty": "medium",
+      "evidence": "Brown crescent with a red outline, opening to the left, at the right edge of the ring. Its inner curve touches or nearly touches the hatched ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 15,
+      "relation_type": "figurative",
+      "subject": "bottom circle",
+      "predicate": "connected_to",
+      "object": "outer hatched ring",
+      "certainty": "medium",
+      "evidence": "Brown circle with a double red outline and a faintly drawn face-like or cross-like mark inside, placed directly below the hatched ring and touching or nearly touching its lower edge.",
+      "updated_at": ""
+    },
+    {
+      "id": 16,
+      "relation_type": "text_shape",
+      "subject": "Nox",
+      "predicate": "below",
+      "object": "bottom circle",
+      "certainty": "high",
+      "evidence": "Free-standing red text \"Nox\" directly below the bottom circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 17,
+      "relation_type": "geometric",
+      "subject": "red radiating ticks",
+      "predicate": "connected_to",
+      "object": "outer hatched ring",
+      "certainty": "low",
+      "evidence": "Short red straight strokes radiate outward at intervals around the outside of the hatched ring, lying in line with the radial lines.",
+      "updated_at": ""
+    }
+  ],
+  "interpretation": [
+    {
+      "diagram_classification": "cosmological / astronomical-astrological (time-reckoning diagram of day and night, hours and the lunar cycle)",
+      "interpretation": "The diagram appears to be a circular scheme of the diurnal cycle and the reckoning of time. The sun-face at the top is labelled with a word that may read \"sol\"/\"solis\" (Step 1 gave \"sohs\", uncertain). It marks the position of day or noon. The disc with the face and the word \"Nox\" at the bottom marks night or midnight. The two crescents at left and right, with the words \"Oriens\" at left and probably \"Occidens\" at right (Step 1 gave \"Omidɛ\", uncertain), mark the eastern and western horizon points. The vertical words at the top and bottom of the inner circle may be \"Meridies\" and \"Septentrio\" (Step 1 gave only partial or illegible readings), which would complete a scheme of the four cardinal points. The numerals around the ring (about 1 to 24) probably count the 24 hours of the day, with the radial lines dividing the circle into 24 equal sectors. The hatched outer ring would be a graduated scale or horizon band. The red ticks outside it may be rays or marks extending the hour divisions. The central circle would be the earth or the observer's point. The German note at the top (\"... ein stunde als in diser spere gestehen stet\") suggests that the figure illustrates the hour-reckoning of a sphere, i.e. where the sun stands at a given hour. This would make it a diagram in a treatise on astronomy, the sphere or timekeeping, perhaps with astrological use.",
+      "basis": "textual",
+      "certainty": "medium",
+      "evidence": "Interpretation relies on the labels \"Oriens\", \"Nox\", the sun-like figure with its label and the numerals arranged around a circle. It also relies on the topic of the German text above, which mentions an hour (\"stunde\") and a \"spere\". Several readings from Step 1 are uncertain or partial (\"Cor?\", \"sohs\", \"Omidɛ\", the vertical words), so the identification of \"Occidens\", \"Meridies\" and \"Septentrio\" is conjectural. The Step 1 reading \"Cor?\" may in fact be a different word, and its relation to the top text (predicate \"below\") is only approximate. The numerals are only partly legible, so the count of 24 is inferred from the radial divisions, not fully read. The star outline at the left is uninterpreted, since it is a small unlabelled mark, possibly a later addition or an astral sign. The Step 1 entries that treat the crescents and bottom disc as \"connected_to\" the ring are tentative, since they only touch it. The crescents are probably the moon in phases, associated with the night hours and the east-west axis, but this is not explicitly stated by any label.",
+      "updated_at": ""
+    }
+  ]
+}

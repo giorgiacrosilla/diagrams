@@ -1,0 +1,230 @@
+{
+  "element_analysis": [
+    {
+      "id": 1,
+      "relation_type": "geometric",
+      "subject": "humidus (top circle)",
+      "predicate": "inside",
+      "object": "outer yellow ring",
+      "certainty": "high",
+      "evidence": "Circle drawn with yellow and brown bands at the top of the field. It lies fully within the large outer yellow circular band. The word \"humi dus\" is written inside it in two lines.",
+      "updated_at": ""
+    },
+    {
+      "id": 2,
+      "relation_type": "text_shape",
+      "subject": "humidus (top circle)",
+      "predicate": "connected_to",
+      "object": "calidus (top right circle)",
+      "certainty": "medium",
+      "evidence": "The two circles overlap at the top, and their arcs cross. The brown arc of the left circle passes beside the vertical text \"uer o ri ens\", and the green arc of the right circle crosses the yellow arc. Labels: \"humi dus\" and \"cali dus\".",
+      "updated_at": ""
+    },
+    {
+      "id": 3,
+      "relation_type": "geometric",
+      "subject": "calidus (top right circle)",
+      "predicate": "inside",
+      "object": "outer yellow ring",
+      "certainty": "high",
+      "evidence": "Circle with green and yellow bands at the upper right. It lies within the outer band. The word \"cali dus\" is written inside it.",
+      "updated_at": ""
+    },
+    {
+      "id": 4,
+      "relation_type": "text_shape",
+      "subject": "uer o ri ens",
+      "predicate": "inside",
+      "object": "outer yellow ring",
+      "certainty": "medium",
+      "evidence": "Free-standing text written vertically in short syllable lines (\"uer\", \"o\", \"ri\", \"ens\") at the top. It lies between the brown arc and the green arc, in the overlap of the top circles. It is not written on any single band.",
+      "updated_at": ""
+    },
+    {
+      "id": 5,
+      "relation_type": "text_shape",
+      "subject": "ANNVS",
+      "predicate": "inside",
+      "object": "outer yellow ring",
+      "certainty": "high",
+      "evidence": "Large free-standing capital letters \"AN NV\" and a V containing a small \"s\", with green and brown hatched strokes. They are written in the centre of the field, inside the outer band and surrounded by the ring of circles.",
+      "updated_at": ""
+    },
+    {
+      "id": 6,
+      "relation_type": "geometric",
+      "subject": "humidus (upper left circle)",
+      "predicate": "inside",
+      "object": "outer yellow ring",
+      "certainty": "high",
+      "evidence": "Circle with brown and yellow bands at the upper left. It lies within the outer band. The text \"humi dus\" is written inside it, turned sideways.",
+      "updated_at": ""
+    },
+    {
+      "id": 7,
+      "relation_type": "text_shape",
+      "subject": "humidus (upper left circle)",
+      "predicate": "connected_to",
+      "object": "humidus (top circle)",
+      "certainty": "medium",
+      "evidence": "The brown arc of the upper left circle crosses the brown and yellow arcs of the top circle near the upper left of the centre. The circles overlap. Both are labelled \"humi dus\".",
+      "updated_at": ""
+    },
+    {
+      "id": 8,
+      "relation_type": "text_shape",
+      "subject": "calidus (top right circle)",
+      "predicate": "connected_to",
+      "object": "caludus (right circle)",
+      "certainty": "medium",
+      "evidence": "The green band of the top right circle continues down and crosses the brown arc of the right circle. The circles overlap. Labels: \"cali dus\" and \"caludus\".",
+      "updated_at": ""
+    },
+    {
+      "id": 9,
+      "relation_type": "geometric",
+      "subject": "caludus (right circle)",
+      "predicate": "inside",
+      "object": "outer yellow ring",
+      "certainty": "high",
+      "evidence": "Circle with brown and green bands at the right. It lies within the outer band. The word \"caludus\" is written along its upper right edge.",
+      "updated_at": ""
+    },
+    {
+      "id": 10,
+      "relation_type": "text_shape",
+      "subject": "hiemſ sep ten tri o",
+      "predicate": "inside",
+      "object": "outer yellow ring",
+      "certainty": "medium",
+      "evidence": "Free-standing text written vertically in separate lines (\"hiemſ\", \"sep\", \"ten\", \"tri\", \"o\"). It sits at the left between the upper left and lower left circles. The last letters are hard to read.",
+      "updated_at": ""
+    },
+    {
+      "id": 11,
+      "relation_type": "text_shape",
+      "subject": "eftas me ri dies",
+      "predicate": "inside",
+      "object": "outer yellow ring",
+      "certainty": "medium",
+      "evidence": "Free-standing text on the right, split into \"eftas\", \"me\", \"ri\" and \"dies\". It lies in the overlap area of the right circle and the lower right circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 12,
+      "relation_type": "text_shape",
+      "subject": "caludus (right circle)",
+      "predicate": "connected_to",
+      "object": "siccus (lower right circle)",
+      "certainty": "medium",
+      "evidence": "The brown arc of the right circle crosses the yellow arc of the lower right circle. The circles overlap. Labels: \"caludus\" and \"ficcay\" (\"siccus\").",
+      "updated_at": ""
+    },
+    {
+      "id": 13,
+      "relation_type": "geometric",
+      "subject": "siccus (lower right circle)",
+      "predicate": "inside",
+      "object": "outer yellow ring",
+      "certainty": "high",
+      "evidence": "Circle with a yellow band at the lower right. It lies within the outer band. The word \"ficcay\" is written along its right edge.",
+      "updated_at": ""
+    },
+    {
+      "id": 14,
+      "relation_type": "text_shape",
+      "subject": "siccus (lower right circle)",
+      "predicate": "connected_to",
+      "object": "siccus (bottom right circle)",
+      "certainty": "low",
+      "evidence": "Yellow arcs from the lower right and bottom circles cross each other near the lower right. They may be separate overlapping circles or parts of one large yellow circle. Both are labelled \"ficcay\"/\"ficcuf\".",
+      "updated_at": ""
+    },
+    {
+      "id": 15,
+      "relation_type": "geometric",
+      "subject": "siccus (bottom right circle)",
+      "predicate": "inside",
+      "object": "outer yellow ring",
+      "certainty": "medium",
+      "evidence": "Yellow-banded arc circle at the bottom right. It lies within the outer band. The text \"ficcuf\" is written upside down along its lower edge.",
+      "updated_at": ""
+    },
+    {
+      "id": 16,
+      "relation_type": "text_shape",
+      "subject": "autum nus oc ci dens",
+      "predicate": "inside",
+      "object": "outer yellow ring",
+      "certainty": "medium",
+      "evidence": "Free-standing text at the bottom, written upside down in short lines (\"autum\", \"nus\", \"oc\", \"ci\" and a last line that is hard to read). It lies between the green arc and the yellow arc.",
+      "updated_at": ""
+    },
+    {
+      "id": 17,
+      "relation_type": "text_shape",
+      "subject": "siccus (bottom right circle)",
+      "predicate": "connected_to",
+      "object": "frigidus (bottom left circle)",
+      "certainty": "medium",
+      "evidence": "The yellow arc of the bottom right circle crosses the green band of the bottom left circle. The circles overlap. Labels: \"ficcuf\" and \"frigidus\".",
+      "updated_at": ""
+    },
+    {
+      "id": 18,
+      "relation_type": "geometric",
+      "subject": "frigidus (bottom left circle)",
+      "predicate": "inside",
+      "object": "outer yellow ring",
+      "certainty": "high",
+      "evidence": "Circle with a thick green band at the bottom. It lies within the outer band. The text \"frigidus\" is written upside down inside it at the lower left.",
+      "updated_at": ""
+    },
+    {
+      "id": 19,
+      "relation_type": "text_shape",
+      "subject": "frigidus (bottom left circle)",
+      "predicate": "connected_to",
+      "object": "frigidus (left circle)",
+      "certainty": "medium",
+      "evidence": "The brown arc of the left circle runs down and crosses the green band of the bottom left circle. The circles overlap. Both are labelled \"frigidus\".",
+      "updated_at": ""
+    },
+    {
+      "id": 20,
+      "relation_type": "geometric",
+      "subject": "frigidus (left circle)",
+      "predicate": "inside",
+      "object": "outer yellow ring",
+      "certainty": "high",
+      "evidence": "Circle with brown and yellow bands at the lower left. It lies within the outer band. The text \"frigidus\" is written sideways inside it.",
+      "updated_at": ""
+    },
+    {
+      "id": 21,
+      "relation_type": "text_shape",
+      "subject": "frigidus (left circle)",
+      "predicate": "connected_to",
+      "object": "humidus (upper left circle)",
+      "certainty": "medium",
+      "evidence": "The brown arcs of the two left circles cross each other near the left edge. They overlap, and the vertical text \"hiemſ sep ten tri o\" lies between them. Labels: \"frigidus\" and \"humi dus\".",
+      "updated_at": ""
+    }
+  ],
+  "interpretation": [
+    {
+      "diagram_classification": "cosmological / computistic diagram (annus: year, seasons, qualities of the elements)",
+      "interpretation": "The diagram is a schematic representation of the year (ANNVS, written at the centre) divided into the four seasons, each tied to a pair of qualities. Overlapping circles arranged around the centre carry the labels humidus, calidus, siccus and frigidus. The seasons are written between the circles: uer o ri ens (ver oriens, spring, east), eftas meridies (aestas meridies, summer, south), autumnus occidens (autumnus occidens, autumn, west) and hiemſ septentrio (hiems septentrio, winter, north). Spring is humid and warm, summer warm and dry, autumn dry and cold, and winter cold and humid. Each quality is shared by two neighbouring seasons, which is why each circle overlaps two seasonal zones. The result is a ring of eight overlapping lobes, each quality appearing twice. The diagram thus combines the cycle of the seasons, the four cardinal directions and the four qualities. These are the usual correspondences of the four elements and the four humours in the natural-philosophical and computistic tradition of the early medieval period.",
+      "basis": "textual",
+      "certainty": "high",
+      "evidence": "The title \"AN NV s\" at the centre is read as ANNVS. The qualities humidus, calidus (also spelled \"caludus\"), siccus (\"ficcay\", \"ficcuf\", with long s) and frigidus are all legible inside the circles. The seasonal terms are legible in fragments, such as \"uer o ri ens\", \"eftas me ri dies\", \"autum nus oc ci dens\" and \"hiemſ sep ten tri o\". The pairing of these terms follows the standard scheme of seasons, cardinal points and qualities, which is external knowledge. Some of the cardinal terms are partly illegible and have been completed on the basis of this scheme. Step 1 treated the seasonal words as free-standing text and read some of them hesitantly (for instance \"ri\" for \"tri\" and the last line of the autumn text). These are readings, not interpretations. Step 1 also gave the circles only as relations to the outer ring and to neighbouring circles, without the seasonal reading."
+    },
+    {
+      "diagram_classification": "structural reading of the circles and their overlaps",
+      "interpretation": "The eight overlapping circles form a ring around the central word. Each circle represents one elemental quality, and its overlap with the next circle represents the season where two qualities meet. The colours of the bands (yellow, brown and green) mark the circles and their crossings. The outer yellow ring encloses the whole system and stands for the closed cycle of the year. No colour clearly corresponds to one quality, so the colours seem decorative or used for distinguishing the arcs. The circles are arranged so that opposite qualities (humid and dry, warm and cold) lie across the centre from each other.",
+      "basis": "visual",
+      "certainty": "medium",
+      "evidence": "The outer ring contains the eight circles and the central title. Adjacent circles overlap at the places where the season names are written. The colours alternate between circles without a clear pattern, so the colour reading is uncertain. The pairing of opposites is inferred from the labels and their positions and is not stated in the diagram. Step 1 entry 14 treats two yellow arcs at the lower right as possibly separate circles or one large circle (low certainty), so the exact number of circles is uncertain. Step 1 also uses \"connected_to\" between circles that merely overlap, a loose use of the predicate."
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "relation_type": "figurative",
+    "subject": "red-rayed disc with a human face (top)",
+    "predicate": "above",
+    "object": "large circular band with tick marks",
+    "certainty": "high",
+    "evidence": "The red-rayed disc with a face is at the top centre, touching or nearly touching the upper edge of the outer ring. It is not joined to it by a line.",
+    "updated_at": "2026-11-18T11:25Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "figurative",
+    "subject": "left brown crescent with red outline",
+    "predicate": "connected_to",
+    "object": "large circular band with tick marks",
+    "certainty": "medium",
+    "evidence": "The crescent sits against the left edge of the outer ring, and a thin horizontal line runs from the ring's left side towards the small star.",
+    "updated_at": "2026-11-18T11:25Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "figurative",
+    "subject": "left brown crescent with red outline",
+    "predicate": "connected_to",
+    "object": "small star outline at left",
+    "certainty": "low",
+    "evidence": "A thin horizontal line appears to run from the crescent towards the small outlined star to its left. The line is faint.",
+    "updated_at": "2026-11-18T11:25Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "figurative",
+    "subject": "right brown crescent with red outline",
+    "predicate": "connected_to",
+    "object": "large circular band with tick marks",
+    "certainty": "medium",
+    "evidence": "The crescent opens towards the right edge of the outer ring and touches it. A radial line from the centre extends to this side.",
+    "updated_at": "2026-11-18T11:25Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "figurative",
+    "subject": "brown circle with red outline and face-like markings (bottom)",
+    "predicate": "below",
+    "object": "large circular band with tick marks",
+    "certainty": "high",
+    "evidence": "The double-ringed brown circle is at the bottom centre, just beneath the lower edge of the outer ring. It is not joined to it by a line.",
+    "updated_at": "2026-11-18T11:25Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "geometrical",
+    "subject": "large circular band with tick marks",
+    "predicate": "contains",
+    "object": "inner thin circle",
+    "certainty": "high",
+    "evidence": "A thinner concentric circle is drawn inside the outer ring, which is filled with short radial tick marks.",
+    "updated_at": "2026-11-18T11:25Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "geometrical",
+    "subject": "inner thin circle",
+    "predicate": "contains",
+    "object": "central brown circle with red outline",
+    "certainty": "high",
+    "evidence": "A small brown disc with a red outline sits at the centre of the concentric circles.",
+    "updated_at": "2026-11-18T11:25Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "geometrical",
+    "subject": "central brown circle with red outline",
+    "predicate": "connected_to",
+    "object": "large circular band with tick marks",
+    "certainty": "high",
+    "evidence": "About two dozen thin straight lines radiate from the central disc to the outer ring, crossing the inner circle. One line is a bit heavier on the right side. The vertical and horizontal lines run through the whole figure.",
+    "updated_at": "2026-11-18T11:25Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "geometrical",
+    "subject": "ring of red dots",
+    "predicate": "inside",
+    "object": "large circular band with tick marks",
+    "certainty": "high",
+    "evidence": "Small red and pinkish dots form a circle between the inner thin circle and the outer ring. They are interspersed with the radial lines.",
+    "updated_at": "2026-11-18T11:25Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "geometrical",
+    "subject": "short red radiating strokes",
+    "predicate": "connected_to",
+    "object": "large circular band with tick marks",
+    "certainty": "low",
+    "evidence": "Short red and brown strokes are spaced around the outside of the outer ring, pointing radially outward. They are mostly detached from the ring, with faint lines in places.",
+    "updated_at": "2026-11-18T11:25Z"
+  }
+]

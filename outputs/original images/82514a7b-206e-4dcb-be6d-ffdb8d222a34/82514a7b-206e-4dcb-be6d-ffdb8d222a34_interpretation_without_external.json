@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "diagram_classification": "astronomical / computistical (lunar phases diagram)",
+    "interpretation": "The diagram shows the phases of the Moon during one lunation as the Moon moves around a circular orbit relative to the Sun. SOL is drawn as a radiating disc on the right of the circle. A horizontal line joins it to the full moon (Pan selenos) on the left, the point of greatest distance from the Sun. The orbit is marked with the Moon at successive ages, and each position has its Greek-derived phase name. Luna prima, the new crescent (monoides, 'single-formed'), is next to the Sun. Luna VIII is a half moon (dichotomos, 'cut in two'). Luna XII is the gibbous moon (amphicirtos, 'curved on both sides'). Luna XV is the full moon (pansele nos, i.e. pan selenos). Luna XVIII is gibbous again (amphicirtos). Luna XXII is a half moon again (dichotomos). Luna XXVII is the waning crescent (monoides) as the Moon approaches the Sun. The inner text divides the circle into an upper hemisphere, 'in which the moon recedes from the sun', and a lower hemisphere, 'in which the moon approaches the sun'. This means the upper half is the waxing phase and the lower half the waning phase. The apparent shape of the lit part of the Moon therefore depends on its angular distance from the Sun, and the phases are tied to the days of the lunar month.",
+    "basis": "textual",
+    "certainty": "high",
+    "evidence": "The inscriptions give the lunar ages (VIII, XII, XV, XVIII, XXII, XXVII, prima) and the phase names (monoides, dichotomos, amphicirtos, pan selenos). The labels 'Emisperium superius per quod luna recedit a sole' and 'Emisperium inferius per quod luna propinquat soli' explain the waxing and waning halves. The Sun is labelled SOL, and a line connects it to the full moon at the opposite point of the circle. The shaded parts of the lunar discs change from crescent to half to gibbous to full. Together these features show a lunar-phase scheme within the tradition of computus and astronomy.",
+    "updated_at": "2026-11-18T13:16Z"
+  }
+]

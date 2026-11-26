@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "diagram_classification": "cosmological / meteorological (wind rose, a diagram of the twelve winds arranged around the four cardinal directions)",
+    "interpretation": "The diagram is a wind wheel: a circle divided into twelve sectors by radial spokes around an empty central hub. The four cardinal points are written outside the rim: ORIENS (east, top), MERIDIES (south, right), OCCIDENS (west, bottom) and SEPTENTRIO (north, left). Each sector holds the name of a wind, with its synonyms or Greek and Latin equivalents. The east sector reads 'subsolanus, apeliotes'. The adjacent sectors read 'vulturnus, calcias' and 'eurus, euro', with 'euroauster, euronotus' further round. The south sector reads 'auster, notus'. Further round are 'austroafricus, libonotus' and 'africus, libs'. The west sector reads 'zephyrus, favonius'. The north-west and north sectors read 'circius, caurus' and 'septentrio, aparctias', and the north-east sector reads 'aquilo, boreas'. The sectors also carry connecting phrases such as 'haec sunt ... et appellative' and 'distincte ... proprie'. These indicate that the winds are distinguished and named by their proper and alternative names. The numeral XII in the southern sector suggests the total of twelve winds. The wheel is therefore a schematic of the twelve-wind system, with the winds distributed around the horizon and tied to the cardinal directions. Its orientation has east at the top, and the lettering is oriented to be read from the outside. This is a typical early medieval schema, often found in natural-philosophy and computistical compilations.",
+    "basis": "textual",
+    "certainty": "high",
+    "evidence": "The four cardinal point labels (Oriens, Meridies, Occidens, Septentrio) are written outside the circle at the four sides. Twelve sectors are separated by spokes, and each contains wind names (subsolanus, apeliotes, eurus, euroauster, euronotus, auster, notus, africus, libs, zephyrus, favonius, circius, caurus, septentrio, aquilo, boreas, vulturnus). The numeral XII appears in the south sector. Naming each wind with its Latin and Greek equivalents and linking it to a cardinal direction is the defining feature of a wind rose. The concentric hub and ring and the colored spokes (green and ochre) give a regular, wheel-like structure.",
+    "updated_at": "2026-11-18T13:16Z"
+  }
+]

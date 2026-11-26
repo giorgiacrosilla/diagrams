@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "relation_type": "text_shape",
+    "subject": "IGNIS",
+    "predicate": "inside",
+    "object": "outer ring of the large circular diagram",
+    "certainty": "high",
+    "evidence": "The word \"IGNIS\" is written in red at the top of the outer ring, in a compartment between two radial dividing arcs.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "text_shape",
+    "subject": "calidur",
+    "predicate": "inside",
+    "object": "outer ring of the large circular diagram",
+    "certainty": "medium",
+    "evidence": "The text, read approximately as \"calidur\", is written along the curve of the outer ring in the upper right compartment.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "text_shape",
+    "subject": "calidus",
+    "predicate": "inside",
+    "object": "outer ring of the large circular diagram",
+    "certainty": "high",
+    "evidence": "The word \"calidus\" is written along the curve of the outer ring on the right side, in the upper right quadrant.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "text_shape",
+    "subject": "AER",
+    "predicate": "inside",
+    "object": "outer ring of the large circular diagram",
+    "certainty": "high",
+    "evidence": "The word \"AER\" is written in red, rotated, in the outer ring at the right side of the circle.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "text_shape",
+    "subject": "humidus",
+    "predicate": "inside",
+    "object": "outer ring of the large circular diagram",
+    "certainty": "high",
+    "evidence": "The word \"humidus\" is written along the curve of the outer ring in the lower right, between the right-hand compartments.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "text_shape",
+    "subject": "humidus (lower, inverted)",
+    "predicate": "inside",
+    "object": "outer ring of the large circular diagram",
+    "certainty": "medium",
+    "evidence": "A second \"humidus\" is written along the curve of the outer ring at the lower right, partly upside down.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "text_shape",
+    "subject": "aqua",
+    "predicate": "inside",
+    "object": "outer ring of the large circular diagram",
+    "certainty": "medium",
+    "evidence": "The word, rendered in red and upside down at the bottom of the outer ring, reads approximately \"aqua\" and is placed between two radial arcs.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "text_shape",
+    "subject": "Frigidur",
+    "predicate": "inside",
+    "object": "outer ring of the large circular diagram",
+    "certainty": "medium",
+    "evidence": "The upside-down text reading approximately \"Frigidur\" is written in the lower left of the outer ring.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "text_shape",
+    "subject": "TERRA",
+    "predicate": "inside",
+    "object": "outer ring of the large circular diagram",
+    "certainty": "high",
+    "evidence": "The word \"TER RA\" is written in red, split over two lines, in the outer ring at the left side of the circle.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "text_shape",
+    "subject": "Triqidus",
+    "predicate": "inside",
+    "object": "outer ring of the large circular diagram",
+    "certainty": "low",
+    "evidence": "Text reading approximately \"Frigidus\" is written along the curve of the outer ring at the lower left, rotated.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "text_shape",
+    "subject": "Secca",
+    "predicate": "inside",
+    "object": "outer ring of the large circular diagram",
+    "certainty": "medium",
+    "evidence": "Text reading approximately \"secca\" is written in the upper left of the outer ring.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "text_shape",
+    "subject": "Mecca",
+    "predicate": "inside",
+    "object": "outer ring of the large circular diagram",
+    "certainty": "low",
+    "evidence": "Text reading approximately \"secca\" or \"mecca\" is written along the curve of the outer ring on the upper left.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 13,
+    "relation_type": "text_shape",
+    "subject": "AESTAS",
+    "predicate": "inside",
+    "object": "upper inner compartment",
+    "certainty": "medium",
+    "evidence": "The word \"AESTAS\" is written in the upper inner compartment bounded by red and yellow arcs.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 14,
+    "relation_type": "text_shape",
+    "subject": "colera",
+    "predicate": "inside",
+    "object": "upper inner compartment below the blue arc",
+    "certainty": "high",
+    "evidence": "The word \"colera\" is written beneath a short blue arc, in the central-upper area between red and yellow arcs.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 15,
+    "relation_type": "text_shape",
+    "subject": "mundus annus homo",
+    "predicate": "inside",
+    "object": "central region of the diagram",
+    "certainty": "high",
+    "evidence": "The three words \"mundus\", \"annus\", \"homo\" are written in red, stacked in the middle of the diagram.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 16,
+    "relation_type": "text_shape",
+    "subject": "autumnus",
+    "predicate": "inside",
+    "object": "left inner compartment",
+    "certainty": "medium",
+    "evidence": "Vertical text reading approximately \"autumnus\" is written in the left inner compartment between blue arcs.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 17,
+    "relation_type": "text_shape",
+    "subject": "melancolia",
+    "predicate": "inside",
+    "object": "left inner compartment adjacent to the center",
+    "certainty": "high",
+    "evidence": "Vertical text \"melancolia\" is written between two blue vertical arcs left of the central text.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 18,
+    "relation_type": "text_shape",
+    "subject": "sanguis",
+    "predicate": "inside",
+    "object": "right inner compartment adjacent to the center",
+    "certainty": "medium",
+    "evidence": "Vertical text reading approximately \"sanguis\" is written between blue vertical arcs right of the central text.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 19,
+    "relation_type": "text_shape",
+    "subject": "uer",
+    "predicate": "inside",
+    "object": "right inner compartment near the outer ring",
+    "certainty": "medium",
+    "evidence": "Vertical text reading approximately \"uer\" is written between a blue vertical arc and the outer region at the right.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 20,
+    "relation_type": "text_shape",
+    "subject": "humor",
+    "predicate": "inside",
+    "object": "lower inner compartment above the blue arc",
+    "certainty": "medium",
+    "evidence": "The upside-down word reading approximately \"humor\" is written above a short blue arc in the lower inner region.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 21,
+    "relation_type": "text_shape",
+    "subject": "hiemps",
+    "predicate": "inside",
+    "object": "lower inner compartment below the blue arc",
+    "certainty": "medium",
+    "evidence": "The upside-down text reading approximately \"hiemps\" is written below a short blue arc at the bottom.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 22,
+    "relation_type": "geometric",
+    "subject": "outer concentric ring",
+    "predicate": "contains",
+    "object": "inner interlaced arcs",
+    "certainty": "high",
+    "evidence": "A multi-coloured circular band (blue, red, and yellow segments) encloses a network of intersecting arcs in blue, red, and yellow.",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 23,
+    "relation_type": "geometric",
+    "subject": "upper short blue arc",
+    "predicate": "above",
+    "object": "central text block",
+    "certainty": "medium",
+    "evidence": "A short blue arc sits in the upper part of the diagram, higher than the central text \"mundus annus homo\".",
+    "updated_at": "2026-11-18T13:12Z"
+  },
+  {
+    "id": 24,
+    "relation_type": "geometric",
+    "subject": "lower short blue arc",
+    "predicate": "below",
+    "object": "central text block",
+    "certainty": "medium",
+    "evidence": "A short blue arc sits in the lower part of the diagram, lower than the central text.",
+    "updated_at": "2026-11-18T13:12Z"
+  }
+]

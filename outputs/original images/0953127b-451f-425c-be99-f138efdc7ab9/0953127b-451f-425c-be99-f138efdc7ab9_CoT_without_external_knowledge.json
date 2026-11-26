@@ -1,0 +1,84 @@
+{
+  "element_analysis": [
+    {
+      "id": 1,
+      "relation_type": "text_shape",
+      "subject": "PATER",
+      "predicate": "connected_to",
+      "object": "[illegible] (upper right circle)",
+      "certainty": "high",
+      "evidence": "Two circles at the upper left and upper right corners of the inverted triangle are joined by a straight double-lined band along the top edge. The band contains the text \"non est\" written along it, reading left to right. The upper right circle's text is hard to read.",
+      "updated_at": ""
+    },
+    {
+      "id": 2,
+      "relation_type": "text_shape",
+      "subject": "PATER",
+      "predicate": "connected_to",
+      "object": "DEVS",
+      "certainty": "high",
+      "evidence": "A straight double-lined diagonal band runs from the upper left circle down to the central circle. The text \"est\" is written along the band.",
+      "updated_at": ""
+    },
+    {
+      "id": 3,
+      "relation_type": "text_shape",
+      "subject": "[illegible] (upper right circle)",
+      "predicate": "connected_to",
+      "object": "DEVS",
+      "certainty": "high",
+      "evidence": "A straight double-lined diagonal band runs from the upper right circle down to the central circle. The text \"est\" is written along the band, apparently upside down or reversed.",
+      "updated_at": ""
+    },
+    {
+      "id": 4,
+      "relation_type": "figurative",
+      "subject": "DEVS",
+      "predicate": "connected_to",
+      "object": "crucified figure on a cross",
+      "certainty": "medium",
+      "evidence": "A short vertical double-lined band runs from the bottom of the central circle to the head of the cross, with the text \"est\" written on it. The cross is a figure with outstretched arms on a cross shape.",
+      "updated_at": ""
+    },
+    {
+      "id": 5,
+      "relation_type": "text_shape",
+      "subject": "PATER",
+      "predicate": "connected_to",
+      "object": "FILIVS",
+      "certainty": "high",
+      "evidence": "A long double-lined band runs along the left side of the triangle from the upper left circle down to the bottom circle. The text \"non est\" is written along it, running diagonally.",
+      "updated_at": ""
+    },
+    {
+      "id": 6,
+      "relation_type": "text_shape",
+      "subject": "[illegible] (upper right circle)",
+      "predicate": "connected_to",
+      "object": "FILIVS",
+      "certainty": "high",
+      "evidence": "A long double-lined band runs along the right side of the triangle from the upper right circle down to the bottom circle. The text \"non est\" is written along it, running diagonally.",
+      "updated_at": ""
+    },
+    {
+      "id": 7,
+      "relation_type": "figurative",
+      "subject": "crucified figure on a cross",
+      "predicate": "above",
+      "object": "FILIVS",
+      "certainty": "medium",
+      "evidence": "The figure on the cross hangs on the vertical axis of the triangle. Its feet end just above the bottom circle, which holds the text \"FILIVS\".",
+      "updated_at": ""
+    }
+  ],
+  "interpretation": [
+    {
+      "diagram_classification": "theological diagram (Trinitarian diagram, of the 'Scutum fidei' / Shield of the Trinity type, in an inverted triangular form with a central crucifix)",
+      "interpretation": "The diagram sets out the relations between the three persons of the Trinity and the one God. The three outer circles carry the labels PATER, a hard-to-read word in the upper right circle (probably 'spiritus sanctus') and FILIVS. They are joined to one another by the outer sides of the triangle, which bear the text \"non est\", meaning that one person is not the other. Each outer circle is joined to the central circle DEVS by a band bearing \"est\", meaning that each person is God. The central circle therefore expresses the unity of the divine essence, and the outer circles express the distinction of persons. The crucifix on the vertical axis between DEVS and FILIVS may refer to the incarnation and passion of the Son, and it strengthens the link between the central divinity and the Son. The diagram is a visual summary of Trinitarian doctrine: three persons who are distinct from one another and each fully God.",
+      "basis": "textual",
+      "certainty": "high",
+      "evidence": "The labels PATER, FILIVS and DEVS and the repeated formulae \"non est\" (on the outer sides) and \"est\" (on the bands to the centre) form the known logic of the Trinitarian shield diagram. The upper right label is not clearly legible in Step 1, where I marked it as illegible, so reading it as the Holy Spirit relies on the symmetry of the scheme and not on the transcription. In Step 1, entry 4 calls the central band connection 'to the head of the cross' with the text \"est\", and the connection of DEVS to the crucified figure is of medium certainty. The crucifix is not part of the standard shield schema, so its meaning as a reference to the Son's incarnation and sacrifice is an interpretation from visual and iconographic knowledge. Step 1 entries 1 and 5-6 give the \"non est\" bands as links between PATER and the upper right circle, and between each of these and FILIVS. This is consistent with the scheme.",
+      "updated_at": ""
+    }
+  ]
+}

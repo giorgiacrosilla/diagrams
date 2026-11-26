@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "diagram_classification": "computistical / astronomical (a diagram of the 24 hours of the day)",
+    "interpretation": "The diagram is a day-and-night wheel that divides the 24 hours of the day around a central disc, which probably stands for the earth. A sun with a human face sits at the top, labelled \"Sol\" or \"Solis\", at the point of midday or the sun's highest position. A dark disc or ring at the bottom is labelled \"Nox\" (night), at midnight or the sun's lowest position. Crescent moons at the left and right mark the two horizon points. The inner labels read \"Oriens\" (east, left), \"Occidens\" (west, right), and what looks like \"Meridies\" (south, top) and \"Septentrio\" (north, bottom). The ring of numbers around the circle counts the hours (1 to 24) and is divided by radial lines. The marginal text mentions \"ein stunde\" (one hour), which agrees with this reading. Together these elements show the sun's daily course and the division of the day into equal hours in relation to the cardinal directions. Several labels are hard to read, so the identification of the cardinal-direction terms is partly conjectural.",
+    "basis": "textual",
+    "certainty": "medium",
+    "evidence": "Numbers from 1 to about 24 run around the outer ring between radial divisions. A sun labelled \"Sol\" is at the top and \"Nox\" is at the bottom. \"Oriens\" is legible at the left and a word resembling \"Occidens\" at the right, with partly legible words at the top and bottom that may be \"Meridies\" and \"Septentrio\". Crescent moons sit at the east and west ends. The German marginal text refers to an hour (\"ein stunde\").",
+    "updated_at": "2026-11-18T13:16Z"
+  }
+]

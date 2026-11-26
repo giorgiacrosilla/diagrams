@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "relation_type": "text_shape",
+    "subject": "LUNA .VIII.",
+    "predicate": "above",
+    "object": "half-disc at top of circle",
+    "certainty": "high",
+    "evidence": "text 'LUNA' and '.VIII.' placed to the left and right at the top, next to the top half-disc divided into two parts with text 'DI ATO' and 'MOS'",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "geometric",
+    "subject": "top half-disc",
+    "predicate": "connected_to",
+    "object": "large circle",
+    "certainty": "high",
+    "evidence": "the half-disc is crossed by the circle line and sits at the top of the circle, with the flat edge vertical",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "text_shape",
+    "subject": "DI ATO MOS",
+    "predicate": "inside",
+    "object": "top half-disc",
+    "certainty": "high",
+    "evidence": "text 'DI ATO' in the upper part and 'MOS' in the lower part of the half-disc, divided by a horizontal line",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "text_shape",
+    "subject": "LUNA MO NO ID ES PRIMA",
+    "predicate": "connected_to",
+    "object": "crescent at upper right",
+    "certainty": "medium",
+    "evidence": "text 'MO NO' above, 'ID ES' inside the crescent curve, 'LUNA' to the left and 'PRIMA' to the right, around a crescent on the circle line",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "geometric",
+    "subject": "upper right crescent",
+    "predicate": "connected_to",
+    "object": "large circle",
+    "certainty": "high",
+    "evidence": "the crescent lies on the circle line near the sun disc",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "geometric",
+    "subject": "sun disc with rays",
+    "predicate": "connected_to",
+    "object": "large circle",
+    "certainty": "high",
+    "evidence": "the circle line passes through the right disc, which has short radiating strokes around it and the text 'S OL' inside",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "text_shape",
+    "subject": "S OL",
+    "predicate": "inside",
+    "object": "sun disc with rays",
+    "certainty": "high",
+    "evidence": "text 'S' and 'OL' written inside the right disc",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "geometric",
+    "subject": "sun disc with rays",
+    "predicate": "connected_to",
+    "object": "left disc with PAN SE LE NOS",
+    "certainty": "high",
+    "evidence": "a horizontal dark line runs from the right disc to the left disc across the centre of the circle",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "text_shape",
+    "subject": "PAN SE LE NOS",
+    "predicate": "inside",
+    "object": "left disc",
+    "certainty": "high",
+    "evidence": "text 'PAN SE' above and 'LE NOS' below, divided by the circle line and a horizontal division within the disc",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "text_shape",
+    "subject": "LUNA .XV.",
+    "predicate": "connected_to",
+    "object": "left disc with PAN SE LE NOS",
+    "certainty": "medium",
+    "evidence": "text placed to the left of the left disc",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "geometric",
+    "subject": "left disc with PAN SE LE NOS",
+    "predicate": "connected_to",
+    "object": "large circle",
+    "certainty": "high",
+    "evidence": "the circle line passes through the left disc",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "text_shape",
+    "subject": "AMPHI CIR TOS",
+    "predicate": "connected_to",
+    "object": "upper left half-disc",
+    "certainty": "high",
+    "evidence": "text curves around the upper left half-disc: 'AMPhi' along the upper left edge and 'CIRTOS' along the right edge",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 13,
+    "relation_type": "text_shape",
+    "subject": "LUNA .XII.",
+    "predicate": "connected_to",
+    "object": "upper left half-disc",
+    "certainty": "medium",
+    "evidence": "text placed to the left of the upper left half-disc",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 14,
+    "relation_type": "geometric",
+    "subject": "upper left half-disc",
+    "predicate": "connected_to",
+    "object": "large circle",
+    "certainty": "high",
+    "evidence": "the circle line passes through the half-disc",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 15,
+    "relation_type": "text_shape",
+    "subject": "AMPHI CIR TOS (lower)",
+    "predicate": "connected_to",
+    "object": "lower left half-disc",
+    "certainty": "high",
+    "evidence": "text curves around the lower left half-disc, partly upside down along the bottom left and right edges",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 16,
+    "relation_type": "text_shape",
+    "subject": "LUNA .XVIII.",
+    "predicate": "connected_to",
+    "object": "lower left half-disc",
+    "certainty": "medium",
+    "evidence": "text placed to the left of the lower left half-disc",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 17,
+    "relation_type": "geometric",
+    "subject": "lower left half-disc",
+    "predicate": "connected_to",
+    "object": "large circle",
+    "certainty": "high",
+    "evidence": "the circle line passes through the half-disc",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 18,
+    "relation_type": "text_shape",
+    "subject": "DI ATO MOS (lower)",
+    "predicate": "inside",
+    "object": "bottom half-disc",
+    "certainty": "high",
+    "evidence": "text 'DI ATO' in the upper part and 'MOS' in the lower part of the half-disc at the bottom of the circle",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 19,
+    "relation_type": "text_shape",
+    "subject": "LUNA .XXII.",
+    "predicate": "below",
+    "object": "bottom half-disc",
+    "certainty": "medium",
+    "evidence": "text 'LUNA' to the left and '.XXII.' to the right at the bottom next to the half-disc",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 20,
+    "relation_type": "geometric",
+    "subject": "bottom half-disc",
+    "predicate": "connected_to",
+    "object": "large circle",
+    "certainty": "high",
+    "evidence": "the circle line crosses the half-disc",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 21,
+    "relation_type": "text_shape",
+    "subject": "LUNA MO NO IDES .XXVII.",
+    "predicate": "connected_to",
+    "object": "crescent at lower right",
+    "certainty": "medium",
+    "evidence": "'MONO' along the upper curve of the crescent, 'IDES' written vertically along its right side, 'LUNA' to the left and '.XXVII.' to the right",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 22,
+    "relation_type": "geometric",
+    "subject": "lower right crescent",
+    "predicate": "connected_to",
+    "object": "large circle",
+    "certainty": "high",
+    "evidence": "the crescent lies on the circle line below the sun disc",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 23,
+    "relation_type": "text_shape",
+    "subject": "EMISPERIU SUPERIUS P QUOD LUNA RECEDIT A SOLE",
+    "predicate": "inside",
+    "object": "large circle",
+    "certainty": "high",
+    "evidence": "two lines of text in the upper interior of the circle, above the horizontal line",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 24,
+    "relation_type": "text_shape",
+    "subject": "EMISPERIU INFERIUS P QUOD LUN[illegible] PROPINQUAT SOLI",
+    "predicate": "inside",
+    "object": "large circle",
+    "certainty": "high",
+    "evidence": "two lines of text in the lower interior of the circle, below the horizontal line; part of 'LUNA' is smudged",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 25,
+    "relation_type": "text_shape",
+    "subject": "EMISPERIU SUPERIUS P QUOD LUNA RECEDIT A SOLE",
+    "predicate": "above",
+    "object": "EMISPERIU INFERIUS P QUOD LUN[illegible] PROPINQUAT SOLI",
+    "certainty": "high",
+    "evidence": "the first text block is above the horizontal line and the second block is below it",
+    "updated_at": "2026-11-17T11:07Z"
+  }
+]

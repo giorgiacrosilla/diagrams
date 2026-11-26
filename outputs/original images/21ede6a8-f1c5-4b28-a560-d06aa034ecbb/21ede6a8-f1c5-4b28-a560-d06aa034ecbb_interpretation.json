@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "diagram_classification": "Computistical / astronomical (a diurnal wheel for reckoning the 24 hours of day and night, set in a cosmological frame of the four cardinal directions and the sun and moon)",
+    "interpretation": "The diagram is a 24-hour wheel. The inner ring is divided by radial lines into 24 sectors numbered 1 to 24, representing the hours of the natural day. A central disc, probably the earth or the pivot of the wheel, is surrounded by the four cardinal directions: Oriens (east, left), Occidens (west, right), Meridies (south, top) and Septentrio (north, bottom). The labels around the rim are Sol (the sun, top, with a face and flame-like rays) and Nox (night, bottom, a dark disc with a face). Crescent moons stand at the left and right. The sun at the top marks midday and the dark disc at the bottom marks midnight, so the wheel shows the daily rotation of sun and night around the earth. The crescents at the east and west edges may mark moonrise and moonset, or lunar phases or the moon's role in telling time at night. A small star-like mark at the left may be a star or planet, or a scribal addition. A German note in the text above refers to an hour (\"ein stund\") and the position of the sphere, so the diagram probably illustrates how to read the hours from the sun's position, in a treatise on time-reckoning or the sphere.",
+    "basis": "visual",
+    "certainty": "medium",
+    "evidence": "Visible: 24 numbered sectors on the ring, with the numbers 1 to 24 running around it. Cardinal labels in red (Oriens, Occidens, and apparently Meridies and Septentrio) sit at the four axes. The sun with a face is labelled Sol at the top, and Nox with a dark disc is at the bottom. Two crescent moons flank the wheel and red tick marks radiate outward. A German line above mentions a stund (hour) and a sphere. External knowledge: medieval computus and sphere texts commonly divide the day into 24 hours and relate them to sun position and the cardinal directions. The reading of the crescents as moonrise and moonset, and of the central disc as the earth, is an inference. Some labels are hard to read, and the star mark is uninterpreted.",
+    "updated_at": "2026-11-17T11:13Z"
+  }
+]

@@ -1,0 +1,360 @@
+{
+  "element_analysis": [
+    {
+      "id": 1,
+      "relation_type": "geometric",
+      "subject": "inner circle",
+      "predicate": "inside",
+      "object": "outer ring",
+      "certainty": "high",
+      "evidence": "A large outer circle is drawn as a segmented band whose sections are coloured blue-grey, yellow and orange-red. A second circle drawn with yellow, blue-grey and orange arcs lies concentrically within it.",
+      "updated_at": ""
+    },
+    {
+      "id": 2,
+      "relation_type": "geometric",
+      "subject": "central area",
+      "predicate": "inside",
+      "object": "inner circle",
+      "certainty": "medium",
+      "evidence": "The middle of the diagram is an open space bounded by four curved blue-grey arcs (top, bottom, left, right). It is surrounded by the inner compartments.",
+      "updated_at": ""
+    },
+    {
+      "id": 3,
+      "relation_type": "geometric",
+      "subject": "outer ring",
+      "predicate": "connected_to",
+      "object": "inner circle",
+      "certainty": "medium",
+      "evidence": "Long orange, blue-grey and yellow arcs run continuously from the outer band across the space between the rings and curve into the inner circle. They cross each other and join the two circles.",
+      "updated_at": ""
+    },
+    {
+      "id": 4,
+      "relation_type": "text_shape",
+      "subject": "secca (upper left)",
+      "predicate": "inside",
+      "object": "outer ring",
+      "certainty": "medium",
+      "evidence": "The text \"ſecca\" is written along the curve in a compartment of the outer band at the upper left. The compartment is bounded by a blue-grey and an orange radial segment. The reading of the first letter is uncertain.",
+      "updated_at": ""
+    },
+    {
+      "id": 5,
+      "relation_type": "text_shape",
+      "subject": "IGNIS",
+      "predicate": "inside",
+      "object": "outer ring",
+      "certainty": "high",
+      "evidence": "The red text \"IGNIS\" is written in a compartment of the outer band at the top. It lies between two radial arcs, one orange on the left and one yellow on the right.",
+      "updated_at": ""
+    },
+    {
+      "id": 6,
+      "relation_type": "text_shape",
+      "subject": "calidur",
+      "predicate": "inside",
+      "object": "outer ring",
+      "certainty": "medium",
+      "evidence": "The text \"calidur\" (final letter uncertain) is written along the curve in the outer band at the upper right, to the right of the top compartment.",
+      "updated_at": ""
+    },
+    {
+      "id": 7,
+      "relation_type": "text_shape",
+      "subject": "secca (left)",
+      "predicate": "inside",
+      "object": "outer ring",
+      "certainty": "medium",
+      "evidence": "The text \"secca\" is written along the curve in the outer band at the upper left, below the first \"secca\". It lies between blue-grey radial segments.",
+      "updated_at": ""
+    },
+    {
+      "id": 8,
+      "relation_type": "text_shape",
+      "subject": "AESTAS",
+      "predicate": "inside",
+      "object": "inner circle",
+      "certainty": "high",
+      "evidence": "The text \"AESTAS\" is written in the top compartment of the inner circle. The compartment is bounded by two curved orange and yellow arcs at the sides and a short blue-grey arc below.",
+      "updated_at": ""
+    },
+    {
+      "id": 9,
+      "relation_type": "text_shape",
+      "subject": "calidus",
+      "predicate": "inside",
+      "object": "outer ring",
+      "certainty": "high",
+      "evidence": "The text \"calidus\" is written along the curve in the outer band at the right, upper part, between radial segments.",
+      "updated_at": ""
+    },
+    {
+      "id": 10,
+      "relation_type": "text_shape",
+      "subject": "colera",
+      "predicate": "inside",
+      "object": "inner circle",
+      "certainty": "high",
+      "evidence": "The text \"colera\" is written in the compartment below the short blue-grey arc, in the upper part of the inner circle. It lies above the central area.",
+      "updated_at": ""
+    },
+    {
+      "id": 11,
+      "relation_type": "text_shape",
+      "subject": "IGNIS",
+      "predicate": "above",
+      "object": "AESTAS",
+      "certainty": "high",
+      "evidence": "\"IGNIS\" is written in the outer band at the top, directly above \"AESTAS\" in the inner circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 12,
+      "relation_type": "text_shape",
+      "subject": "AESTAS",
+      "predicate": "above",
+      "object": "colera",
+      "certainty": "high",
+      "evidence": "\"AESTAS\" is written above \"colera\". A short blue-grey arc separates the two compartments.",
+      "updated_at": ""
+    },
+    {
+      "id": 13,
+      "relation_type": "text_shape",
+      "subject": "colera",
+      "predicate": "above",
+      "object": "mundus",
+      "certainty": "high",
+      "evidence": "\"colera\" is located above the central area, where the first line of the central text is written.",
+      "updated_at": ""
+    },
+    {
+      "id": 14,
+      "relation_type": "text_shape",
+      "subject": "TERRA",
+      "predicate": "inside",
+      "object": "outer ring",
+      "certainty": "high",
+      "evidence": "The red text \"TERRA\" is written vertically in two lines (\"TER\" / \"RA\") in the outer band on the left side.",
+      "updated_at": ""
+    },
+    {
+      "id": 15,
+      "relation_type": "text_shape",
+      "subject": "autumnus",
+      "predicate": "inside",
+      "object": "inner circle",
+      "certainty": "medium",
+      "evidence": "The text \"autumnus\" is written vertically in two lines in a narrow compartment on the left of the inner circle. The compartment is bounded by a blue-grey arc on its right.",
+      "updated_at": ""
+    },
+    {
+      "id": 16,
+      "relation_type": "text_shape",
+      "subject": "melancolia",
+      "predicate": "inside",
+      "object": "inner circle",
+      "certainty": "medium",
+      "evidence": "The text \"melancolia\" is written vertically in two lines in a narrow compartment on the left, between two vertical blue-grey arcs.",
+      "updated_at": ""
+    },
+    {
+      "id": 17,
+      "relation_type": "text_shape",
+      "subject": "mundus",
+      "predicate": "inside",
+      "object": "central area",
+      "certainty": "high",
+      "evidence": "The red text \"mundus\" is the first of three lines of text written in the middle of the diagram.",
+      "updated_at": ""
+    },
+    {
+      "id": 18,
+      "relation_type": "text_shape",
+      "subject": "annus",
+      "predicate": "inside",
+      "object": "central area",
+      "certainty": "high",
+      "evidence": "The red text \"annus\" is the second of the three lines written in the middle of the diagram.",
+      "updated_at": ""
+    },
+    {
+      "id": 19,
+      "relation_type": "text_shape",
+      "subject": "homo",
+      "predicate": "inside",
+      "object": "central area",
+      "certainty": "high",
+      "evidence": "The red text \"homo\" is the third of the three lines written in the middle of the diagram.",
+      "updated_at": ""
+    },
+    {
+      "id": 20,
+      "relation_type": "text_shape",
+      "subject": "mundus",
+      "predicate": "above",
+      "object": "annus",
+      "certainty": "high",
+      "evidence": "The lines of central text are stacked vertically, with \"mundus\" on top.",
+      "updated_at": ""
+    },
+    {
+      "id": 21,
+      "relation_type": "text_shape",
+      "subject": "annus",
+      "predicate": "above",
+      "object": "homo",
+      "certainty": "high",
+      "evidence": "\"annus\" is written directly above \"homo\" in the central stack.",
+      "updated_at": ""
+    },
+    {
+      "id": 22,
+      "relation_type": "text_shape",
+      "subject": "sanguis",
+      "predicate": "inside",
+      "object": "inner circle",
+      "certainty": "medium",
+      "evidence": "The text \"sanguis\" is written vertically in a narrow compartment on the right of the inner circle. The compartment is bounded by blue-grey vertical arcs. The final letter is written small above the line.",
+      "updated_at": ""
+    },
+    {
+      "id": 23,
+      "relation_type": "text_shape",
+      "subject": "uer",
+      "predicate": "inside",
+      "object": "inner circle",
+      "certainty": "medium",
+      "evidence": "The text \"uer\" is written vertically in a narrow compartment at the far right of the inner circle, to the right of \"sanguis\" and beyond a blue-grey vertical arc.",
+      "updated_at": ""
+    },
+    {
+      "id": 24,
+      "relation_type": "text_shape",
+      "subject": "AER",
+      "predicate": "inside",
+      "object": "outer ring",
+      "certainty": "high",
+      "evidence": "The red text \"AER\" is written vertically in the outer band at the right side, between an orange and a yellow segment.",
+      "updated_at": ""
+    },
+    {
+      "id": 25,
+      "relation_type": "text_shape",
+      "subject": "humidus (right)",
+      "predicate": "inside",
+      "object": "outer ring",
+      "certainty": "medium",
+      "evidence": "The text \"humidus\" is written along the curve in the outer band on the lower right, below \"AER\".",
+      "updated_at": ""
+    },
+    {
+      "id": 26,
+      "relation_type": "text_shape",
+      "subject": "frigidus (left)",
+      "predicate": "inside",
+      "object": "outer ring",
+      "certainty": "medium",
+      "evidence": "The text \"frigidus\" is written along the curve in the outer band on the lower left, below \"TERRA\". It is oriented sideways and the first letter is uncertain.",
+      "updated_at": ""
+    },
+    {
+      "id": 27,
+      "relation_type": "text_shape",
+      "subject": "homo",
+      "predicate": "above",
+      "object": "humor",
+      "certainty": "high",
+      "evidence": "\"homo\" is located in the central area, above the inverted text \"humor\" in the bottom compartment.",
+      "updated_at": ""
+    },
+    {
+      "id": 28,
+      "relation_type": "text_shape",
+      "subject": "humor",
+      "predicate": "inside",
+      "object": "inner circle",
+      "certainty": "high",
+      "evidence": "The text \"humor\" is written upside down in the bottom compartment of the inner circle, above a short blue-grey arc.",
+      "updated_at": ""
+    },
+    {
+      "id": 29,
+      "relation_type": "text_shape",
+      "subject": "humor",
+      "predicate": "above",
+      "object": "hiemps",
+      "certainty": "high",
+      "evidence": "A short blue-grey arc separates the two bottom compartments. \"humor\" lies above it and \"hiemps\" below it.",
+      "updated_at": ""
+    },
+    {
+      "id": 30,
+      "relation_type": "text_shape",
+      "subject": "hiemps",
+      "predicate": "inside",
+      "object": "inner circle",
+      "certainty": "medium",
+      "evidence": "The text \"hiemps\" is written upside down in the lowest compartment of the inner circle, below the short blue-grey arc. The final letter is written below the line.",
+      "updated_at": ""
+    },
+    {
+      "id": 31,
+      "relation_type": "text_shape",
+      "subject": "frigidur (lower left)",
+      "predicate": "inside",
+      "object": "outer ring",
+      "certainty": "medium",
+      "evidence": "The text \"frigidur\" (final letter uncertain) is written upside down along the curve in the outer band at the lower left.",
+      "updated_at": ""
+    },
+    {
+      "id": 32,
+      "relation_type": "text_shape",
+      "subject": "aqua",
+      "predicate": "inside",
+      "object": "outer ring",
+      "certainty": "medium",
+      "evidence": "The red text is written upside down in the outer band at the bottom. It reads \"aqua\" when rotated and appears as \"rnbr\" in the image's orientation.",
+      "updated_at": ""
+    },
+    {
+      "id": 33,
+      "relation_type": "text_shape",
+      "subject": "humidus (lower right)",
+      "predicate": "inside",
+      "object": "outer ring",
+      "certainty": "medium",
+      "evidence": "The text \"humidus\" is written upside down along the curve in the outer band at the lower right, to the right of the bottom red text.",
+      "updated_at": ""
+    },
+    {
+      "id": 34,
+      "relation_type": "text_shape",
+      "subject": "hiemps",
+      "predicate": "above",
+      "object": "aqua",
+      "certainty": "high",
+      "evidence": "\"hiemps\" in the lowest compartment of the inner circle lies above the red text in the outer band at the bottom.",
+      "updated_at": ""
+    }
+  ],
+  "interpretation": [
+    {
+      "diagram_classification": "cosmological / natural-philosophical diagram of correspondences (microcosm–macrocosm; elements, seasons, humours, qualities)",
+      "interpretation": "The diagram is a concentric scheme of correspondences between the world (mundus), the year (annus) and the human being (homo), as the central text states. The outer ring gives the four elements (IGNIS, AER, AQUA, TERRA) together with their paired qualities (calidus/calidur, siccus/secca, humidus, frigidus/frigidur). The inner ring gives the four seasons (AESTAS, uer, hiemps, autumnus) and the four humours (colera, sanguis, flegma or humor with hiemps, melancolia). The interlocking coloured arcs link each element to its two qualities and to the season and humour that share them. Fire is hot and dry and matches summer and choler. Air is hot and moist and matches spring and blood. Water is cold and moist and matches winter and phlegm. Earth is cold and dry and matches autumn and black bile. The three levels (cosmos, time, human body) are thus presented as parallel structures governed by the same four-fold scheme. The diagram follows the Isidorian and Bedan tradition of early medieval computus and natural-philosophy manuscripts, and is of the type found in copies of Isidore's De natura rerum.",
+      "basis": "textual",
+      "certainty": "high",
+      "evidence": "Written in the diagram: the red central text \"mundus / annus / homo\"; the red labels IGNIS, AER, TERRA and the bottom red text (read as aqua when rotated); the season labels AESTAS, uer, hiemps and autumnus; the humour labels colera, sanguis, melancolia and humor/hiemps; and the quality words calidus, siccus, humidus and frigidus. These words cover the standard fourfold correspondences. Visible: the concentric structure, with elements outermost, seasons and humours inside and the central text in the middle. The interlocking yellow, orange and blue-grey arcs bind adjacent labels into pairs. External knowledge: the standard medieval doctrine of the four elements, qualities, humours and seasons, and the Isidorian tradition of such diagrams. Cautions about Step 1: the lower-left compartment reads humor / hiemps, which is probably a mis-expansion of flegma, so the reading is uncertain. \"secca\" and \"calidur\" are probably siccus and calidus with a final-letter ambiguity. Entries 4 and 7 treat two compartments both as \"secca\", but the distinction is unclear. The red lower text is rendered \"aqua\" only by rotation. Some Step 1 predicates (\"inside\" for text in segments) are approximate, and the assignment of each outer label to specific inner labels rests on the arc pattern, which is hard to follow."
+    },
+    {
+      "diagram_classification": "colour-coded structural scheme (arcs as relational links)",
+      "interpretation": "The colours of the arcs (blue-grey, yellow, orange-red) and their crossing pattern work as a system for linking opposite and adjacent terms: shared qualities are joined by arcs of the same curve. The four lobes around the central text mark the four seasons and humours as parts of one closed cycle, and the four outer compartments mark the elements. The circular form suggests the cyclical, unified character of cosmos, year and human body.",
+      "basis": "visual",
+      "certainty": "medium",
+      "evidence": "Visible: each long arc runs continuously from the outer ring into the inner ring and crosses others. The short blue-grey arcs separate the paired inner compartments, such as AESTAS / colera and humor / hiemps. The rotated text at the bottom suggests the diagram was meant to be read from several orientations, or was laid out around the centre. External knowledge supports reading this as a relational device, but the exact meaning of each colour is not clear from the image and may be only a scribal or decorative choice, so certainty is lowered."
+    }
+  ]
+}

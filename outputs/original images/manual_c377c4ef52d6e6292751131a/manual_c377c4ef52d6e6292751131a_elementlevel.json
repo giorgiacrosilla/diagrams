@@ -1,0 +1,432 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometric",
+    "subject": "outer double orange circle",
+    "predicate": "contains",
+    "object": "central circle with yellow and blue-grey ring",
+    "certainty": "high",
+    "evidence": "The central circle is concentric with the large orange ring and lies at its centre.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "figurative",
+    "subject": "head in profile facing right with blue outline and collar",
+    "predicate": "inside",
+    "object": "central circle with yellow and blue-grey ring",
+    "certainty": "high",
+    "evidence": "The head and neck, with a dark band at the base, fill the inner area of the central circle. The face looks to the right, and the upper part of the head has an orange fill and a blue outline.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "geometric",
+    "subject": "central circle with yellow and blue-grey ring",
+    "predicate": "connected_to",
+    "object": "blue triangular knot ornament at upper left (near 'SUB')",
+    "certainty": "high",
+    "evidence": "A thin brown radial line runs from the central circle outward to the triangle on the rim at the upper left.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "geometric",
+    "subject": "central circle with yellow and blue-grey ring",
+    "predicate": "connected_to",
+    "object": "yellow triangular knot ornament at top",
+    "certainty": "high",
+    "evidence": "A near-vertical thin brown radial line runs from the top of the central circle to the yellow triangle on the rim.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "geometric",
+    "subject": "central circle with yellow and blue-grey ring",
+    "predicate": "connected_to",
+    "object": "blue triangular knot ornament at upper right",
+    "certainty": "high",
+    "evidence": "A thin brown radial line runs from the central circle to the blue triangle at the upper right of the rim.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "geometric",
+    "subject": "central circle with yellow and blue-grey ring",
+    "predicate": "connected_to",
+    "object": "blue triangular knot ornament at right, upper (near 'EURO AUSTER')",
+    "certainty": "high",
+    "evidence": "A thin brown radial line runs from the central circle up and to the right to the blue triangle on the rim.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "geometric",
+    "subject": "central circle with yellow and blue-grey ring",
+    "predicate": "connected_to",
+    "object": "yellow triangular knot ornament at right",
+    "certainty": "high",
+    "evidence": "A thin, almost horizontal brown radial line runs from the central circle to the yellow triangle on the right of the rim.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "geometric",
+    "subject": "central circle with yellow and blue-grey ring",
+    "predicate": "connected_to",
+    "object": "blue triangular knot ornament at lower right (near 'AFRICUS')",
+    "certainty": "high",
+    "evidence": "A thin brown radial line runs from the central circle down and to the right to the blue triangle on the rim.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "geometric",
+    "subject": "central circle with yellow and blue-grey ring",
+    "predicate": "connected_to",
+    "object": "blue triangular knot ornament at bottom right",
+    "certainty": "high",
+    "evidence": "A thin brown radial line runs from the central circle down to the blue triangle near the bottom right of the rim.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "geometric",
+    "subject": "central circle with yellow and blue-grey ring",
+    "predicate": "connected_to",
+    "object": "yellow triangular knot ornament at bottom",
+    "certainty": "high",
+    "evidence": "A near-vertical thin brown radial line runs from the bottom of the central circle to the yellow triangle on the rim.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "geometric",
+    "subject": "central circle with yellow and blue-grey ring",
+    "predicate": "connected_to",
+    "object": "blue triangular knot ornament at bottom left",
+    "certainty": "high",
+    "evidence": "A thin brown radial line runs from the central circle down and to the left to the blue triangle on the rim.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "geometric",
+    "subject": "central circle with yellow and blue-grey ring",
+    "predicate": "connected_to",
+    "object": "blue triangular knot ornament at lower left",
+    "certainty": "high",
+    "evidence": "A thin brown radial line runs from the central circle to the blue triangle at the lower left of the rim.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 13,
+    "relation_type": "geometric",
+    "subject": "central circle with yellow and blue-grey ring",
+    "predicate": "connected_to",
+    "object": "yellow triangular knot ornament at left",
+    "certainty": "high",
+    "evidence": "A thin, almost horizontal brown radial line runs from the central circle to the yellow triangle on the left of the rim.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 14,
+    "relation_type": "geometric",
+    "subject": "central circle with yellow and blue-grey ring",
+    "predicate": "connected_to",
+    "object": "blue triangular knot ornament at left, upper (near 'uulturnus')",
+    "certainty": "high",
+    "evidence": "A thin brown radial line runs from the central circle up and to the left to the blue triangle on the rim.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 15,
+    "relation_type": "text_shape",
+    "subject": "SUB SOLANU OS",
+    "predicate": "inside",
+    "object": "sector 1 (top, left of the vertical radial line)",
+    "certainty": "high",
+    "evidence": "Red text arranged in three short lines, set along the outer part of the wedge between the upper-left radial line and the top radial line.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 16,
+    "relation_type": "text_shape",
+    "subject": "apolio tes",
+    "predicate": "inside",
+    "object": "sector 1 (top, left of the vertical radial line)",
+    "certainty": "medium",
+    "evidence": "Black text in two lines, set below the red text in the same wedge.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 17,
+    "relation_type": "text_shape",
+    "subject": "SUB SOLANU OS",
+    "predicate": "above",
+    "object": "apolio tes",
+    "certainty": "medium",
+    "evidence": "Both texts sit in the same sector. The red text is nearer the rim and the black text nearer the centre.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 18,
+    "relation_type": "text_shape",
+    "subject": "EURUS",
+    "predicate": "inside",
+    "object": "sector 2 (top, right of the vertical radial line)",
+    "certainty": "high",
+    "evidence": "Red text near the outer rim in the wedge between the top radial line and the upper-right radial line.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 19,
+    "relation_type": "text_shape",
+    "subject": "eurus",
+    "predicate": "inside",
+    "object": "sector 2 (top, right of the vertical radial line)",
+    "certainty": "high",
+    "evidence": "Black text below the red text in the same wedge.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 20,
+    "relation_type": "text_shape",
+    "subject": "EURO",
+    "predicate": "inside",
+    "object": "sector 3 (upper right)",
+    "certainty": "medium",
+    "evidence": "Red text written along the rim, rotated, in the wedge between the upper-right radial line and the next radial line.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 21,
+    "relation_type": "text_shape",
+    "subject": "AUSTER",
+    "predicate": "inside",
+    "object": "sector 3 (upper right)",
+    "certainty": "medium",
+    "evidence": "Red text running along the outer rim after 'EURO', continuing around the curve.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 22,
+    "relation_type": "text_shape",
+    "subject": "euro non",
+    "predicate": "inside",
+    "object": "sector 3 (upper right)",
+    "certainty": "low",
+    "evidence": "Black rotated text near the centre end of the wedge. The reading is uncertain.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 23,
+    "relation_type": "text_shape",
+    "subject": "AUSTER",
+    "predicate": "inside",
+    "object": "sector 4 (right, above the horizontal radial line)",
+    "certainty": "low",
+    "evidence": "Red text running along the rim in the wedge above the horizontal right radial line. The reading is uncertain.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 24,
+    "relation_type": "text_shape",
+    "subject": "nodus",
+    "predicate": "inside",
+    "object": "sector 4 (right, above the horizontal radial line)",
+    "certainty": "low",
+    "evidence": "Black rotated text in the wedge. The reading is uncertain.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 25,
+    "relation_type": "text_shape",
+    "subject": "erus",
+    "predicate": "inside",
+    "object": "sector 4 (right, above the horizontal radial line)",
+    "certainty": "medium",
+    "evidence": "Small black text written horizontally in the wedge, close to the central circle.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 26,
+    "relation_type": "text_shape",
+    "subject": "AUSTRO",
+    "predicate": "inside",
+    "object": "sector 5 (right, below the horizontal radial line)",
+    "certainty": "low",
+    "evidence": "Red text running along the outer rim below the horizontal right radial line. The reading is uncertain.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 27,
+    "relation_type": "text_shape",
+    "subject": "AFRIC US",
+    "predicate": "inside",
+    "object": "sector 5 (right, below the horizontal radial line)",
+    "certainty": "medium",
+    "evidence": "Red text in two lines, rotated, inside the wedge.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 28,
+    "relation_type": "text_shape",
+    "subject": "libor us",
+    "predicate": "inside",
+    "object": "sector 5 (right, below the horizontal radial line)",
+    "certainty": "low",
+    "evidence": "Black rotated text near the centre end of the wedge. The reading is uncertain.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 29,
+    "relation_type": "text_shape",
+    "subject": "AFRICUS",
+    "predicate": "inside",
+    "object": "sector 6 (lower right)",
+    "certainty": "medium",
+    "evidence": "Red text along the outer rim in the wedge between the lower-right radial lines.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 30,
+    "relation_type": "text_shape",
+    "subject": "lips",
+    "predicate": "inside",
+    "object": "sector 6 (lower right)",
+    "certainty": "medium",
+    "evidence": "Black text, upside-down relative to the page, in the same wedge.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 31,
+    "relation_type": "text_shape",
+    "subject": "FABO NIUS",
+    "predicate": "inside",
+    "object": "sector 7 (bottom, right of the vertical radial line)",
+    "certainty": "medium",
+    "evidence": "Red text, upside-down, in two lines near the lower rim.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 32,
+    "relation_type": "text_shape",
+    "subject": "zephi rus",
+    "predicate": "inside",
+    "object": "sector 7 (bottom, right of the vertical radial line)",
+    "certainty": "medium",
+    "evidence": "Black upside-down text in two lines above the red text, toward the centre.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 33,
+    "relation_type": "text_shape",
+    "subject": "CHORUS",
+    "predicate": "inside",
+    "object": "sector 8 (bottom, left of the vertical radial line)",
+    "certainty": "medium",
+    "evidence": "Red text running along the lower rim, rotated, in the wedge between the bottom radial line and the lower-left radial line.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 34,
+    "relation_type": "text_shape",
+    "subject": "ayrer cir",
+    "predicate": "inside",
+    "object": "sector 8 (bottom, left of the vertical radial line)",
+    "certainty": "low",
+    "evidence": "Black upside-down text in the wedge. The reading is uncertain.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 35,
+    "relation_type": "text_shape",
+    "subject": "CIRCIUS",
+    "predicate": "inside",
+    "object": "sector 9 (lower left)",
+    "certainty": "medium",
+    "evidence": "Red text running along the outer rim in the lower-left wedge.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 36,
+    "relation_type": "text_shape",
+    "subject": "marci as",
+    "predicate": "inside",
+    "object": "sector 9 (lower left)",
+    "certainty": "low",
+    "evidence": "Black rotated text in the wedge. The reading is uncertain.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 37,
+    "relation_type": "text_shape",
+    "subject": "SEPTEN",
+    "predicate": "inside",
+    "object": "sector 10 (left, below the horizontal radial line)",
+    "certainty": "medium",
+    "evidence": "Red text running along the rim in the wedge below the horizontal left radial line.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 38,
+    "relation_type": "text_shape",
+    "subject": "TRIO",
+    "predicate": "inside",
+    "object": "sector 10 (left, below the horizontal radial line)",
+    "certainty": "medium",
+    "evidence": "Red text continuing along the curve of the rim after 'SEPTEN'.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 39,
+    "relation_type": "text_shape",
+    "subject": "apar cias",
+    "predicate": "inside",
+    "object": "sector 10 (left, below the horizontal radial line)",
+    "certainty": "low",
+    "evidence": "Black rotated text near the centre end of the wedge. The reading is uncertain.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 40,
+    "relation_type": "text_shape",
+    "subject": "AQUILO",
+    "predicate": "inside",
+    "object": "sector 11 (left, above the horizontal radial line)",
+    "certainty": "medium",
+    "evidence": "Red text running along the outer rim in the wedge above the horizontal left radial line.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 41,
+    "relation_type": "text_shape",
+    "subject": "bore as",
+    "predicate": "inside",
+    "object": "sector 11 (left, above the horizontal radial line)",
+    "certainty": "medium",
+    "evidence": "Black rotated text in the same wedge, nearer the centre.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 42,
+    "relation_type": "text_shape",
+    "subject": "UULTURNUS",
+    "predicate": "inside",
+    "object": "sector 12 (upper left)",
+    "certainty": "medium",
+    "evidence": "Red text running along the outer rim in the upper-left wedge.",
+    "updated_at": "2026-11-17T11:11Z"
+  },
+  {
+    "id": 43,
+    "relation_type": "text_shape",
+    "subject": "cilci ar",
+    "predicate": "inside",
+    "object": "sector 12 (upper left)",
+    "certainty": "low",
+    "evidence": "Black rotated text in two lines in the same wedge. The reading is uncertain.",
+    "updated_at": "2026-11-17T11:11Z"
+  }
+]

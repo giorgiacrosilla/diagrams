@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "diagram_classification": "computistical / natural-philosophical (the year, its seasons, qualities and cardinal directions)",
+    "interpretation": "The diagram is a circular scheme of the year (ANNUS) in the centre, surrounded by interlocking arcs that link the four seasons, the four qualities and the four cardinal directions. The seasons are VER (spring), AESTAS (summer), AUTUMNUS (autumn) and HIEMS (winter). The qualities are humidus (moist), calidus (hot), siccus (dry) and frigidus (cold). The directions are oriens (east), meridies (south), occidens (west) and septentrio (north). Each season sits on an arc shared with the neighbouring qualities. Spring is moist and warm, summer warm and dry, autumn dry and cold, and winter cold and moist. The seasons are also tied to the directions: spring to the east, summer to the south, autumn to the west and winter to the north. The overlapping coloured circles show that the year is one unity made of seasons that follow one another and share qualities. The diagram thus presents the temporal cycle of the year as a microcosmic order that corresponds to the elemental qualities and the spatial orientation of the world.",
+    "basis": "textual",
+    "certainty": "medium",
+    "evidence": "The central label reads AN NUS. The peripheral labels read VER, ORIENS, HUMIDUS, CALIDUS, AESTAS, MERIDIES, SICCUS, OCCIDENS, AUTUMNUS, FRIGIDUS, HIEMS and SEPTENTRIO. The coloured arcs overlap so that each season touches two qualities. Pairing the seasons with the directions follows the usual four-fold arrangement. The reading of the text below the diagram (temporal / intellegitur) is partial and was not used. Some of the lettering is hard to read and some pairings are inferred from position.",
+    "updated_at": "2026-11-18T13:17Z"
+  }
+]

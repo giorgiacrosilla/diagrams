@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometrical",
+    "subject": "large outer yellow circular band",
+    "predicate": "contains",
+    "object": "set of eight curved arc bands",
+    "certainty": "high",
+    "evidence": "The thick yellow ring encloses all the arcs, which lie in its interior. Their ends touch or abut the inner edge of the ring.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "geometrical",
+    "subject": "upper-left yellow arc band curving downward from the outer ring",
+    "predicate": "connected_to",
+    "object": "large outer yellow circular band",
+    "certainty": "medium",
+    "evidence": "The arc starts at the inner edge of the outer ring in the upper left, around the 10-11 o'clock position, and curves inward and downward toward the left.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "geometrical",
+    "subject": "top-left brownish-pink arc band",
+    "predicate": "connected_to",
+    "object": "large outer yellow circular band",
+    "certainty": "medium",
+    "evidence": "The arc begins at the outer ring near the top and curves downward and to the right, crossing the yellow arc below it.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "geometrical",
+    "subject": "top green arc band",
+    "predicate": "connected_to",
+    "object": "large outer yellow circular band",
+    "certainty": "medium",
+    "evidence": "The green band starts at the outer ring at the upper right and curves downward on the left side, then sweeps to the right and meets the outer ring at the right.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "geometrical",
+    "subject": "right brownish-orange arc band",
+    "predicate": "connected_to",
+    "object": "large outer yellow circular band",
+    "certainty": "medium",
+    "evidence": "The band starts at the outer ring on the right side near 3 o'clock, curves leftward and downward, and ends at the outer ring at the lower right.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "geometrical",
+    "subject": "lower-right yellow arc band",
+    "predicate": "connected_to",
+    "object": "large outer yellow circular band",
+    "certainty": "medium",
+    "evidence": "The yellow arc starts at the outer ring on the right, arcs leftward and downward, and ends at the outer ring at the bottom.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "geometrical",
+    "subject": "bottom green arc band",
+    "predicate": "connected_to",
+    "object": "large outer yellow circular band",
+    "certainty": "medium",
+    "evidence": "The green arch has both ends on the inner edge of the outer ring at the lower left and lower right, with its curve rising toward the center.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "geometrical",
+    "subject": "lower-left brownish arc band",
+    "predicate": "connected_to",
+    "object": "large outer yellow circular band",
+    "certainty": "medium",
+    "evidence": "The band starts at the outer ring on the left, arcs rightward and downward, and ends at the outer ring at the bottom left.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "geometrical",
+    "subject": "left brownish-pink arc band",
+    "predicate": "connected_to",
+    "object": "large outer yellow circular band",
+    "certainty": "low",
+    "evidence": "The band starts at the outer ring on the left and sweeps rightward in a shallow curve, crossing the yellow arc on the left.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "geometrical",
+    "subject": "upper-left yellow arc band curving downward from the outer ring",
+    "predicate": "connected_to",
+    "object": "left brownish-pink arc band",
+    "certainty": "low",
+    "evidence": "The two arcs cross each other on the left side of the diagram, around the 9 o'clock position.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "geometrical",
+    "subject": "top green arc band",
+    "predicate": "connected_to",
+    "object": "right brownish-orange arc band",
+    "certainty": "low",
+    "evidence": "The green band crosses the orange band at the right of the center, around 4 o'clock.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "geometrical",
+    "subject": "bottom green arc band",
+    "predicate": "connected_to",
+    "object": "lower-right yellow arc band",
+    "certainty": "low",
+    "evidence": "The two bands cross each other at the bottom right, around the 6 o'clock position.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 13,
+    "relation_type": "geometrical",
+    "subject": "bottom green arc band",
+    "predicate": "connected_to",
+    "object": "lower-left brownish arc band",
+    "certainty": "low",
+    "evidence": "The two bands cross each other at the lower left, around the 7 o'clock position.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 14,
+    "relation_type": "geometrical",
+    "subject": "central empty space",
+    "predicate": "inside",
+    "object": "large outer yellow circular band",
+    "certainty": "high",
+    "evidence": "The central area is blank and surrounded by the ring of arcs, with no text or figures.",
+    "updated_at": "2026-11-18T11:27Z"
+  }
+]

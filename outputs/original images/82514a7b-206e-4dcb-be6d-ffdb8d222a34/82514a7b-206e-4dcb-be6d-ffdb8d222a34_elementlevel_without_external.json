@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "relation_type": "text_shape",
+    "subject": "LUNA . VIII .",
+    "predicate": "above",
+    "object": "top half-disc divided by a horizontal line",
+    "certainty": "medium",
+    "evidence": "The text 'LUNA' and '. VIII .' is placed to the left and right of the top half-disc at the upper edge of the circle. The half-disc is divided into two parts, containing 'DI ATO' and 'MOS'.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "text_shape",
+    "subject": "DI ATO MOS",
+    "predicate": "inside",
+    "object": "top half-disc divided by a horizontal line",
+    "certainty": "high",
+    "evidence": "'DI' and 'ATO' are written in the upper part and 'MOS' in the lower part of the half-disc, which is brown with a flat left edge.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "geometric",
+    "subject": "top half-disc divided by a horizontal line",
+    "predicate": "connected_to",
+    "object": "large ring",
+    "certainty": "high",
+    "evidence": "The ring passes through the half-disc along its horizontal dividing line, with the flat edge vertical at the left.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "text_shape",
+    "subject": "LUNA . . . PRIMA",
+    "predicate": "above",
+    "object": "small crescent on the ring at upper right",
+    "certainty": "medium",
+    "evidence": "'LUNA' stands to the left and 'PRIMA' to the right of the crescent. The text 'MO NO ID ES' is written on and around the crescent.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "text_shape",
+    "subject": "MO NO ID ES",
+    "predicate": "inside",
+    "object": "small crescent on the ring at upper right",
+    "certainty": "medium",
+    "evidence": "The letters follow the curve of the crescent, partly inside its hollow.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "geometric",
+    "subject": "small crescent on the ring at upper right",
+    "predicate": "connected_to",
+    "object": "large ring",
+    "certainty": "high",
+    "evidence": "The ring line runs through the crescent at its lower tip.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "text_shape",
+    "subject": "SOL",
+    "predicate": "inside",
+    "object": "large radiating disc at right",
+    "certainty": "high",
+    "evidence": "The letters 'S' and 'OL' are written inside the brown disc, which has fine rays around its edge.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "geometric",
+    "subject": "large radiating disc at right",
+    "predicate": "connected_to",
+    "object": "large ring",
+    "certainty": "high",
+    "evidence": "The ring touches the disc at top and bottom, and a vertical line divides the disc.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "geometric",
+    "subject": "large radiating disc at right",
+    "predicate": "connected_to",
+    "object": "disc at left divided into four parts",
+    "certainty": "high",
+    "evidence": "A long horizontal brown line runs from the left disc to the right disc, passing between the texts 'LUNA RECEDIT ASOLE' and 'EMISPERIU INFERIUS'.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "text_shape",
+    "subject": "PAN SE LE NOS",
+    "predicate": "inside",
+    "object": "disc at left divided into four parts",
+    "certainty": "high",
+    "evidence": "The syllables 'PAN' and 'SE' are in the upper half and 'LE' and 'NOS' in the lower half of the disc, which is crossed by the ring and a horizontal line.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "text_shape",
+    "subject": "LUNA . XV .",
+    "predicate": "connected_to",
+    "object": "disc at left divided into four parts",
+    "certainty": "low",
+    "evidence": "'LUNA' and '. XV .' are written just left of the disc without any line. Connected_to is used as the closest predicate.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "geometric",
+    "subject": "disc at left divided into four parts",
+    "predicate": "connected_to",
+    "object": "large ring",
+    "certainty": "high",
+    "evidence": "The ring passes vertically through the disc.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 13,
+    "relation_type": "text_shape",
+    "subject": "AMPHI CIR TOS",
+    "predicate": "inside",
+    "object": "upper left half-disc",
+    "certainty": "medium",
+    "evidence": "The letters curve around the outer edge of the brown half-disc at the upper left of the ring. 'LUNA . XII .' is written to its left.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 14,
+    "relation_type": "geometric",
+    "subject": "upper left half-disc",
+    "predicate": "connected_to",
+    "object": "large ring",
+    "certainty": "high",
+    "evidence": "The ring passes through the half-disc.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 15,
+    "relation_type": "text_shape",
+    "subject": "AMPHI CIR TOS (lower)",
+    "predicate": "inside",
+    "object": "lower left half-disc",
+    "certainty": "medium",
+    "evidence": "The letters 'AMPHI' and 'CIR TOS' curve around the lower-left half-disc. 'LUNA . XVIII .' is written to its left.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 16,
+    "relation_type": "geometric",
+    "subject": "lower left half-disc",
+    "predicate": "connected_to",
+    "object": "large ring",
+    "certainty": "high",
+    "evidence": "The ring passes through the half-disc.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 17,
+    "relation_type": "text_shape",
+    "subject": "LUNA MONOIDES . XXVII .",
+    "predicate": "above",
+    "object": "crescent on the ring at lower right",
+    "certainty": "medium",
+    "evidence": "The text 'MONOIDES' follows the curve of the crescent. 'LUNA' is to its left and '. XXVII .' to its right.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 18,
+    "relation_type": "geometric",
+    "subject": "crescent on the ring at lower right",
+    "predicate": "connected_to",
+    "object": "large ring",
+    "certainty": "high",
+    "evidence": "The ring passes through the crescent.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 19,
+    "relation_type": "text_shape",
+    "subject": "DI ATO MOS (lower)",
+    "predicate": "inside",
+    "object": "bottom half-disc divided by a horizontal line",
+    "certainty": "high",
+    "evidence": "'DI' and 'ATO' are written in the upper part and 'MOS' in the lower part of the half-disc. 'LUNA' and '. XXII .' flank it.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 20,
+    "relation_type": "geometric",
+    "subject": "bottom half-disc divided by a horizontal line",
+    "predicate": "connected_to",
+    "object": "large ring",
+    "certainty": "high",
+    "evidence": "The ring passes through the half-disc along its horizontal dividing line.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 21,
+    "relation_type": "text_shape",
+    "subject": "EMISPERIU SUPERIUS P QUOD LUNA RECEDIT ASOLE .",
+    "predicate": "above",
+    "object": "horizontal line between left disc and SOL",
+    "certainty": "high",
+    "evidence": "Two lines of text are written inside the ring above the long horizontal line.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 22,
+    "relation_type": "text_shape",
+    "subject": "EMISPERIU INFERIUS P QUOD LUN[illegible] PROPINQUAT SOLI",
+    "predicate": "below",
+    "object": "horizontal line between left disc and SOL",
+    "certainty": "high",
+    "evidence": "Two lines of text are written inside the ring below the long horizontal line. Part of the second line is smudged.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 23,
+    "relation_type": "geometric",
+    "subject": "large ring",
+    "predicate": "contains",
+    "object": "horizontal line between left disc and SOL",
+    "certainty": "high",
+    "evidence": "The horizontal line runs within the circular ring between the left and right discs.",
+    "updated_at": "2026-11-18T13:11Z"
+  }
+]

@@ -1,0 +1,294 @@
+{
+  "element_analysis": [
+    {
+      "id": 1,
+      "relation_type": "text_shape",
+      "subject": "SATU RNUS",
+      "predicate": "connected_to",
+      "object": "head on outermost circle",
+      "certainty": "medium",
+      "evidence": "Red text split into \"SATU\" on the left and \"RNUS\" on the right of a small painted head, and both halves touch the head at the top of the page.",
+      "updated_at": ""
+    },
+    {
+      "id": 2,
+      "relation_type": "figurative",
+      "subject": "head on outermost circle",
+      "predicate": "connected_to",
+      "object": "outermost circle",
+      "certainty": "medium",
+      "evidence": "Small painted head with a blue outline around the hair and a yellowish face, placed on the line of the outermost circle at the top, which passes behind it.",
+      "updated_at": ""
+    },
+    {
+      "id": 3,
+      "relation_type": "text_shape",
+      "subject": "IO UIS",
+      "predicate": "connected_to",
+      "object": "head on second circle",
+      "certainty": "medium",
+      "evidence": "Red text split into \"IO\" on the left and \"UIS\" on the right of a small painted head, and both halves touch the head.",
+      "updated_at": ""
+    },
+    {
+      "id": 4,
+      "relation_type": "figurative",
+      "subject": "head on second circle",
+      "predicate": "connected_to",
+      "object": "second circle",
+      "certainty": "medium",
+      "evidence": "Small painted head with a yellowish face placed on the line of the second circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 5,
+      "relation_type": "text_shape",
+      "subject": "MA RS",
+      "predicate": "connected_to",
+      "object": "head on third circle",
+      "certainty": "medium",
+      "evidence": "Red text split into \"MA\" on the left and \"RS\" on the right of a small painted head with a blue outline, and both halves touch the head.",
+      "updated_at": ""
+    },
+    {
+      "id": 6,
+      "relation_type": "figurative",
+      "subject": "head on third circle",
+      "predicate": "connected_to",
+      "object": "third circle",
+      "certainty": "medium",
+      "evidence": "Small painted head with a blue outline placed on the line of the third circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 7,
+      "relation_type": "text_shape",
+      "subject": "SO L",
+      "predicate": "connected_to",
+      "object": "head on fourth circle",
+      "certainty": "medium",
+      "evidence": "Red text split into \"SO\" on the left and \"L\" on the right of an orange painted head with short rays around it, and both parts are adjacent to the head.",
+      "updated_at": ""
+    },
+    {
+      "id": 8,
+      "relation_type": "figurative",
+      "subject": "head on fourth circle",
+      "predicate": "connected_to",
+      "object": "fourth circle",
+      "certainty": "medium",
+      "evidence": "Orange painted head with short radiating lines around it, placed on the line of the fourth circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 9,
+      "relation_type": "text_shape",
+      "subject": "UE NUS",
+      "predicate": "connected_to",
+      "object": "head on fifth circle",
+      "certainty": "medium",
+      "evidence": "Red text split into \"UE\" on the left (the second letter is unclear) and \"NUS\" on the right of a small painted head with dark hair, and both halves touch the head.",
+      "updated_at": ""
+    },
+    {
+      "id": 10,
+      "relation_type": "figurative",
+      "subject": "head on fifth circle",
+      "predicate": "connected_to",
+      "object": "fifth circle",
+      "certainty": "medium",
+      "evidence": "Small painted head with dark outline placed on the line of the fifth circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 11,
+      "relation_type": "text_shape",
+      "subject": "MER CUR",
+      "predicate": "connected_to",
+      "object": "head on sixth circle",
+      "certainty": "medium",
+      "evidence": "Red text split into \"MER\" on the left and \"CUR\" on the right of a small painted head with a blue outline, and both halves touch the head.",
+      "updated_at": ""
+    },
+    {
+      "id": 12,
+      "relation_type": "figurative",
+      "subject": "head on sixth circle",
+      "predicate": "connected_to",
+      "object": "sixth circle",
+      "certainty": "medium",
+      "evidence": "Small painted head with a blue outline placed on the line of the sixth circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 13,
+      "relation_type": "text_shape",
+      "subject": "LU NA",
+      "predicate": "connected_to",
+      "object": "head on seventh circle",
+      "certainty": "medium",
+      "evidence": "Red text split into \"LU\" on the left and \"NA\" on the right of a small painted head, and both halves touch the head.",
+      "updated_at": ""
+    },
+    {
+      "id": 14,
+      "relation_type": "figurative",
+      "subject": "head on seventh circle",
+      "predicate": "connected_to",
+      "object": "seventh circle",
+      "certainty": "medium",
+      "evidence": "Small painted head with a blue and dark outline placed on the line of the seventh (innermost) circle, at its top.",
+      "updated_at": ""
+    },
+    {
+      "id": 15,
+      "relation_type": "geometric",
+      "subject": "second circle",
+      "predicate": "inside",
+      "object": "outermost circle",
+      "certainty": "high",
+      "evidence": "The second thin brown circle lies within the outermost circle and shares its centre.",
+      "updated_at": ""
+    },
+    {
+      "id": 16,
+      "relation_type": "geometric",
+      "subject": "third circle",
+      "predicate": "inside",
+      "object": "second circle",
+      "certainty": "high",
+      "evidence": "The third concentric circle lies within the second.",
+      "updated_at": ""
+    },
+    {
+      "id": 17,
+      "relation_type": "geometric",
+      "subject": "fourth circle",
+      "predicate": "inside",
+      "object": "third circle",
+      "certainty": "high",
+      "evidence": "The fourth concentric circle lies within the third.",
+      "updated_at": ""
+    },
+    {
+      "id": 18,
+      "relation_type": "geometric",
+      "subject": "fifth circle",
+      "predicate": "inside",
+      "object": "fourth circle",
+      "certainty": "high",
+      "evidence": "The fifth concentric circle lies within the fourth.",
+      "updated_at": ""
+    },
+    {
+      "id": 19,
+      "relation_type": "geometric",
+      "subject": "sixth circle",
+      "predicate": "inside",
+      "object": "fifth circle",
+      "certainty": "high",
+      "evidence": "The sixth concentric circle lies within the fifth.",
+      "updated_at": ""
+    },
+    {
+      "id": 20,
+      "relation_type": "geometric",
+      "subject": "seventh circle",
+      "predicate": "inside",
+      "object": "sixth circle",
+      "certainty": "high",
+      "evidence": "The seventh, innermost concentric circle lies within the sixth.",
+      "updated_at": ""
+    },
+    {
+      "id": 21,
+      "relation_type": "figurative",
+      "subject": "head on outermost circle",
+      "predicate": "above",
+      "object": "head on second circle",
+      "certainty": "high",
+      "evidence": "The heads are arranged in a single vertical column along the top of the circles, and the head on the outermost circle is the higher.",
+      "updated_at": ""
+    },
+    {
+      "id": 22,
+      "relation_type": "figurative",
+      "subject": "head on second circle",
+      "predicate": "above",
+      "object": "head on third circle",
+      "certainty": "high",
+      "evidence": "Heads are in a vertical column; the head on the second circle is higher.",
+      "updated_at": ""
+    },
+    {
+      "id": 23,
+      "relation_type": "figurative",
+      "subject": "head on third circle",
+      "predicate": "above",
+      "object": "head on fourth circle",
+      "certainty": "high",
+      "evidence": "Heads are in a vertical column; the head on the third circle is higher.",
+      "updated_at": ""
+    },
+    {
+      "id": 24,
+      "relation_type": "figurative",
+      "subject": "head on fourth circle",
+      "predicate": "above",
+      "object": "head on fifth circle",
+      "certainty": "high",
+      "evidence": "Heads are in a vertical column; the orange head is higher than the dark-haired head.",
+      "updated_at": ""
+    },
+    {
+      "id": 25,
+      "relation_type": "figurative",
+      "subject": "head on fifth circle",
+      "predicate": "above",
+      "object": "head on sixth circle",
+      "certainty": "high",
+      "evidence": "Heads are in a vertical column; the head on the fifth circle is higher.",
+      "updated_at": ""
+    },
+    {
+      "id": 26,
+      "relation_type": "figurative",
+      "subject": "head on sixth circle",
+      "predicate": "above",
+      "object": "head on seventh circle",
+      "certainty": "high",
+      "evidence": "Heads are in a vertical column; the head on the sixth circle is higher and almost touches the head below.",
+      "updated_at": ""
+    },
+    {
+      "id": 27,
+      "relation_type": "text_shape",
+      "subject": "TER RA",
+      "predicate": "connected_to",
+      "object": "central brown dot",
+      "certainty": "medium",
+      "evidence": "Red text split into \"TER\" on the left and \"RA\" on the right of a small brown filled dot at the centre of the circles, and both halves touch the dot.",
+      "updated_at": ""
+    },
+    {
+      "id": 28,
+      "relation_type": "figurative",
+      "subject": "central brown dot",
+      "predicate": "inside",
+      "object": "seventh circle",
+      "certainty": "high",
+      "evidence": "The small brown dot lies at the common centre, inside the innermost circle.",
+      "updated_at": ""
+    }
+  ],
+  "interpretation": [
+    {
+      "diagram_classification": "cosmological (geocentric planetary diagram)",
+      "interpretation": "The diagram shows the geocentric arrangement of the seven planetary spheres around the Earth. The central brown dot labelled \"TER RA\" is the Earth, placed at the common centre. Around it are six more concentric circles, each carrying a small painted head with a split red label naming a planet or luminary. From the innermost sphere outward the order is: \"LU NA\" (Moon), \"MER CUR\" (Mercury), \"UE NUS\" (Venus, probably written \"UE\" or \"UI\" for \"VENUS\"), \"SO L\" (Sun), \"MA RS\" (Mars), \"IO UIS\" (Jupiter) and \"SATU RNUS\" (Saturn). This is the standard Ptolemaic or Macrobian order of the planets, with the Sun fourth, in the middle of the series. The heads are personifications of the planets, and the rays around the orange head mark the Sun's light. The diagram probably illustrates a passage on the order and distances of the planets in a computistic or natural-philosophical text, since the surrounding page is written in Latin. Reading from the top, the outermost circle is the sphere of Saturn and the innermost circle is the sphere of the Moon.",
+      "basis": "textual",
+      "certainty": "high",
+      "evidence": "The red labels are the Latin planet names, and each is split around a head placed on a circle. The Earth label is at the centre. The order of the labels from the centre outward, Moon, Mercury, Venus, Sun, Mars, Jupiter, Saturn, matches the geocentric planetary order. The heads in a single vertical column and the rayed orange head for the Sun are visible features that support this reading. The Step 1 reading \"UE NUS\" for the Venus label is uncertain, because the second letter is unclear and may be \"I\", giving \"UI NUS\". Step 1 also lists the Earth circle as the seventh circle, but the central dot has no circle of its own, so the label \"seventh circle\" is the innermost ring, which is the lunar sphere. The attribution to a specific source text is not certain and is not named.",
+      "updated_at": ""
+    }
+  ]
+}

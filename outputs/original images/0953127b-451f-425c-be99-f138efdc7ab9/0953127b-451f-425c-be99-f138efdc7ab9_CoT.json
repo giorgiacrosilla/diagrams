@@ -1,0 +1,94 @@
+{
+  "element_analysis": [
+    {
+      "id": 1,
+      "relation_type": "text_shape",
+      "subject": "PATER",
+      "predicate": "connected_to",
+      "object": "SPS SCS",
+      "certainty": "high",
+      "evidence": "The upper left circle and the upper right circle are joined by a straight horizontal double red band forming the top side of the inverted triangle. The band contains the text \"NON EST\" written along it, reading left to right.",
+      "updated_at": ""
+    },
+    {
+      "id": 2,
+      "relation_type": "text_shape",
+      "subject": "PATER",
+      "predicate": "connected_to",
+      "object": "DEUS",
+      "certainty": "high",
+      "evidence": "A straight double red band runs diagonally from the upper left circle down to the central circle. The text \"EST\" is written along the band, tilted to follow its slope.",
+      "updated_at": ""
+    },
+    {
+      "id": 3,
+      "relation_type": "text_shape",
+      "subject": "SPS SCS",
+      "predicate": "connected_to",
+      "object": "DEUS",
+      "certainty": "high",
+      "evidence": "A straight double red band runs diagonally from the upper right circle down to the central circle. The text \"EST\" is written along the band, tilted to follow its slope. The label of the upper right circle is partly hard to read and is transcribed as \"SPS SCS\".",
+      "updated_at": ""
+    },
+    {
+      "id": 4,
+      "relation_type": "text_shape",
+      "subject": "PATER",
+      "predicate": "connected_to",
+      "object": "FILIVS",
+      "certainty": "high",
+      "evidence": "A long straight double red band forms the left side of the inverted triangle, running from the upper left circle down to the bottom circle at the apex. The text \"NON EST\" is written along the band, rotated to follow its slope.",
+      "updated_at": ""
+    },
+    {
+      "id": 5,
+      "relation_type": "text_shape",
+      "subject": "SPS SCS",
+      "predicate": "connected_to",
+      "object": "FILIVS",
+      "certainty": "high",
+      "evidence": "A long straight double red band forms the right side of the inverted triangle, running from the upper right circle down to the bottom circle at the apex. The text \"NON EST\" is written along the band, rotated to follow its slope.",
+      "updated_at": ""
+    },
+    {
+      "id": 6,
+      "relation_type": "text_shape",
+      "subject": "DEUS",
+      "predicate": "connected_to",
+      "object": "FILIVS",
+      "certainty": "high",
+      "evidence": "A short straight vertical double red band runs from the central circle down to the bottom circle. The text \"EST\" is written along the band just below the central circle. A cross figure is drawn on the lower part of the band.",
+      "updated_at": ""
+    },
+    {
+      "id": 7,
+      "relation_type": "figurative",
+      "subject": "crucified figure on a cross",
+      "predicate": "below",
+      "object": "DEUS",
+      "certainty": "medium",
+      "evidence": "A small figure with arms outstretched horizontally on a cross is drawn on the vertical band, beneath the central circle. The figure is bent slightly, has a halo and a loincloth, and is drawn in brown and grey tones.",
+      "updated_at": ""
+    },
+    {
+      "id": 8,
+      "relation_type": "figurative",
+      "subject": "crucified figure on a cross",
+      "predicate": "above",
+      "object": "FILIVS",
+      "certainty": "medium",
+      "evidence": "The figure on the cross is drawn on the vertical band, directly above the bottom circle. Its feet and the foot of the cross end just above that circle.",
+      "updated_at": ""
+    }
+  ],
+  "interpretation": [
+    {
+      "diagram_classification": "Theological diagram of the Trinity (scutum fidei / Shield of the Trinity type), with a crucifixion figure added to the central axis",
+      "interpretation": "The diagram is a visual statement of Trinitarian doctrine. The three outer circles (PATER, SPS SCS and FILIVS) stand for the three divine Persons: Father, Holy Spirit and Son. The central circle (DEUS) stands for the one divine essence. The bands joining the Persons to one another are marked \"NON EST\" (is not): each Person is not the other. The bands joining each Person to DEUS are marked \"EST\" (is): each Person is God. The diagram therefore shows that the Persons are distinct from one another and yet each is fully the one God. The crucified figure on the vertical band between DEUS and FILIVS places the Incarnation and Passion of the Son on the axis that links the divine essence to the Son. It may also express the Son's visible, historical manifestation of God. The faint large circular design behind the lower part of the figure looks like show-through from the other side of the leaf or an earlier drawing. It does not seem to be part of this diagram.",
+      "basis": "textual",
+      "certainty": "high",
+      "evidence": "Written in the diagram: the labels PATER, SPS SCS (the reading of the upper right circle is uncertain), FILIVS and DEUS, together with the repeated \"NON EST\" on the three outer sides and \"EST\" on the three radial bands. Visible: the inverted triangle with a circle at each vertex, a central circle joined to all three, and a crucified figure on the lower radial band. External: this structure is the well-known medieval Trinity diagram, often called the Shield of the Trinity, which is common from the twelfth century onwards and is associated with the Trinitarian formulations of Peter Lombard's Sentences and later scholastic teaching. The crucifixion variant is less standard. I read it as a Christological emphasis, but this is only an interpretation. The Step 1 entries are broadly sound. Two points need care. Entries 1 to 6 name the outer circles by their labels and give the central one as DEUS, which is correct. The transcription \"SPS SCS\" is uncertain because the upper right label is damaged and may be an abbreviated form such as \"SPS SCS\" with extra strokes. Entry 6 notes the cross on the band, and entries 7 and 8 use \"below\" and \"above\" for the figure although the figure sits on the connecting band, so the figure is probably better read as part of that connection than as a separate element. The \"halo\" in entry 7 is uncertain at this resolution.",
+      "updated_at": ""
+    }
+  ]
+}

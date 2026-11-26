@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometric",
+    "subject": "yellow curved band at upper left (hanging arc)",
+    "predicate": "connected_to",
+    "object": "large outer yellow circular ring",
+    "certainty": "high",
+    "evidence": "The left end of the arc starts at the inner edge of the outer ring near the upper left, around the 11 o'clock position.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "geometric",
+    "subject": "pink-brown curved band at top",
+    "predicate": "connected_to",
+    "object": "large outer yellow circular ring",
+    "certainty": "high",
+    "evidence": "The upper end of the band starts at the inner edge of the ring at the top, near 12 o'clock. It curves down and left.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "geometric",
+    "subject": "green curved band at upper right",
+    "predicate": "connected_to",
+    "object": "large outer yellow circular ring",
+    "certainty": "high",
+    "evidence": "The upper end of the green band touches the inner edge of the ring at the upper right. It curves down and then right, and its right end touches the ring at the right edge.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "geometric",
+    "subject": "orange-pink curved band at right",
+    "predicate": "connected_to",
+    "object": "large outer yellow circular ring",
+    "certainty": "high",
+    "evidence": "The upper end touches the ring at the right. The band curves left and down in a C shape, and its lower end touches the ring at the lower right.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "geometric",
+    "subject": "yellow curved band at left",
+    "predicate": "connected_to",
+    "object": "large outer yellow circular ring",
+    "certainty": "high",
+    "evidence": "The band starts at the ring at the upper left. It bulges toward the centre and ends at the ring at the lower left.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "geometric",
+    "subject": "pink-brown curved band at lower left",
+    "predicate": "connected_to",
+    "object": "large outer yellow circular ring",
+    "certainty": "high",
+    "evidence": "The band starts at the ring on the left side. It arcs right and down, and its lower end meets the ring at the bottom left.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "geometric",
+    "subject": "green curved band at bottom",
+    "predicate": "connected_to",
+    "object": "large outer yellow circular ring",
+    "certainty": "high",
+    "evidence": "The band rises as an arch from the ring at the lower left, and its right end descends to meet the ring at the bottom right.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "geometric",
+    "subject": "yellow curved band at lower right",
+    "predicate": "connected_to",
+    "object": "large outer yellow circular ring",
+    "certainty": "high",
+    "evidence": "The band begins at the ring at the bottom, rises in an arch, and its right end meets the ring at the right.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "geometric",
+    "subject": "yellow curved band at upper left (hanging arc)",
+    "predicate": "connected_to",
+    "object": "pink-brown curved band at top",
+    "certainty": "medium",
+    "evidence": "The two bands cross each other in the upper centre of the circle, with overlapping outlines.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "geometric",
+    "subject": "yellow curved band at upper left (hanging arc)",
+    "predicate": "connected_to",
+    "object": "green curved band at upper right",
+    "certainty": "medium",
+    "evidence": "The bands cross near the upper centre-right, where the green band's lines overlap the yellow band.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "geometric",
+    "subject": "green curved band at upper right",
+    "predicate": "connected_to",
+    "object": "orange-pink curved band at right",
+    "certainty": "medium",
+    "evidence": "The bands cross on the right side of the circle, where the green band passes over the orange-pink one.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "geometric",
+    "subject": "pink-brown curved band at top",
+    "predicate": "connected_to",
+    "object": "yellow curved band at left",
+    "certainty": "medium",
+    "evidence": "The pink-brown band crosses the yellow band on the left side of the circle, where the outlines overlap.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 13,
+    "relation_type": "geometric",
+    "subject": "yellow curved band at left",
+    "predicate": "connected_to",
+    "object": "pink-brown curved band at lower left",
+    "certainty": "medium",
+    "evidence": "The bands cross at the lower left, where the outlines overlap.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 14,
+    "relation_type": "geometric",
+    "subject": "pink-brown curved band at lower left",
+    "predicate": "connected_to",
+    "object": "green curved band at bottom",
+    "certainty": "medium",
+    "evidence": "The bands cross at the bottom left of the circle, where the pink-brown band passes over the green one.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 15,
+    "relation_type": "geometric",
+    "subject": "green curved band at bottom",
+    "predicate": "connected_to",
+    "object": "yellow curved band at lower right",
+    "certainty": "medium",
+    "evidence": "The bands cross at the bottom right of the circle, where the outlines overlap.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 16,
+    "relation_type": "geometric",
+    "subject": "yellow curved band at lower right",
+    "predicate": "connected_to",
+    "object": "orange-pink curved band at right",
+    "certainty": "medium",
+    "evidence": "The bands cross at the right of the circle, where the outlines overlap.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 17,
+    "relation_type": "geometric",
+    "subject": "large outer yellow circular ring",
+    "predicate": "contains",
+    "object": "empty central area",
+    "certainty": "medium",
+    "evidence": "The central area is bounded by the inward-curving bands and is not filled with any element or text. The ring encloses the whole diagram.",
+    "updated_at": "2026-11-18T12:23Z"
+  }
+]

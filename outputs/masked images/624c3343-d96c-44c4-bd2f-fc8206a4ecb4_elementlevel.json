@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometrical",
+    "subject": "green square frame",
+    "predicate": "contains",
+    "object": "orange rhombus",
+    "certainty": "high",
+    "evidence": "The rhombus with a circle at each corner sits within the green square band; the top, bottom, left and right circles touch or overlap the frame's edges.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "geometrical",
+    "subject": "top circle with orange rim",
+    "predicate": "connected_to",
+    "object": "left circle with orange rim",
+    "certainty": "high",
+    "evidence": "A wide orange band runs diagonally from the top circle down to the left circle, forming the upper-left side of the rhombus.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "geometrical",
+    "subject": "top circle with orange rim",
+    "predicate": "connected_to",
+    "object": "right circle with orange rim",
+    "certainty": "high",
+    "evidence": "A wide orange band runs diagonally from the top circle down to the right circle, forming the upper-right side of the rhombus.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "geometrical",
+    "subject": "left circle with orange rim",
+    "predicate": "connected_to",
+    "object": "bottom circle with orange rim",
+    "certainty": "high",
+    "evidence": "A wide orange band runs diagonally from the left circle down to the bottom circle, forming the lower-left side of the rhombus.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "geometrical",
+    "subject": "right circle with orange rim",
+    "predicate": "connected_to",
+    "object": "bottom circle with orange rim",
+    "certainty": "high",
+    "evidence": "A wide orange band runs diagonally from the right circle down to the bottom circle, forming the lower-right side of the rhombus.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "geometrical",
+    "subject": "top circle with orange rim",
+    "predicate": "connected_to",
+    "object": "horizontal thin line inside the rhombus",
+    "certainty": "medium",
+    "evidence": "A thin vertical dark red line descends from the bottom of the top circle and meets a thin horizontal line in the lower half of the rhombus, forming a T shape. The horizontal line stops short of the side bands.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "figurative",
+    "subject": "dark red circle with grid pattern",
+    "predicate": "inside",
+    "object": "green square frame",
+    "certainty": "high",
+    "evidence": "The circle is in the upper-left corner, within the green frame and outside the rhombus. It is filled dark red with a grid of thin lines.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "figurative",
+    "subject": "pale greenish-white circle",
+    "predicate": "inside",
+    "object": "green square frame",
+    "certainty": "high",
+    "evidence": "The circle is in the upper-right corner, within the green frame and outside the rhombus. It has a dark red outline and a pale fill.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "figurative",
+    "subject": "dark grey-black circle",
+    "predicate": "inside",
+    "object": "green square frame",
+    "certainty": "high",
+    "evidence": "The circle is in the lower-left corner, within the green frame and outside the rhombus. It has a dark red outline and a dark grey fill.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "figurative",
+    "subject": "green circle",
+    "predicate": "inside",
+    "object": "green square frame",
+    "certainty": "high",
+    "evidence": "The circle is in the lower-right corner, within the green frame and outside the rhombus. It has a dark red outline and a green fill.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "figurative",
+    "subject": "dark red circle with grid pattern",
+    "predicate": "above",
+    "object": "dark grey-black circle",
+    "certainty": "high",
+    "evidence": "Both circles are on the left side of the diagram. The dark red circle is in the upper corner and the dark grey circle in the lower corner.",
+    "updated_at": "2026-11-18T11:26Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "figurative",
+    "subject": "pale greenish-white circle",
+    "predicate": "above",
+    "object": "green circle",
+    "certainty": "high",
+    "evidence": "Both circles are on the right side of the diagram. The pale circle is in the upper corner and the green circle in the lower corner.",
+    "updated_at": "2026-11-18T11:26Z"
+  }
+]

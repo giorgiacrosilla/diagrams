@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometric",
+    "subject": "outer large circle",
+    "predicate": "contains",
+    "object": "interwoven ring of bands",
+    "certainty": "high",
+    "evidence": "A thin black outer circle encloses a ring of interlaced reddish-brown bands arranged concentrically.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "geometric",
+    "subject": "interwoven ring of bands",
+    "predicate": "contains",
+    "object": "central circle",
+    "certainty": "high",
+    "evidence": "The bands run around a central circle that is bordered by a double ring.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "text_shape",
+    "subject": "MUNDUS ANNUS HOMO",
+    "predicate": "inside",
+    "object": "central circle",
+    "certainty": "high",
+    "evidence": "Three lines of capital text, 'MVNDVS. / ANNVS. / HOMO.', are written in the center of the innermost circle.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "text_shape",
+    "subject": "Sicca",
+    "predicate": "inside",
+    "object": "band segment at upper left",
+    "certainty": "medium",
+    "evidence": "The text 'SICCA.' is written along the curve of a band segment in the upper left of the outer ring.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "text_shape",
+    "subject": "Ignis",
+    "predicate": "inside",
+    "object": "band segment at top",
+    "certainty": "medium",
+    "evidence": "The text 'Ignis' is written in a band segment at the top center of the outer ring.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "text_shape",
+    "subject": "Calidus",
+    "predicate": "inside",
+    "object": "band segment at upper right",
+    "certainty": "medium",
+    "evidence": "The text 'CALIDUS.' is written along a band segment in the upper right of the outer ring.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "text_shape",
+    "subject": "Calidus",
+    "predicate": "inside",
+    "object": "band segment at right upper",
+    "certainty": "medium",
+    "evidence": "A second 'CALIDUS.' is written along a band segment on the right side, rotated along the curve.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "text_shape",
+    "subject": "Aer",
+    "predicate": "inside",
+    "object": "band segment at right",
+    "certainty": "medium",
+    "evidence": "The text 'AER' is written on a band segment at the right side.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "text_shape",
+    "subject": "Humidus",
+    "predicate": "inside",
+    "object": "band segment at lower right",
+    "certainty": "medium",
+    "evidence": "The text 'Humidus.' is written along a band segment at the lower right of the outer ring.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "text_shape",
+    "subject": "Humidus",
+    "predicate": "inside",
+    "object": "band segment at bottom right",
+    "certainty": "medium",
+    "evidence": "The text 'humidus.' appears upside-down along a band segment at the lower right of the outer ring.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "text_shape",
+    "subject": "Aqua",
+    "predicate": "inside",
+    "object": "band segment at bottom",
+    "certainty": "medium",
+    "evidence": "The text 'Aqua' appears upside-down in a band segment at the bottom.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "text_shape",
+    "subject": "Frigida",
+    "predicate": "inside",
+    "object": "band segment at lower left bottom",
+    "certainty": "medium",
+    "evidence": "The text 'Frigida' appears upside-down along a band segment at the lower left of the outer ring.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 13,
+    "relation_type": "text_shape",
+    "subject": "Frigida",
+    "predicate": "inside",
+    "object": "band segment at left",
+    "certainty": "medium",
+    "evidence": "The text 'FRIGIDA' is written vertically along a band segment on the left side.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 14,
+    "relation_type": "text_shape",
+    "subject": "Sicca",
+    "predicate": "inside",
+    "object": "band segment at left upper",
+    "certainty": "medium",
+    "evidence": "The text 'SICCA.' is written vertically along a band segment at the upper left.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 15,
+    "relation_type": "text_shape",
+    "subject": "Colera",
+    "predicate": "inside",
+    "object": "band segment at upper inner ring",
+    "certainty": "medium",
+    "evidence": "The text 'Colera' is written in an inner-ring band segment at the top, below 'Ignis'.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 16,
+    "relation_type": "text_shape",
+    "subject": "Sanguis",
+    "predicate": "inside",
+    "object": "band segment at right inner ring",
+    "certainty": "medium",
+    "evidence": "The text 'Sanguis' is written along a band segment of the inner ring on the right.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 17,
+    "relation_type": "text_shape",
+    "subject": "Ver",
+    "predicate": "inside",
+    "object": "band segment at right inner ring",
+    "certainty": "low",
+    "evidence": "A short text, 'VER', is written in a small segment to the right near 'Sanguis'.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 18,
+    "relation_type": "text_shape",
+    "subject": "Melancolia",
+    "predicate": "inside",
+    "object": "band segment at left inner ring",
+    "certainty": "medium",
+    "evidence": "The text 'melancho' (abbreviated) is written along an inner-ring band at the left.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 19,
+    "relation_type": "text_shape",
+    "subject": "Flegma",
+    "predicate": "inside",
+    "object": "band segment at lower inner ring",
+    "certainty": "low",
+    "evidence": "A short text, partly illegible, is written in the inner-ring band at the bottom.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 20,
+    "relation_type": "text_shape",
+    "subject": "Es",
+    "predicate": "inside",
+    "object": "small segment at top between Ignis and Colera",
+    "certainty": "low",
+    "evidence": "A short text, 'Es / [illegible]', is written in a small segment between 'Ignis' and 'Colera'.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 21,
+    "relation_type": "text_shape",
+    "subject": "Hi[illegible]",
+    "predicate": "inside",
+    "object": "small segment at bottom",
+    "certainty": "low",
+    "evidence": "A short text 'Hi... ' appears upside-down in a small segment at the bottom center.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 22,
+    "relation_type": "text_shape",
+    "subject": "Ver",
+    "predicate": "inside",
+    "object": "band segment at left inner ring",
+    "certainty": "low",
+    "evidence": "Short abbreviated text, mostly illegible, is written in small band segments at the left between 'FRIGIDA' and 'melancho'.",
+    "updated_at": "2026-11-18T13:10Z"
+  }
+]

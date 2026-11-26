@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "diagram_classification": "astronomical / computistical (lunar phases diagram)",
+    "interpretation": "The diagram shows the phases of the Moon as it travels around a circular orbit in relation to the Sun. The radiate disc on the right, with rays, is the Sun. The large plain disc on the left, at the opposite end of the straight line through the circle, is the full Moon in opposition to the Sun. The two half-discs at the top and bottom of the circle are the first and last quarters (dichotomy). The two crescents on the right, near the Sun, are the waxing and waning crescents, with the new Moon in conjunction with the Sun. The two smaller, more than half-filled shapes on the left, near the full Moon, are the gibbous phases. The horizontal line joining the Sun and the full Moon marks their opposition and the axis of illumination. Taken together, the diagram explains why the Moon's visible shape changes: it depends on its angular distance from the Sun along its orbit, and the Sun lights the side of the Moon that faces it. This kind of figure belongs to the medieval tradition of lunar and computistical teaching, which explains the lunar month, its age and its phases. The unlabelled image is probably an illustration within a computus or natural-science treatise. I cannot name a specific source with confidence.",
+    "basis": "visual",
+    "certainty": "medium",
+    "evidence": "Visible: a circle (the lunar orbit) with eight lunar figures. At the right is a disc with radiating strokes, which is the standard way to draw the Sun. At the left is a large disc, which is the full Moon. A straight line joins the two. Crescents lie near the Sun, half-discs lie at the top and bottom (90° from the Sun-Moon axis), and larger gibbous shapes lie near the full Moon. There are no legible labels in the image. External: the medieval convention of representing lunar phases by their position on a circle relative to the Sun, and the use of such diagrams in computus and cosmology manuals. The identification of the specific phases follows from the progressive change of shape and is not confirmed by text.",
+    "updated_at": "2026-11-18T11:35Z"
+  }
+]

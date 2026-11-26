@@ -1,0 +1,312 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometric",
+    "subject": "outer ring of alternating blue-grey, red and yellow segments",
+    "predicate": "contains",
+    "object": "inner arcs and compartments",
+    "certainty": "high",
+    "evidence": "The large outer circular band encloses the interlaced red, blue-grey and yellow arcs and the compartments they form.",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "geometric",
+    "subject": "outer ring of alternating blue-grey, red and yellow segments",
+    "predicate": "contains",
+    "object": "central region",
+    "certainty": "high",
+    "evidence": "The central region lies within the circular band.",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "text_shape",
+    "subject": "IGNIS",
+    "predicate": "inside",
+    "object": "outer ring segment at top between red and yellow cross-arcs",
+    "certainty": "high",
+    "evidence": "Red capital text sits in the ring compartment at the top, between a red arc and a yellow arc.",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "text_shape",
+    "subject": "caldur",
+    "predicate": "inside",
+    "object": "outer ring segment at upper right, right of IGNIS segment",
+    "certainty": "medium",
+    "evidence": "Text is written along the curve of the ring in the compartment to the right of the top one.",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "text_shape",
+    "subject": "calidus",
+    "predicate": "inside",
+    "object": "outer ring segment at right upper side",
+    "certainty": "high",
+    "evidence": "Text runs along the ring curve on the right, between a blue-grey and a yellow cross-arc.",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "text_shape",
+    "subject": "AER",
+    "predicate": "inside",
+    "object": "outer ring segment at right side",
+    "certainty": "high",
+    "evidence": "Red capital text sits in the ring compartment at the right, near the horizontal yellow and red arcs.",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "text_shape",
+    "subject": "humidus (right, upper)",
+    "predicate": "inside",
+    "object": "outer ring segment at lower right",
+    "certainty": "high",
+    "evidence": "Text runs vertically along the ring at the lower right, below the AER segment.",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "text_shape",
+    "subject": "humidus (lower right, lower)",
+    "predicate": "inside",
+    "object": "outer ring segment at bottom right",
+    "certainty": "medium",
+    "evidence": "Upside-down text lies along the ring at the lower right, between the red and the blue-grey cross-arcs.",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "text_shape",
+    "subject": "aqua",
+    "predicate": "inside",
+    "object": "outer ring segment at bottom",
+    "certainty": "medium",
+    "evidence": "Red upside-down text is placed in the ring compartment at the very bottom.",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "text_shape",
+    "subject": "frigidus (bottom left)",
+    "predicate": "inside",
+    "object": "outer ring segment at lower left, left of aqua segment",
+    "certainty": "medium",
+    "evidence": "Upside-down text runs along the ring at the lower left.",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "text_shape",
+    "subject": "frigidus (left, lower)",
+    "predicate": "inside",
+    "object": "outer ring segment at left, below TERRA segment",
+    "certainty": "medium",
+    "evidence": "Vertical text runs along the ring on the left side below the TERRA compartment.",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "text_shape",
+    "subject": "TERRA",
+    "predicate": "inside",
+    "object": "outer ring segment at left",
+    "certainty": "high",
+    "evidence": "Red capital text, with RA written smaller on a second line, sits in the left ring compartment.",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 13,
+    "relation_type": "text_shape",
+    "subject": "sicca (left)",
+    "predicate": "inside",
+    "object": "outer ring segment at upper left",
+    "certainty": "medium",
+    "evidence": "Text written along the ring curve on the upper left, above the TERRA segment.",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 14,
+    "relation_type": "text_shape",
+    "subject": "sicca (top left)",
+    "predicate": "inside",
+    "object": "outer ring segment at top left, left of IGNIS segment",
+    "certainty": "medium",
+    "evidence": "Text lies along the ring curve between a blue-grey cross-arc and the red arc next to IGNIS.",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 15,
+    "relation_type": "text_shape",
+    "subject": "aestas",
+    "predicate": "inside",
+    "object": "top inner compartment bounded by red and yellow arcs",
+    "certainty": "high",
+    "evidence": "Text is in the upper inner compartment, above a short blue-grey arc.",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 16,
+    "relation_type": "text_shape",
+    "subject": "colera",
+    "predicate": "inside",
+    "object": "upper inner compartment below short blue-grey arc",
+    "certainty": "high",
+    "evidence": "Text sits in the compartment between the short blue-grey arc above and the large blue-grey arc below.",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 17,
+    "relation_type": "text_shape",
+    "subject": "autumnus",
+    "predicate": "inside",
+    "object": "left inner compartment between the outer ring and a short vertical blue-grey bar",
+    "certainty": "medium",
+    "evidence": "Small vertical text lies in the narrow left compartment, left of the short vertical blue-grey bar.",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 18,
+    "relation_type": "text_shape",
+    "subject": "melancolia",
+    "predicate": "inside",
+    "object": "left inner compartment between two vertical blue-grey bars",
+    "certainty": "high",
+    "evidence": "Vertical text lies between the short vertical blue-grey bar and the longer curved blue-grey bar next to the center.",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 19,
+    "relation_type": "text_shape",
+    "subject": "sanguis",
+    "predicate": "inside",
+    "object": "right inner compartment between two vertical blue-grey bars",
+    "certainty": "medium",
+    "evidence": "Vertical text lies between the curved blue-grey bar next to the center and the short vertical blue-grey bar.",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 20,
+    "relation_type": "text_shape",
+    "subject": "uer",
+    "predicate": "inside",
+    "object": "right inner compartment right of short vertical blue-grey bar",
+    "certainty": "medium",
+    "evidence": "Vertical text lies in the narrow right compartment, right of the short vertical blue-grey bar.",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 21,
+    "relation_type": "text_shape",
+    "subject": "humor",
+    "predicate": "inside",
+    "object": "lower inner compartment above short blue-grey arc",
+    "certainty": "medium",
+    "evidence": "Upside-down text lies in the lower compartment above a short blue-grey arc.",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 22,
+    "relation_type": "text_shape",
+    "subject": "hiemps",
+    "predicate": "inside",
+    "object": "lower inner compartment below short blue-grey arc",
+    "certainty": "medium",
+    "evidence": "Upside-down text, with an s written below, lies in the lowest inner compartment.",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 23,
+    "relation_type": "text_shape",
+    "subject": "mundus annus homo",
+    "predicate": "inside",
+    "object": "central region",
+    "certainty": "high",
+    "evidence": "Three lines of red text are stacked in the center, surrounded by the curved blue-grey bars on the left and right and the blue-grey arcs above and below.",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 24,
+    "relation_type": "text_shape",
+    "subject": "IGNIS",
+    "predicate": "above",
+    "object": "aestas",
+    "certainty": "medium",
+    "evidence": "IGNIS is in the ring at the top and aestas is in the inner compartment below it, in the same vertical axis.",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 25,
+    "relation_type": "text_shape",
+    "subject": "aestas",
+    "predicate": "above",
+    "object": "colera",
+    "certainty": "high",
+    "evidence": "Aestas is in the upper inner compartment and colera in the compartment directly below it, separated by a short blue-grey arc.",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 26,
+    "relation_type": "text_shape",
+    "subject": "humor",
+    "predicate": "above",
+    "object": "hiemps",
+    "certainty": "high",
+    "evidence": "Humor lies above hiemps, separated by a short blue-grey arc.",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 27,
+    "relation_type": "text_shape",
+    "subject": "mundus annus homo",
+    "predicate": "above",
+    "object": "humor",
+    "certainty": "medium",
+    "evidence": "The central red text is higher than the lower compartment, separated by a large blue-grey arc.",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 28,
+    "relation_type": "text_shape",
+    "subject": "colera",
+    "predicate": "above",
+    "object": "mundus annus homo",
+    "certainty": "medium",
+    "evidence": "Colera lies above the central text, separated by a large blue-grey arc.",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 29,
+    "relation_type": "geometric",
+    "subject": "large blue-grey arc at top of central region",
+    "predicate": "connected_to",
+    "object": "short blue-grey arc in top inner compartment",
+    "certainty": "low",
+    "evidence": "The short blue-grey arc sits within the red-bounded top compartment above the large blue-grey arc, but a direct join is not clearly visible.",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 30,
+    "relation_type": "geometric",
+    "subject": "short vertical blue-grey bar in left inner compartment",
+    "predicate": "inside",
+    "object": "left inner compartment",
+    "certainty": "medium",
+    "evidence": "A short vertical blue-grey bar divides the left compartment between autumnus and melancolia.",
+    "updated_at": "2026-11-17T11:07Z"
+  },
+  {
+    "id": 31,
+    "relation_type": "geometric",
+    "subject": "short vertical blue-grey bar in right inner compartment",
+    "predicate": "inside",
+    "object": "right inner compartment",
+    "certainty": "medium",
+    "evidence": "A short vertical blue-grey bar divides the right compartment between sanguis and uer.",
+    "updated_at": "2026-11-17T11:07Z"
+  }
+]

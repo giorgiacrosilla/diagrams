@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometrical",
+    "subject": "large outer circle with orange-brown outline",
+    "predicate": "contains",
+    "object": "set of curved arcs in orange, grey, yellow and dark red",
+    "certainty": "high",
+    "evidence": "All the coloured arcs lie within the circular outline and their ends touch or meet the circle's inner edge.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "geometrical",
+    "subject": "upper left orange arc",
+    "predicate": "connected_to",
+    "object": "large outer circle with orange-brown outline",
+    "certainty": "medium",
+    "evidence": "The orange arc curves across the upper left and its ends reach the circle's inner edge at the left and near the top.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "geometrical",
+    "subject": "grey arc on the left",
+    "predicate": "connected_to",
+    "object": "large outer circle with orange-brown outline",
+    "certainty": "medium",
+    "evidence": "The grey arc starts at the upper left near the rim, curves down along the left side of the central space and ends near the bottom left rim.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "geometrical",
+    "subject": "grey arc at upper right",
+    "predicate": "connected_to",
+    "object": "large outer circle with orange-brown outline",
+    "certainty": "medium",
+    "evidence": "The arc starts at the top rim, curves down and to the right, and ends at the right rim.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "geometrical",
+    "subject": "yellow arc on the right",
+    "predicate": "connected_to",
+    "object": "large outer circle with orange-brown outline",
+    "certainty": "medium",
+    "evidence": "The yellow arc runs from the upper right rim, bows toward the centre and descends to the lower right rim.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "geometrical",
+    "subject": "yellow arc at lower left",
+    "predicate": "connected_to",
+    "object": "large outer circle with orange-brown outline",
+    "certainty": "medium",
+    "evidence": "The yellow arc starts at the left rim, sweeps down and to the right across the lower left and ends near the bottom rim.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "geometrical",
+    "subject": "dark red arc at lower right",
+    "predicate": "connected_to",
+    "object": "large outer circle with orange-brown outline",
+    "certainty": "medium",
+    "evidence": "The dark red arc starts at the right rim and curves down and to the left to end at the bottom rim.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "geometrical",
+    "subject": "orange arc along the bottom",
+    "predicate": "connected_to",
+    "object": "large outer circle with orange-brown outline",
+    "certainty": "medium",
+    "evidence": "The orange arc forms a shallow curve across the lower part of the circle and its ends meet the rim at the lower left and lower right.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "geometrical",
+    "subject": "orange arc at the top",
+    "predicate": "connected_to",
+    "object": "large outer circle with orange-brown outline",
+    "certainty": "medium",
+    "evidence": "A curved orange arc crosses the upper part of the circle and its ends reach the rim at the upper left and upper right.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "geometrical",
+    "subject": "large outer circle with orange-brown outline",
+    "predicate": "above",
+    "object": "initial letters and text line at the bottom of the page",
+    "certainty": "high",
+    "evidence": "The circle sits in the upper and middle part of the page. Below it, in the bottom margin, is a large initial 'h' followed by the text 'tempor temporalis' and 'intellegnur tribui'.",
+    "updated_at": "2026-11-18T11:27Z"
+  }
+]

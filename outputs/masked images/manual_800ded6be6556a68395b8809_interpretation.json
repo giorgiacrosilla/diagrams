@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "diagram_classification": "cosmological (celestial sphere / armillary-type geometrical diagram, possibly zonal or climatic)",
+    "interpretation": "The diagram is most likely a schematic representation of the celestial sphere or the cosmos. A circular frame contains interlocking arcs in three colours: blue-grey, red-orange and yellow. The arcs appear to represent great and small circles, such as the zodiac or ecliptic, the equator, the tropics and the colures, or the circuits of the elements or winds. Their intersections form a symmetrical, four-fold (quadripartite) pattern. This fits the medieval tradition of showing the sphere of the heavens in plane projection, as in the cosmological and astronomical diagrams that accompany Isidore's De natura rerum, Bede's De natura rerum or De temporum ratione, or comparable computistical-cosmological compendia. The colours may distinguish the four elements or the circuits of the planets or climate zones, but no labels are legible to confirm this. The four-fold symmetry, with small arcs at the top, bottom, left and right, suggests the four cardinal points or the four seasons. The reading remains tentative: it could also be a purely geometric or decorative figure, or a diagram of the winds or elements. The only visible text is a fragment of a rubric at the lower left (apparently 'de caelo' or similar), which would support a reading as a heaven or sky diagram.",
+    "basis": "visual",
+    "certainty": "low",
+    "evidence": "Visible: a large circular frame divided into coloured segments (blue-grey, red, yellow); large interlocking arcs crossing each other symmetrically; four small blue-grey arcs placed at the cardinal positions (top, bottom, left, right) inside the central space; a partly legible red rubric at the lower left that may read 'de caelo'. No inscriptions are legible inside the figure. External: medieval cosmological diagrams of the celestial sphere used interlocking circles and colour coding to show zodiac, equator, tropics and the four-fold structure of the world (elements, seasons, cardinal points). The attribution to any specific text is uncertain and is not asserted. The individual colours and arcs are uninterpreted.",
+    "updated_at": "2026-11-18T11:36Z"
+  }
+]

@@ -1,0 +1,154 @@
+{
+  "element_analysis": [
+    {
+      "id": 1,
+      "relation_type": "geometric",
+      "subject": "upper left brown arc",
+      "predicate": "connected_to",
+      "object": "outer circle",
+      "certainty": "medium",
+      "evidence": "Thin brown curved line in the upper left whose ends meet the inner edge of the large orange-red outer circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 2,
+      "relation_type": "geometric",
+      "subject": "left gray-blue arc",
+      "predicate": "connected_to",
+      "object": "outer circle",
+      "certainty": "medium",
+      "evidence": "Long gray-blue curved line running from the upper left down to the lower left, its ends touching the inner edge of the outer circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 3,
+      "relation_type": "geometric",
+      "subject": "left gray-blue arc",
+      "predicate": "connected_to",
+      "object": "upper left brown arc",
+      "certainty": "medium",
+      "evidence": "The gray-blue arc crosses the brown arc in the upper left area.",
+      "updated_at": ""
+    },
+    {
+      "id": 4,
+      "relation_type": "geometric",
+      "subject": "upper center brown arc",
+      "predicate": "connected_to",
+      "object": "outer circle",
+      "certainty": "medium",
+      "evidence": "Brown arc bowing downward across the upper part of the circle, its ends reaching the outer circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 5,
+      "relation_type": "geometric",
+      "subject": "upper center gray arc",
+      "predicate": "connected_to",
+      "object": "outer circle",
+      "certainty": "medium",
+      "evidence": "Gray curved line starting at the top center and sweeping down to the right, its ends touching the outer circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 6,
+      "relation_type": "geometric",
+      "subject": "upper center gray arc",
+      "predicate": "connected_to",
+      "object": "upper center brown arc",
+      "certainty": "medium",
+      "evidence": "The gray arc crosses the brown arc near the top center.",
+      "updated_at": ""
+    },
+    {
+      "id": 7,
+      "relation_type": "geometric",
+      "subject": "right yellow arc",
+      "predicate": "connected_to",
+      "object": "outer circle",
+      "certainty": "medium",
+      "evidence": "Long yellow curved line on the right side running from the upper right down to the bottom, its ends touching the outer circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 8,
+      "relation_type": "geometric",
+      "subject": "right yellow arc",
+      "predicate": "connected_to",
+      "object": "upper center gray arc",
+      "certainty": "medium",
+      "evidence": "The yellow arc crosses the gray arc in the upper right.",
+      "updated_at": ""
+    },
+    {
+      "id": 9,
+      "relation_type": "geometric",
+      "subject": "lower left yellow arc",
+      "predicate": "connected_to",
+      "object": "outer circle",
+      "certainty": "medium",
+      "evidence": "Yellow curved line starting at the left edge, sweeping down and right to the bottom, its ends reaching the outer circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 10,
+      "relation_type": "geometric",
+      "subject": "lower left yellow arc",
+      "predicate": "connected_to",
+      "object": "left gray-blue arc",
+      "certainty": "medium",
+      "evidence": "The yellow arc crosses the gray-blue arc in the lower left.",
+      "updated_at": ""
+    },
+    {
+      "id": 11,
+      "relation_type": "geometric",
+      "subject": "lower brown arc",
+      "predicate": "connected_to",
+      "object": "outer circle",
+      "certainty": "medium",
+      "evidence": "Brown arc bowing upward across the lower part of the circle, its ends reaching the outer circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 12,
+      "relation_type": "geometric",
+      "subject": "lower brown arc",
+      "predicate": "connected_to",
+      "object": "right yellow arc",
+      "certainty": "medium",
+      "evidence": "The lower brown arc crosses the yellow arc near the bottom right.",
+      "updated_at": ""
+    },
+    {
+      "id": 13,
+      "relation_type": "geometric",
+      "subject": "lower right dark brown arc",
+      "predicate": "connected_to",
+      "object": "outer circle",
+      "certainty": "medium",
+      "evidence": "Darker brown curved line from the right edge curving down to the bottom, its ends touching the outer circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 14,
+      "relation_type": "geometric",
+      "subject": "lower right dark brown arc",
+      "predicate": "connected_to",
+      "object": "right yellow arc",
+      "certainty": "medium",
+      "evidence": "The dark brown arc crosses the yellow arc in the lower right.",
+      "updated_at": ""
+    }
+  ],
+  "interpretation": [
+    {
+      "diagram_classification": "geometric or cosmological/astronomical diagram (uncertain)",
+      "interpretation": "A large circle containing several intersecting arcs in different colours (brown, gray-blue, yellow, dark brown), each with both ends on the outer circle. The arcs cross one another to form a symmetrical interlaced pattern. This may be a schematic of interacting circles or orbits, such as celestial paths or cycles of time, set inside a bounding circle that stands for a whole (cosmos, year or world). The diagram has no internal labels, so no specific meaning can be established. The only nearby text is the page text below the circle, which looks like the start of a passage (\"tiemprz temporalis\", \"intellegitur tribui\"). It hints at a discussion of time or temporal matters, but this is not securely linked to the diagram.",
+      "basis": "visual",
+      "certainty": "low",
+      "evidence": "The interpretation rests on the visible structure: one outer circle enclosing colour-coded arcs that cross each other, which suggests a systematic arrangement of distinct paths or cycles. Step 1 recorded no text inside the diagram, so the text-based reading is only tentative. The text below the circle is part of the manuscript page and not a label of any element. Step 1 gave only 'connected_to' relations between arcs and the outer circle, based on crossings and endpoints. It also omitted the page text below the circle, so the reading of the surrounding text is not supported by Step 1. Without labels or a legible caption, no source or tradition can be named with confidence.",
+      "updated_at": ""
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometrical",
+    "subject": "outer large circle drawn in dark ink",
+    "predicate": "contains",
+    "object": "interlaced band pattern",
+    "certainty": "high",
+    "evidence": "A thin dark circular outline frames the whole diagram; the woven bands of reddish-brown outlined strips lie entirely within it.",
+    "updated_at": "2026-11-18T11:25Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "geometrical",
+    "subject": "interlaced band pattern",
+    "predicate": "contains",
+    "object": "central empty circle",
+    "certainty": "high",
+    "evidence": "The central circle is ringed by concentric bands and sits at the centre of the woven pattern. Its interior is blank, with no text or figures.",
+    "updated_at": "2026-11-18T11:25Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "geometrical",
+    "subject": "innermost circular band",
+    "predicate": "connected_to",
+    "object": "central empty circle",
+    "certainty": "medium",
+    "evidence": "A double-lined ring directly surrounds the central circle and shares its outline with it.",
+    "updated_at": "2026-11-18T11:25Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "geometrical",
+    "subject": "innermost circular band",
+    "predicate": "connected_to",
+    "object": "middle concentric circular bands",
+    "certainty": "medium",
+    "evidence": "Curved bands pass over and under one another in a woven manner between the inner ring and the middle rings, so the rings appear linked.",
+    "updated_at": "2026-11-18T11:25Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "geometrical",
+    "subject": "middle concentric circular bands",
+    "predicate": "connected_to",
+    "object": "outer circular band",
+    "certainty": "medium",
+    "evidence": "Radial and curved strips cross the middle rings and reach the outer ring, interlacing with it at several points around the circumference.",
+    "updated_at": "2026-11-18T11:25Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "geometrical",
+    "subject": "outer circular band",
+    "predicate": "inside",
+    "object": "outer large circle drawn in dark ink",
+    "certainty": "high",
+    "evidence": "The outermost woven ring lies just inside the thin dark circular outline, with a narrow gap between them.",
+    "updated_at": "2026-11-18T11:25Z"
+  }
+]

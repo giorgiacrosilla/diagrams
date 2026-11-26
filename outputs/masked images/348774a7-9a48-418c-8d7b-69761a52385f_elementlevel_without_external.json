@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometric",
+    "subject": "outer large circle drawn in dark ink",
+    "predicate": "contains",
+    "object": "interlaced band pattern drawn in reddish-brown lines",
+    "certainty": "high",
+    "evidence": "A thin dark circular outline encloses the whole ring of woven bands and the inner circle.",
+    "updated_at": "2026-11-18T12:21Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "geometric",
+    "subject": "interlaced band pattern drawn in reddish-brown lines",
+    "predicate": "contains",
+    "object": "central empty circle",
+    "certainty": "high",
+    "evidence": "Concentric bands with crossing arcs surround a plain circle at the center. The central circle has no visible text or figures.",
+    "updated_at": "2026-11-18T12:21Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "geometric",
+    "subject": "central empty circle",
+    "predicate": "connected_to",
+    "object": "innermost circular band",
+    "certainty": "medium",
+    "evidence": "The central circle is bordered by a double-lined circular band that directly adjoins it. The outer arcs of the pattern cross over this band.",
+    "updated_at": "2026-11-18T12:21Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "geometric",
+    "subject": "innermost circular band",
+    "predicate": "inside",
+    "object": "outer concentric circular bands",
+    "certainty": "medium",
+    "evidence": "Several concentric bands, each drawn as a double line, enclose the inner band. Curved band segments cross over and under them in an interlaced pattern.",
+    "updated_at": "2026-11-18T12:21Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "geometric",
+    "subject": "outer concentric circular bands",
+    "predicate": "inside",
+    "object": "outer large circle drawn in dark ink",
+    "certainty": "high",
+    "evidence": "The woven bands lie within the outer thin circle. Their outermost bands almost touch it.",
+    "updated_at": "2026-11-18T12:21Z"
+  }
+]

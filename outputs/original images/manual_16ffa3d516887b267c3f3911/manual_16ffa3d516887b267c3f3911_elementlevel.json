@@ -1,0 +1,292 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometric",
+    "subject": "large outer green circle (ring)",
+    "predicate": "contains",
+    "object": "small central circle with reddish-pink ring",
+    "certainty": "high",
+    "evidence": "The central circle with a pink-orange border sits at the middle of the wide green ring.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "geometric",
+    "subject": "large outer green circle (ring)",
+    "predicate": "connected_to",
+    "object": "small central circle with reddish-pink ring",
+    "certainty": "high",
+    "evidence": "Twelve radiating bands (alternating green, pink and ochre) run from the central ring to the outer green ring and join them like spokes of a wheel.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "geometric",
+    "subject": "vertical pink band at top",
+    "predicate": "connected_to",
+    "object": "small central circle with reddish-pink ring",
+    "certainty": "high",
+    "evidence": "A vertical spoke-like band runs from the top of the central ring up to the outer ring.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "text_shape",
+    "subject": "ORIENS",
+    "predicate": "above",
+    "object": "large outer green circle (ring)",
+    "certainty": "high",
+    "evidence": "The word is written in capitals outside the circle at the top, above the outer ring.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "text_shape",
+    "subject": "MERIDIES",
+    "predicate": "connected_to",
+    "object": "large outer green circle (ring)",
+    "certainty": "low",
+    "evidence": "The word is written vertically outside the circle at the right, next to the outer ring and not joined to it. The closest allowed predicate is chosen.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "text_shape",
+    "subject": "OCCIDENS",
+    "predicate": "below",
+    "object": "large outer green circle (ring)",
+    "certainty": "high",
+    "evidence": "The word is written upside down outside the circle at the bottom, below the outer ring.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "text_shape",
+    "subject": "SEPTENTRIO",
+    "predicate": "connected_to",
+    "object": "large outer green circle (ring)",
+    "certainty": "low",
+    "evidence": "The word is written vertically outside the circle at the left, next to the outer ring and not joined to it. The closest allowed predicate is chosen.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "text_shape",
+    "subject": "sub solanur apeli oter",
+    "predicate": "inside",
+    "object": "sector between the top vertical pink band and the green band to its right",
+    "certainty": "high",
+    "evidence": "The text is written in the upper sector just right of the top vertical band, near the outer ring.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "text_shape",
+    "subject": "haec rum",
+    "predicate": "inside",
+    "object": "sector between the top vertical pink band and the green band to its right",
+    "certainty": "medium",
+    "evidence": "The text is written in two parts below the 'sub solanur' text within the same wedge-shaped compartment.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "text_shape",
+    "subject": "eurus eurο",
+    "predicate": "inside",
+    "object": "sector between the green band at upper right and the ochre band to its right",
+    "certainty": "medium",
+    "evidence": "The text is written obliquely along the outer edge of the next compartment clockwise from the top. The spelling is uncertain: 'eurus euro'.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "text_shape",
+    "subject": "eurus ter euro notus",
+    "predicate": "inside",
+    "object": "sector between the ochre band at right-upper and the green horizontal band at right",
+    "certainty": "medium",
+    "evidence": "The text is written in several lines near the outer ring in the right-hand compartment above the horizontal band.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "text_shape",
+    "subject": "sigma",
+    "predicate": "inside",
+    "object": "sector between the ochre band at right-upper and the green horizontal band at right",
+    "certainty": "low",
+    "evidence": "A vertical word, read as 'sigma', is written near the central ring in the same compartment. The reading is uncertain.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 13,
+    "relation_type": "text_shape",
+    "subject": "auster notus",
+    "predicate": "inside",
+    "object": "sector between the green horizontal band at right and the pink band at lower right",
+    "certainty": "medium",
+    "evidence": "The text is written vertically along the outer ring in the compartment below the right horizontal band.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 14,
+    "relation_type": "text_shape",
+    "subject": "XII",
+    "predicate": "inside",
+    "object": "sector between the green horizontal band at right and the pink band at lower right",
+    "certainty": "low",
+    "evidence": "The vertical marks read as 'XII', written near the central ring in the same compartment.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 15,
+    "relation_type": "text_shape",
+    "subject": "austro africus libonotus",
+    "predicate": "inside",
+    "object": "sector between the pink band at lower right and the ochre band below it",
+    "certainty": "low",
+    "evidence": "The text is written in several lines along the outer ring in the lower-right compartment. The spelling is uncertain.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 16,
+    "relation_type": "text_shape",
+    "subject": "uentorum",
+    "predicate": "inside",
+    "object": "sector between the pink band at lower right and the ochre band below it",
+    "certainty": "low",
+    "evidence": "The word is written upside down obliquely near the central ring in the same compartment.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 17,
+    "relation_type": "text_shape",
+    "subject": "africus libs",
+    "predicate": "inside",
+    "object": "sector between the ochre band at lower right and the vertical pink band at bottom",
+    "certainty": "low",
+    "evidence": "The text is written upside down along the outer ring in the compartment left of the bottom vertical band.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 18,
+    "relation_type": "text_shape",
+    "subject": "zepphirus nus",
+    "predicate": "inside",
+    "object": "sector between the vertical pink band at bottom and the green band at lower left",
+    "certainty": "low",
+    "evidence": "The text is written upside down in the lower compartment, with the spelling uncertain.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 19,
+    "relation_type": "text_shape",
+    "subject": "faboniur",
+    "predicate": "inside",
+    "object": "sector between the vertical pink band at bottom and the green band at lower left",
+    "certainty": "low",
+    "evidence": "The upside-down text sits below 'zepphirus' near the outer ring.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 20,
+    "relation_type": "text_shape",
+    "subject": "iuxta ordine",
+    "predicate": "inside",
+    "object": "sector between the vertical pink band at bottom and the green band at lower left",
+    "certainty": "low",
+    "evidence": "The upside-down text is written near the central ring.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 21,
+    "relation_type": "text_shape",
+    "subject": "chorus agrestis",
+    "predicate": "inside",
+    "object": "sector between the green band at lower left and the ochre band at left-lower",
+    "certainty": "low",
+    "evidence": "The upside-down text is written near the outer ring in the compartment at lower left.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 22,
+    "relation_type": "text_shape",
+    "subject": "circius marcias",
+    "predicate": "inside",
+    "object": "sector between the ochre band at left-lower and the green horizontal band at left",
+    "certainty": "low",
+    "evidence": "The text is written vertically and upside down along the outer ring in the compartment below the left horizontal band.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 23,
+    "relation_type": "text_shape",
+    "subject": "suum",
+    "predicate": "inside",
+    "object": "sector between the ochre band at left-lower and the green horizontal band at left",
+    "certainty": "low",
+    "evidence": "The vertical upside-down word is written near the central ring in the same compartment.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 24,
+    "relation_type": "text_shape",
+    "subject": "septentrio a parcias",
+    "predicate": "inside",
+    "object": "sector between the green horizontal band at left and the pink band at upper left",
+    "certainty": "medium",
+    "evidence": "The text is written vertically along the outer ring in the compartment above the left horizontal band.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 25,
+    "relation_type": "text_shape",
+    "subject": "distincte",
+    "predicate": "inside",
+    "object": "sector between the green horizontal band at left and the pink band at upper left",
+    "certainty": "low",
+    "evidence": "The vertical word is written near the central ring in the same compartment.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 26,
+    "relation_type": "text_shape",
+    "subject": "aquilo boreas",
+    "predicate": "inside",
+    "object": "sector between the pink band at upper left and the ochre band to its right",
+    "certainty": "medium",
+    "evidence": "The text is written obliquely near the outer ring in the upper-left compartment.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 27,
+    "relation_type": "text_shape",
+    "subject": "ppric",
+    "predicate": "inside",
+    "object": "sector between the pink band at upper left and the ochre band to its right",
+    "certainty": "low",
+    "evidence": "The word is written obliquely near the central ring in the same compartment. The reading is uncertain.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 28,
+    "relation_type": "text_shape",
+    "subject": "uulturnus calciar",
+    "predicate": "inside",
+    "object": "sector between the ochre band at upper left and the top vertical pink band",
+    "certainty": "medium",
+    "evidence": "The text is written in two lines along the outer ring in the compartment left of the top vertical band.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 29,
+    "relation_type": "text_shape",
+    "subject": "& apella tiue",
+    "predicate": "inside",
+    "object": "sector between the ochre band at upper left and the top vertical pink band",
+    "certainty": "low",
+    "evidence": "The text is written in two lines near the central ring in the same compartment. The reading is uncertain.",
+    "updated_at": "2026-11-17T10:47Z"
+  }
+]

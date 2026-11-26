@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometric",
+    "subject": "orange arc at upper left",
+    "predicate": "connected_to",
+    "object": "large outer orange circle",
+    "certainty": "medium",
+    "evidence": "The orange arc starts at the inner edge of the outer circle on the left side and curves toward the upper centre.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "geometric",
+    "subject": "grey-blue arc on the left",
+    "predicate": "connected_to",
+    "object": "large outer orange circle",
+    "certainty": "medium",
+    "evidence": "The thin grey-blue arc starts near the top-left inner edge of the circle, bows to the right through the left-centre area and ends near the bottom-left inner edge.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "geometric",
+    "subject": "orange arc at upper left",
+    "predicate": "connected_to",
+    "object": "grey-blue arc on the left",
+    "certainty": "low",
+    "evidence": "The orange arc and the grey-blue arc cross near the upper left of the circle.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "geometric",
+    "subject": "orange arc across the top",
+    "predicate": "connected_to",
+    "object": "large outer orange circle",
+    "certainty": "medium",
+    "evidence": "The orange arc spans the upper part of the circle and its ends reach the inner edge.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "geometric",
+    "subject": "grey-blue arc at upper right",
+    "predicate": "connected_to",
+    "object": "large outer orange circle",
+    "certainty": "medium",
+    "evidence": "The grey-blue arc begins at the top inner edge, curves down to the right and ends at the right inner edge.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "geometric",
+    "subject": "yellow arc on the right",
+    "predicate": "connected_to",
+    "object": "large outer orange circle",
+    "certainty": "medium",
+    "evidence": "The yellow arc starts at the upper right inner edge, bows to the left through the centre-right and reaches the bottom right inner edge.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "geometric",
+    "subject": "yellow arc on the right",
+    "predicate": "connected_to",
+    "object": "grey-blue arc at upper right",
+    "certainty": "medium",
+    "evidence": "The yellow arc and the grey-blue arc cross in the upper right of the circle.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "geometric",
+    "subject": "dark red arc at lower right",
+    "predicate": "connected_to",
+    "object": "large outer orange circle",
+    "certainty": "medium",
+    "evidence": "The dark red-brown arc begins at the bottom inner edge and curves up to the right inner edge.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "geometric",
+    "subject": "dark red arc at lower right",
+    "predicate": "connected_to",
+    "object": "yellow arc on the right",
+    "certainty": "medium",
+    "evidence": "The dark red arc crosses the yellow arc in the lower right.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "geometric",
+    "subject": "yellow arc at lower left",
+    "predicate": "connected_to",
+    "object": "large outer orange circle",
+    "certainty": "medium",
+    "evidence": "The yellow arc starts at the left inner edge and curves down to the bottom inner edge.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "geometric",
+    "subject": "yellow arc at lower left",
+    "predicate": "connected_to",
+    "object": "grey-blue arc on the left",
+    "certainty": "medium",
+    "evidence": "The yellow arc crosses the grey-blue arc in the lower left.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "geometric",
+    "subject": "orange arc across the bottom",
+    "predicate": "connected_to",
+    "object": "large outer orange circle",
+    "certainty": "medium",
+    "evidence": "The orange arc runs across the lower part of the circle with its ends reaching the inner edge.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 13,
+    "relation_type": "geometric",
+    "subject": "orange arc across the bottom",
+    "predicate": "connected_to",
+    "object": "yellow arc at lower left",
+    "certainty": "low",
+    "evidence": "The bottom orange arc crosses the yellow arc at the lower left.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 14,
+    "relation_type": "geometric",
+    "subject": "orange arc across the bottom",
+    "predicate": "connected_to",
+    "object": "dark red arc at lower right",
+    "certainty": "low",
+    "evidence": "The bottom orange arc meets the dark red arc at the lower right.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 15,
+    "relation_type": "geometric",
+    "subject": "arcs of different colours",
+    "predicate": "inside",
+    "object": "large outer orange circle",
+    "certainty": "high",
+    "evidence": "All the coloured arcs lie within the outer orange ring.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 16,
+    "relation_type": "text_shape",
+    "subject": "hiemp temporalis",
+    "predicate": "below",
+    "object": "large outer orange circle",
+    "certainty": "low",
+    "evidence": "Manuscript text at the lower left, outside the circle, begins with a large initial letter. The reading is uncertain. No text is written inside the circle.",
+    "updated_at": "2026-11-18T12:23Z"
+  }
+]

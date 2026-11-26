@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "diagram_classification": "computistical / natural-philosophical (cosmological): a diagram of the year (ANNUS) showing the four seasons and their qualities, in the tradition of Isidore-style and Bedan natural philosophy",
+    "interpretation": "The diagram is a seasonal wheel of the year (ANNUS, written in the centre). Six overlapping circular segments around a large outer circle mark the seasons and their elemental qualities. Each season-segment carries its pair of qualities: ver (spring) is humidus and calidus (moist and hot); aestas (summer) is calidus and siccus (hot and dry); autumnus is siccus and frigidus (dry and cold); hiems (winter) is frigidus and humidus (cold and moist). The overlapping arcs show that adjacent seasons share one quality. Spring and summer share heat, summer and autumn share dryness, autumn and winter share cold, and winter and spring share moisture. This continuity of qualities makes the year a closed cycle of transitions. Words such as \"oriens\" (east), \"dies\" and \"sens\" (probably sensus, tied to the ages of man or to the senses) suggest that the seasons are also correlated with other fourfold schemes: the cardinal points, parts of the day, the ages of man and the humours. Some of these inscriptions are fragmentary and cannot be read with certainty, so those correlations remain uninterpreted.",
+    "basis": "textual",
+    "certainty": "medium",
+    "evidence": "Visible: ANNUS in the centre; the legible words ver, humidus, calidus, aestas, siccus, autumnus, frigidus, hiems; coloured arcs (green, red-brown, yellow) that overlap in pairs around the outer ring. Each lens-shaped overlap carries one quality and each segment a season. External: the scheme of seasons paired with the qualities hot, cold, moist and dry, found in early medieval computistical and natural-philosophical manuscripts, for example the Isidorian and Bedan De natura rerum and De temporum ratione tradition. The correlations with the cardinal points, the day and the humours are inferred from partly legible words (oriens, dies, sens) and are less secure.",
+    "updated_at": "2026-11-17T11:14Z"
+  }
+]

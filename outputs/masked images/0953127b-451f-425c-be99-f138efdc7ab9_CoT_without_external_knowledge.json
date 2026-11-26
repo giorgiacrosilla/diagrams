@@ -1,0 +1,94 @@
+{
+  "element_analysis": [
+    {
+      "id": 1,
+      "relation_type": "geometric",
+      "subject": "upper left circle",
+      "predicate": "connected_to",
+      "object": "upper right circle",
+      "certainty": "high",
+      "evidence": "Connected by a straight double-line band running horizontally along the top of the inverted triangle, from the upper left circle to the upper right circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 2,
+      "relation_type": "geometric",
+      "subject": "upper left circle",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "Connected by a straight double-line band running diagonally downward to the right from the upper left circle to the central circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 3,
+      "relation_type": "geometric",
+      "subject": "upper left circle",
+      "predicate": "connected_to",
+      "object": "lower circle",
+      "certainty": "high",
+      "evidence": "Connected by a long straight double-line band forming the left side of the large inverted triangle, running from the upper left circle down to the lower circle at the bottom apex.",
+      "updated_at": ""
+    },
+    {
+      "id": 4,
+      "relation_type": "geometric",
+      "subject": "upper right circle",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "Connected by a straight double-line band running diagonally downward to the left from the upper right circle to the central circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 5,
+      "relation_type": "geometric",
+      "subject": "upper right circle",
+      "predicate": "connected_to",
+      "object": "lower circle",
+      "certainty": "high",
+      "evidence": "Connected by a long straight double-line band forming the right side of the large inverted triangle, running from the upper right circle down to the lower circle at the bottom apex.",
+      "updated_at": ""
+    },
+    {
+      "id": 6,
+      "relation_type": "figurative",
+      "subject": "central circle",
+      "predicate": "connected_to",
+      "object": "crucified figure",
+      "certainty": "medium",
+      "evidence": "A short vertical double-line band descends from the central circle toward the head and upper part of the figure with outstretched arms on a cross; the band runs behind the cross and joins them.",
+      "updated_at": ""
+    },
+    {
+      "id": 7,
+      "relation_type": "figurative",
+      "subject": "crucified figure",
+      "predicate": "connected_to",
+      "object": "lower circle",
+      "certainty": "medium",
+      "evidence": "The lower end of the cross with the figure with outstretched arms rests directly on the top of the lower circle, which is touching the feet and the vertical shaft.",
+      "updated_at": ""
+    },
+    {
+      "id": 8,
+      "relation_type": "geometric",
+      "subject": "central circle",
+      "predicate": "above",
+      "object": "lower circle",
+      "certainty": "low",
+      "evidence": "The central circle is placed on the vertical axis of the triangle, higher than the lower circle at the bottom apex; they are linked only indirectly via the crucified figure.",
+      "updated_at": ""
+    }
+  ],
+  "interpretation": [
+    {
+      "diagram_classification": "theological / Trinitarian diagram (triangular scheme with a crucifix)",
+      "interpretation": "The diagram is probably a Trinitarian schema in the form of an inverted triangle with a circle at each vertex. A fourth circle sits at the centre of the upper side, and a crucified figure joins it to the lower vertex. The three vertex circles most likely stand for the three divine persons. The cross-bearing figure on the central axis suggests that the Trinity is shown in relation to the Passion, in the manner of a 'throne of mercy' or 'Gnadenstuhl' type of composition rendered in diagrammatic form. The central circle would then be the Father, or a mediating point above the crucified figure, and the lower circle the place where the figure's feet rest. The tradition behind the faint, larger circular and architectural drawings in the background is uncertain. They look like earlier or reverse-side drawings showing through the parchment and are probably not part of the main diagram.",
+      "basis": "visual",
+      "certainty": "low",
+      "evidence": "The diagram has no transcribed text, so the interpretation rests only on visible features: three circles at the corners of a triangle, linked by double-line bands; a central circle on the vertical axis; and a crucified figure between the central and lower circles. Triangular schemes with circles at the vertices are a known diagrammatic pattern for the Trinity, but without labels the identification of each circle is conjectural. Step 1 treats the crucified figure as 'connected_to' both the central and the lower circle. This is uncertain, because the figure may only overlap the band or rest on the circle. Step 1 also describes the central circle as a separate node lying on the upper side, although it is placed inside the triangle and is joined to the upper vertices by diagonal bands. The faint background drawings (a large circle with smaller circles and architectural arches) were not recorded in Step 1. They are most likely show-through from another page and are not interpreted here.",
+      "updated_at": ""
+    }
+  ]
+}

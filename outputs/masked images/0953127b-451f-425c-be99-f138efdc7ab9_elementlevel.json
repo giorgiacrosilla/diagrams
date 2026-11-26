@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometrical",
+    "subject": "top left circle",
+    "predicate": "connected_to",
+    "object": "top right circle",
+    "certainty": "high",
+    "evidence": "A horizontal double red band runs along the top edge of the triangle from the top left circle to the top right circle.",
+    "updated_at": "2026-11-18T11:25Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "geometrical",
+    "subject": "top left circle",
+    "predicate": "connected_to",
+    "object": "bottom circle",
+    "certainty": "high",
+    "evidence": "A double red band forms the left side of the inverted triangle and descends diagonally from the top left circle to the bottom apex, where the bottom circle is placed.",
+    "updated_at": "2026-11-18T11:25Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "geometrical",
+    "subject": "top right circle",
+    "predicate": "connected_to",
+    "object": "bottom circle",
+    "certainty": "high",
+    "evidence": "A double red band forms the right side of the inverted triangle and descends diagonally from the top right circle to the bottom apex, where the bottom circle is placed.",
+    "updated_at": "2026-11-18T11:25Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "geometrical",
+    "subject": "top left circle",
+    "predicate": "connected_to",
+    "object": "central circle",
+    "certainty": "high",
+    "evidence": "A double red band runs diagonally downward and to the right from the top left circle to the central circle.",
+    "updated_at": "2026-11-18T11:25Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "geometrical",
+    "subject": "top right circle",
+    "predicate": "connected_to",
+    "object": "central circle",
+    "certainty": "high",
+    "evidence": "A double red band runs diagonally downward and to the left from the top right circle to the central circle.",
+    "updated_at": "2026-11-18T11:25Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "geometrical",
+    "subject": "central circle",
+    "predicate": "connected_to",
+    "object": "bottom circle",
+    "certainty": "medium",
+    "evidence": "A short vertical double red band descends from the bottom of the central circle toward the bottom circle, partly overlapped by the cross figure.",
+    "updated_at": "2026-11-18T11:25Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "figurative",
+    "subject": "cross with a human figure",
+    "predicate": "below",
+    "object": "central circle",
+    "certainty": "high",
+    "evidence": "The cross with the figure with outstretched arms is placed on the vertical band beneath the central circle.",
+    "updated_at": "2026-11-18T11:25Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "figurative",
+    "subject": "cross with a human figure",
+    "predicate": "above",
+    "object": "bottom circle",
+    "certainty": "high",
+    "evidence": "The feet and lower end of the figure rest just above the top of the bottom circle.",
+    "updated_at": "2026-11-18T11:25Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "geometrical",
+    "subject": "inverted triangle",
+    "predicate": "contains",
+    "object": "central circle",
+    "certainty": "high",
+    "evidence": "The central circle lies in the interior of the triangle formed by the three outer double red bands.",
+    "updated_at": "2026-11-18T11:25Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "geometrical",
+    "subject": "faint large circular pattern",
+    "predicate": "contains",
+    "object": "bottom circle",
+    "certainty": "low",
+    "evidence": "A faint large circle with smaller circular and lobed shapes is visible in the lower part of the page, behind the bottom of the triangle. It appears to be an underlying or bleed-through drawing.",
+    "updated_at": "2026-11-18T11:25Z"
+  }
+]

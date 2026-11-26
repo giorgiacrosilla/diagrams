@@ -1,0 +1,64 @@
+{
+  "element_analysis": [
+    {
+      "id": 1,
+      "relation_type": "geometric",
+      "subject": "outer thin circle",
+      "predicate": "contains",
+      "object": "outer interlaced band ring",
+      "certainty": "high",
+      "evidence": "A thin black circle forms the outermost border. Inside it lies a ring of double-lined bands that interlace with one another.",
+      "updated_at": ""
+    },
+    {
+      "id": 2,
+      "relation_type": "geometric",
+      "subject": "outer interlaced band ring",
+      "predicate": "contains",
+      "object": "middle interlaced band ring",
+      "certainty": "medium",
+      "evidence": "The outer ring of reddish-brown outlined bands encloses a second concentric ring of bands. The bands of the two rings weave over and under each other, so the boundary between them is not clear.",
+      "updated_at": ""
+    },
+    {
+      "id": 3,
+      "relation_type": "geometric",
+      "subject": "middle interlaced band ring",
+      "predicate": "contains",
+      "object": "inner ring band",
+      "certainty": "medium",
+      "evidence": "Curved interlaced bands surround a narrower, smoother concentric ring band near the center. Band crossings between the rings make the separation uncertain.",
+      "updated_at": ""
+    },
+    {
+      "id": 4,
+      "relation_type": "geometric",
+      "subject": "central circle",
+      "predicate": "inside",
+      "object": "inner ring band",
+      "certainty": "high",
+      "evidence": "A plain empty circle lies at the center and is enclosed by the double-lined ring band. It contains no text or figures.",
+      "updated_at": ""
+    },
+    {
+      "id": 5,
+      "relation_type": "geometric",
+      "subject": "inner ring band",
+      "predicate": "connected_to",
+      "object": "middle interlaced band ring",
+      "certainty": "low",
+      "evidence": "Curved bands from the middle ring cross over and under the inner ring band in a woven pattern. They appear to be joined by the interlacing at the crossing points.",
+      "updated_at": ""
+    }
+  ],
+  "interpretation": [
+    {
+      "diagram_classification": "uninterpreted (non-textual ornamental or geometrical diagram; possibly a cosmological or computistical scheme of concentric rings, but this cannot be confirmed)",
+      "interpretation": "uninterpreted. The diagram shows concentric rings made of interlaced double-lined bands around an empty central circle. No label, caption or inscription is legible within the figure, so it cannot be tied to a specific subject. In general terms it resembles a schematic of nested circles or spheres, or a purely decorative interlace roundel. Neither reading can be supported by the text, and no source or tradition can be named with confidence.",
+      "basis": "visual",
+      "certainty": "low",
+      "evidence": "Step 1 recorded no transcribed text inside the diagram. The only text in the image is the manuscript writing outside the roundel, which is not part of the figure. The interpretation therefore rests on visible features alone: a thin outer circle, interlaced band rings, and an empty central circle. Step 1 is also uncertain in places. The separation between the outer, middle and inner band rings (entries 2, 3 and 5) was marked medium or low because the bands weave over and under each other and no clear boundaries exist. The 'connected_to' relation in entry 5 is weakly supported. The Step 1 array also does not record the individual band arcs and crossings that make up the interlace, nor the red and black line colours, so the structure is only approximately described. The empty central circle has no label, so nothing indicates what it represents.",
+      "updated_at": ""
+    }
+  ]
+}

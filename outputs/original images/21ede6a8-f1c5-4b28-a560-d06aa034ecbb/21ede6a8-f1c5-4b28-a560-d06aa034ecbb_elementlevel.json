@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "relation_type": "text_shape",
+    "subject": "Cor?",
+    "predicate": "connected_to",
+    "object": "sun-like figure with a human face and red pointed rays",
+    "certainty": "low",
+    "evidence": "Red text 'Cor?' is written to the left of the radiating red disc with a face at the top. No line joins them, so the closest predicate was chosen. The reading of the text is uncertain.",
+    "updated_at": "2026-11-17T10:45Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "text_shape",
+    "subject": "solis",
+    "predicate": "connected_to",
+    "object": "sun-like figure with a human face and red pointed rays",
+    "certainty": "low",
+    "evidence": "Red text 'solis' (reading uncertain) is written to the right of the radiating disc with a face. No line joins them, so the closest predicate was chosen.",
+    "updated_at": "2026-11-17T10:45Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "figurative",
+    "subject": "sun-like figure with a human face and red pointed rays",
+    "predicate": "above",
+    "object": "large circular band with radial ticks",
+    "certainty": "high",
+    "evidence": "The radiating disc is at the top edge of the large circle and touches or overlaps its outer rim. It is placed higher than the circle.",
+    "updated_at": "2026-11-17T10:45Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "figurative",
+    "subject": "red-outlined crescent on the left",
+    "predicate": "connected_to",
+    "object": "large circular band with radial ticks",
+    "certainty": "medium",
+    "evidence": "The left crescent, with a red outline and brown fill, touches the outer edge of the tick-marked band. Its concave side faces the circle. A thin horizontal line extends from the circle's center toward it.",
+    "updated_at": "2026-11-17T10:45Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "figurative",
+    "subject": "red-outlined crescent on the right",
+    "predicate": "connected_to",
+    "object": "large circular band with radial ticks",
+    "certainty": "medium",
+    "evidence": "The right crescent, with a red outline and brown fill, touches the outer edge of the tick-marked band. Its concave side faces the circle.",
+    "updated_at": "2026-11-17T10:45Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "figurative",
+    "subject": "round red-outlined disc with brown fill and faint face at the bottom",
+    "predicate": "below",
+    "object": "large circular band with radial ticks",
+    "certainty": "high",
+    "evidence": "The round disc with a faint face and cross-like marks is placed beneath the circle, near its lower outer edge.",
+    "updated_at": "2026-11-17T10:45Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "text_shape",
+    "subject": "Nox",
+    "predicate": "below",
+    "object": "round red-outlined disc with brown fill and faint face at the bottom",
+    "certainty": "high",
+    "evidence": "Red text 'Nox' is written under the round disc at the bottom of the page.",
+    "updated_at": "2026-11-17T10:45Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "figurative",
+    "subject": "small star shape drawn in thin line",
+    "predicate": "connected_to",
+    "object": "red-outlined crescent on the left",
+    "certainty": "low",
+    "evidence": "A small outline star lies to the left of the left crescent. A faint horizontal line seems to run through it toward the crescent and the circle.",
+    "updated_at": "2026-11-17T10:45Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "geometric",
+    "subject": "inner circle with radial lines",
+    "predicate": "inside",
+    "object": "large circular band with radial ticks",
+    "certainty": "high",
+    "evidence": "The tick-marked band forms the outer ring. The inner circle with numerals and radiating lines is enclosed within it.",
+    "updated_at": "2026-11-17T10:45Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "geometric",
+    "subject": "small central brown disc with red outline",
+    "predicate": "inside",
+    "object": "inner circle with radial lines",
+    "certainty": "high",
+    "evidence": "The small disc is at the center of the circle, and the thin radial lines meet at it.",
+    "updated_at": "2026-11-17T10:45Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "geometric",
+    "subject": "small central brown disc with red outline",
+    "predicate": "connected_to",
+    "object": "inner circle with radial lines",
+    "certainty": "high",
+    "evidence": "Many thin straight lines run outward from the central disc to the inner circle and the outer band, dividing the interior into equal sectors.",
+    "updated_at": "2026-11-17T10:45Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "text_shape",
+    "subject": "Oriens",
+    "predicate": "inside",
+    "object": "inner circle with radial lines",
+    "certainty": "medium",
+    "evidence": "Red text 'Oriens' (reading uncertain) lies left of the central disc along the horizontal radius, inside the inner circle.",
+    "updated_at": "2026-11-17T10:45Z"
+  },
+  {
+    "id": 13,
+    "relation_type": "text_shape",
+    "subject": "Occidens",
+    "predicate": "inside",
+    "object": "inner circle with radial lines",
+    "certainty": "low",
+    "evidence": "Red text beginning 'Occ...' (partly illegible, with an overwritten or blotted ending) lies right of the central disc along the horizontal radius, inside the inner circle.",
+    "updated_at": "2026-11-17T10:45Z"
+  },
+  {
+    "id": 14,
+    "relation_type": "text_shape",
+    "subject": "meridies",
+    "predicate": "inside",
+    "object": "inner circle with radial lines",
+    "certainty": "low",
+    "evidence": "Vertical red text above the central disc, running along the vertical radius. It is difficult to read.",
+    "updated_at": "2026-11-17T10:45Z"
+  },
+  {
+    "id": 15,
+    "relation_type": "text_shape",
+    "subject": "septentrio",
+    "predicate": "inside",
+    "object": "inner circle with radial lines",
+    "certainty": "low",
+    "evidence": "Vertical red and brown text below the central disc, running along the vertical radius. It is difficult to read.",
+    "updated_at": "2026-11-17T10:45Z"
+  },
+  {
+    "id": 16,
+    "relation_type": "text_shape",
+    "subject": "numerals 1 to 24 (e.g. '8', '9', '10', '11', '18', '19', '20', '21', '22', '23')",
+    "predicate": "inside",
+    "object": "large circular band with radial ticks",
+    "certainty": "medium",
+    "evidence": "Numerals, each preceded or followed by dots, are arranged around the ring between the inner circle and the tick-marked band. They are placed one per sector, and some are hard to read.",
+    "updated_at": "2026-11-17T10:45Z"
+  }
+]

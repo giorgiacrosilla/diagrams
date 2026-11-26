@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometric",
+    "subject": "outer ring made of alternating grey, orange and yellow segments",
+    "predicate": "contains",
+    "object": "inner yellow circle",
+    "certainty": "high",
+    "evidence": "The outer band forms the outermost circle. A thinner yellow circular line lies concentrically inside it.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "geometric",
+    "subject": "outer ring made of alternating grey, orange and yellow segments",
+    "predicate": "connected_to",
+    "object": "upper grey arc (large arc across the upper half)",
+    "certainty": "medium",
+    "evidence": "The grey arc starts at the outer ring at the upper left, near the point where a grey segment of the ring is crossed. It curves down and across the upper centre and rises again to meet the ring at the upper right.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "geometric",
+    "subject": "upper grey arc (large arc across the upper half)",
+    "predicate": "connected_to",
+    "object": "upper orange vertical arc (left of top)",
+    "certainty": "medium",
+    "evidence": "The orange arc descends from the top of the outer ring on the left of centre. It crosses the grey arc and continues down and left to the left edge of the ring.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "geometric",
+    "subject": "upper yellow vertical arc (right of top)",
+    "predicate": "connected_to",
+    "object": "outer ring made of alternating grey, orange and yellow segments",
+    "certainty": "medium",
+    "evidence": "The yellow arc starts at the top of the outer ring, right of centre. It curves down and to the right, crossing the grey arc, and ends at the right edge.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "geometric",
+    "subject": "short grey arc at upper centre",
+    "predicate": "connected_to",
+    "object": "upper orange vertical arc (left of top)",
+    "certainty": "high",
+    "evidence": "A short grey curved bar runs horizontally between the orange arc on the left and the yellow arc on the right, joining both.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "geometric",
+    "subject": "short grey arc at upper centre",
+    "predicate": "connected_to",
+    "object": "upper yellow vertical arc (right of top)",
+    "certainty": "high",
+    "evidence": "The right end of the short grey bar touches the yellow arc.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "geometric",
+    "subject": "short grey arc at lower centre",
+    "predicate": "connected_to",
+    "object": "lower yellow arc (left of bottom)",
+    "certainty": "high",
+    "evidence": "A short grey curved bar at the bottom spans between a yellow arc on the left and an orange arc on the right.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "geometric",
+    "subject": "short grey arc at lower centre",
+    "predicate": "connected_to",
+    "object": "lower orange arc (right of bottom)",
+    "certainty": "high",
+    "evidence": "The right end of the short grey bar touches the orange arc.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "geometric",
+    "subject": "lower grey arc (large arc across the lower half)",
+    "predicate": "connected_to",
+    "object": "outer ring made of alternating grey, orange and yellow segments",
+    "certainty": "medium",
+    "evidence": "The grey arc curves across the lower half, mirroring the upper grey arc. Its ends reach the ring at the lower left and lower right.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "geometric",
+    "subject": "short grey vertical arc at left centre",
+    "predicate": "connected_to",
+    "object": "left orange arc (curving from left edge to the centre)",
+    "certainty": "medium",
+    "evidence": "Two short vertical grey bars, one longer than the other, lie in the left centre. They run between the orange arc above and the yellow arc below.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "geometric",
+    "subject": "short grey vertical arc at left centre",
+    "predicate": "connected_to",
+    "object": "lower left yellow arc",
+    "certainty": "medium",
+    "evidence": "The lower ends of the left grey bars meet the yellow arc that sweeps up from the lower left.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "geometric",
+    "subject": "short grey vertical arc at right centre",
+    "predicate": "connected_to",
+    "object": "right yellow arc (curving from upper right to right centre)",
+    "certainty": "medium",
+    "evidence": "Two short vertical grey bars, one longer than the other, lie in the right centre. Their upper ends meet the yellow arc.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 13,
+    "relation_type": "geometric",
+    "subject": "short grey vertical arc at right centre",
+    "predicate": "connected_to",
+    "object": "lower right orange arc",
+    "certainty": "medium",
+    "evidence": "The lower ends of the right grey bars meet the orange arc that curves from the lower centre toward the right edge.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 14,
+    "relation_type": "geometric",
+    "subject": "orange arc running from the upper centre along the right side",
+    "predicate": "connected_to",
+    "object": "outer ring made of alternating grey, orange and yellow segments",
+    "certainty": "medium",
+    "evidence": "The orange arc begins near the top, just inside the ring, and runs down the right side along the inside of the ring.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 15,
+    "relation_type": "geometric",
+    "subject": "lower left orange arc (curving from the left side to the bottom)",
+    "predicate": "connected_to",
+    "object": "outer ring made of alternating grey, orange and yellow segments",
+    "certainty": "medium",
+    "evidence": "The orange arc starts on the left side just inside the inner yellow circle. It curves down along the lower left to the bottom of the ring.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 16,
+    "relation_type": "text_shape",
+    "subject": "partial text \"oecxelo\" at lower left of the page",
+    "predicate": "below",
+    "object": "outer ring made of alternating grey, orange and yellow segments",
+    "certainty": "low",
+    "evidence": "Red-orange letters, cut off at the lower left edge of the image, sit below and outside the circle. The reading is uncertain and the text is not attached to any part of the diagram.",
+    "updated_at": "2026-11-18T12:23Z"
+  }
+]

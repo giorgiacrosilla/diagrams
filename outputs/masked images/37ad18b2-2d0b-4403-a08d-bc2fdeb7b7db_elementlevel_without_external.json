@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "relation_type": "figurative",
+    "subject": "topmost head with blue-outlined hair or halo",
+    "predicate": "connected_to",
+    "object": "outermost circle",
+    "certainty": "medium",
+    "evidence": "The head sits directly on the top of the outermost circle line, at the top of the vertical column of heads.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "figurative",
+    "subject": "second head from top, with yellowish face and dark-outlined hair",
+    "predicate": "connected_to",
+    "object": "second circle from outside",
+    "certainty": "medium",
+    "evidence": "The head is placed on the top of the second circle line, directly below the first head.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "figurative",
+    "subject": "third head from top, with blue-outlined hair or halo",
+    "predicate": "connected_to",
+    "object": "third circle from outside",
+    "certainty": "medium",
+    "evidence": "The head sits on the top of the third circle line.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "figurative",
+    "subject": "fourth head from top, orange-coloured with reddish rays around it",
+    "predicate": "connected_to",
+    "object": "fourth circle from outside",
+    "certainty": "medium",
+    "evidence": "The orange head is placed on the top of the fourth circle line. Thin reddish lines radiate from its upper left.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "figurative",
+    "subject": "fifth head from top, with blue-outlined hair",
+    "predicate": "connected_to",
+    "object": "fifth circle from outside",
+    "certainty": "medium",
+    "evidence": "The head is placed on the top of the fifth circle line.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "figurative",
+    "subject": "sixth head from top, with a small crescent-shaped mark below it",
+    "predicate": "connected_to",
+    "object": "sixth circle from outside",
+    "certainty": "medium",
+    "evidence": "The head is placed on the top of the sixth circle line. A pale crescent-shaped mark appears under the head.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "figurative",
+    "subject": "seventh head from top, with blue-outlined hair",
+    "predicate": "connected_to",
+    "object": "innermost circle",
+    "certainty": "medium",
+    "evidence": "The lowest head sits on the top of the innermost circle line, above the central dot.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "geometric",
+    "subject": "outermost circle",
+    "predicate": "contains",
+    "object": "second circle from outside",
+    "certainty": "high",
+    "evidence": "The circles are concentric, and the second lies fully within the outermost.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "geometric",
+    "subject": "second circle from outside",
+    "predicate": "contains",
+    "object": "third circle from outside",
+    "certainty": "high",
+    "evidence": "The circles are concentric, and the third lies fully within the second.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "geometric",
+    "subject": "third circle from outside",
+    "predicate": "contains",
+    "object": "fourth circle from outside",
+    "certainty": "high",
+    "evidence": "The circles are concentric, and the fourth lies fully within the third.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "geometric",
+    "subject": "fourth circle from outside",
+    "predicate": "contains",
+    "object": "fifth circle from outside",
+    "certainty": "high",
+    "evidence": "The circles are concentric, and the fifth lies fully within the fourth.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "geometric",
+    "subject": "fifth circle from outside",
+    "predicate": "contains",
+    "object": "sixth circle from outside",
+    "certainty": "high",
+    "evidence": "The circles are concentric, and the sixth lies fully within the fifth.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 13,
+    "relation_type": "geometric",
+    "subject": "sixth circle from outside",
+    "predicate": "contains",
+    "object": "innermost circle",
+    "certainty": "high",
+    "evidence": "The circles are concentric, and the innermost lies fully within the sixth.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 14,
+    "relation_type": "geometric",
+    "subject": "small central brownish dot",
+    "predicate": "inside",
+    "object": "innermost circle",
+    "certainty": "high",
+    "evidence": "The dot is at the common centre of all the concentric circles.",
+    "updated_at": "2026-11-18T12:22Z"
+  },
+  {
+    "id": 15,
+    "relation_type": "figurative",
+    "subject": "topmost head with blue-outlined hair or halo",
+    "predicate": "above",
+    "object": "second head from top, with yellowish face and dark-outlined hair",
+    "certainty": "high",
+    "evidence": "The seven heads are stacked in a single vertical column along the top of the diagram, and the topmost head is highest.",
+    "updated_at": "2026-11-18T12:22Z"
+  }
+]

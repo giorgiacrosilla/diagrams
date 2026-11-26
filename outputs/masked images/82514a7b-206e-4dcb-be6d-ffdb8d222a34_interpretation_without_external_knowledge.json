@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "diagram_classification": "astronomical / cosmological (lunar phases diagram, with computistical relevance)",
+    "interpretation": "The diagram shows the phases of the Moon as it moves around a circular path (the lunar orbit or circle) in relation to the Sun. On the right is a rayed disc, which is the Sun and the source of light. On the left is a plain full disc joined to the Sun by a straight horizontal line. This is most plausibly the full Moon, placed opposite the Sun, with the line marking their opposition. Around the circle are smaller figures in different shapes: two thin crescents on the right, near the Sun, two half-discs at top and bottom, and two irregular, gibbous-like segments on the left, near the full disc. Together they show the waxing and waning of the Moon as its position relative to the Sun changes. Crescents appear near the Sun, half-moons at quadrature, and the nearly full or gibbous shapes close to opposition. The way each shape faces the Sun suggests that its illuminated part depends on its angular distance from the Sun. The exact assignment of waxing versus waning phases to each position, and the identity of the plain disc as the full Moon rather than the Earth, cannot be settled from the image alone.",
+    "basis": "visual",
+    "certainty": "medium",
+    "evidence": "A large disc with radiating strokes on the right is the Sun. A plain disc on the left is joined to it by a straight line, which indicates opposition. A circle runs through both discs and carries smaller shapes at intervals: crescents near the Sun, half-discs at the top and bottom, and larger, nearly full segments near the left disc. This progression of shapes around a single circle in relation to the Sun is typical of a lunar phase scheme. No legible labels are present, so the identification of the left disc and the order of the phases rest on form and position only.",
+    "updated_at": "2026-11-18T12:14Z"
+  }
+]

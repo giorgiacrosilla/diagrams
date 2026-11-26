@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "diagram_classification": "Cosmological / computistical (natural philosophy): a circular diagram of the year (annus) showing the four seasons, the four qualities, and the four cardinal directions, with overlapping arcs that link them.",
+    "interpretation": "The central label AN NUS (annus, 'year') shows that the whole circle stands for the year as a unified cycle. Around it are four seasonal sectors: VER (spring), AESTAS (summer), AUTUMNUS (autumn) and HIEMPS (winter). Each is paired with a cardinal direction: ORIENS (east) with spring, MERIDIES (south) with summer, OCCIDENS (west) with autumn, and SEPTENTRIO (north) with winter. Each is also paired with a quality: HUMIDUS (moist) with spring, CALIDUS (hot) with summer, SICCUS (dry) with autumn, and FRIGIDUS (cold) with winter. The coloured arcs that cross the circle link adjacent pairs of qualities and seasons. For example, spring is hot and moist, summer is hot and dry, autumn is dry and cold, and winter is cold and moist. The diagram therefore shows how the seasons, qualities and directions of the macrocosm are arranged in a cycle and share elements with their neighbours. This fits the medieval tradition of Isidorian and Bedan 'rota' or 'annus' diagrams, which correlate the year with the elements, humours and winds. A text beneath the diagram appears to begin with 'hiemps temporalis', which suggests that it comments on time and the seasons. This text is only partly legible.",
+    "basis": "textual",
+    "certainty": "medium",
+    "evidence": "Visible and written in the diagram: the central 'AN NUS'; the season labels (ver, aestas, autumnus, hiemps); the cardinal direction labels (oriens, meridies, occidens, septentrio); the quality labels (humidus, calidus, siccus, frigidus); and coloured arcs overlapping within a circular frame. External knowledge: the standard medieval scheme pairing seasons, qualities, directions, elements and humours, found in computistical and natural-philosophical manuscripts in the tradition of Isidore of Seville and Bede. Some labels are hard to read, which is why the certainty is medium. The exact pairing of arcs with qualities is inferred from the usual scheme and not fully verified against the image. The source manuscript and its exact textual context are not identified.",
+    "updated_at": "2026-11-17T11:14Z"
+  }
+]

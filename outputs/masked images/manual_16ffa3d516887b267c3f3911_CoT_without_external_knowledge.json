@@ -1,0 +1,264 @@
+{
+  "element_analysis": [
+    {
+      "id": 1,
+      "relation_type": "geometric",
+      "subject": "central circle",
+      "predicate": "inside",
+      "object": "outer green circle",
+      "certainty": "high",
+      "evidence": "Small pinkish ring with a double outline at the centre, entirely enclosed by the large green ring. The two rings do not touch directly, only through the spokes. The text visible in the background is show-through from the other side of the parchment, not part of the diagram, so it is not transcribed.",
+      "updated_at": ""
+    },
+    {
+      "id": 2,
+      "relation_type": "geometric",
+      "subject": "spoke at 11 o'clock",
+      "predicate": "connected_to",
+      "object": "outer green circle",
+      "certainty": "high",
+      "evidence": "Beige band running from the upper left of the green ring inwards, joined to the ring with small curved flares at its outer end.",
+      "updated_at": ""
+    },
+    {
+      "id": 3,
+      "relation_type": "geometric",
+      "subject": "spoke at 11 o'clock",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "The same beige band runs diagonally down to the upper left of the central ring and joins it.",
+      "updated_at": ""
+    },
+    {
+      "id": 4,
+      "relation_type": "geometric",
+      "subject": "spoke at 12 o'clock",
+      "predicate": "connected_to",
+      "object": "outer green circle",
+      "certainty": "high",
+      "evidence": "Vertical salmon-pink band joined to the green ring at the top with curved flares.",
+      "updated_at": ""
+    },
+    {
+      "id": 5,
+      "relation_type": "geometric",
+      "subject": "spoke at 12 o'clock",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "The same vertical salmon band joins the top of the central ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 6,
+      "relation_type": "geometric",
+      "subject": "spoke at 1 o'clock",
+      "predicate": "connected_to",
+      "object": "outer green circle",
+      "certainty": "high",
+      "evidence": "Green band joined to the green ring at the upper right.",
+      "updated_at": ""
+    },
+    {
+      "id": 7,
+      "relation_type": "geometric",
+      "subject": "spoke at 1 o'clock",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "The same green band runs diagonally down to the upper right of the central ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 8,
+      "relation_type": "geometric",
+      "subject": "spoke at 10 o'clock",
+      "predicate": "connected_to",
+      "object": "outer green circle",
+      "certainty": "high",
+      "evidence": "Beige band joined to the green ring at the left, above the horizontal left spoke.",
+      "updated_at": ""
+    },
+    {
+      "id": 9,
+      "relation_type": "geometric",
+      "subject": "spoke at 10 o'clock",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "The same beige band runs diagonally down to the upper left of the central ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 10,
+      "relation_type": "geometric",
+      "subject": "spoke at 2 o'clock",
+      "predicate": "connected_to",
+      "object": "outer green circle",
+      "certainty": "high",
+      "evidence": "Beige band joined to the green ring at the right, above the horizontal right spoke.",
+      "updated_at": ""
+    },
+    {
+      "id": 11,
+      "relation_type": "geometric",
+      "subject": "spoke at 2 o'clock",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "The same beige band runs diagonally down to the upper right of the central ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 12,
+      "relation_type": "geometric",
+      "subject": "spoke at 9 o'clock",
+      "predicate": "connected_to",
+      "object": "outer green circle",
+      "certainty": "high",
+      "evidence": "Horizontal green band on the left, joined to the green ring at its left end.",
+      "updated_at": ""
+    },
+    {
+      "id": 13,
+      "relation_type": "geometric",
+      "subject": "spoke at 9 o'clock",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "The same horizontal band joins the left side of the central ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 14,
+      "relation_type": "geometric",
+      "subject": "spoke at 3 o'clock",
+      "predicate": "connected_to",
+      "object": "outer green circle",
+      "certainty": "high",
+      "evidence": "Horizontal band on the right, green on the inner part and beige near the outer end, joined to the green ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 15,
+      "relation_type": "geometric",
+      "subject": "spoke at 3 o'clock",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "The same horizontal band joins the right side of the central ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 16,
+      "relation_type": "geometric",
+      "subject": "spoke at 8 o'clock",
+      "predicate": "connected_to",
+      "object": "outer green circle",
+      "certainty": "high",
+      "evidence": "Beige band joined to the green ring at the lower left.",
+      "updated_at": ""
+    },
+    {
+      "id": 17,
+      "relation_type": "geometric",
+      "subject": "spoke at 8 o'clock",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "The same beige band runs diagonally up to the lower left of the central ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 18,
+      "relation_type": "geometric",
+      "subject": "spoke at 4 o'clock",
+      "predicate": "connected_to",
+      "object": "outer green circle",
+      "certainty": "high",
+      "evidence": "Salmon-pink band joined to the green ring at the lower right.",
+      "updated_at": ""
+    },
+    {
+      "id": 19,
+      "relation_type": "geometric",
+      "subject": "spoke at 4 o'clock",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "The same salmon band runs diagonally up to the lower right of the central ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 20,
+      "relation_type": "geometric",
+      "subject": "spoke at 7 o'clock",
+      "predicate": "connected_to",
+      "object": "outer green circle",
+      "certainty": "high",
+      "evidence": "Green band joined to the green ring at the lower left.",
+      "updated_at": ""
+    },
+    {
+      "id": 21,
+      "relation_type": "geometric",
+      "subject": "spoke at 7 o'clock",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "The same green band runs diagonally up to the lower part of the central ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 22,
+      "relation_type": "geometric",
+      "subject": "spoke at 5 o'clock",
+      "predicate": "connected_to",
+      "object": "outer green circle",
+      "certainty": "high",
+      "evidence": "Beige band joined to the green ring at the lower right.",
+      "updated_at": ""
+    },
+    {
+      "id": 23,
+      "relation_type": "geometric",
+      "subject": "spoke at 5 o'clock",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "The same beige band runs diagonally up to the lower right of the central ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 24,
+      "relation_type": "geometric",
+      "subject": "spoke at 6 o'clock",
+      "predicate": "connected_to",
+      "object": "outer green circle",
+      "certainty": "high",
+      "evidence": "Vertical salmon-pink band joined to the green ring at the bottom.",
+      "updated_at": ""
+    },
+    {
+      "id": 25,
+      "relation_type": "geometric",
+      "subject": "spoke at 6 o'clock",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "The same vertical salmon band joins the bottom of the central ring.",
+      "updated_at": ""
+    }
+  ],
+  "interpretation": [
+    {
+      "diagram_classification": "Wheel diagram (rota), probably calendrical or cosmological-temporal; unlabelled",
+      "interpretation": "The diagram shows a wheel with a green outer rim, a small central hub and twelve spokes. The spokes are in alternating colours (green, beige, salmon-pink). The twelve-fold division suggests a division of the year into twelve months, or of the day into twelve hours, or a zodiacal scheme. This is only a possible reading. The diagram carries no label, so the exact subject cannot be determined. It may equally be a purely schematic or illustrative wheel of the kind used in computistic, natural-philosophical or theological treatises. The text visible in the background is show-through from the other side of the parchment and is not part of the diagram.",
+      "basis": "visual",
+      "certainty": "low",
+      "evidence": "The diagram has no transcribed text, so the interpretation rests only on visible features: the concentric structure (rim, hub, spokes), the count of twelve evenly spaced spokes (Step 1 lists twelve spoke entries, from 12 o'clock round to 11 o'clock), and the colour alternation. Step 1 is consistent with this reading. One small point: the 3 o'clock and 9 o'clock spokes are bicoloured or doubled, and Step 1 describes them only briefly. Without labels, any calendrical, zodiacal or cosmological identification is speculative, so certainty is low. No source is named, because none can be confidently linked to this unlabelled wheel.",
+      "updated_at": ""
+    }
+  ]
+}

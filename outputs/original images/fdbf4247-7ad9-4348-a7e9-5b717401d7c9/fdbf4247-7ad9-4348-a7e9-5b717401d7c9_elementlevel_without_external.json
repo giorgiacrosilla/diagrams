@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometric",
+    "subject": "outer red circle",
+    "predicate": "contains",
+    "object": "second concentric red circle",
+    "certainty": "high",
+    "evidence": "Several concentric circles are drawn; the outer ring band encloses the inner ring bands and the central circle.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "geometric",
+    "subject": "second concentric red circle",
+    "predicate": "contains",
+    "object": "central circle with dotted border",
+    "certainty": "high",
+    "evidence": "The central circle, with a ring of dots along its edge, is placed in the middle of the surrounding rings.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "text_shape",
+    "subject": "Habitacio Legis 7 Sacerdotius",
+    "predicate": "inside",
+    "object": "central circle with dotted border",
+    "certainty": "medium",
+    "evidence": "Three lines of text in the center: 'Habitacio' in black, 'Legis' in red with '7', and 'Sacerdotius' in black. The reading of the letters is uncertain.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "text_shape",
+    "subject": "Habitacio",
+    "predicate": "above",
+    "object": "Legis",
+    "certainty": "medium",
+    "evidence": "The words are stacked vertically in the center of the circle.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "text_shape",
+    "subject": "red text 'Habitaculo' [reading uncertain]",
+    "predicate": "inside",
+    "object": "ring band between the central circle and the outer ring",
+    "certainty": "low",
+    "evidence": "Red text at the top of the ring band, written along the curve. The reading is uncertain.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "text_shape",
+    "subject": "red text 'Mansio' [reading uncertain]",
+    "predicate": "inside",
+    "object": "ring band between the central circle and the outer ring",
+    "certainty": "low",
+    "evidence": "Red text on the upper right of the ring band, rotated along the curve.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "text_shape",
+    "subject": "red text 'Propheta' [reading uncertain]",
+    "predicate": "inside",
+    "object": "ring band between the central circle and the outer ring",
+    "certainty": "low",
+    "evidence": "Red text on the left of the ring band, written vertically along the curve.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "text_shape",
+    "subject": "red text on lower right of ring band [illegible]",
+    "predicate": "inside",
+    "object": "ring band between the central circle and the outer ring",
+    "certainty": "low",
+    "evidence": "Red text on the right and lower right of the ring band, including a '7'-like sign. Mostly illegible.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "geometric",
+    "subject": "outer ring band",
+    "predicate": "contains",
+    "object": "top rectangular compartment",
+    "certainty": "high",
+    "evidence": "A rectangular box with double vertical lines interrupts the outer ring at the top.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "text_shape",
+    "subject": "text 'porta aquilonis' [reading uncertain]",
+    "predicate": "inside",
+    "object": "top rectangular compartment",
+    "certainty": "low",
+    "evidence": "Text written in the top box of the outer ring, in dark ink.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "geometric",
+    "subject": "outer ring band",
+    "predicate": "contains",
+    "object": "upper right rectangular compartment",
+    "certainty": "high",
+    "evidence": "A rectangular box crosses the outer ring at the upper right.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "text_shape",
+    "subject": "text in upper right compartment [partly illegible]",
+    "predicate": "inside",
+    "object": "upper right rectangular compartment",
+    "certainty": "low",
+    "evidence": "Several lines of small text written in the box, rotated along the ring.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 13,
+    "relation_type": "geometric",
+    "subject": "outer ring band",
+    "predicate": "contains",
+    "object": "lower right rectangular compartment",
+    "certainty": "high",
+    "evidence": "A rectangular box crosses the outer ring at the lower right.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 14,
+    "relation_type": "text_shape",
+    "subject": "text in lower right compartment [partly illegible]",
+    "predicate": "inside",
+    "object": "lower right rectangular compartment",
+    "certainty": "low",
+    "evidence": "Text written in the box, rotated along the ring, in red and black.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 15,
+    "relation_type": "geometric",
+    "subject": "outer ring band",
+    "predicate": "contains",
+    "object": "bottom rectangular compartment",
+    "certainty": "high",
+    "evidence": "A rectangular box crosses the outer ring at the bottom.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 16,
+    "relation_type": "text_shape",
+    "subject": "upside-down text in bottom compartment [partly illegible]",
+    "predicate": "inside",
+    "object": "bottom rectangular compartment",
+    "certainty": "low",
+    "evidence": "Text written inverted in the box at the bottom of the diagram, in dark ink.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 17,
+    "relation_type": "geometric",
+    "subject": "outer ring band",
+    "predicate": "contains",
+    "object": "left rectangular compartment",
+    "certainty": "high",
+    "evidence": "A rectangular box crosses the outer ring at the left.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 18,
+    "relation_type": "text_shape",
+    "subject": "text 'porta ... saphyr' [reading uncertain]",
+    "predicate": "inside",
+    "object": "left rectangular compartment",
+    "certainty": "low",
+    "evidence": "Text written vertically in the box on the left side of the ring.",
+    "updated_at": "2026-11-18T13:11Z"
+  }
+]

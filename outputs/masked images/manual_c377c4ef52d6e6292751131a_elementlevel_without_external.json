@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometric",
+    "subject": "large outer orange circle",
+    "predicate": "contains",
+    "object": "small central circle with yellow and blue ring",
+    "certainty": "high",
+    "evidence": "The small circle sits at the centre of the large orange circle and is fully enclosed by it.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "figurative",
+    "subject": "head in profile facing right",
+    "predicate": "inside",
+    "object": "small central circle with yellow and blue ring",
+    "certainty": "high",
+    "evidence": "The head and neck are drawn within the small ring, which is coloured in alternating yellow and blue segments.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "geometric",
+    "subject": "small central circle with yellow and blue ring",
+    "predicate": "connected_to",
+    "object": "yellow knot triangle at top",
+    "certainty": "high",
+    "evidence": "A thin brown vertical line runs from the top of the central ring up to the triangle at the top edge, which contains an interlaced knot motif.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "geometric",
+    "subject": "small central circle with yellow and blue ring",
+    "predicate": "connected_to",
+    "object": "blue knot triangle at upper right (near top)",
+    "certainty": "high",
+    "evidence": "A thin brown line runs diagonally from the central ring to the triangle at the upper right, which contains a knot motif on a blue ground.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "geometric",
+    "subject": "small central circle with yellow and blue ring",
+    "predicate": "connected_to",
+    "object": "blue knot triangle at right (upper)",
+    "certainty": "high",
+    "evidence": "A thin brown line runs from the right side of the central ring up and to the right to the blue triangle on the circumference.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "geometric",
+    "subject": "small central circle with yellow and blue ring",
+    "predicate": "connected_to",
+    "object": "yellow knot triangle at right",
+    "certainty": "high",
+    "evidence": "A thin, almost horizontal brown line runs from the right of the central ring to the yellow triangle at the right edge.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "geometric",
+    "subject": "small central circle with yellow and blue ring",
+    "predicate": "connected_to",
+    "object": "blue knot triangle at lower right (right side)",
+    "certainty": "high",
+    "evidence": "A thin brown line runs diagonally down and to the right from the central ring to the blue triangle at the lower right.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "geometric",
+    "subject": "small central circle with yellow and blue ring",
+    "predicate": "connected_to",
+    "object": "blue knot triangle at lower right (near bottom)",
+    "certainty": "high",
+    "evidence": "A thin brown line runs down and slightly right from the central ring to the blue triangle near the bottom right.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "geometric",
+    "subject": "small central circle with yellow and blue ring",
+    "predicate": "connected_to",
+    "object": "yellow knot triangle at bottom",
+    "certainty": "high",
+    "evidence": "A thin brown vertical line runs from the bottom of the central ring down to the yellow triangle at the bottom edge.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "geometric",
+    "subject": "small central circle with yellow and blue ring",
+    "predicate": "connected_to",
+    "object": "blue knot triangle at lower left (near bottom)",
+    "certainty": "high",
+    "evidence": "A thin brown line runs down and to the left from the central ring to the blue triangle at the lower left near the bottom.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "geometric",
+    "subject": "small central circle with yellow and blue ring",
+    "predicate": "connected_to",
+    "object": "blue knot triangle at lower left",
+    "certainty": "high",
+    "evidence": "A thin brown line runs from the lower left of the central ring to the larger blue triangle on the left circumference.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "geometric",
+    "subject": "small central circle with yellow and blue ring",
+    "predicate": "connected_to",
+    "object": "yellow knot triangle at left",
+    "certainty": "high",
+    "evidence": "A thin, almost horizontal brown line runs from the left of the central ring to the yellow triangle at the left edge.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 13,
+    "relation_type": "geometric",
+    "subject": "small central circle with yellow and blue ring",
+    "predicate": "connected_to",
+    "object": "blue knot triangle at left (upper)",
+    "certainty": "high",
+    "evidence": "A thin brown line runs from the upper left of the central ring to the blue triangle on the left circumference.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 14,
+    "relation_type": "geometric",
+    "subject": "small central circle with yellow and blue ring",
+    "predicate": "connected_to",
+    "object": "blue knot triangle at upper left (near top)",
+    "certainty": "high",
+    "evidence": "A thin brown line runs diagonally up and to the left from the central ring to the blue triangle at the upper left.",
+    "updated_at": "2026-11-18T12:23Z"
+  },
+  {
+    "id": 15,
+    "relation_type": "geometric",
+    "subject": "large outer orange circle",
+    "predicate": "contains",
+    "object": "yellow knot triangle at top",
+    "certainty": "high",
+    "evidence": "The triangle sits against the inner edge of the orange circle at the top, with its base along the circumference. Twelve such triangles, alternating blue and yellow, are placed at equal intervals around the inside of the ring.",
+    "updated_at": "2026-11-18T12:23Z"
+  }
+]

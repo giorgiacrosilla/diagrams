@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "diagram_classification": "cosmological / meteorological (wind rose, diagram of the twelve winds)",
+    "interpretation": "The diagram is a twelve-part wind rose. A circle is divided into twelve radial sectors around a central circle containing a human head in profile. Each sector carries wind names, written in red and in black, and the sectors are separated by lines ending in knotwork triangles on the outer rim. The red names are the principal designations and the black names are alternative or Greek-derived names for the same winds. The legible names include eurus, euronotus, auster, libonotus, africus, lips, zephyrus, fabonius, caurus or chorus, circius, septentrio, aquilo, boreas, vulturnus and subsolanus, with apeliotes and others as synonyms. They are arranged around the circle as the twelve directions of the compass. The central head probably stands for the human being or microcosm at the centre of the winds, and so for the relationship between the cosmos and man. The head may also be read as a personification of the world or of the breath of the winds, but this part of the reading is less certain. The ring and the lines divide the horizon into equal parts, with the winds issuing from the periphery toward the centre.",
+    "basis": "textual",
+    "certainty": "medium",
+    "evidence": "The transcribed Latin wind names (eurus, euronotus, auster, libonotus, africus, lips, zephyrus, fabonius, chorus, circius, septentrio, aquilo, boreas, vulturnus, subsolanus, apoliotes) match a twelve-wind system. The twelve radial divisions, the red and black pairs of names, and the central human head in a ring support reading it as a wind rose with a microcosm figure at the centre. The meaning of the head is inferred from the layout rather than from any explicit label.",
+    "updated_at": "2026-11-18T13:17Z"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometric",
+    "subject": "innermost circle with dotted border",
+    "predicate": "inside",
+    "object": "inner ring band with red text",
+    "certainty": "high",
+    "evidence": "A small circle with a dotted outline sits at the center, enclosed by a larger ring that carries red lettering.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "geometric",
+    "subject": "inner ring band with red text",
+    "predicate": "inside",
+    "object": "outer ring band with rectangular compartments",
+    "certainty": "high",
+    "evidence": "Concentric red circles; the outer band is divided by radial double lines into rectangular compartments and encloses the inner ring.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "text_shape",
+    "subject": "Habitacio Legis 7 Sacerdotuas",
+    "predicate": "inside",
+    "object": "innermost circle with dotted border",
+    "certainty": "high",
+    "evidence": "Three lines of black and red text are written in the center of the dotted circle; the transcription is approximate, with the second line in red.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "text_shape",
+    "subject": "Habitacio",
+    "predicate": "inside",
+    "object": "inner ring band with red text",
+    "certainty": "medium",
+    "evidence": "Red text at the top of the ring, written along the curve of the band. The reading is uncertain.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "text_shape",
+    "subject": "Prophetia",
+    "predicate": "inside",
+    "object": "inner ring band with red text",
+    "certainty": "low",
+    "evidence": "Red text on the left side of the ring, written along the curve and rotated. The reading is uncertain.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "text_shape",
+    "subject": "red text on the right of the inner ring ([illegible])",
+    "predicate": "inside",
+    "object": "inner ring band with red text",
+    "certainty": "low",
+    "evidence": "Red letters on the right side of the ring follow the curve of the band, but are hard to read.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "text_shape",
+    "subject": "Porta ... aquilonis",
+    "predicate": "inside",
+    "object": "top rectangular compartment of the outer ring",
+    "certainty": "medium",
+    "evidence": "Black text in the rectangular compartment at the top, between radial double lines. The reading is partial.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "text_shape",
+    "subject": "text in upper-right compartment ([illegible])",
+    "predicate": "inside",
+    "object": "upper-right rectangular compartment of the outer ring",
+    "certainty": "low",
+    "evidence": "Black text written at an angle in the compartment on the upper right.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "text_shape",
+    "subject": "text in right-lower compartment ([illegible])",
+    "predicate": "inside",
+    "object": "right-lower rectangular compartment of the outer ring",
+    "certainty": "low",
+    "evidence": "Black text written at an angle in the compartment on the lower right.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "text_shape",
+    "subject": "upside-down text at the bottom ([illegible])",
+    "predicate": "inside",
+    "object": "bottom rectangular compartment of the outer ring",
+    "certainty": "low",
+    "evidence": "Inverted black text in the bottom compartment, written upside-down relative to the page.",
+    "updated_at": "2026-11-17T10:47Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "text_shape",
+    "subject": "Porta ... saphyr",
+    "predicate": "inside",
+    "object": "left rectangular compartment of the outer ring",
+    "certainty": "low",
+    "evidence": "Black text written vertically in the compartment on the left. The reading is uncertain.",
+    "updated_at": "2026-11-17T10:47Z"
+  }
+]

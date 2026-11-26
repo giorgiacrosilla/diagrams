@@ -1,0 +1,212 @@
+{
+  "element_analysis": [
+    {
+      "id": 1,
+      "relation_type": "geometric",
+      "subject": "inner ring band",
+      "predicate": "inside",
+      "object": "outer ring band",
+      "certainty": "medium",
+      "evidence": "Concentric red circles: the outer ring band is the outermost double-lined ring, and the inner ring band lies within it, around the central circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 2,
+      "relation_type": "geometric",
+      "subject": "central circle with dotted border",
+      "predicate": "inside",
+      "object": "inner ring band",
+      "certainty": "high",
+      "evidence": "Small circle at the centre, outlined by a red line with a dotted inner border, enclosed by the inner ring band.",
+      "updated_at": ""
+    },
+    {
+      "id": 3,
+      "relation_type": "text_shape",
+      "subject": "Habitacio (central circle, upper line)",
+      "predicate": "inside",
+      "object": "central circle with dotted border",
+      "certainty": "high",
+      "evidence": "Black text on the upper line inside the central circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 4,
+      "relation_type": "text_shape",
+      "subject": "Legis 7",
+      "predicate": "inside",
+      "object": "central circle with dotted border",
+      "certainty": "high",
+      "evidence": "Red text on the middle line inside the central circle, followed by a 7-shaped sign.",
+      "updated_at": ""
+    },
+    {
+      "id": 5,
+      "relation_type": "text_shape",
+      "subject": "Sacerdotuus",
+      "predicate": "inside",
+      "object": "central circle with dotted border",
+      "certainty": "medium",
+      "evidence": "Black text on the lower line inside the central circle. The ending is uncertain.",
+      "updated_at": ""
+    },
+    {
+      "id": 6,
+      "relation_type": "text_shape",
+      "subject": "Habitacio (central circle, upper line)",
+      "predicate": "above",
+      "object": "Legis 7",
+      "certainty": "high",
+      "evidence": "The first line of the central text is written above the red \"Legis 7\" line.",
+      "updated_at": ""
+    },
+    {
+      "id": 7,
+      "relation_type": "text_shape",
+      "subject": "Legis 7",
+      "predicate": "above",
+      "object": "Sacerdotuus",
+      "certainty": "high",
+      "evidence": "The red line lies above the last black line of the central text.",
+      "updated_at": ""
+    },
+    {
+      "id": 8,
+      "relation_type": "figurative",
+      "subject": "top rectangular compartment with text \"Dera stru quilinii\"",
+      "predicate": "inside",
+      "object": "outer ring band",
+      "certainty": "medium",
+      "evidence": "Rectangle at the top, set across the outer ring band and bounded by short parallel vertical lines. It contains lines of black text in a dark ink. The transcription is uncertain: \"Dera stru quilinii\".",
+      "updated_at": ""
+    },
+    {
+      "id": 9,
+      "relation_type": "figurative",
+      "subject": "left rectangular compartment with text \"Pozca salis so saphed\"",
+      "predicate": "inside",
+      "object": "outer ring band",
+      "certainty": "medium",
+      "evidence": "Rectangle at the upper left, set across the outer ring band. It contains text written at an angle. The transcription is uncertain: \"Pozca salis so saphed\".",
+      "updated_at": ""
+    },
+    {
+      "id": 10,
+      "relation_type": "text_shape",
+      "subject": "Habitacio (inner ring band, top)",
+      "predicate": "inside",
+      "object": "inner ring band",
+      "certainty": "medium",
+      "evidence": "Orange-red text at the top of the inner ring band, running along the curve.",
+      "updated_at": ""
+    },
+    {
+      "id": 11,
+      "relation_type": "text_shape",
+      "subject": "Prophara",
+      "predicate": "inside",
+      "object": "inner ring band",
+      "certainty": "medium",
+      "evidence": "Red text along the left of the inner ring band, running vertically. The reading is uncertain.",
+      "updated_at": ""
+    },
+    {
+      "id": 12,
+      "relation_type": "figurative",
+      "subject": "upper right rectangular compartment with illegible text",
+      "predicate": "inside",
+      "object": "outer ring band",
+      "certainty": "medium",
+      "evidence": "Rectangle at the upper right, set across the outer ring band. It contains small black text at an angle: [illegible].",
+      "updated_at": ""
+    },
+    {
+      "id": 13,
+      "relation_type": "text_shape",
+      "subject": "Modesti [illegible]",
+      "predicate": "inside",
+      "object": "inner ring band",
+      "certainty": "low",
+      "evidence": "Orange-red text at the upper right of the inner ring band, written along the curve. The reading is very uncertain.",
+      "updated_at": ""
+    },
+    {
+      "id": 14,
+      "relation_type": "text_shape",
+      "subject": "[illegible] (inner ring band, lower left)",
+      "predicate": "inside",
+      "object": "inner ring band",
+      "certainty": "low",
+      "evidence": "Small black text at the lower left of the inner ring band, in a stained area: [illegible].",
+      "updated_at": ""
+    },
+    {
+      "id": 15,
+      "relation_type": "figurative",
+      "subject": "lower right rectangular compartment with illegible text",
+      "predicate": "inside",
+      "object": "outer ring band",
+      "certainty": "medium",
+      "evidence": "Rectangle at the lower right, set across the outer ring band. It contains small text at an angle: [illegible].",
+      "updated_at": ""
+    },
+    {
+      "id": 16,
+      "relation_type": "text_shape",
+      "subject": "Siui",
+      "predicate": "inside",
+      "object": "inner ring band",
+      "certainty": "low",
+      "evidence": "Orange-red text at the right of the inner ring band, running along the curve. The reading is uncertain.",
+      "updated_at": ""
+    },
+    {
+      "id": 17,
+      "relation_type": "text_shape",
+      "subject": "Z",
+      "predicate": "inside",
+      "object": "inner ring band",
+      "certainty": "low",
+      "evidence": "Orange-red sign at the lower right of the inner ring band, resembling a \"Z\" or a \"7\".",
+      "updated_at": ""
+    },
+    {
+      "id": 18,
+      "relation_type": "figurative",
+      "subject": "bottom rectangular compartment with upside-down text",
+      "predicate": "inside",
+      "object": "outer ring band",
+      "certainty": "medium",
+      "evidence": "Rectangle at the bottom, set across the outer ring band. It contains upside-down text in black: [illegible].",
+      "updated_at": ""
+    },
+    {
+      "id": 19,
+      "relation_type": "figurative",
+      "subject": "top rectangular compartment with text \"Dera stru quilinii\"",
+      "predicate": "above",
+      "object": "bottom rectangular compartment with upside-down text",
+      "certainty": "high",
+      "evidence": "The top compartment is at the top of the ring and the bottom compartment is at the bottom.",
+      "updated_at": ""
+    }
+  ],
+  "interpretation": [
+    {
+      "diagram_classification": "Theological / exegetical diagram: concentric schematic plan with gates, probably an allegorical plan of a sacred dwelling or city.",
+      "interpretation": "The diagram seems to be an allegorical scheme of a sacred enclosure. The central circle reads \"Habitacio Legis 7 Sacerdotuus\". The \"7\" is probably the Tironian sign for \"et\", so the text would read roughly 'dwelling of the Law and of the priesthood'. This marks the centre as the most sacred zone. The surrounding inner ring carries further words, each starting with \"Habitacio\" or a similar word, possibly 'dwelling of the prophets' (\"Prophara\" may be \"Prophetarum\"). This suggests a hierarchy of groups, such as the Law, priests and prophets, arranged around the centre. The outer ring is interrupted by rectangular compartments set at intervals around it. One reads \"Dera stru quilinii\", which may be 'porta aquilonis' (north gate), and another begins \"Pozca\"/\"Porta\". They look like labelled gates or entrances, probably naming directions or the tribes or peoples associated with them. Taken together, the diagram probably presents a Temple, tabernacle or city-like structure in which the central Law and priesthood are surrounded by other groups and entered through gates. The exact source and the meaning of each sector remain uncertain.",
+      "basis": "textual",
+      "certainty": "low",
+      "evidence": "The reading of the central text \"Habitacio Legis 7 Sacerdotuus\" is fairly clear and supports the 'dwelling' interpretation. The ring words (\"Habitacio\", \"Prophara\", \"Modesti [illegible]\", \"Siui\", \"Z\") are only partly legible. The gate reading depends on the uncertain transcription \"Dera stru quilinii\", and several compartments are illegible. The concentric layout with compartments breaking the outer ring visually suggests a plan with gates. No source can be named with confidence. In Step 1 the rectangular compartments were typed \"figurative\", although they are geometric or text-bearing shapes. The Step 1 readings \"Sacerdotuus\", \"Modesti\" and \"Siui\" are tentative. The \"Z\" sign may be another abbreviation sign. The number of compartments (six recorded) may be incomplete, since the left side of the diagram is partly cut off.",
+      "updated_at": ""
+    },
+    {
+      "diagram_classification": "Concentric (circular) hierarchical diagram",
+      "interpretation": "The concentric structure expresses a gradation from the sacred centre outwards. The innermost circle holds the Law and the priesthood, the middle ring holds other groups or functions, and the outer ring holds the thresholds or gates. This implies that access to the centre passes through the outer zones and the gates.",
+      "basis": "visual",
+      "certainty": "medium",
+      "evidence": "Step 1 entries 1 and 2 record the nested rings, and the central circle has a distinct dotted border. The outer compartments cross the outer ring band. Different ink colours separate the zones: black for the centre and gate texts, orange-red for the ring words.",
+      "updated_at": ""
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometric",
+    "subject": "large outer circle with orange-red double border",
+    "predicate": "contains",
+    "object": "central area with interlaced arcs",
+    "certainty": "high",
+    "evidence": "The outer ring encloses all the arcs, the bands and the text; the ring is drawn in orange-red with a thin dark outline.",
+    "updated_at": "2026-11-17T10:48Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "text_shape",
+    "subject": "AN NUS",
+    "predicate": "inside",
+    "object": "large outer circle with orange-red double border",
+    "certainty": "high",
+    "evidence": "The text is written in two lines, 'AN' above 'NUS', at the centre of the circle. Some orange-red staining or colour is visible near it.",
+    "updated_at": "2026-11-17T10:48Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "text_shape",
+    "subject": "VER ORI ENS",
+    "predicate": "inside",
+    "object": "top segment of the circle bounded by brown and grey arcs",
+    "certainty": "medium",
+    "evidence": "The text is arranged in three lines, 'VER', 'ORI', 'ENS', within the upper segment between two arcs.",
+    "updated_at": "2026-11-17T10:48Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "text_shape",
+    "subject": "humi dus",
+    "predicate": "inside",
+    "object": "upper left segment of the circle bounded by brown and grey arcs",
+    "certainty": "medium",
+    "evidence": "The text is written along the curve at the upper left. The transcription is uncertain: 'humi' and 'dus' are on two lines.",
+    "updated_at": "2026-11-17T10:48Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "text_shape",
+    "subject": "CALIDUS",
+    "predicate": "inside",
+    "object": "upper right band between grey and yellow arcs",
+    "certainty": "medium",
+    "evidence": "The text is written along the curve at the upper right, in the segment next to the top segment.",
+    "updated_at": "2026-11-17T10:48Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "text_shape",
+    "subject": "CALIDUS",
+    "predicate": "inside",
+    "object": "right band bounded by yellow and brown arcs",
+    "certainty": "low",
+    "evidence": "The word is written rotated along the right edge below the first 'CALIDUS'. The reading is uncertain.",
+    "updated_at": "2026-11-17T10:48Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "text_shape",
+    "subject": "AESTAS",
+    "predicate": "inside",
+    "object": "right band bounded by yellow and brown arcs",
+    "certainty": "medium",
+    "evidence": "The text is written along the right edge of the circle in a rotated orientation.",
+    "updated_at": "2026-11-17T10:48Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "text_shape",
+    "subject": "aeniol es",
+    "predicate": "inside",
+    "object": "right segment between yellow arcs",
+    "certainty": "low",
+    "evidence": "The text is faint and is written vertically on the right side of the circle. The reading is uncertain.",
+    "updated_at": "2026-11-17T10:48Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "text_shape",
+    "subject": "SICCA",
+    "predicate": "inside",
+    "object": "lower right segment bounded by brown arcs",
+    "certainty": "medium",
+    "evidence": "The text is written along the curve at the lower right.",
+    "updated_at": "2026-11-17T10:48Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "text_shape",
+    "subject": "SICCUS",
+    "predicate": "inside",
+    "object": "bottom right segment bounded by brown arcs",
+    "certainty": "low",
+    "evidence": "The text is written upside down along the bottom edge. The reading is uncertain.",
+    "updated_at": "2026-11-17T10:48Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "text_shape",
+    "subject": "OCCIDENS",
+    "predicate": "inside",
+    "object": "bottom segment bounded by brown arcs",
+    "certainty": "medium",
+    "evidence": "The text is written upside down along the bottom, partly in a curved line. Parts are hard to read.",
+    "updated_at": "2026-11-17T10:48Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "text_shape",
+    "subject": "FRIGIDUS",
+    "predicate": "inside",
+    "object": "lower left segment bounded by yellow and brown arcs",
+    "certainty": "medium",
+    "evidence": "The text is written along the curve at the lower left.",
+    "updated_at": "2026-11-17T10:48Z"
+  },
+  {
+    "id": 13,
+    "relation_type": "text_shape",
+    "subject": "HIEMPS SEPTEN TRIO",
+    "predicate": "inside",
+    "object": "left segment between grey and yellow arcs",
+    "certainty": "medium",
+    "evidence": "The text is written vertically in several lines on the left side of the circle. Transcription is partly uncertain.",
+    "updated_at": "2026-11-17T10:48Z"
+  },
+  {
+    "id": 14,
+    "relation_type": "text_shape",
+    "subject": "HUMIDUS",
+    "predicate": "inside",
+    "object": "upper left segment between grey and brown arcs",
+    "certainty": "low",
+    "evidence": "The text is written along the left edge of the circle in a rotated orientation. The reading is uncertain.",
+    "updated_at": "2026-11-17T10:48Z"
+  },
+  {
+    "id": 15,
+    "relation_type": "geometric",
+    "subject": "grey arc at the upper left",
+    "predicate": "connected_to",
+    "object": "grey arc at the upper right",
+    "certainty": "low",
+    "evidence": "Grey curved lines cross the circle's interior in a pattern that suggests interlaced lenses. It is unclear whether they form one continuous arc.",
+    "updated_at": "2026-11-17T10:48Z"
+  },
+  {
+    "id": 16,
+    "relation_type": "geometric",
+    "subject": "yellow arc on the right",
+    "predicate": "connected_to",
+    "object": "yellow arc at the lower left",
+    "certainty": "low",
+    "evidence": "Yellow curved lines cross the circle's interior, one on the right side and one at the lower left. Their continuity is not certain.",
+    "updated_at": "2026-11-17T10:48Z"
+  },
+  {
+    "id": 17,
+    "relation_type": "geometric",
+    "subject": "brown arc at the bottom right",
+    "predicate": "connected_to",
+    "object": "brown arc at the bottom",
+    "certainty": "low",
+    "evidence": "Brown curved lines at the lower part of the circle cross and overlap each other. The continuity is uncertain.",
+    "updated_at": "2026-11-17T10:48Z"
+  }
+]

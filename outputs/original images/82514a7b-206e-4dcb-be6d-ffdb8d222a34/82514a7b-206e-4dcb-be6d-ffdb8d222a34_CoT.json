@@ -1,0 +1,252 @@
+{
+  "element_analysis": [
+    {
+      "id": 1,
+      "relation_type": "text_shape",
+      "subject": "LUNA ·VIII·",
+      "predicate": "above",
+      "object": "large circle",
+      "certainty": "low",
+      "evidence": "Free-standing text \"LUNA\" followed by \"·VIII·\", placed at the top of the diagram, outside and above the upper part of the large circle, to the left of the upper half disc. The allowed predicates do not express this side-by-side placement exactly.",
+      "updated_at": ""
+    },
+    {
+      "id": 2,
+      "relation_type": "text_shape",
+      "subject": "DI ATO MOS (top)",
+      "predicate": "connected_to",
+      "object": "large circle",
+      "certainty": "high",
+      "evidence": "Brown half disc at the top, flat edge on the left and curved edge on the right, with the text \"DI\", \"ATO\", \"MOS\" written in three lines inside it and split by a horizontal line between \"ATO\" and \"MOS\". The line of the large circle passes through it.",
+      "updated_at": ""
+    },
+    {
+      "id": 3,
+      "relation_type": "text_shape",
+      "subject": "AMPhi CIR TOS (upper left)",
+      "predicate": "above",
+      "object": "upper left half disc",
+      "certainty": "low",
+      "evidence": "Text \"AMPhi\" written along the upper left outer edge and \"CIR TOS\" along the right outer edge of the half disc, outside it. The text curves around the shape, so no allowed predicate fits exactly.",
+      "updated_at": ""
+    },
+    {
+      "id": 4,
+      "relation_type": "geometric",
+      "subject": "upper left half disc",
+      "predicate": "connected_to",
+      "object": "large circle",
+      "certainty": "high",
+      "evidence": "Brown half disc with its flat edge on the lower right, crossed by the line of the large circle. It has no text inside it.",
+      "updated_at": ""
+    },
+    {
+      "id": 5,
+      "relation_type": "text_shape",
+      "subject": "LUNA ·XII·",
+      "predicate": "above",
+      "object": "upper left half disc",
+      "certainty": "low",
+      "evidence": "Free-standing text \"LUNA\" with \"·XII·\" below it, located to the left of the half disc at about the same height. The nearest predicate is used.",
+      "updated_at": ""
+    },
+    {
+      "id": 6,
+      "relation_type": "text_shape",
+      "subject": "MO NO ID ES",
+      "predicate": "connected_to",
+      "object": "large circle",
+      "certainty": "high",
+      "evidence": "Brown crescent at the upper right. The text \"MO\", \"NO\", \"ID\", \"ES\" is written inside it in two lines. The crescent touches the line of the large circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 7,
+      "relation_type": "text_shape",
+      "subject": "LUNA PRIMA",
+      "predicate": "below",
+      "object": "MO NO ID ES",
+      "certainty": "low",
+      "evidence": "The free-standing text \"LUNA\" lies to the left of the crescent and \"PRIMA\" to its right, both slightly lower than its centre. The nearest predicate is used.",
+      "updated_at": ""
+    },
+    {
+      "id": 8,
+      "relation_type": "text_shape",
+      "subject": "EMISPERIU SUPERIUS P QUOD LUNA RECEDIT A SOLE ·",
+      "predicate": "inside",
+      "object": "large circle",
+      "certainty": "high",
+      "evidence": "Two lines of free-standing text in the upper interior of the large circle, above the horizontal line. The first line reads \"EMISPERIU SUPERIUS P QUOD\" and the second \"LUNA RECEDIT A SOLE ·\".",
+      "updated_at": ""
+    },
+    {
+      "id": 9,
+      "relation_type": "text_shape",
+      "subject": "PAN se Le NOS",
+      "predicate": "connected_to",
+      "object": "large circle",
+      "certainty": "high",
+      "evidence": "Brown circle at the left with the text \"PAN se\" and \"Le NOS\" inside, divided by crossing lines. The line of the large circle passes vertically through it.",
+      "updated_at": ""
+    },
+    {
+      "id": 10,
+      "relation_type": "text_shape",
+      "subject": "LUNA ·XV·",
+      "predicate": "above",
+      "object": "PAN se Le NOS",
+      "certainty": "low",
+      "evidence": "Free-standing text \"LUNA\" with \"·XV·\" below it, placed to the left of the left circle. The nearest predicate is used.",
+      "updated_at": ""
+    },
+    {
+      "id": 11,
+      "relation_type": "text_shape",
+      "subject": "PAN se Le NOS",
+      "predicate": "connected_to",
+      "object": "SOL",
+      "certainty": "high",
+      "evidence": "A straight, thick, horizontal brown line runs from the right edge of the left circle to the left edge of the right circle with the text \"S OL\". It has no text on it.",
+      "updated_at": ""
+    },
+    {
+      "id": 12,
+      "relation_type": "text_shape",
+      "subject": "SOL",
+      "predicate": "connected_to",
+      "object": "large circle",
+      "certainty": "high",
+      "evidence": "Brown circle at the right with short radiating strokes around it and the text \"S\" and \"OL\" inside. The line of the large circle passes through it vertically.",
+      "updated_at": ""
+    },
+    {
+      "id": 13,
+      "relation_type": "text_shape",
+      "subject": "EMISPERIU SUPERIUS P QUOD LUNA RECEDIT A SOLE ·",
+      "predicate": "above",
+      "object": "EMISPERIU INFERIUS P QUOD LUN[illegible] PROPINQUAT SOLI",
+      "certainty": "high",
+      "evidence": "The upper two-line text sits above the lower two-line text inside the large circle. The horizontal line runs between them.",
+      "updated_at": ""
+    },
+    {
+      "id": 14,
+      "relation_type": "text_shape",
+      "subject": "EMISPERIU INFERIUS P QUOD LUN[illegible] PROPINQUAT SOLI",
+      "predicate": "inside",
+      "object": "large circle",
+      "certainty": "high",
+      "evidence": "Free-standing text in the lower interior of the large circle, below the horizontal line. The first line reads \"EMISPERIU INFERIUS P QUOD\" and the second \"LUN[illegible] PROPINQUAT SOLI\". A small mark appears above the first line, and part of the second line is smudged.",
+      "updated_at": ""
+    },
+    {
+      "id": 15,
+      "relation_type": "geometric",
+      "subject": "lower left half disc",
+      "predicate": "connected_to",
+      "object": "large circle",
+      "certainty": "high",
+      "evidence": "Brown half disc at the lower left, flat edge on the upper right, crossed by the line of the large circle. It has no text inside it.",
+      "updated_at": ""
+    },
+    {
+      "id": 16,
+      "relation_type": "text_shape",
+      "subject": "AMPhi CIR TOS (lower left)",
+      "predicate": "below",
+      "object": "lower left half disc",
+      "certainty": "low",
+      "evidence": "Text \"AMPhi\" written along the right outer edge and \"CIR TOS\" along the lower left outer edge of the half disc, partly upside down, outside it. No allowed predicate fits exactly.",
+      "updated_at": ""
+    },
+    {
+      "id": 17,
+      "relation_type": "text_shape",
+      "subject": "LUNA ·XVIII·",
+      "predicate": "above",
+      "object": "lower left half disc",
+      "certainty": "low",
+      "evidence": "Free-standing text \"LUNA\" with \"·XVIII·\" below it, to the left of the half disc. The nearest predicate is used.",
+      "updated_at": ""
+    },
+    {
+      "id": 18,
+      "relation_type": "text_shape",
+      "subject": "MONO (lower right crescent)",
+      "predicate": "connected_to",
+      "object": "large circle",
+      "certainty": "high",
+      "evidence": "Brown crescent at the lower right with the text \"MONO\" written inside it. The line of the large circle touches it.",
+      "updated_at": ""
+    },
+    {
+      "id": 19,
+      "relation_type": "text_shape",
+      "subject": "IDES (lower right)",
+      "predicate": "below",
+      "object": "MONO (lower right crescent)",
+      "certainty": "low",
+      "evidence": "The text \"IDES\" is written vertically, reading downward, along the lower outer edge of the crescent, outside it. The nearest predicate is used.",
+      "updated_at": ""
+    },
+    {
+      "id": 20,
+      "relation_type": "text_shape",
+      "subject": "LUNA ·XXVII·",
+      "predicate": "above",
+      "object": "IDES (lower right)",
+      "certainty": "low",
+      "evidence": "Free-standing text \"LUNA\" to the left of the crescent and \"·XXVII·\" to its right. The nearest predicate is used.",
+      "updated_at": ""
+    },
+    {
+      "id": 21,
+      "relation_type": "text_shape",
+      "subject": "DI ATO MOS (bottom)",
+      "predicate": "connected_to",
+      "object": "large circle",
+      "certainty": "high",
+      "evidence": "Brown half disc at the bottom, flat edge on the left and curved edge on the right, with the text \"DI\", \"ATO\", \"MOS\" inside it in three lines. The line of the large circle passes through it.",
+      "updated_at": ""
+    },
+    {
+      "id": 22,
+      "relation_type": "text_shape",
+      "subject": "LUNA ·XXII·",
+      "predicate": "below",
+      "object": "large circle",
+      "certainty": "low",
+      "evidence": "Free-standing text \"LUNA\" followed by \"·XXII·\", located at the bottom of the diagram, outside and below the large circle, on either side of the lower half disc.",
+      "updated_at": ""
+    },
+    {
+      "id": 23,
+      "relation_type": "geometric",
+      "subject": "large circle",
+      "predicate": "contains",
+      "object": "horizontal line between PAN se Le NOS and SOL",
+      "certainty": "low",
+      "evidence": "The horizontal line crosses the inside of the large circle from the left circle to the right circle. This relation is recorded only to include the large circle's enclosing role. The line is described in entry 11.",
+      "updated_at": ""
+    }
+  ],
+  "interpretation": [
+    {
+      "diagram_classification": "cosmological / astronomical (lunar phases diagram)",
+      "interpretation": "The diagram shows the phases of the Moon during one lunation, with the Sun (SOL) at the right and the Moon placed at eight positions on a circular orbit around the centre. The labels give the lunar age in days: Luna prima (new crescent, the \"monoides\" or sickle shape), VIII (half disc, \"diatomos\", i.e. first quarter), XII (\"amphicirtos\", gibbous), XV (\"pansele nos\", i.e. pan selenos, full moon, directly opposite the Sun and joined to it by the horizontal line), XVIII (\"amphicirtos\", gibbous waning), XXII (\"diatomos\", last quarter) and XXVII (\"monoides\", waning crescent). The two texts in the centre explain the illumination of the Moon. The upper hemisphere (\"emisperium superius\") is where the Moon moves away from the Sun (\"luna recedit a sole\"), that is the waxing phase. The lower hemisphere (\"emisperium inferius\") is where the Moon approaches the Sun (\"luna propinquat soli\"), that is the waning phase. The full Moon lies at the greatest distance from the Sun, and the crescents lie closest to it. The diagram therefore explains how the Moon's phases depend on its angular position relative to the Sun.",
+      "basis": "textual",
+      "certainty": "high",
+      "evidence": "Written in the diagram: the lunar ages \"LUNA ·VIII·\", \"·XII·\", \"·XV·\", \"·XVIII·\", \"·XXII·\", \"·XXVII·\" and \"LUNA PRIMA\"; the labels \"DI ATO MOS\", \"AMPhi CIR TOS\", \"PAN se Le NOS\" and \"MO NO ID ES\"; the central texts on the upper and lower hemispheres; and the label \"SOL\". Visible: the shapes of the Moon figures change from a crescent to a half disc, then a larger segment, then a full circle, and back again around the ring. The full circle is joined to the Sun by a straight line. The Greek-derived terms (monoeides, dichotomos, amphikyrtos, pansele-nos) are standard names for the lunar phases in the Latin computistic and astronomical tradition, which I know from external knowledge. The names suit the shapes drawn. Step 1 problems: entries 1, 3, 5, 7, 10, 16, 17, 19, 20 and 22 use \"above\" or \"below\" for text beside a shape, and these predicates fit poorly, so they are low certainty. In entry 23 the horizontal line is not a separate element. Step 1 also reads \"IDES\" and \"MONO\" as separate texts for the lower right crescent, but they most likely belong to the same word \"MONOIDES\". The Step 1 transcription \"AMPhi\" and \"CIR TOS\" probably stands for \"AMPHICIRTOS\". The smudged word in the lower central text is probably \"LUNA\".",
+      "updated_at": ""
+    },
+    {
+      "diagram_classification": "computistic / scientific diagram of the Moon's relation to the Sun",
+      "interpretation": "The large circle represents the Moon's path or cycle relative to the Sun, and the diagram may belong to a computus or natural-science manuscript, for example one on the reckoning of time or the nature of things. Its layout expresses a geometric principle. The Moon is lit by the Sun, so how much of its disc is seen from Earth depends on how far it is from the Sun. The Sun's rays are drawn as small strokes around the Sun, which marks it as the source of light. The line between the Sun and the full Moon marks the axis of greatest separation (opposition). The moon sizes are drawn with the dark crescents near the Sun and the fuller shapes away from it.",
+      "basis": "external",
+      "certainty": "medium",
+      "evidence": "Visible: the Sun has radiating strokes and the Moon figures are drawn at points around the ring. External knowledge: this kind of diagram is typical of early medieval Latin manuscripts on computus and astronomy, which use Greek-derived terms for the phases. I do not name a specific source, since I cannot attribute it with confidence. The exact placement of the Earth is not shown in the diagram, so the reading of the circle as an orbit about a centre is partly inferred.",
+      "updated_at": ""
+    }
+  ]
+}

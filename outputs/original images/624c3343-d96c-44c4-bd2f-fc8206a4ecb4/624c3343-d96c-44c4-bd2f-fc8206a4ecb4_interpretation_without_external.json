@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "diagram_classification": "cosmological (natural-philosophical): a diagram of the four elements, qualities, seasons and cardinal directions, combined with a schematic T-O-type map of the three continents",
+    "interpretation": "The diagram sets out a microcosm-macrocosm scheme in which the four elements (ignis, aer, aqua, terra) are tied to the four pairs of primary qualities (hot, dry, moist, cold), the four seasons and the four cardinal directions. The roundels at the corners of the diamond name the winds or directions: Auster (south) at the top, Oriens (east) at the left, Occidens (west) at the right, and Aquilo (north) at the bottom. The bands between them name the seasons with their qualities: ver (spring) is hot and moist, aestas (summer) hot and dry, autumnus dry and cold, and hiems (winter) cold and moist. Each of the four coloured corner discs holds one element with its two qualities: fire is hot and dry, air hot and moist, water cold and moist, earth cold and dry. The elements are therefore arranged so that neighbouring ones share a quality, and the seasons mark the transitions between them. The inner T-shaped division labels Asia (upper left), Africa (upper right) and Europa (lower half), so the geography of the world is placed within the same cosmic order. The whole scheme presents the world as an ordered, symmetrical structure in which space, time, matter and qualities correspond to one another. The oriented layout, with south at the top and the continents inside, shows the T-O map being mapped onto the elemental and seasonal framework.",
+    "basis": "textual",
+    "certainty": "high",
+    "evidence": "The roundels carry the direction names AUSTER, HORIES (Oriens), DE OCCLNS (Occidens) and AQUILO. The orange bands carry the inscriptions VER CALIDUM ET HUMIDUM, AESTAS CALIDA SICCA, [AUTUMNUS] SICCUS FRIGIDUS and HIEMS FRIGIDUS HUMIDUS. The four coloured discs are labelled IGNIS, AER, AQUA and TERRA, each with qualities written beside it (calidus/siccus, calidus/humidus, frigida/humida, frigida/sicca). The inner T-shaped partition is labelled ASIA, AFRICA and EUROPA. The square frame and the diamond form a quadripartite, symmetrical scheme typical of early medieval diagrams of the elements, seasons and winds.",
+    "updated_at": "2026-11-18T13:16Z"
+  }
+]

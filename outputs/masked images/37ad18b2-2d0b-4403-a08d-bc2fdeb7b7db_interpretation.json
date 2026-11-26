@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "diagram_classification": "cosmological (planetary spheres / geocentric world-system)",
+    "interpretation": "The diagram shows a geocentric cosmos. Seven concentric circles surround a small central dot that stands for the Earth. Each circle is an orbit or sphere of one of the seven planets, and a small human head is placed on each orbit along a single vertical axis. The heads are the personified planets, in the usual order from the Earth outwards: Moon (innermost, with a crescent), Mercury, Venus, Sun (the reddish head with rays, fourth in the middle), Mars, Jupiter, Saturn (outermost). The Sun sits in the middle of the series. The diagram presents the ordered, nested planetary spheres around the central Earth, which is the model found in early medieval natural-philosophical and astronomical manuscripts. The surrounding text is probably the explanatory text on the planetary order and distances.",
+    "basis": "visual",
+    "certainty": "medium",
+    "evidence": "Visible: a central dot, seven concentric circles, and seven anthropomorphic heads aligned on one vertical radius, one on each circle. The fourth head is reddish and has rays, which identifies the Sun. The second head from the centre has a crescent, which identifies the Moon. The body text around the diagram is mostly illegible and was not used. External knowledge: the Ptolemaic and Macrobian/Chalcidian planetary order (Moon, Mercury, Venus, Sun, Mars, Jupiter, Saturn), and the practice of showing planets as personified heads in Carolingian and early medieval astronomical diagrams. The identification of the other heads rests on this order and not on labels, so it is less certain. I do not name a specific source text.",
+    "updated_at": "2026-11-18T11:35Z"
+  }
+]

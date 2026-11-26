@@ -1,0 +1,292 @@
+[
+  {
+    "id": 1,
+    "relation_type": "text_shape",
+    "subject": "SATU RNUS",
+    "predicate": "connected_to",
+    "object": "head at top of outermost circle",
+    "certainty": "high",
+    "evidence": "The red text is split into 'SATU' on the left and 'RNUS' on the right of a small head with blue hair. The head sits on the outermost circle line at the top.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "text_shape",
+    "subject": "IO UIS",
+    "predicate": "connected_to",
+    "object": "head on second circle",
+    "certainty": "high",
+    "evidence": "The red text is split into 'IO' on the left and 'UIS' on the right of a small head with dark hair. The head sits on the second circle line.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "text_shape",
+    "subject": "MA RS",
+    "predicate": "connected_to",
+    "object": "head on third circle",
+    "certainty": "high",
+    "evidence": "The red text is split into 'MA' on the left and 'RS' on the right of a small head with blue hair. The head sits on the third circle line.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "text_shape",
+    "subject": "SO L",
+    "predicate": "connected_to",
+    "object": "orange head with short rays on fourth circle",
+    "certainty": "high",
+    "evidence": "The red text is split into 'SO' on the left and 'L' on the right of an orange-coloured head. Faint rays radiate from the head, which sits on the fourth circle line.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "text_shape",
+    "subject": "UE NUS",
+    "predicate": "connected_to",
+    "object": "head on fifth circle",
+    "certainty": "medium",
+    "evidence": "The red text is split into 'UE' on the left (the second letter is only partly legible) and 'NUS' on the right of a small head with dark blue hair. The head sits on the fifth circle line.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "text_shape",
+    "subject": "MER CUR",
+    "predicate": "connected_to",
+    "object": "head on sixth circle",
+    "certainty": "high",
+    "evidence": "The red text is split into 'MER' on the left and 'CUR' on the right of a small head with blue hair. The head sits on the sixth circle line.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "text_shape",
+    "subject": "LU NA",
+    "predicate": "connected_to",
+    "object": "head on seventh circle",
+    "certainty": "high",
+    "evidence": "The red text is split into 'LU' on the left and 'NA' on the right of a small head with a crescent shape above it. The head sits on the seventh circle line.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "text_shape",
+    "subject": "TER RA",
+    "predicate": "connected_to",
+    "object": "small brown central dot",
+    "certainty": "high",
+    "evidence": "The red text is split into 'TER' on the left and 'RA' on the right of a small brown dot at the centre of all the circles.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "geometric",
+    "subject": "outermost circle",
+    "predicate": "contains",
+    "object": "second circle",
+    "certainty": "high",
+    "evidence": "The concentric circles are nested, each larger circle enclosing the next smaller one.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "geometric",
+    "subject": "second circle",
+    "predicate": "contains",
+    "object": "third circle",
+    "certainty": "high",
+    "evidence": "Concentric nesting.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "geometric",
+    "subject": "third circle",
+    "predicate": "contains",
+    "object": "fourth circle",
+    "certainty": "high",
+    "evidence": "Concentric nesting.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "geometric",
+    "subject": "fourth circle",
+    "predicate": "contains",
+    "object": "fifth circle",
+    "certainty": "high",
+    "evidence": "Concentric nesting.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 13,
+    "relation_type": "geometric",
+    "subject": "fifth circle",
+    "predicate": "contains",
+    "object": "sixth circle",
+    "certainty": "high",
+    "evidence": "Concentric nesting.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 14,
+    "relation_type": "geometric",
+    "subject": "sixth circle",
+    "predicate": "contains",
+    "object": "seventh circle",
+    "certainty": "high",
+    "evidence": "Concentric nesting.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 15,
+    "relation_type": "geometric",
+    "subject": "seventh circle",
+    "predicate": "contains",
+    "object": "small brown central dot",
+    "certainty": "high",
+    "evidence": "The innermost circle encloses the brown dot and the text 'TER RA'.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 16,
+    "relation_type": "figurative",
+    "subject": "head on outermost circle",
+    "predicate": "connected_to",
+    "object": "outermost circle",
+    "certainty": "high",
+    "evidence": "The head is placed on the top of the outermost circle line, which passes behind it.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 17,
+    "relation_type": "figurative",
+    "subject": "head on second circle",
+    "predicate": "connected_to",
+    "object": "second circle",
+    "certainty": "high",
+    "evidence": "The head is placed on the top of the second circle line.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 18,
+    "relation_type": "figurative",
+    "subject": "head on third circle",
+    "predicate": "connected_to",
+    "object": "third circle",
+    "certainty": "high",
+    "evidence": "The head is placed on the top of the third circle line.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 19,
+    "relation_type": "figurative",
+    "subject": "orange head with short rays on fourth circle",
+    "predicate": "connected_to",
+    "object": "fourth circle",
+    "certainty": "high",
+    "evidence": "The head is placed on the top of the fourth circle line.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 20,
+    "relation_type": "figurative",
+    "subject": "head on fifth circle",
+    "predicate": "connected_to",
+    "object": "fifth circle",
+    "certainty": "high",
+    "evidence": "The head is placed on the top of the fifth circle line.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 21,
+    "relation_type": "figurative",
+    "subject": "head on sixth circle",
+    "predicate": "connected_to",
+    "object": "sixth circle",
+    "certainty": "high",
+    "evidence": "The head is placed on the top of the sixth circle line.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 22,
+    "relation_type": "figurative",
+    "subject": "head on seventh circle",
+    "predicate": "connected_to",
+    "object": "seventh circle",
+    "certainty": "high",
+    "evidence": "The head is placed on the top of the seventh circle line, with a crescent shape above it.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 23,
+    "relation_type": "figurative",
+    "subject": "head on outermost circle",
+    "predicate": "above",
+    "object": "head on second circle",
+    "certainty": "high",
+    "evidence": "The heads are stacked in a vertical column along the central axis, with the outermost head at the top.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 24,
+    "relation_type": "figurative",
+    "subject": "head on second circle",
+    "predicate": "above",
+    "object": "head on third circle",
+    "certainty": "high",
+    "evidence": "Vertical column of heads.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 25,
+    "relation_type": "figurative",
+    "subject": "head on third circle",
+    "predicate": "above",
+    "object": "orange head with short rays on fourth circle",
+    "certainty": "high",
+    "evidence": "Vertical column of heads.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 26,
+    "relation_type": "figurative",
+    "subject": "orange head with short rays on fourth circle",
+    "predicate": "above",
+    "object": "head on fifth circle",
+    "certainty": "high",
+    "evidence": "Vertical column of heads.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 27,
+    "relation_type": "figurative",
+    "subject": "head on fifth circle",
+    "predicate": "above",
+    "object": "head on sixth circle",
+    "certainty": "high",
+    "evidence": "Vertical column of heads.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 28,
+    "relation_type": "figurative",
+    "subject": "head on sixth circle",
+    "predicate": "above",
+    "object": "head on seventh circle",
+    "certainty": "high",
+    "evidence": "Vertical column of heads.",
+    "updated_at": "2026-11-18T13:10Z"
+  },
+  {
+    "id": 29,
+    "relation_type": "figurative",
+    "subject": "head on seventh circle",
+    "predicate": "above",
+    "object": "small brown central dot",
+    "certainty": "high",
+    "evidence": "The seventh head lies above the dot at the centre of the diagram.",
+    "updated_at": "2026-11-18T13:10Z"
+  }
+]

@@ -1,0 +1,254 @@
+{
+  "element_analysis": [
+    {
+      "id": 1,
+      "relation_type": "text_shape",
+      "subject": "humi dus",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "high",
+      "evidence": "Small text in two lines at the top left, written in the band-like space just inside the orange-brown ring of the large outer circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 2,
+      "relation_type": "text_shape",
+      "subject": "UER ORI ENS",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "high",
+      "evidence": "Text in three lines at the top centre, inside the large outer circle and between two curved arcs near the top.",
+      "updated_at": ""
+    },
+    {
+      "id": 3,
+      "relation_type": "text_shape",
+      "subject": "CALIDUS (upper right)",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "high",
+      "evidence": "Text curved along the ring at the upper right, inside the large outer circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 4,
+      "relation_type": "text_shape",
+      "subject": "HUMIDUS",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "high",
+      "evidence": "Text written along the curve at the upper left, inside the outer circle, rotated to follow the ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 5,
+      "relation_type": "text_shape",
+      "subject": "CALIDUS (right)",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "high",
+      "evidence": "Text running along the right-hand curve, rotated, inside the outer circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 6,
+      "relation_type": "text_shape",
+      "subject": "AN NUS",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "high",
+      "evidence": "Text in two lines (\"AN\" above \"NÚS\") in the centre of the diagram, inside the large outer circle and not on any other element.",
+      "updated_at": ""
+    },
+    {
+      "id": 7,
+      "relation_type": "text_shape",
+      "subject": "AESTAS",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "high",
+      "evidence": "Rotated text at the right edge, inside the outer circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 8,
+      "relation_type": "text_shape",
+      "subject": "HIEMPS SEPTEN TRIO",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "medium",
+      "evidence": "Text in several lines on the left, inside the outer circle, rotated vertically. The reading of the lines is uncertain.",
+      "updated_at": ""
+    },
+    {
+      "id": 9,
+      "relation_type": "text_shape",
+      "subject": "[illegible] (right)",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "low",
+      "evidence": "Rotated text in several short lines at the right, inside the outer circle below CALIDUS (right). It is hard to read.",
+      "updated_at": ""
+    },
+    {
+      "id": 10,
+      "relation_type": "text_shape",
+      "subject": "SICCA",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "medium",
+      "evidence": "Rotated text at the lower right, inside the outer circle and near a brown arc.",
+      "updated_at": ""
+    },
+    {
+      "id": 11,
+      "relation_type": "text_shape",
+      "subject": "FRIGIDUS",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "medium",
+      "evidence": "Rotated text at the lower left, inside the outer circle and near a yellow arc.",
+      "updated_at": ""
+    },
+    {
+      "id": 12,
+      "relation_type": "text_shape",
+      "subject": "OCCIDENS",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "medium",
+      "evidence": "Upside-down text at the bottom centre, inside the outer circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 13,
+      "relation_type": "text_shape",
+      "subject": "[illegible] (lower center)",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "low",
+      "evidence": "Upside-down text at the bottom, below OCCIDENS, inside the outer circle. It is hard to read.",
+      "updated_at": ""
+    },
+    {
+      "id": 14,
+      "relation_type": "text_shape",
+      "subject": "[illegible] (lower left)",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "low",
+      "evidence": "Small upside-down text at the bottom left, inside the outer circle. It is hard to read.",
+      "updated_at": ""
+    },
+    {
+      "id": 15,
+      "relation_type": "text_shape",
+      "subject": "SICCA",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "low",
+      "evidence": "Second rotated text at the bottom right, upside down, inside the outer circle below the first SICCA. It is hard to read and may be a different word.",
+      "updated_at": ""
+    },
+    {
+      "id": 16,
+      "relation_type": "text_shape",
+      "subject": "UER ORI ENS",
+      "predicate": "above",
+      "object": "AN NUS",
+      "certainty": "high",
+      "evidence": "UER ORI ENS is at the top centre and AN NUS is in the middle of the circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 17,
+      "relation_type": "text_shape",
+      "subject": "AN NUS",
+      "predicate": "above",
+      "object": "OCCIDENS",
+      "certainty": "high",
+      "evidence": "AN NUS is in the centre and OCCIDENS is at the bottom of the circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 18,
+      "relation_type": "geometric",
+      "subject": "grey arc (upper left)",
+      "predicate": "connected_to",
+      "object": "outer circle",
+      "certainty": "medium",
+      "evidence": "A grey curved line starts at the ring at the upper left and curves down and inward across the interior to the lower area.",
+      "updated_at": ""
+    },
+    {
+      "id": 19,
+      "relation_type": "geometric",
+      "subject": "grey arc (upper right)",
+      "predicate": "connected_to",
+      "object": "outer circle",
+      "certainty": "medium",
+      "evidence": "A grey curved line starts at the ring at the top right, curves toward the right and ends at the ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 20,
+      "relation_type": "geometric",
+      "subject": "yellow arc (right)",
+      "predicate": "connected_to",
+      "object": "outer circle",
+      "certainty": "medium",
+      "evidence": "A long yellow curved line runs on the right side from the top right down to the bottom and joins the ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 21,
+      "relation_type": "geometric",
+      "subject": "brown arc (lower right)",
+      "predicate": "connected_to",
+      "object": "outer circle",
+      "certainty": "medium",
+      "evidence": "A dark brown curved line at the lower right starts at the ring on the right side and curves to the bottom.",
+      "updated_at": ""
+    },
+    {
+      "id": 22,
+      "relation_type": "geometric",
+      "subject": "yellow arc (lower left)",
+      "predicate": "connected_to",
+      "object": "outer circle",
+      "certainty": "medium",
+      "evidence": "A yellow curved line at the lower left starts at the ring on the left and curves toward the bottom.",
+      "updated_at": ""
+    },
+    {
+      "id": 23,
+      "relation_type": "geometric",
+      "subject": "brown arc (upper)",
+      "predicate": "connected_to",
+      "object": "outer circle",
+      "certainty": "medium",
+      "evidence": "A brown curved line at the top forms a lens-like division around the area of UER ORI ENS and joins the ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 24,
+      "relation_type": "geometric",
+      "subject": "orange arc (bottom)",
+      "predicate": "connected_to",
+      "object": "outer circle",
+      "certainty": "medium",
+      "evidence": "An orange-brown curved line at the bottom bounds the area containing the upside-down text and joins the ring.",
+      "updated_at": ""
+    }
+  ],
+  "interpretation": [
+    {
+      "diagram_classification": "cosmological / computistic diagram (annus diagram combining the seasons, the qualities and the cardinal directions)",
+      "interpretation": "The diagram shows the year (\"ANNUS\") at the centre of a large circle, surrounded by overlapping arcs that link the four seasons (AESTAS, HIEMPS, and presumably the two others) with the elemental qualities (CALIDUS, HUMIDUS, FRIGIDUS, SICCA) and with the cardinal directions (UER ORIENS for east, OCCIDENS for west, SEPTENTRIO for north, and presumably a southern term on the right). The interlocking arcs mark the pairs of qualities shared by neighbouring seasons: for example, warm and moist for spring, warm and dry for summer, dry and cold for autumn, and cold and moist for winter. The diagram thus presents the year as a closed cycle in which time, the qualities of the elements and space are ordered together in a single scheme, in the tradition of medieval natural philosophy and computus, as in the Isidorian tradition of the \"De natura rerum\" with its diagrams of the seasons.",
+      "basis": "textual",
+      "certainty": "medium",
+      "evidence": "The central label \"AN NUS\" names the year as the subject. The legible labels are the qualities HUMIDUS, CALIDUS, FRIGIDUS and SICCA, the season names AESTAS and HIEMPS, and the directional terms UER ORIENS, SEPTENTRIO and OCCIDENS, all placed around the ring. The coloured arcs overlap in a lens-like pattern, joining adjacent labels. Several Step 1 readings are uncertain or incomplete. The text at the right (entry 9, probably a season name such as AUTUMNUS) and the lower texts (entries 13-15, possibly a season name and a direction such as MERIDIES) could not be read. Entries 3 and 5 both give CALIDUS, and entry 15 gives a second SICCA; these may be misreadings. The assignment of each quality to a season is therefore inferred from the usual scheme and not fully confirmed by the text. The Step 1 arc entries record only a link to the outer circle and do not capture how the arcs join one another, so the pairing of qualities is partly an inference from the overall layout. The Isidorian attribution is moderately confident and is not shown by any visible text.",
+      "updated_at": ""
+    }
+  ]
+}

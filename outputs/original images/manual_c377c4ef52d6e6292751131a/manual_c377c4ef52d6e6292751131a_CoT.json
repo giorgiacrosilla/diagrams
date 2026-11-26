@@ -1,0 +1,410 @@
+{
+  "element_analysis": [
+    {
+      "id": 1,
+      "relation_type": "geometric",
+      "subject": "central circle",
+      "predicate": "connected_to",
+      "object": "outer orange circle",
+      "certainty": "high",
+      "evidence": "Twelve thin brown radial lines run from the yellow ring of the central circle out to the inner edge of the orange outer ring. The central circle has a yellow ring with blue-grey arcs at top and bottom.",
+      "updated_at": ""
+    },
+    {
+      "id": 2,
+      "relation_type": "figurative",
+      "subject": "head in profile",
+      "predicate": "inside",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "A head and neck in profile facing right, with an orange and blue cap-like covering on top and a dark collar band at the base of the neck, are enclosed by the yellow ring of the central circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 3,
+      "relation_type": "geometric",
+      "subject": "blue-grey knot triangle (upper left)",
+      "predicate": "connected_to",
+      "object": "outer orange circle",
+      "certainty": "high",
+      "evidence": "A blue-grey triangle with interlaced knot ornament has its base against the inner edge of the orange ring at the upper left. A radial line starts at its inward apex.",
+      "updated_at": ""
+    },
+    {
+      "id": 4,
+      "relation_type": "geometric",
+      "subject": "yellow knot triangle (top)",
+      "predicate": "connected_to",
+      "object": "outer orange circle",
+      "certainty": "high",
+      "evidence": "A yellow triangle with interlaced knot ornament has its base against the inner edge of the ring at the top. A vertical radial line starts at its apex.",
+      "updated_at": ""
+    },
+    {
+      "id": 5,
+      "relation_type": "geometric",
+      "subject": "blue-grey knot triangle (upper right)",
+      "predicate": "connected_to",
+      "object": "outer orange circle",
+      "certainty": "high",
+      "evidence": "A blue-grey knot-ornament triangle has its base against the inner edge of the ring at the upper right. A radial line starts at its apex.",
+      "updated_at": ""
+    },
+    {
+      "id": 6,
+      "relation_type": "geometric",
+      "subject": "blue-grey knot triangle (left, upper)",
+      "predicate": "connected_to",
+      "object": "outer orange circle",
+      "certainty": "high",
+      "evidence": "A blue-grey knot-ornament triangle has its base against the inner edge of the ring on the left side, above the horizontal line. A radial line starts at its apex.",
+      "updated_at": ""
+    },
+    {
+      "id": 7,
+      "relation_type": "geometric",
+      "subject": "blue-grey knot triangle (right, upper)",
+      "predicate": "connected_to",
+      "object": "outer orange circle",
+      "certainty": "high",
+      "evidence": "A blue-grey knot-ornament triangle has its base against the inner edge of the ring on the right side, above the horizontal line. A radial line starts at its apex.",
+      "updated_at": ""
+    },
+    {
+      "id": 8,
+      "relation_type": "geometric",
+      "subject": "yellow knot triangle (left)",
+      "predicate": "connected_to",
+      "object": "outer orange circle",
+      "certainty": "high",
+      "evidence": "A yellow knot-ornament triangle has its base against the inner edge of the ring at the left. A horizontal radial line starts at its apex.",
+      "updated_at": ""
+    },
+    {
+      "id": 9,
+      "relation_type": "geometric",
+      "subject": "yellow knot triangle (right)",
+      "predicate": "connected_to",
+      "object": "outer orange circle",
+      "certainty": "high",
+      "evidence": "A yellow knot-ornament triangle has its base against the inner edge of the ring at the right. A horizontal radial line starts at its apex.",
+      "updated_at": ""
+    },
+    {
+      "id": 10,
+      "relation_type": "geometric",
+      "subject": "blue-grey knot triangle (left, lower)",
+      "predicate": "connected_to",
+      "object": "outer orange circle",
+      "certainty": "high",
+      "evidence": "A blue-grey knot-ornament triangle has its base against the inner edge of the ring at the lower left. A radial line starts at its apex.",
+      "updated_at": ""
+    },
+    {
+      "id": 11,
+      "relation_type": "geometric",
+      "subject": "blue-grey knot triangle (right, lower)",
+      "predicate": "connected_to",
+      "object": "outer orange circle",
+      "certainty": "high",
+      "evidence": "A blue-grey knot-ornament triangle has its base against the inner edge of the ring at the lower right. A radial line starts at its apex.",
+      "updated_at": ""
+    },
+    {
+      "id": 12,
+      "relation_type": "geometric",
+      "subject": "blue-grey knot triangle (bottom left)",
+      "predicate": "connected_to",
+      "object": "outer orange circle",
+      "certainty": "high",
+      "evidence": "A blue-grey knot-ornament triangle has its base against the inner edge of the ring at the bottom left. A radial line starts at its apex.",
+      "updated_at": ""
+    },
+    {
+      "id": 13,
+      "relation_type": "geometric",
+      "subject": "blue-grey knot triangle (bottom right)",
+      "predicate": "connected_to",
+      "object": "outer orange circle",
+      "certainty": "high",
+      "evidence": "A blue-grey knot-ornament triangle has its base against the inner edge of the ring at the bottom right. A radial line starts at its apex.",
+      "updated_at": ""
+    },
+    {
+      "id": 14,
+      "relation_type": "geometric",
+      "subject": "yellow knot triangle (bottom)",
+      "predicate": "connected_to",
+      "object": "outer orange circle",
+      "certainty": "high",
+      "evidence": "A yellow knot-ornament triangle has its base against the inner edge of the ring at the bottom. A vertical radial line starts at its apex.",
+      "updated_at": ""
+    },
+    {
+      "id": 15,
+      "relation_type": "geometric",
+      "subject": "SUBSOLANOS",
+      "predicate": "inside",
+      "object": "outer orange circle",
+      "certainty": "medium",
+      "evidence": "A wedge-shaped sector between two radial lines at the top left of the vertical line. It contains red text, written in rotated lines along the sector, here read as \"SUB SOLAN OS\". The transcription is uncertain.",
+      "updated_at": ""
+    },
+    {
+      "id": 16,
+      "relation_type": "geometric",
+      "subject": "EURUS",
+      "predicate": "inside",
+      "object": "outer orange circle",
+      "certainty": "medium",
+      "evidence": "A wedge-shaped sector between two radial lines at the top right of the vertical line. It contains red text near the outer edge, written \"EURUS\".",
+      "updated_at": ""
+    },
+    {
+      "id": 17,
+      "relation_type": "geometric",
+      "subject": "EURO AUSTER",
+      "predicate": "inside",
+      "object": "outer orange circle",
+      "certainty": "medium",
+      "evidence": "A wedge-shaped sector at the upper right. It contains red text in two rotated lines, \"EURO\" and \"AUSTER\" (written \"aufter\").",
+      "updated_at": ""
+    },
+    {
+      "id": 18,
+      "relation_type": "geometric",
+      "subject": "AUSTER",
+      "predicate": "inside",
+      "object": "outer orange circle",
+      "certainty": "medium",
+      "evidence": "A wedge-shaped sector on the right, above the horizontal line. It contains red text near the outer edge, rotated, written \"AUSTER\" (\"aufter\").",
+      "updated_at": ""
+    },
+    {
+      "id": 19,
+      "relation_type": "geometric",
+      "subject": "AUSTROAFRICUS",
+      "predicate": "inside",
+      "object": "outer orange circle",
+      "certainty": "medium",
+      "evidence": "A wedge-shaped sector on the right, below the horizontal line. It contains red text in rotated lines, read as \"AUSTRO\" and \"AFRIC US\".",
+      "updated_at": ""
+    },
+    {
+      "id": 20,
+      "relation_type": "geometric",
+      "subject": "AFRICUS",
+      "predicate": "inside",
+      "object": "outer orange circle",
+      "certainty": "medium",
+      "evidence": "A wedge-shaped sector at the lower right. It contains red text along the outer edge, upside down, read as \"AFRICUS\".",
+      "updated_at": ""
+    },
+    {
+      "id": 21,
+      "relation_type": "geometric",
+      "subject": "FABONIUS",
+      "predicate": "inside",
+      "object": "outer orange circle",
+      "certainty": "medium",
+      "evidence": "A wedge-shaped sector at the bottom right of the vertical line. It contains red upside-down text, read as \"FABO NIUS\".",
+      "updated_at": ""
+    },
+    {
+      "id": 22,
+      "relation_type": "geometric",
+      "subject": "CHORUS",
+      "predicate": "inside",
+      "object": "outer orange circle",
+      "certainty": "medium",
+      "evidence": "A wedge-shaped sector at the bottom left of the vertical line. It contains red upside-down text, read as \"CHORU\" or \"CHORUS\".",
+      "updated_at": ""
+    },
+    {
+      "id": 23,
+      "relation_type": "geometric",
+      "subject": "CIRCIUS",
+      "predicate": "inside",
+      "object": "outer orange circle",
+      "certainty": "low",
+      "evidence": "A wedge-shaped sector at the lower left. It contains red text along the outer edge, read as \"CIRCIU\" or \"CIRCIUS\". The red text continues into the next sector, so the division is uncertain.",
+      "updated_at": ""
+    },
+    {
+      "id": 24,
+      "relation_type": "geometric",
+      "subject": "SERTENTRIO",
+      "predicate": "inside",
+      "object": "outer orange circle",
+      "certainty": "medium",
+      "evidence": "A wedge-shaped sector on the left, below the horizontal line. It contains red text, read as \"SER TEN TRIO\".",
+      "updated_at": ""
+    },
+    {
+      "id": 25,
+      "relation_type": "geometric",
+      "subject": "AQUILO",
+      "predicate": "inside",
+      "object": "outer orange circle",
+      "certainty": "medium",
+      "evidence": "A wedge-shaped sector on the left, above the horizontal line. It contains red text, read as \"AQUILO\".",
+      "updated_at": ""
+    },
+    {
+      "id": 26,
+      "relation_type": "geometric",
+      "subject": "UULTUR NUR",
+      "predicate": "inside",
+      "object": "outer orange circle",
+      "certainty": "medium",
+      "evidence": "A wedge-shaped sector at the upper left. It contains red text in two rotated lines, \"UULTUR\" and \"NUR\".",
+      "updated_at": ""
+    },
+    {
+      "id": 27,
+      "relation_type": "text_shape",
+      "subject": "apolio tes",
+      "predicate": "inside",
+      "object": "SUBSOLANOS",
+      "certainty": "medium",
+      "evidence": "Black text in two lines, \"apolio\" and \"tes\", written within the same sector, inward of the red text and rotated.",
+      "updated_at": ""
+    },
+    {
+      "id": 28,
+      "relation_type": "text_shape",
+      "subject": "eurus (inner black text)",
+      "predicate": "inside",
+      "object": "EURUS",
+      "certainty": "high",
+      "evidence": "Black text \"eurus\" written horizontally within the sector, below the red text.",
+      "updated_at": ""
+    },
+    {
+      "id": 29,
+      "relation_type": "text_shape",
+      "subject": "euro non",
+      "predicate": "inside",
+      "object": "EURO AUSTER",
+      "certainty": "low",
+      "evidence": "Black rotated text in two lines, read as \"euro\" and \"non\" (or \"nou\"). It lies within the sector, inward of the red text. The reading is uncertain.",
+      "updated_at": ""
+    },
+    {
+      "id": 30,
+      "relation_type": "text_shape",
+      "subject": "nonus",
+      "predicate": "inside",
+      "object": "AUSTER",
+      "certainty": "low",
+      "evidence": "Black rotated text, read as \"nonus\", within the sector, inward of the red text.",
+      "updated_at": ""
+    },
+    {
+      "id": 31,
+      "relation_type": "text_shape",
+      "subject": "erus",
+      "predicate": "inside",
+      "object": "AUSTER",
+      "certainty": "medium",
+      "evidence": "Small black text \"erus\" written horizontally within the same sector, next to the central circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 32,
+      "relation_type": "text_shape",
+      "subject": "liborus",
+      "predicate": "inside",
+      "object": "AUSTROAFRICUS",
+      "certainty": "low",
+      "evidence": "Black rotated text in two lines, read as \"libor\" and \"us\", within the sector.",
+      "updated_at": ""
+    },
+    {
+      "id": 33,
+      "relation_type": "text_shape",
+      "subject": "lips",
+      "predicate": "inside",
+      "object": "AFRICUS",
+      "certainty": "medium",
+      "evidence": "Black upside-down text \"lips\" within the sector.",
+      "updated_at": ""
+    },
+    {
+      "id": 34,
+      "relation_type": "text_shape",
+      "subject": "zephirus",
+      "predicate": "inside",
+      "object": "FABONIUS",
+      "certainty": "medium",
+      "evidence": "Black upside-down text in two lines, \"zephi\" and \"rus\", within the sector.",
+      "updated_at": ""
+    },
+    {
+      "id": 35,
+      "relation_type": "text_shape",
+      "subject": "arger ir",
+      "predicate": "inside",
+      "object": "CHORUS",
+      "certainty": "low",
+      "evidence": "Black upside-down text in two lines, read as \"arger\" and \"ir\", within the sector. The reading is uncertain.",
+      "updated_at": ""
+    },
+    {
+      "id": 36,
+      "relation_type": "text_shape",
+      "subject": "marci ur",
+      "predicate": "inside",
+      "object": "CIRCIUS",
+      "certainty": "low",
+      "evidence": "Black upside-down text in two lines, read as \"marci\" and \"ur\", within the sector.",
+      "updated_at": ""
+    },
+    {
+      "id": 37,
+      "relation_type": "text_shape",
+      "subject": "apar cias",
+      "predicate": "inside",
+      "object": "SERTENTRIO",
+      "certainty": "medium",
+      "evidence": "Black rotated text in two lines, \"apar\" and \"cias\", within the sector, inward of the red text.",
+      "updated_at": ""
+    },
+    {
+      "id": 38,
+      "relation_type": "text_shape",
+      "subject": "bore as",
+      "predicate": "inside",
+      "object": "AQUILO",
+      "certainty": "medium",
+      "evidence": "Black rotated text in two lines, \"bore\" and \"as\", within the sector.",
+      "updated_at": ""
+    },
+    {
+      "id": 39,
+      "relation_type": "text_shape",
+      "subject": "cecias",
+      "predicate": "inside",
+      "object": "UULTUR NUR",
+      "certainty": "low",
+      "evidence": "Black rotated text in two lines, read as \"cecl\" and \"as\" (probably \"cecias\"), within the sector, inward of the red text.",
+      "updated_at": ""
+    }
+  ],
+  "interpretation": [
+    {
+      "diagram_classification": "cosmological / meteorological diagram: wind rose (twelve winds) arranged around a central human head, in the tradition of the medieval 'wind wheel' or 'head of the world' (microcosm-macrocosm) diagrams",
+      "interpretation": "The diagram is a twelve-part wind rose. A circle divided into twelve radial sectors lists the winds in red, each with a second name in black (in most cases the Greek name of the same wind). Red names read: SUBSOLANOS (east), EURUS, EURO AUSTER, AUSTER, AUSTRO AFRICUS, AFRICUS, FABONIUS, CHORUS, CIRCIUS, SERTENTRIO/SEPTENTRIO and AQUILO, UULTURNUS. Black names read: apoliotes (for the east wind), eurus, euronotus (read in Step 1 as \"euro non\"), notus, libonotus (read as \"liborus\"), lips, zephyrus, argestes (read as \"arger ir\"), thrascias (read as \"marci ur\"), aparctias (read as \"apar cias\"), boreas (read as \"bore as\"), caecias (read as \"cecias\"). This is the dodecapartite system of winds known from Isidore of Seville (De natura rerum, Etymologiae XIII) and Bede, with Latin and Greek names paired. The head in the central ring is a human head in profile with a cap-like covering, placed where the diagram's axis meets. It probably stands for the world or the human being at the centre of the winds, in the microcosm/macrocosm tradition, or it may be a simple ornamental central face. The twelve knot-ornament triangles at the ends of the radial lines mark the twelve wind directions on the rim. The framing orange ring closes the circle of the horizon or of the world. The Insular-style interlace suggests a manuscript from the Insular or Carolingian milieu.",
+      "basis": "textual",
+      "certainty": "medium",
+      "evidence": "Textual: the transcribed names SUBSOLANOS, EURUS, AUSTER, AFRICUS, FABONIUS, CHORUS, CIRCIUS, AQUILO, UULTURNUS, together with the black Greek-derived names (apolio tes, eurus, lips, zephi rus, bore as), are standard wind names. Visible: twelve radial lines and twelve knot triangles give a twelve-fold division, and the central ring holds a head in profile. External: wind diagrams in the Isidorian and Bedan tradition use the twelve-wind scheme with Latin and Greek pairs, and some pair the winds with a human figure or head as a microcosm. Problems with Step 1: several black readings are uncertain and probably garbled (\"euro non\", \"liborus\", \"arger ir\", \"marci ur\", \"apar cias\", \"cecias\"). Step 1 also gave the red labels some questionable divisions, e.g. \"AUSTER\" for the sector near the right-hand horizontal, \"CIRCIUS\" as low certainty, and \"SERTENTRIO\" and \"AQUILO\" as separate sectors where the red text partly runs across sector boundaries. Step 1 also treated the red and black texts as 'inside' the sectors by naming the sectors after the red text. The identification of the head and the exact assignment of names to compass directions are not certain."
+    },
+    {
+      "diagram_classification": "cosmological / geographical (orientation scheme)",
+      "interpretation": "The circular layout with a central point and radial divisions expresses the twelve directions of the horizon around an observer or around the world. The knot triangles on the rim function as directional markers, with the four yellow ones (top, bottom, left, right) probably marking the four cardinal directions and the eight blue-grey ones marking the intermediate winds. The colour distinction supports a hierarchy of four principal winds and eight secondary winds, as in the Isidorian scheme.",
+      "basis": "visual",
+      "certainty": "medium",
+      "evidence": "Visible: four yellow knot triangles at top, bottom, left and right, and eight blue-grey knot triangles at intermediate positions, are recorded in Step 1 entries 3 to 14. External: the four-plus-eight arrangement matches the way the twelve-wind system is built around four principal winds. The exact direction assigned to each wind is not stated in the diagram, so the cardinal reading is an inference; the orientation (which side is east) is not marked."
+    }
+  ]
+}

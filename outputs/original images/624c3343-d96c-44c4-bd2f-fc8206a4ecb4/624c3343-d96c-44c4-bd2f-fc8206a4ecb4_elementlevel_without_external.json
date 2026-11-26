@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometric",
+    "subject": "green outer square frame",
+    "predicate": "contains",
+    "object": "orange diamond-shaped quadrilateral",
+    "certainty": "high",
+    "evidence": "A green rectangular band with a dark outline surrounds the orange tilted square, whose four corner circles touch or overlap the green frame. Small forked marks appear at the four outer corners of the frame.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "text_shape",
+    "subject": "E AUS R",
+    "predicate": "inside",
+    "object": "top circle with orange ring",
+    "certainty": "high",
+    "evidence": "The letters E, AUS and R are arranged in three lines inside the circle at the top centre, which has an orange ring around a pale interior.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "text_shape",
+    "subject": "H ORIE S",
+    "predicate": "inside",
+    "object": "left circle with orange ring",
+    "certainty": "high",
+    "evidence": "The letters H, ORIE and S are stacked in three lines inside the circle at the left, which has an orange ring around a pale interior.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "text_shape",
+    "subject": "DE OCCL NS",
+    "predicate": "inside",
+    "object": "right circle with orange ring",
+    "certainty": "medium",
+    "evidence": "The letters are written rotated, in vertical lines, inside the circle at the right. The reading 'DE OCCLNS' is approximate because of the rotation and the abbreviation.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "text_shape",
+    "subject": "L AQUI O",
+    "predicate": "inside",
+    "object": "bottom circle with orange ring",
+    "certainty": "high",
+    "evidence": "The letters L, AQUI and O are arranged in three lines inside the circle at the bottom centre, which has an orange ring around a pale interior.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "geometric",
+    "subject": "E AUS R",
+    "predicate": "connected_to",
+    "object": "H ORIE S",
+    "certainty": "high",
+    "evidence": "A wide orange band runs diagonally from the top circle down to the left circle. It carries the text 'VER CALIDVM ET HVMIDVM' along its length, reading upward to the right.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "geometric",
+    "subject": "E AUS R",
+    "predicate": "connected_to",
+    "object": "DE OCCL NS",
+    "certainty": "high",
+    "evidence": "A wide orange band runs diagonally from the top circle down to the right circle. It carries the text 'AESTAS CALIDA SICCA' along its length, reading downward to the right.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "geometric",
+    "subject": "H ORIE S",
+    "predicate": "connected_to",
+    "object": "L AQUI O",
+    "certainty": "high",
+    "evidence": "A wide orange band runs diagonally from the left circle down to the bottom circle. It carries the text 'HIEMS FRIGIDVS HVMIDVS', written upside down along its length.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "geometric",
+    "subject": "DE OCCL NS",
+    "predicate": "connected_to",
+    "object": "L AQUI O",
+    "certainty": "high",
+    "evidence": "A wide orange band runs diagonally from the right circle down to the bottom circle. It carries the text 'AVTVMNVS SICCVS FRIGIDVS', written upside down along its length.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "text_shape",
+    "subject": "IGNIS",
+    "predicate": "inside",
+    "object": "dark red circle with grid pattern",
+    "certainty": "high",
+    "evidence": "The word IGNIS is written in dark ink over a dark red circle at the top left, which is filled with a grid of thin lines.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "text_shape",
+    "subject": "AER",
+    "predicate": "inside",
+    "object": "pale green circle at top right",
+    "certainty": "high",
+    "evidence": "The word AER is written inside a pale green circle at the top right.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "text_shape",
+    "subject": "TERRA",
+    "predicate": "inside",
+    "object": "dark grey-black circle",
+    "certainty": "high",
+    "evidence": "The word TERRA is written in red letters over a dark grey-black circle at the bottom left.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 13,
+    "relation_type": "text_shape",
+    "subject": "AQUA",
+    "predicate": "inside",
+    "object": "green circle at bottom right",
+    "certainty": "high",
+    "evidence": "The word AQUA is written inside a green circle at the bottom right.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 14,
+    "relation_type": "geometric",
+    "subject": "dark red circle with grid pattern",
+    "predicate": "inside",
+    "object": "orange diamond-shaped quadrilateral",
+    "certainty": "low",
+    "evidence": "The circle sits in the top left corner area between the green frame and the diamond's upper left band. It lies outside the diamond, so 'inside' is not accurate. It is inside the inner rectangle bounded by the green frame, and 'inside' is the closest allowed predicate.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 15,
+    "relation_type": "text_shape",
+    "subject": "CALIDVS (top left)",
+    "predicate": "above",
+    "object": "SICCVS",
+    "certainty": "medium",
+    "evidence": "The red word 'CALIDVS' appears at the upper left, to the right of the dark red circle. The word 'SICCVS' appears lower down on the left edge.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 16,
+    "relation_type": "text_shape",
+    "subject": "CALIDVS (top right)",
+    "predicate": "above",
+    "object": "VMIDVS",
+    "certainty": "medium",
+    "evidence": "The red word 'CALIDVS' appears at the upper right, to the left of the pale green AER circle. The word 'VMIDVS' appears lower down on the right edge.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 17,
+    "relation_type": "text_shape",
+    "subject": "SICCA (bottom left)",
+    "predicate": "above",
+    "object": "FRIGIDA (bottom left)",
+    "certainty": "medium",
+    "evidence": "The word 'SICCA' sits to the upper right of the dark TERRA circle. The word 'FRIGIDA' sits below it, at the lower right of that circle.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 18,
+    "relation_type": "text_shape",
+    "subject": "HVMIDA",
+    "predicate": "above",
+    "object": "FRIGIDA (bottom right)",
+    "certainty": "medium",
+    "evidence": "The word 'HVMIDA' sits at the right, above the AQUA circle. The word 'FRIGIDA' sits to the left of the circle, lower down.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 19,
+    "relation_type": "text_shape",
+    "subject": "ASIA",
+    "predicate": "inside",
+    "object": "orange diamond-shaped quadrilateral",
+    "certainty": "high",
+    "evidence": "The word 'ASIA' is written in red in the left-hand upper part of the interior of the diamond, to the left of the vertical line.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 20,
+    "relation_type": "text_shape",
+    "subject": "AFRICA",
+    "predicate": "inside",
+    "object": "orange diamond-shaped quadrilateral",
+    "certainty": "high",
+    "evidence": "The word 'AFRICA' is written in red in the right-hand upper part of the interior of the diamond, to the right of the vertical line.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 21,
+    "relation_type": "text_shape",
+    "subject": "EVROPA",
+    "predicate": "inside",
+    "object": "orange diamond-shaped quadrilateral",
+    "certainty": "high",
+    "evidence": "The word 'EVROPA' is written in red in the lower part of the diamond's interior, below the horizontal line.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 22,
+    "relation_type": "geometric",
+    "subject": "E AUS R",
+    "predicate": "connected_to",
+    "object": "horizontal thin line inside the diamond",
+    "certainty": "medium",
+    "evidence": "A thin dark vertical line runs from the bottom of the top circle straight down through the diamond's interior. It meets a thin horizontal line, which spans the diamond from the left band to the right band, at a T-junction. The vertical line therefore divides the upper area into left and right sections, labelled ASIA and AFRICA, above the horizontal line.",
+    "updated_at": "2026-11-18T13:11Z"
+  },
+  {
+    "id": 23,
+    "relation_type": "geometric",
+    "subject": "ASIA",
+    "predicate": "above",
+    "object": "EVROPA",
+    "certainty": "medium",
+    "evidence": "The ASIA section lies above the horizontal line and EVROPA lies below it, in the lower part of the diamond.",
+    "updated_at": "2026-11-18T13:11Z"
+  }
+]

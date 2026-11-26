@@ -1,0 +1,284 @@
+{
+  "element_analysis": [
+    {
+      "id": 1,
+      "relation_type": "text_shape",
+      "subject": "[illegible] flante [illegible] (top text line)",
+      "predicate": "above",
+      "object": "outer orange circle",
+      "certainty": "low",
+      "evidence": "A single line of cropped, partly legible script runs along the top edge of the image. It touches or overlaps the upper rim of the outer orange circle. Only the word \"flante\" is reasonably readable; the rest is [illegible]. The text is not inside the circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 2,
+      "relation_type": "geometric",
+      "subject": "central circle",
+      "predicate": "inside",
+      "object": "outer orange circle",
+      "certainty": "high",
+      "evidence": "A small circle with a yellow and blue double ring sits at the centre of the large orange circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 3,
+      "relation_type": "figurative",
+      "subject": "head in profile",
+      "predicate": "inside",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "A head and neck in profile facing right, with a cap-like or hair-like coloured outline, a collar band and a red triangular mark on the face, is enclosed by the central circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 4,
+      "relation_type": "geometric",
+      "subject": "blue triangle (11 o'clock)",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "A thin brown straight line runs from the central circle to the upper left triangle, which is blue with a knot-like interlace pattern.",
+      "updated_at": ""
+    },
+    {
+      "id": 5,
+      "relation_type": "geometric",
+      "subject": "blue triangle (11 o'clock)",
+      "predicate": "inside",
+      "object": "outer orange circle",
+      "certainty": "medium",
+      "evidence": "The triangle lies against the inner edge of the outer circle at the upper left.",
+      "updated_at": ""
+    },
+    {
+      "id": 6,
+      "relation_type": "geometric",
+      "subject": "yellow triangle (12 o'clock)",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "A thin, nearly vertical brown line runs from the central circle up to the top triangle, which is yellow with an interlace pattern.",
+      "updated_at": ""
+    },
+    {
+      "id": 7,
+      "relation_type": "geometric",
+      "subject": "yellow triangle (12 o'clock)",
+      "predicate": "inside",
+      "object": "outer orange circle",
+      "certainty": "medium",
+      "evidence": "The triangle lies against the inner edge of the outer circle at the top.",
+      "updated_at": ""
+    },
+    {
+      "id": 8,
+      "relation_type": "geometric",
+      "subject": "blue triangle (1 o'clock)",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "A thin brown straight line runs diagonally from the central circle to the upper right blue triangle with interlace.",
+      "updated_at": ""
+    },
+    {
+      "id": 9,
+      "relation_type": "geometric",
+      "subject": "blue triangle (1 o'clock)",
+      "predicate": "inside",
+      "object": "outer orange circle",
+      "certainty": "medium",
+      "evidence": "The triangle lies against the inner edge of the outer circle at the upper right.",
+      "updated_at": ""
+    },
+    {
+      "id": 10,
+      "relation_type": "geometric",
+      "subject": "blue triangle (10 o'clock)",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "A thin brown straight line runs from the central circle to the blue triangle with interlace at the left, slightly above the horizontal.",
+      "updated_at": ""
+    },
+    {
+      "id": 11,
+      "relation_type": "geometric",
+      "subject": "blue triangle (10 o'clock)",
+      "predicate": "inside",
+      "object": "outer orange circle",
+      "certainty": "medium",
+      "evidence": "The triangle lies against the inner edge of the outer circle at the upper left.",
+      "updated_at": ""
+    },
+    {
+      "id": 12,
+      "relation_type": "geometric",
+      "subject": "blue triangle (2 o'clock)",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "A thin brown straight line runs from the central circle to the blue triangle with interlace at the right, slightly above the horizontal.",
+      "updated_at": ""
+    },
+    {
+      "id": 13,
+      "relation_type": "geometric",
+      "subject": "blue triangle (2 o'clock)",
+      "predicate": "inside",
+      "object": "outer orange circle",
+      "certainty": "medium",
+      "evidence": "The triangle lies against the inner edge of the outer circle at the upper right.",
+      "updated_at": ""
+    },
+    {
+      "id": 14,
+      "relation_type": "geometric",
+      "subject": "yellow triangle (9 o'clock)",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "A thin horizontal brown line runs from the left side of the central circle to the yellow triangle with interlace at the left.",
+      "updated_at": ""
+    },
+    {
+      "id": 15,
+      "relation_type": "geometric",
+      "subject": "yellow triangle (9 o'clock)",
+      "predicate": "inside",
+      "object": "outer orange circle",
+      "certainty": "medium",
+      "evidence": "The triangle lies against the inner edge of the outer circle at the left.",
+      "updated_at": ""
+    },
+    {
+      "id": 16,
+      "relation_type": "geometric",
+      "subject": "yellow triangle (3 o'clock)",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "A thin horizontal brown line runs from the right side of the central circle to the yellow triangle with interlace at the right.",
+      "updated_at": ""
+    },
+    {
+      "id": 17,
+      "relation_type": "geometric",
+      "subject": "yellow triangle (3 o'clock)",
+      "predicate": "inside",
+      "object": "outer orange circle",
+      "certainty": "medium",
+      "evidence": "The triangle lies against the inner edge of the outer circle at the right.",
+      "updated_at": ""
+    },
+    {
+      "id": 18,
+      "relation_type": "geometric",
+      "subject": "blue triangle (8 o'clock)",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "A thin brown straight line runs from the central circle down to the lower left blue triangle with interlace.",
+      "updated_at": ""
+    },
+    {
+      "id": 19,
+      "relation_type": "geometric",
+      "subject": "blue triangle (8 o'clock)",
+      "predicate": "inside",
+      "object": "outer orange circle",
+      "certainty": "medium",
+      "evidence": "The triangle lies against the inner edge of the outer circle at the lower left.",
+      "updated_at": ""
+    },
+    {
+      "id": 20,
+      "relation_type": "geometric",
+      "subject": "blue triangle (4 o'clock)",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "A thin brown straight line runs from the central circle down to the lower right blue triangle with interlace.",
+      "updated_at": ""
+    },
+    {
+      "id": 21,
+      "relation_type": "geometric",
+      "subject": "blue triangle (4 o'clock)",
+      "predicate": "inside",
+      "object": "outer orange circle",
+      "certainty": "medium",
+      "evidence": "The triangle lies against the inner edge of the outer circle at the lower right.",
+      "updated_at": ""
+    },
+    {
+      "id": 22,
+      "relation_type": "geometric",
+      "subject": "blue triangle (7 o'clock)",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "A thin brown straight line runs from the central circle to the blue triangle with interlace at the bottom left.",
+      "updated_at": ""
+    },
+    {
+      "id": 23,
+      "relation_type": "geometric",
+      "subject": "blue triangle (7 o'clock)",
+      "predicate": "inside",
+      "object": "outer orange circle",
+      "certainty": "medium",
+      "evidence": "The triangle lies against the inner edge of the outer circle at the lower left.",
+      "updated_at": ""
+    },
+    {
+      "id": 24,
+      "relation_type": "geometric",
+      "subject": "blue triangle (5 o'clock)",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "A thin brown straight line runs from the central circle to the blue triangle with interlace at the bottom right.",
+      "updated_at": ""
+    },
+    {
+      "id": 25,
+      "relation_type": "geometric",
+      "subject": "blue triangle (5 o'clock)",
+      "predicate": "inside",
+      "object": "outer orange circle",
+      "certainty": "medium",
+      "evidence": "The triangle lies against the inner edge of the outer circle at the lower right.",
+      "updated_at": ""
+    },
+    {
+      "id": 26,
+      "relation_type": "geometric",
+      "subject": "yellow triangle (6 o'clock)",
+      "predicate": "connected_to",
+      "object": "central circle",
+      "certainty": "high",
+      "evidence": "A thin, nearly vertical brown line runs from the bottom of the central circle down to the yellow triangle with interlace at the bottom.",
+      "updated_at": ""
+    },
+    {
+      "id": 27,
+      "relation_type": "geometric",
+      "subject": "yellow triangle (6 o'clock)",
+      "predicate": "inside",
+      "object": "outer orange circle",
+      "certainty": "medium",
+      "evidence": "The triangle lies against the inner edge of the outer circle at the bottom.",
+      "updated_at": ""
+    }
+  ],
+  "interpretation": [
+    {
+      "diagram_classification": "cosmological (wind rose / anthropocosmic diagram)",
+      "interpretation": "The diagram appears to show a human head in profile at the centre of a circle (a microcosm figure) from which twelve rays extend to twelve interlace-decorated triangles on the rim. This arrangement is most likely a schematic of the twelve winds, or twelve directional points, arranged around the circle of the world or of the cosmos, with the human head at the centre. The colours alternate in a pattern, yellow at the four cardinal positions (top, bottom, left, right) and blue at the other eight. This suggests a distinction between principal and secondary winds or directions. The cropped text above the circle, in which only \"flante\" is legible, would fit a nearby passage on blowing or breath (spiritus/flatus), which supports a wind reading. The link between the central head and the winds could express the idea of the human being as a microcosm that corresponds to the structure of the cosmos. The text is too fragmentary to confirm this reading.",
+      "basis": "visual",
+      "certainty": "low",
+      "evidence": "The layout is a central circle with twelve radiating lines ending in triangles on the outer circle, which is a common wind-rose or twelve-part scheme. The four yellow triangles sit at the cardinal points and the eight blue triangles sit between them. Step 1 recorded only a fragmentary, partly illegible text (\"flante\") that is cropped and not part of the diagram proper, so the textual support is weak. The diagram carries no labels naming the winds, directions or head, so the identification of the triangles as winds, and of the head as a microcosm or a specific figure, rests on a general diagrammatic tradition and is not confirmed by the diagram itself. Step 1 also did not record the exact position of the text relative to the circle, and its \"above\" relation to the outer circle is uncertain. The 'twelve' count and the cardinal/intercardinal colour pattern are visible in Step 1 entries.",
+      "updated_at": ""
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "element_analysis": [
+    {
+      "id": 1,
+      "relation_type": "geometric",
+      "subject": "humi dus (upper circle)",
+      "predicate": "inside",
+      "object": "outer circular band",
+      "certainty": "high",
+      "evidence": "Text \"humi\" over \"dus\" is written in the upper left lens-shaped area, which lies within the large outer yellow ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 2,
+      "relation_type": "text_shape",
+      "subject": "humi dus (upper circle)",
+      "predicate": "connected_to",
+      "object": "uer o ri eng",
+      "certainty": "medium",
+      "evidence": "The two areas are separated by and joined along a curved reddish-brown band running from the top downward, slightly right of the centre of the upper circle. \"humi\" and \"dus\" lie to its left, and \"uer\", \"o\", \"ri\", \"eng\" lie to its right.",
+      "updated_at": ""
+    },
+    {
+      "id": 3,
+      "relation_type": "geometric",
+      "subject": "uer o ri eng",
+      "predicate": "inside",
+      "object": "outer circular band",
+      "certainty": "high",
+      "evidence": "Text stacked vertically (\"uer\", \"o\", \"ri\", \"eng\") in the upper area, within the large outer ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 4,
+      "relation_type": "text_shape",
+      "subject": "uer o ri eng",
+      "predicate": "connected_to",
+      "object": "cali dus",
+      "certainty": "medium",
+      "evidence": "The two areas are separated by and joined along a curved green band running from the upper right down to the lower centre. \"uer o ri eng\" lies to its left, and \"cali\" over \"dus\" lies to its right.",
+      "updated_at": ""
+    },
+    {
+      "id": 5,
+      "relation_type": "geometric",
+      "subject": "cali dus",
+      "predicate": "inside",
+      "object": "outer circular band",
+      "certainty": "high",
+      "evidence": "Text \"cali\" over \"dus\" is written in the upper right area, within the large outer ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 6,
+      "relation_type": "geometric",
+      "subject": "humi dus (left circle)",
+      "predicate": "inside",
+      "object": "outer circular band",
+      "certainty": "high",
+      "evidence": "Text \"humi\" and \"dus\" is written rotated, in the upper left lens-shaped area, within the large outer ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 7,
+      "relation_type": "text_shape",
+      "subject": "humi dus (left circle)",
+      "predicate": "connected_to",
+      "object": "hiems",
+      "certainty": "medium",
+      "evidence": "A curved reddish-brown band runs across the left circle from upper left to lower centre, separating the area with \"humi dus\" from the area with the rotated text \"hiems\".",
+      "updated_at": ""
+    },
+    {
+      "id": 8,
+      "relation_type": "geometric",
+      "subject": "hiems",
+      "predicate": "inside",
+      "object": "outer circular band",
+      "certainty": "high",
+      "evidence": "Rotated text \"hiems\" is written in the left area, within the large outer ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 9,
+      "relation_type": "geometric",
+      "subject": "sep ten",
+      "predicate": "inside",
+      "object": "outer circular band",
+      "certainty": "medium",
+      "evidence": "Rotated text \"sep\" and \"ten\" stands in a column to the right of \"hiems\", within the outer ring. Reading uncertain.",
+      "updated_at": ""
+    },
+    {
+      "id": 10,
+      "relation_type": "geometric",
+      "subject": "[illegible] (left circle)",
+      "predicate": "inside",
+      "object": "outer circular band",
+      "certainty": "low",
+      "evidence": "A rotated group of letters, not clearly legible, stands to the right of \"sep ten\" in the left area, within the outer ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 11,
+      "relation_type": "text_shape",
+      "subject": "hiems",
+      "predicate": "connected_to",
+      "object": "frigi dus (left circle)",
+      "certainty": "medium",
+      "evidence": "A curved reddish-brown band arcs from the left edge of the outer ring toward the lower centre, separating the area with \"hiems\" from the lower left area with \"frigi dus\".",
+      "updated_at": ""
+    },
+    {
+      "id": 12,
+      "relation_type": "geometric",
+      "subject": "frigi dus (left circle)",
+      "predicate": "inside",
+      "object": "outer circular band",
+      "certainty": "high",
+      "evidence": "Rotated text \"frigi\" and \"dus\" is written in the lower left lens-shaped area, within the large outer ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 13,
+      "relation_type": "text_shape",
+      "subject": "ANNVS",
+      "predicate": "inside",
+      "object": "outer circular band",
+      "certainty": "high",
+      "evidence": "Free-standing large capital text \"ANNVS\" (with a small \"s\" inside the last V) written in the centre of the diagram, within the outer ring and not on any band.",
+      "updated_at": ""
+    },
+    {
+      "id": 14,
+      "relation_type": "geometric",
+      "subject": "caludus",
+      "predicate": "inside",
+      "object": "outer circular band",
+      "certainty": "high",
+      "evidence": "Rotated text \"caludus\" is written along the right-hand area, within the large outer ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 15,
+      "relation_type": "text_shape",
+      "subject": "caludus",
+      "predicate": "connected_to",
+      "object": "eſtas",
+      "certainty": "medium",
+      "evidence": "A curved green band sweeps from the upper centre to the right edge, separating the area with \"caludus\" from the area below with \"eſtas\", \"me ri\" and \"dies\".",
+      "updated_at": ""
+    },
+    {
+      "id": 16,
+      "relation_type": "geometric",
+      "subject": "eſtas",
+      "predicate": "inside",
+      "object": "outer circular band",
+      "certainty": "high",
+      "evidence": "Rotated text \"eſtas\" is written near the right edge, within the outer ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 17,
+      "relation_type": "geometric",
+      "subject": "me ri",
+      "predicate": "inside",
+      "object": "outer circular band",
+      "certainty": "high",
+      "evidence": "Rotated text \"me\" over \"ri\" is written in a column below \"eſtas\", within the outer ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 18,
+      "relation_type": "geometric",
+      "subject": "dies",
+      "predicate": "inside",
+      "object": "outer circular band",
+      "certainty": "high",
+      "evidence": "Rotated text \"dies\" is written to the left of \"me ri\", within the outer ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 19,
+      "relation_type": "text_shape",
+      "subject": "eſtas",
+      "predicate": "connected_to",
+      "object": "ſiccus (right circle)",
+      "certainty": "medium",
+      "evidence": "A curved yellow band crosses from the centre-left to the right edge below \"dies\" and \"me ri\", separating that area from the lower right area with rotated \"ſiccus\".",
+      "updated_at": ""
+    },
+    {
+      "id": 20,
+      "relation_type": "geometric",
+      "subject": "ſiccus (right circle)",
+      "predicate": "inside",
+      "object": "outer circular band",
+      "certainty": "high",
+      "evidence": "Rotated text \"ſiccus\" is written in the lower right area, within the large outer ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 21,
+      "relation_type": "geometric",
+      "subject": "autum nus",
+      "predicate": "inside",
+      "object": "outer circular band",
+      "certainty": "high",
+      "evidence": "Upside-down text \"autum\" and \"nus\" is written in the lower middle area, within the outer ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 22,
+      "relation_type": "geometric",
+      "subject": "oc ci dens",
+      "predicate": "inside",
+      "object": "outer circular band",
+      "certainty": "medium",
+      "evidence": "Upside-down text stacked in a column (\"oc\", \"ci\", \"dens\") above \"autum nus\", within the outer ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 23,
+      "relation_type": "text_shape",
+      "subject": "autum nus",
+      "predicate": "connected_to",
+      "object": "ſiccus (lower circle)",
+      "certainty": "medium",
+      "evidence": "A curved yellow band running roughly vertically in the lower right separates the area with \"autum nus\" from the bottom right area with upside-down \"ſiccus\".",
+      "updated_at": ""
+    },
+    {
+      "id": 24,
+      "relation_type": "geometric",
+      "subject": "ſiccus (lower circle)",
+      "predicate": "inside",
+      "object": "outer circular band",
+      "certainty": "high",
+      "evidence": "Upside-down text \"ſiccus\" is written at the bottom right, within the outer ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 25,
+      "relation_type": "text_shape",
+      "subject": "autum nus",
+      "predicate": "connected_to",
+      "object": "frigi dus (lower circle)",
+      "certainty": "medium",
+      "evidence": "A curved reddish-brown band running from the upper centre down to the bottom left separates the area with \"autum nus\" from the left area with upside-down \"frigi dus\".",
+      "updated_at": ""
+    },
+    {
+      "id": 26,
+      "relation_type": "geometric",
+      "subject": "frigi dus (lower circle)",
+      "predicate": "inside",
+      "object": "outer circular band",
+      "certainty": "high",
+      "evidence": "Upside-down text \"frigi\" and \"dus\" is written at the bottom left, within the outer ring.",
+      "updated_at": ""
+    }
+  ],
+  "interpretation": [
+    {
+      "diagram_classification": "cosmological / computistic diagram of the year, the seasons and their qualities (a scheme of interlocking circles)",
+      "interpretation": "The diagram shows the year (\"ANNVS\", written in the centre) as a ring of overlapping arcs or lenses, each holding the name of a season and the qualities attached to it. Reading the labels: \"uer\" (ver, spring) is paired with \"humidus\" and \"calidus\" (moist and hot). \"eſtas\" (summer) is paired with \"calidus\" and \"ſiccus\" (hot and dry). \"autumnus\" is paired with \"ſiccus\" and \"frigidus\" (dry and cold). \"hiems\" (winter) is paired with \"frigidus\" and \"humidus\" (cold and moist). Each season therefore lies in the overlap of two adjacent qualities, and each quality is shared by two neighbouring seasons. This matches the medieval scheme in which the four seasons correspond to pairs of the four qualities (hot, cold, moist, dry). The Step 1 fragments \"o ri eng\", \"me ri dies\", \"oc ci dens\" and \"sep ten [tr]io\" can be read as the cardinal directions: oriens (east) with spring, meridies (south) with summer, occidens (west) with autumn, and septentrio (north) with winter. The diagram thus links year, seasons, qualities and directions, presumably the four elements and humours as well, although these are not named in the diagram. The qualities are placed in a cyclical order: humid and hot (spring), hot and dry (summer), dry and cold (autumn), cold and moist (winter). The arcs are coloured in yellow, brown-red and green, and the outer ring encloses the whole scheme as a unified year.",
+      "basis": "textual",
+      "certainty": "medium",
+      "evidence": "The transcribed labels \"uer\", \"eſtas\", \"autum nus\" and \"hiems\" are season names (spring, summer, autumn, winter) written in Latin, while \"humidus\", \"calidus\", \"ſiccus\" and \"frigidus\" are the standard Latin names of the qualities. The central \"ANNVS\" identifies the whole as the year. The fragments \"o ri eng\", \"me ri dies\", \"oc ci dens\" and \"sep ten\" match the syllables of oriens, meridies, occidens and septentrio, but they are split over several lines and some are hard to read; Step 1 entry 10 (illegible text near \"sep ten\") is probably the final syllable \"trio\", and the reading of entry 22 (\"oc ci dens\") is uncertain, so these directional readings are less secure. The Step 1 relations that use \"connected_to\" for bands separating areas are approximate, since the bands act as arc boundaries that overlap rather than as true connections. Step 1 is also missing a separate entry for the individual overlapping arcs. The pairing of seasons with qualities relies on the standard medieval tradition of such diagrams; no specific source is named because I am not certain of the exact text.",
+      "updated_at": ""
+    }
+  ]
+}

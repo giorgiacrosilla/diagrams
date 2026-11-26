@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "diagram_classification": "cosmological / astronomical (computistical-astrological): a lunar phase and moon-age diagram showing the Sun–Earth–Moon relationship",
+    "interpretation": "The diagram shows the Sun, the Moon and the Earth in a geocentric scheme. A small central disc, probably the Earth, is surrounded by a circle divided into about 30 radial sectors. These most likely stand for the days of the synodic month, or the Moon's age. A red-dotted ring and a graduated outer band probably mark the days and degrees of the lunar cycle. A radiant red Sun with a human face sits at the top, and red rays spread from it around the circle, showing that the Moon is lit by the Sun. Crescent Moons appear at the left and right edges, and a darker ringed disc with a faint face sits at the bottom. These probably show different phases: waxing and waning crescents at the sides, a full or new Moon at the bottom. The scheme would explain why the Moon's phases change as it moves round the Earth in relation to the Sun's position. The Moon may also be shown in the Sun's shadow, which would point to eclipses. The German text at the top, which seems to mention an hour (\"ein stund\") and a sphere (\"sper\"), suggests the diagram illustrates a passage about time or hours, perhaps in a vernacular astronomical or calendrical compendium. The small star-like figure at the left is uninterpreted.",
+    "basis": "visual",
+    "certainty": "medium",
+    "evidence": "Visible: a face-bearing Sun with red rays at the top; a central dark disc; a circle with about 30 radial lines; a ring of red dots; a graduated outer band; two crescent Moons at left and right; a ringed dark disc with a faint face at the bottom; German text above mentioning a stund (hour) and sper (sphere). External: medieval lunar phase and computus diagrams usually place the Sun, Moon and Earth in a geocentric order and divide the lunar month into about 29-30 days, and Sun and Moon are routinely drawn with faces. The reading of the bottom disc as a full or new Moon or an eclipse is an inference. The small star at the left is uninterpreted. The legibility of the text is limited, so the exact link to the passage is uncertain.",
+    "updated_at": "2026-11-18T11:34Z"
+  }
+]

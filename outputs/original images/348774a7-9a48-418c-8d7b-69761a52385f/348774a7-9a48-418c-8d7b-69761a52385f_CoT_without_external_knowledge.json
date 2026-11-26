@@ -1,0 +1,234 @@
+{
+  "element_analysis": [
+    {
+      "id": 1,
+      "relation_type": "geometric",
+      "subject": "outer circle",
+      "predicate": "contains",
+      "object": "MVNDVS. ANNVS. HOMO.",
+      "certainty": "high",
+      "evidence": "A large thin outer circle encloses a set of concentric interlaced bands, and the central circle sits at their middle.",
+      "updated_at": ""
+    },
+    {
+      "id": 2,
+      "relation_type": "text_shape",
+      "subject": "Sicca. (upper left)",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "high",
+      "evidence": "Text written in black on a curved band segment in the upper left of the outer ring, inside the outer circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 3,
+      "relation_type": "text_shape",
+      "subject": "Ignis",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "high",
+      "evidence": "Text written on a band segment at the top of the outer ring, inside the outer circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 4,
+      "relation_type": "text_shape",
+      "subject": "Calidus. (upper right)",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "high",
+      "evidence": "Text written on a curved band segment in the upper right of the outer ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 5,
+      "relation_type": "text_shape",
+      "subject": "Es tas",
+      "predicate": "connected_to",
+      "object": "Colera",
+      "certainty": "medium",
+      "evidence": "Short text \"Es / tas\" written in two lines on an inner band segment at the top, directly above the band segment bearing \"Colera\". The two bands touch and interlace.",
+      "updated_at": ""
+    },
+    {
+      "id": 6,
+      "relation_type": "text_shape",
+      "subject": "Ignis",
+      "predicate": "above",
+      "object": "Es tas",
+      "certainty": "medium",
+      "evidence": "The band segment with \"Ignis\" lies higher in the outer ring than the inner segment with \"Es tas\".",
+      "updated_at": ""
+    },
+    {
+      "id": 7,
+      "relation_type": "text_shape",
+      "subject": "Calidus. (right)",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "high",
+      "evidence": "Text written along a curved band segment on the right side of the outer ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 8,
+      "relation_type": "text_shape",
+      "subject": "Sicca. (left)",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "high",
+      "evidence": "Text written vertically along a curved band segment on the upper left side of the outer ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 9,
+      "relation_type": "text_shape",
+      "subject": "Colera",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "high",
+      "evidence": "Text written on an inner band segment below the top, inside the outer circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 10,
+      "relation_type": "text_shape",
+      "subject": "Aer",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "medium",
+      "evidence": "Text written on a band segment at the far right of the outer ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 11,
+      "relation_type": "text_shape",
+      "subject": "Ver",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "medium",
+      "evidence": "Short text written on an inner band segment on the right side.",
+      "updated_at": ""
+    },
+    {
+      "id": 12,
+      "relation_type": "text_shape",
+      "subject": "Sanguis",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "medium",
+      "evidence": "Text written along an inner band segment on the right side, left of \"Ver\".",
+      "updated_at": ""
+    },
+    {
+      "id": 13,
+      "relation_type": "text_shape",
+      "subject": "Melancolia",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "medium",
+      "evidence": "Text written along an inner band segment on the left side.",
+      "updated_at": ""
+    },
+    {
+      "id": 14,
+      "relation_type": "text_shape",
+      "subject": "Au tum [illegible]",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "low",
+      "evidence": "Short text in several lines on an inner band segment at the left; partly hard to read.",
+      "updated_at": ""
+    },
+    {
+      "id": 15,
+      "relation_type": "text_shape",
+      "subject": "Frigida (left)",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "high",
+      "evidence": "Text written vertically on a band segment at the left of the outer ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 16,
+      "relation_type": "text_shape",
+      "subject": "Humidus (right)",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "high",
+      "evidence": "Text written along a band segment on the lower right of the outer ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 17,
+      "relation_type": "text_shape",
+      "subject": "[illegible] (lower inner band)",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "low",
+      "evidence": "Small text on an inner band segment at the bottom, hard to read.",
+      "updated_at": ""
+    },
+    {
+      "id": 18,
+      "relation_type": "text_shape",
+      "subject": "Hi emf",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "low",
+      "evidence": "Short text written in two lines on an inner band segment at the bottom, below the center.",
+      "updated_at": ""
+    },
+    {
+      "id": 19,
+      "relation_type": "text_shape",
+      "subject": "Frigida (lower left)",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "high",
+      "evidence": "Text written along a curved band segment at the lower left of the outer ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 20,
+      "relation_type": "text_shape",
+      "subject": "Aqua",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "high",
+      "evidence": "Text written on a band segment at the bottom of the outer ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 21,
+      "relation_type": "text_shape",
+      "subject": "Humidus (lower right)",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "high",
+      "evidence": "Text written along a curved band segment at the bottom right of the outer ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 22,
+      "relation_type": "text_shape",
+      "subject": "MVNDVS. ANNVS. HOMO.",
+      "predicate": "inside",
+      "object": "outer circle",
+      "certainty": "high",
+      "evidence": "Three lines of text written inside the central circle, which is surrounded by concentric interlaced bands within the outer circle.",
+      "updated_at": ""
+    }
+  ],
+  "interpretation": [
+    {
+      "diagram_classification": "cosmological / natural-philosophical diagram (concentric scheme of correspondences between macrocosm, time and the human body: elements, seasons, qualities and humours)",
+      "interpretation": "The diagram is a medieval scheme of correspondences linking the world (mundus), the year (annus) and the human being (homo), the macrocosm-microcosm triad written in the central circle. Around this centre, interlaced concentric bands carry the four elements (Ignis, Aer, Aqua, and presumably Terra, which I could not read in Step 1), the four seasons (Aestas, Ver, Autumnus, Hiemps), the four elementary qualities (Calidus, Siccus/Sicca, Frigida, Humidus) and the four humours (Colera, Sanguis, Melancolia, Flegma). Each position joins an element with a season, a quality and a humour. At the top, Ignis, Aestas, Calidus, Sicca and Colera form the fire / summer / hot-dry / choler group. On the right, Aer, Ver, Calidus, Humidus and Sanguis form the air / spring / hot-moist / blood group. At the bottom, Aqua, Hiemps, Frigida, Humidus and a humour label form the water / winter / cold-moist group. On the left, Frigida, Sicca, Autumnus, Melancolia and a label for earth form the cold-dry group. The interlacing bands show that the qualities are shared between neighbouring elements, seasons and humours, so the whole forms a single cyclical system of harmony between cosmos, time and the human body.",
+      "basis": "textual",
+      "certainty": "medium",
+      "evidence": "The central text \"MVNDVS. ANNVS. HOMO.\" and the labels Ignis, Aqua, Colera, Sanguis, Melancolia, Ver, Aer, Calidus, Sicca, Frigida and Humidus match the standard fourfold scheme of elements, seasons, qualities and humours. Several Step 1 readings are uncertain and should be treated with caution. \"Au tum [illegible]\" (entry 14) probably reads Autumnus. \"Es tas\" (entry 5) is probably Aestas. The bottom label \"Hi emf\" (entry 18) probably reads Hiems. The illegible bottom label (entry 17) may be a humour such as Flegma. A left-hand label and a possible Terra label are not clearly recorded in Step 1. Step 1 also used 'inside outer circle' for almost every label, which gives little structural information. The exact assignment of qualities to each element is partly inferred from the standard scheme, because some of the labels are hard to read. The interlaced bands themselves give visual support for the idea of interconnection and cyclic order.",
+      "updated_at": ""
+    }
+  ]
+}

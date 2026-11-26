@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometric",
+    "subject": "top left circle",
+    "predicate": "connected_to",
+    "object": "top right circle",
+    "certainty": "high",
+    "evidence": "joined by a horizontal double-lined band along the top of the inverted triangle; no text is visible on it",
+    "updated_at": "2026-11-18T12:21Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "geometric",
+    "subject": "top left circle",
+    "predicate": "connected_to",
+    "object": "central circle",
+    "certainty": "high",
+    "evidence": "a double-lined band runs diagonally down and to the right from the top left circle to the central circle",
+    "updated_at": "2026-11-18T12:21Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "geometric",
+    "subject": "top right circle",
+    "predicate": "connected_to",
+    "object": "central circle",
+    "certainty": "high",
+    "evidence": "a double-lined band runs diagonally down and to the left from the top right circle to the central circle",
+    "updated_at": "2026-11-18T12:21Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "geometric",
+    "subject": "top left circle",
+    "predicate": "connected_to",
+    "object": "bottom circle",
+    "certainty": "high",
+    "evidence": "the left side of the inverted triangle is a double-lined band running from the top left circle down to the bottom apex, where the bottom circle sits",
+    "updated_at": "2026-11-18T12:21Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "geometric",
+    "subject": "top right circle",
+    "predicate": "connected_to",
+    "object": "bottom circle",
+    "certainty": "high",
+    "evidence": "the right side of the inverted triangle is a double-lined band running from the top right circle down to the bottom apex, where the bottom circle sits",
+    "updated_at": "2026-11-18T12:21Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "geometric",
+    "subject": "central circle",
+    "predicate": "connected_to",
+    "object": "bottom circle",
+    "certainty": "high",
+    "evidence": "a short vertical double-lined band descends from the central circle toward the bottom circle, passing behind the cross-shaped figure",
+    "updated_at": "2026-11-18T12:21Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "geometric",
+    "subject": "three outer circles and central circle",
+    "predicate": "inside",
+    "object": "inverted triangular frame",
+    "certainty": "medium",
+    "evidence": "the top left, top right and bottom circles sit at the three corners of the triangular band, and the central circle lies within it",
+    "updated_at": "2026-11-18T12:21Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "figurative",
+    "subject": "figure on a cross with outstretched arms",
+    "predicate": "below",
+    "object": "central circle",
+    "certainty": "high",
+    "evidence": "the cross-shaped figure is placed on the vertical band beneath the central circle, with arms spread horizontally",
+    "updated_at": "2026-11-18T12:21Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "figurative",
+    "subject": "figure on a cross with outstretched arms",
+    "predicate": "above",
+    "object": "bottom circle",
+    "certainty": "high",
+    "evidence": "the feet of the figure end just above the bottom circle, which touches or nearly touches it",
+    "updated_at": "2026-11-18T12:21Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "figurative",
+    "subject": "figure on a cross with outstretched arms",
+    "predicate": "inside",
+    "object": "inverted triangular frame",
+    "certainty": "high",
+    "evidence": "the figure lies on the central vertical axis between the two slanted sides of the triangle",
+    "updated_at": "2026-11-18T12:21Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "geometric",
+    "subject": "large faint circular pattern with smaller circles",
+    "predicate": "contains",
+    "object": "bottom circle",
+    "certainty": "low",
+    "evidence": "a faint, lighter circular design with interlocking small circles lies behind the lower part of the triangle and surrounds the bottom circle; it appears to be a different drawing showing through the page",
+    "updated_at": "2026-11-18T12:21Z"
+  }
+]

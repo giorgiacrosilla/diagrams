@@ -1,0 +1,351 @@
+{
+  "element_analysis": [
+    {
+      "id": 1,
+      "relation_type": "geometric",
+      "subject": "Y-shaped mark (upper left corner)",
+      "predicate": "connected_to",
+      "object": "green square frame",
+      "certainty": "medium",
+      "evidence": "Small red forked mark touching the outer upper left corner of the green square frame.",
+      "updated_at": ""
+    },
+    {
+      "id": 2,
+      "relation_type": "geometric",
+      "subject": "inner rectangle",
+      "predicate": "inside",
+      "object": "green square frame",
+      "certainty": "high",
+      "evidence": "A thin-lined rectangle runs along the inner edge of the broad green frame, which surrounds it on all four sides.",
+      "updated_at": ""
+    },
+    {
+      "id": 3,
+      "relation_type": "text_shape",
+      "subject": "E AUS R",
+      "predicate": "connected_to",
+      "object": "green square frame",
+      "certainty": "medium",
+      "evidence": "The circle labelled \"E AUS R\" (letters stacked: \"E\" at the top right, \"AUS\" in the middle, \"R\" below) sits on the middle of the top side of the green frame and interrupts it. It has a double red ring and a pale centre.",
+      "updated_at": ""
+    },
+    {
+      "id": 4,
+      "relation_type": "geometric",
+      "subject": "Y-shaped mark (upper right corner)",
+      "predicate": "connected_to",
+      "object": "green square frame",
+      "certainty": "medium",
+      "evidence": "Small red forked mark touching the outer upper right corner of the green square frame.",
+      "updated_at": ""
+    },
+    {
+      "id": 5,
+      "relation_type": "text_shape",
+      "subject": "IGNIS",
+      "predicate": "inside",
+      "object": "inner rectangle",
+      "certainty": "high",
+      "evidence": "Dark red circle with a grid of fine lines in the upper left of the inner rectangle. It contains the text \"IGNIS\".",
+      "updated_at": ""
+    },
+    {
+      "id": 6,
+      "relation_type": "text_shape",
+      "subject": "CALIDVS (upper left)",
+      "predicate": "above",
+      "object": "IGNIS",
+      "certainty": "low",
+      "evidence": "Free-standing red text at the upper right of the dark red circle, level with its top and slightly to the right. \"Above\" is only an approximation.",
+      "updated_at": ""
+    },
+    {
+      "id": 7,
+      "relation_type": "text_shape",
+      "subject": "AER",
+      "predicate": "inside",
+      "object": "inner rectangle",
+      "certainty": "high",
+      "evidence": "Pale green circle in the upper right of the inner rectangle. It contains the text \"AER\".",
+      "updated_at": ""
+    },
+    {
+      "id": 8,
+      "relation_type": "text_shape",
+      "subject": "CALIDVS (upper right)",
+      "predicate": "above",
+      "object": "AER",
+      "certainty": "low",
+      "evidence": "Free-standing red text at the upper left of the pale green circle, level with its top and slightly to the left. \"Above\" is only an approximation.",
+      "updated_at": ""
+    },
+    {
+      "id": 9,
+      "relation_type": "text_shape",
+      "subject": "E AUS R",
+      "predicate": "connected_to",
+      "object": "H ORIE S",
+      "certainty": "high",
+      "evidence": "Broad orange band running diagonally from the left circle (\"H ORIE S\", letters stacked: \"H\", \"ORIE\", \"S\") up to the top circle. The text \"VER CALIDVM ET HVMIDVM\" is written along the band, rising to the right.",
+      "updated_at": ""
+    },
+    {
+      "id": 10,
+      "relation_type": "text_shape",
+      "subject": "E AUS R",
+      "predicate": "connected_to",
+      "object": "OCCI NS DE",
+      "certainty": "high",
+      "evidence": "Broad orange band running diagonally from the top circle down to the right circle (text rotated, \"OCCI\" / \"NS\" / \"DE\"). The text \"AESTAS CALIDA SICCA\" is written along the band, descending to the right.",
+      "updated_at": ""
+    },
+    {
+      "id": 11,
+      "relation_type": "geometric",
+      "subject": "vertical line",
+      "predicate": "connected_to",
+      "object": "E AUS R",
+      "certainty": "high",
+      "evidence": "Thin red vertical line starting at the bottom of the top circle and running straight down to the horizontal line.",
+      "updated_at": ""
+    },
+    {
+      "id": 12,
+      "relation_type": "text_shape",
+      "subject": "SICCVS",
+      "predicate": "below",
+      "object": "IGNIS",
+      "certainty": "medium",
+      "evidence": "Free-standing red text lying below the lower left edge of the dark red circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 13,
+      "relation_type": "text_shape",
+      "subject": "VMIDVS",
+      "predicate": "below",
+      "object": "AER",
+      "certainty": "medium",
+      "evidence": "Free-standing red text lying below the lower right edge of the pale green circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 14,
+      "relation_type": "text_shape",
+      "subject": "ASIA",
+      "predicate": "above",
+      "object": "horizontal line",
+      "certainty": "medium",
+      "evidence": "Free-standing red text in the upper left interior area, to the left of the vertical line and above the horizontal line.",
+      "updated_at": ""
+    },
+    {
+      "id": 15,
+      "relation_type": "text_shape",
+      "subject": "AFRICA",
+      "predicate": "above",
+      "object": "horizontal line",
+      "certainty": "medium",
+      "evidence": "Free-standing red text in the upper right interior area, to the right of the vertical line and above the horizontal line.",
+      "updated_at": ""
+    },
+    {
+      "id": 16,
+      "relation_type": "geometric",
+      "subject": "vertical line",
+      "predicate": "connected_to",
+      "object": "horizontal line",
+      "certainty": "high",
+      "evidence": "The vertical line meets the horizontal line at a T-junction near the lower middle of the diamond.",
+      "updated_at": ""
+    },
+    {
+      "id": 17,
+      "relation_type": "text_shape",
+      "subject": "H ORIE S",
+      "predicate": "connected_to",
+      "object": "green square frame",
+      "certainty": "medium",
+      "evidence": "The left circle sits on the middle of the left side of the green frame and overlaps it.",
+      "updated_at": ""
+    },
+    {
+      "id": 18,
+      "relation_type": "text_shape",
+      "subject": "OCCI NS DE",
+      "predicate": "connected_to",
+      "object": "green square frame",
+      "certainty": "medium",
+      "evidence": "The right circle sits on the middle of the right side of the green frame and overlaps it.",
+      "updated_at": ""
+    },
+    {
+      "id": 19,
+      "relation_type": "geometric",
+      "subject": "horizontal line",
+      "predicate": "connected_to",
+      "object": "H ORIE S",
+      "certainty": "low",
+      "evidence": "The thin horizontal line runs from the lower left orange band to the lower right orange band. It touches the left band close to the left circle's band, so the link to the circle is indirect.",
+      "updated_at": ""
+    },
+    {
+      "id": 20,
+      "relation_type": "text_shape",
+      "subject": "EVROPA",
+      "predicate": "below",
+      "object": "horizontal line",
+      "certainty": "high",
+      "evidence": "Free-standing red text in the lower interior area, below the horizontal line.",
+      "updated_at": ""
+    },
+    {
+      "id": 21,
+      "relation_type": "text_shape",
+      "subject": "SICCA",
+      "predicate": "above",
+      "object": "TERRA",
+      "certainty": "medium",
+      "evidence": "Free-standing red text lying above the upper left part of the dark grey circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 22,
+      "relation_type": "text_shape",
+      "subject": "HVMIDA",
+      "predicate": "above",
+      "object": "AQUA",
+      "certainty": "medium",
+      "evidence": "Free-standing red text lying above the upper right part of the green circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 23,
+      "relation_type": "text_shape",
+      "subject": "TERRA",
+      "predicate": "inside",
+      "object": "inner rectangle",
+      "certainty": "high",
+      "evidence": "Dark grey mottled circle in the lower left of the inner rectangle. It contains the text \"TERRA\".",
+      "updated_at": ""
+    },
+    {
+      "id": 24,
+      "relation_type": "text_shape",
+      "subject": "AQUA",
+      "predicate": "inside",
+      "object": "inner rectangle",
+      "certainty": "high",
+      "evidence": "Green circle in the lower right of the inner rectangle. It contains the text \"AQUA\".",
+      "updated_at": ""
+    },
+    {
+      "id": 25,
+      "relation_type": "text_shape",
+      "subject": "H ORIE S",
+      "predicate": "connected_to",
+      "object": "L AQUI O",
+      "certainty": "high",
+      "evidence": "Broad orange band running diagonally from the left circle down to the bottom circle (\"L AQUI O\", letters stacked: \"L\", \"AQUI\", \"O\"). The text \"HIEMPS FRIGIDVS HVMIDVS\" is written along the band, upside down, descending to the right.",
+      "updated_at": ""
+    },
+    {
+      "id": 26,
+      "relation_type": "text_shape",
+      "subject": "OCCI NS DE",
+      "predicate": "connected_to",
+      "object": "L AQUI O",
+      "certainty": "high",
+      "evidence": "Broad orange band running diagonally from the bottom circle up to the right circle. The upside-down text \"AVTVMNVS SICCVS FRIGIDVS\" (first word hard to read) is written along the band, rising to the right.",
+      "updated_at": ""
+    },
+    {
+      "id": 27,
+      "relation_type": "text_shape",
+      "subject": "FRIGIDA (lower left)",
+      "predicate": "below",
+      "object": "TERRA",
+      "certainty": "low",
+      "evidence": "Free-standing red text at the lower right of the dark grey circle, level with its bottom edge. \"Below\" is only an approximation.",
+      "updated_at": ""
+    },
+    {
+      "id": 28,
+      "relation_type": "text_shape",
+      "subject": "FRIGIDA (lower right)",
+      "predicate": "below",
+      "object": "AQUA",
+      "certainty": "low",
+      "evidence": "Free-standing red text at the lower left of the green circle, level with its bottom edge. \"Below\" is only an approximation.",
+      "updated_at": ""
+    },
+    {
+      "id": 29,
+      "relation_type": "text_shape",
+      "subject": "L AQUI O",
+      "predicate": "connected_to",
+      "object": "green square frame",
+      "certainty": "medium",
+      "evidence": "The bottom circle sits on the middle of the bottom side of the green frame and overlaps it.",
+      "updated_at": ""
+    },
+    {
+      "id": 30,
+      "relation_type": "geometric",
+      "subject": "Y-shaped mark (lower left corner)",
+      "predicate": "connected_to",
+      "object": "green square frame",
+      "certainty": "medium",
+      "evidence": "Small red forked mark touching the outer lower left corner of the green square frame.",
+      "updated_at": ""
+    },
+    {
+      "id": 31,
+      "relation_type": "geometric",
+      "subject": "Y-shaped mark (lower right corner)",
+      "predicate": "connected_to",
+      "object": "green square frame",
+      "certainty": "medium",
+      "evidence": "Small red forked mark touching the outer lower right corner of the green square frame.",
+      "updated_at": ""
+    }
+  ],
+  "interpretation": [
+    {
+      "diagram_classification": "cosmological diagram (combined scheme of the four elements, four qualities, four seasons, four cardinal winds/directions and the three continents)",
+      "interpretation": "The diagram is a schematic image of the ordered cosmos in which the four elements (IGNIS, AER, AQUA, TERRA) are placed at the corners of a square. Their qualities (calidus, siccus, humidus, frigidus) are written beside them. The four cardinal points or winds (AVSTER/Auster = south at the top, ORIENS = east at the left, OCCIDENS = west at the right, AQVILO = north at the bottom) are set in circles at the corners of a diamond inscribed in the square. The bands joining these circles carry the four seasons with their paired qualities: VER calidum et humidum (spring), AESTAS calida sicca (summer), AVTVMNVS siccus frigidus (autumn), HIEMS frigidus humidus (winter). The two interior lines divide the central field into ASIA (upper left), AFRICA (upper right) and EVROPA (lower half), which is the T-O tripartite world division. The diagram thus links macrocosm (elements, winds, seasons) with the geography of the known world, and shows the harmony and mutual dependence of the cosmic orders through shared qualities.",
+      "basis": "textual",
+      "certainty": "high",
+      "evidence": "Written in the diagram: the labels IGNIS, AER, AQUA, TERRA; the quality words CALIDVS, SICCVS, HVMIDA, FRIGIDA and similar; the wind or direction names (E AUS R, H ORIE S, OCCI NS DE, L AQUI O); the season inscriptions on the bands (\"VER CALIDVM ET HVMIDVM\", \"AESTAS CALIDA SICCA\", \"HIEMS FRIGIDVS HVMIDVS\", and an autumn inscription whose first word was marked uncertain in Step 1); and the continent names ASIA, AFRICA, EVROPA. Visible: a square frame, a diamond of bands with four circles at its corners, and a T-shaped division of the interior. External knowledge: the Isidorian and Carolingian tradition of computus and natural-philosophy diagrams that combine elements, qualities, seasons, winds and world parts, and the T-O scheme with Asia in the upper half, and Europe and Africa in the lower half. Here the orientation is unusual, with south at the top and Africa placed at the upper right. The attribution to a specific manuscript is not made."
+    },
+    {
+      "diagram_classification": "elements-and-qualities scheme (physical / natural-philosophical)",
+      "interpretation": "The four coloured circles at the corners of the square represent the four elements: IGNIS (fire, dark red with grid), AER (air, pale green), AQUA (water, green), and TERRA (earth, dark grey). The adjacent words give each element's qualities: fire is hot and dry (CALIDVS, SICCVS), air hot and moist (CALIDVS, HVMIDVS), water moist and cold (HVMIDA, FRIGIDA), earth dry and cold (SICCA, FRIGIDA). The elements next to each other share one quality, which expresses the standard doctrine that adjoining elements are linked by a common quality and can change into one another.",
+      "basis": "textual",
+      "certainty": "high",
+      "evidence": "The transcribed labels and the free-standing quality words placed beside each element circle. In Step 1 these were recorded only with approximate predicates (\"above\", \"below\") and low certainty, because they are positioned beside the circles; the pairing here follows the proximity and the standard doctrine. The colours (red for fire, green for water, dark for earth) are visible, and the general correspondence is known from ancient and medieval natural philosophy (the Aristotelian and Isidorian tradition). I do not tie it to a specific source."
+    },
+    {
+      "diagram_classification": "calendrical / seasonal scheme combined with cardinal orientation",
+      "interpretation": "The four orange bands join the four direction circles and carry the seasons with their qualities. They form the diamond linking Auster (south), Oriens (east), Aquilo (north) and Occidens (west). Spring lies between east and south (hot and moist), summer between south and west (hot and dry), autumn between west and north (dry and cold), and winter between north and east (cold and moist). Each season is therefore tied to the elements and directions at its two ends, and the diamond sets the yearly cycle inside the square of the elements.",
+      "basis": "textual",
+      "certainty": "medium",
+      "evidence": "Written on the bands: \"VER CALIDVM ET HVMIDVM\", \"AESTAS CALIDA SICCA\", \"HIEMPS FRIGIDVS HVMIDVS\", and the fourth band inscription, whose first word was uncertain in Step 1. I read it as the autumn inscription (siccus, frigidus), but the Step 1 reading \"AVTVMNVS\" is not secure. Step 1 also records the lower right band as joining the bottom and right circles; this is visible. The mapping of each season to a direction pair is inferred from the band positions. Certainty is medium because of the uncertain transcription and because the direction names are written in unusual or abbreviated forms."
+    },
+    {
+      "diagram_classification": "geographical diagram (tripartite world map / T-O scheme)",
+      "interpretation": "The thin vertical and horizontal lines divide the central area into three parts labelled ASIA, AFRICA and EVROPA. This is a schematic version of the tripartite division of the known world known as the T-O scheme. Asia and Africa occupy the upper half, split by the vertical line, and Europe occupies the whole lower half. Here the scheme is placed inside the cosmic structure, so that the three continents are correlated with the winds, seasons and elements around them.",
+      "basis": "external",
+      "certainty": "medium",
+      "evidence": "Visible: a vertical line meeting a horizontal line at a T-junction, and the free-standing names ASIA, AFRICA, EVROPA in the three resulting fields. External: the medieval T-O map tradition, in which the T divides the circle into three continents. The orientation differs from the usual one, because the top is south here and Africa is on the upper right instead of at the lower right. Step 1 recorded the relation of the horizontal line to the left circle as low certainty, and the line seems to meet the bands rather than the circles; this does not affect the interpretation of the division."
+    },
+    {
+      "diagram_classification": "framing and orientation devices",
+      "interpretation": "The green square frame with the four small forked marks at its corners encloses the whole scheme and marks it as a single closed cosmos or world-image. The four direction circles break the frame at the midpoints of its sides, so that the directions are aligned with the cardinal sides of the square. The small forked corner marks may be decorative or may be copyist's signs. I cannot interpret them with confidence.",
+      "basis": "visual",
+      "certainty": "low",
+      "evidence": "Visible: a broad green band forming a square, an inner thin-lined rectangle, circles overlapping the middle of each side, and a small red forked mark outside each of the four corners. Step 1 treated these marks as connected to the frame with medium certainty; they only touch its outer corners. Their function (ornamental, or a sign for orienting or placing the figure) is not clear and no source is named, so the interpretation of the marks is \"uninterpreted\"."
+    }
+  ]
+}

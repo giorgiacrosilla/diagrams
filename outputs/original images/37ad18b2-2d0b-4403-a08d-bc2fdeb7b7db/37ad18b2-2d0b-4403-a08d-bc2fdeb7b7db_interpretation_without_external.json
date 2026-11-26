@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "diagram_classification": "cosmological (astronomical): a geocentric planetary diagram showing the order of the seven planetary spheres around the Earth",
+    "interpretation": "The diagram shows the geocentric universe as a set of concentric circles. TERRA is a small dot at the centre. Around it, in order outward, are the circles of LUNA, MERCURIUS, VENUS, SOL, MARS, IOVIS (Jupiter) and SATURNUS. Each planet is drawn as a human head on the same vertical axis, placed on its own orbit. The labels are split by the head, for example SATU-[head]-RNUS and TER-[dot]-RA. Sol has a reddish-orange face with rays, which marks it as the Sun in the middle of the series. The Moon, the planet nearest the Earth, has a crescent at its head. The heads personify the planets as divinities or celestial bodies. The nested circles represent the planetary spheres, with the slowest and highest planet, Saturn, on the outermost circle. The diagram appears to illustrate the Latin (Macrobian/Plinian-type) planetary order Moon, Mercury, Venus, Sun, Mars, Jupiter, Saturn, which places the Sun in the fourth place between three inner and three outer planets. The text around it looks like a commentary on the planets and their order, but it is not transcribed here, so the link to a specific work is uninterpreted.",
+    "basis": "textual",
+    "certainty": "high",
+    "evidence": "The red labels name TERRA at the centre and then LUNA, MER-CUR(IUS), VE-NUS (written UI-NUS), SOL, MARS, IOVIS and SATURNUS on successive concentric circles. These are the seven planets in the standard geocentric order. The labels and the central Earth establish the cosmological subject. The personifying heads, the Sun's radiating colour and the Moon's crescent are visual attributes that fit the names. The circles are evenly nested around the Earth, which confirms a spherical, Earth-centred model.",
+    "updated_at": "2026-11-18T13:16Z"
+  }
+]

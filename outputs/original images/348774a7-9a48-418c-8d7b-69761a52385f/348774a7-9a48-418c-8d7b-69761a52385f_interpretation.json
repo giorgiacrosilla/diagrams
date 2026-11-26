@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "diagram_classification": "Cosmological / natural-philosophical (physica): a diagram of the correspondences between the macrocosm, time and the microcosm, based on the four elements, four qualities, four seasons and four humours",
+    "interpretation": "This is a concentric, interlaced roundel in the tradition of the medieval 'Mundus-Annus-Homo' diagrams. The centre reads MUNDUS ANNUS HOMO (world, year, man), which declares the three realms the diagram unites: the cosmos, the cycle of the year and the human body. The surrounding rings are woven bands that connect the four elements (ignis, aer, aqua, terra), the four qualities (sicca, calidus, humida, frigida), the four seasons (ver, aestas, autumnus, hiems) and the four humours (sanguis, cholera/colera, melancholia, phlegma). Each element is tied to its two qualities. Fire is hot and dry, air is hot and moist, water is cold and moist, and earth is cold and dry. The same quaternary pattern is mapped onto the seasons and onto the bodily humours: blood for spring and air, choler for summer and fire, melancholy for autumn and earth, and phlegm for winter and water. The interlacing bands show that the macrocosm, the annual cycle and the human microcosm share one harmonious structure. Qualities are shared between neighbouring elements, which gives the system its continuity and its balance of opposites. The intended message is that the order of the cosmos is reflected in time and in human physiology.",
+    "basis": "textual",
+    "certainty": "high",
+    "evidence": "Visible text: MUNDUS ANNUS HOMO in the central circle; ignis, aer, aqua; the qualities siccus/sicca, calidus, humidus/humida and frigida repeated around the rings; ver; sanguis; colera; melancholia; and what appears to be phlegma, along with other abbreviated labels in the rings. The layout is concentric and interlaced, with red and black lines and labels placed at the cardinal positions. External knowledge: this scheme matches the early medieval computistical and natural-philosophical tradition of Isidore of Seville (De natura rerum) and Bede (De temporum ratione, De natura rerum), where world, year and man are correlated by the elements, qualities and humours. The exact reading of some abbreviated or damaged labels is uncertain.",
+    "updated_at": "2026-11-17T11:13Z"
+  }
+]

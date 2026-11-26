@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "diagram_classification": "computistical / natural-philosophical (the year, seasons and qualities)",
+    "interpretation": "A circular diagram of the year (ANNUS, written in the centre). Four seasons are placed around the circle, each in an overlapping lens-shaped segment: ver (spring) at the top, aestas (summer) on the right, autumnus at the bottom, and hiemps (winter) on the left. Each season is paired with two qualities: spring is humidus and calidus (moist and warm), summer is calidus and siccus (hot and dry), autumn is siccus and frigidus (dry and cold), and winter is frigidus and humidus (cold and moist). The overlapping arcs show that each season shares one quality with the season before it and one with the season after it. The seasons therefore pass into one another in a continuous cycle. This is the scheme that links the four seasons of the year to the four qualities, and through them to the elements and humours. The interlaced arcs in different colours (green, red, ochre) presumably mark which quality is shared between adjacent seasons. Some of the smaller marginal words are only partly legible, such as the ones that look like 'dies' and 'tempus' or 'oriens'. They probably label the seasonal segments or the times of year, and I leave them uninterpreted.",
+    "basis": "textual",
+    "certainty": "medium",
+    "evidence": "The central word ANNUS names the whole circle as the year. The legible words ver, aestas, autumnus and hiemps name the four seasons. The adjectives humidus, calidus, siccus and frigidus appear in each arc, so each season carries two qualities, and neighbouring seasons share a quality where their arcs overlap. The circular layout and the overlap of the arcs show that this is a cycle. The colours of the arcs seem to match the shared qualities, but this is a visual inference. The identification of the minor inscriptions is uncertain.",
+    "updated_at": "2026-11-18T13:17Z"
+  }
+]

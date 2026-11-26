@@ -1,0 +1,294 @@
+{
+  "element_analysis": [
+    {
+      "id": 1,
+      "relation_type": "geometric",
+      "subject": "inner multicolored circle",
+      "predicate": "inside",
+      "object": "outer multicolored circle",
+      "certainty": "high",
+      "evidence": "Thinner ring made of yellow and red segments lies concentrically within the larger outer ring made of gray, red and yellow segments; the two rings are not joined to each other directly.",
+      "updated_at": ""
+    },
+    {
+      "id": 2,
+      "relation_type": "geometric",
+      "subject": "upper gray arc",
+      "predicate": "connected_to",
+      "object": "outer multicolored circle",
+      "certainty": "high",
+      "evidence": "Broad gray arc, bowl-shaped and curving downward across the upper half, has its left end (upper left) and right end (upper right) meeting the outer ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 3,
+      "relation_type": "geometric",
+      "subject": "left red arc",
+      "predicate": "connected_to",
+      "object": "outer multicolored circle",
+      "certainty": "high",
+      "evidence": "Red arc starts at the top of the outer ring (upper left of top), curves down on the left side, then bends leftward and ends at the left edge of the outer ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 4,
+      "relation_type": "geometric",
+      "subject": "upper right yellow arc",
+      "predicate": "connected_to",
+      "object": "outer multicolored circle",
+      "certainty": "high",
+      "evidence": "Yellow arc starts at the outer ring at the top right of centre, curves down and to the right, and ends at the right edge of the ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 5,
+      "relation_type": "geometric",
+      "subject": "upper right red arc",
+      "predicate": "connected_to",
+      "object": "outer multicolored circle",
+      "certainty": "medium",
+      "evidence": "Red arc starts just inside the top of the outer ring and runs in a long curve down the right side, ending near the right edge of the ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 6,
+      "relation_type": "geometric",
+      "subject": "upper gray arc",
+      "predicate": "connected_to",
+      "object": "left red arc",
+      "certainty": "high",
+      "evidence": "The gray arc and the red arc cross in the upper left part of the diagram.",
+      "updated_at": ""
+    },
+    {
+      "id": 7,
+      "relation_type": "geometric",
+      "subject": "upper gray arc",
+      "predicate": "connected_to",
+      "object": "upper right yellow arc",
+      "certainty": "high",
+      "evidence": "The gray arc and the yellow arc cross in the upper right part of the diagram.",
+      "updated_at": ""
+    },
+    {
+      "id": 8,
+      "relation_type": "geometric",
+      "subject": "upper gray arc",
+      "predicate": "connected_to",
+      "object": "upper right red arc",
+      "certainty": "medium",
+      "evidence": "The gray arc crosses the long red arc on the upper right.",
+      "updated_at": ""
+    },
+    {
+      "id": 9,
+      "relation_type": "geometric",
+      "subject": "upper small gray arc",
+      "predicate": "connected_to",
+      "object": "left red arc",
+      "certainty": "high",
+      "evidence": "Short gray arc, curving slightly downward, has its left end touching the vertical part of the red arc at the top centre-left.",
+      "updated_at": ""
+    },
+    {
+      "id": 10,
+      "relation_type": "geometric",
+      "subject": "upper small gray arc",
+      "predicate": "connected_to",
+      "object": "upper right yellow arc",
+      "certainty": "high",
+      "evidence": "Its right end touches the yellow arc at the top centre-right.",
+      "updated_at": ""
+    },
+    {
+      "id": 11,
+      "relation_type": "geometric",
+      "subject": "left red arc",
+      "predicate": "connected_to",
+      "object": "left small gray arc",
+      "certainty": "medium",
+      "evidence": "Short vertical gray arc on the left has its upper end touching the lower curve of the red arc.",
+      "updated_at": ""
+    },
+    {
+      "id": 12,
+      "relation_type": "geometric",
+      "subject": "left red arc",
+      "predicate": "connected_to",
+      "object": "left inner gray arc",
+      "certainty": "medium",
+      "evidence": "Longer vertical gray arc, curving to the right, has its upper end meeting the red arc at left of centre.",
+      "updated_at": ""
+    },
+    {
+      "id": 13,
+      "relation_type": "geometric",
+      "subject": "left small gray arc",
+      "predicate": "connected_to",
+      "object": "lower left yellow arc",
+      "certainty": "medium",
+      "evidence": "The lower end of the short gray arc touches the upper edge of the yellow arc on the left.",
+      "updated_at": ""
+    },
+    {
+      "id": 14,
+      "relation_type": "geometric",
+      "subject": "left inner gray arc",
+      "predicate": "connected_to",
+      "object": "lower left yellow arc",
+      "certainty": "medium",
+      "evidence": "The lower end of the longer gray arc touches the yellow arc on the left.",
+      "updated_at": ""
+    },
+    {
+      "id": 15,
+      "relation_type": "geometric",
+      "subject": "upper right yellow arc",
+      "predicate": "connected_to",
+      "object": "right inner gray arc",
+      "certainty": "medium",
+      "evidence": "The upper end of the long vertical gray arc on the right touches the lower curve of the yellow arc.",
+      "updated_at": ""
+    },
+    {
+      "id": 16,
+      "relation_type": "geometric",
+      "subject": "upper right yellow arc",
+      "predicate": "connected_to",
+      "object": "right small gray arc",
+      "certainty": "medium",
+      "evidence": "The upper end of the short vertical gray arc on the right touches the yellow arc.",
+      "updated_at": ""
+    },
+    {
+      "id": 17,
+      "relation_type": "geometric",
+      "subject": "right inner gray arc",
+      "predicate": "connected_to",
+      "object": "lower right red arc",
+      "certainty": "medium",
+      "evidence": "The lower end of the long gray arc meets the red arc on the lower right.",
+      "updated_at": ""
+    },
+    {
+      "id": 18,
+      "relation_type": "geometric",
+      "subject": "right small gray arc",
+      "predicate": "connected_to",
+      "object": "lower right red arc",
+      "certainty": "medium",
+      "evidence": "The lower end of the short gray arc meets the red arc on the lower right.",
+      "updated_at": ""
+    },
+    {
+      "id": 19,
+      "relation_type": "geometric",
+      "subject": "lower left yellow arc",
+      "predicate": "connected_to",
+      "object": "outer multicolored circle",
+      "certainty": "high",
+      "evidence": "Yellow arc starts at the left edge of the outer ring, curves down and to the right, and ends at the bottom of the outer ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 20,
+      "relation_type": "geometric",
+      "subject": "lower gray arc",
+      "predicate": "connected_to",
+      "object": "outer multicolored circle",
+      "certainty": "high",
+      "evidence": "Broad gray arc, arch-shaped with the curve rising in the lower half, has its left end (lower left) and right end (lower right) meeting the outer ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 21,
+      "relation_type": "geometric",
+      "subject": "lower left yellow arc",
+      "predicate": "connected_to",
+      "object": "lower gray arc",
+      "certainty": "high",
+      "evidence": "The yellow arc crosses the gray arch at the lower left.",
+      "updated_at": ""
+    },
+    {
+      "id": 22,
+      "relation_type": "geometric",
+      "subject": "lower right red arc",
+      "predicate": "connected_to",
+      "object": "lower gray arc",
+      "certainty": "high",
+      "evidence": "The red arc crosses the gray arch at the lower right.",
+      "updated_at": ""
+    },
+    {
+      "id": 23,
+      "relation_type": "geometric",
+      "subject": "lower right red arc",
+      "predicate": "connected_to",
+      "object": "outer multicolored circle",
+      "certainty": "high",
+      "evidence": "Red arc starts at the right edge of the outer ring, sweeps leftward, then curves down to the bottom of the outer ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 24,
+      "relation_type": "geometric",
+      "subject": "lower small gray arc",
+      "predicate": "connected_to",
+      "object": "lower left yellow arc",
+      "certainty": "high",
+      "evidence": "Short gray arc, curving slightly upward at the bottom centre, has its left end touching the yellow arc.",
+      "updated_at": ""
+    },
+    {
+      "id": 25,
+      "relation_type": "geometric",
+      "subject": "lower small gray arc",
+      "predicate": "connected_to",
+      "object": "lower right red arc",
+      "certainty": "high",
+      "evidence": "Its right end touches the vertical part of the red arc.",
+      "updated_at": ""
+    },
+    {
+      "id": 26,
+      "relation_type": "geometric",
+      "subject": "lower left red arc",
+      "predicate": "connected_to",
+      "object": "lower gray arc",
+      "certainty": "medium",
+      "evidence": "Red arc, starting at the left inner ring and sweeping down and to the right toward the bottom, crosses the lower gray arch at the lower left.",
+      "updated_at": ""
+    },
+    {
+      "id": 27,
+      "relation_type": "geometric",
+      "subject": "lower left red arc",
+      "predicate": "connected_to",
+      "object": "lower left yellow arc",
+      "certainty": "medium",
+      "evidence": "The red arc crosses the yellow arc at the lower left.",
+      "updated_at": ""
+    },
+    {
+      "id": 28,
+      "relation_type": "text_shape",
+      "subject": "outer multicolored circle",
+      "predicate": "above",
+      "object": "oecxelo",
+      "certainty": "low",
+      "evidence": "Free-standing red text, cropped at the left edge of the image, is at the bottom left, below and outside the circle. The reading is uncertain because the text is partly cut off.",
+      "updated_at": ""
+    }
+  ],
+  "interpretation": [
+    {
+      "diagram_classification": "geometrical / possibly cosmological or computistic (uncertain)",
+      "interpretation": "The diagram is a circular figure made of interlaced arcs in red, yellow and gray. A multicolored outer ring and a concentric inner ring are crossed by large arcs and short connecting arcs arranged with fourfold symmetry (top, bottom, left, right). It may be a schematic cosmological or elemental scheme, in which the colors and the fourfold arrangement stand for four parts, such as elements, qualities, winds or seasons. It may also be a purely ornamental or geometric interlace. The only text is the cropped red word at the lower left, tentatively read 'oecxelo' in Step 1. It lies outside the figure and is probably part of the surrounding text, so it gives no reliable key. No specific meaning can be assigned with confidence.",
+      "basis": "visual",
+      "certainty": "low",
+      "evidence": "The interpretation rests on visible features: concentric rings, a symmetrical arrangement of arcs in four directions, and the alternation of colors along the rings. The diagram has no internal labels. The free-standing text in Step 1 (entry 28) is cropped and uncertain, and it is not written inside any element, so it cannot support a textual reading. The Step 1 'above' relation between the outer circle and that text is also doubtful, because the text sits outside the diagram at the lower left. Some arc names in Step 1 are ambiguous because several arcs share similar descriptions and the interlacing is hard to follow. Entries such as 5, 8 and 26 to 27 have uncertain endpoints. Most Step 1 relations treat crossings as 'connected_to', which may overstate actual joins. No source or tradition is named, because none can be identified with confidence.",
+      "updated_at": ""
+    }
+  ]
+}

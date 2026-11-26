@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "diagram_classification": "astronomical / computistical (lunar phases diagram)",
+    "interpretation": "The diagram shows the phases of the Moon as it moves around a circular orbit relative to the Sun (SOL, at the right, drawn as a radiant disc). The Moon is shown at eight positions with its age in days: Luna prima (monoides, a thin crescent next to the Sun), Luna VIII (dichotomos, half-moon), Luna XII (amphicirtos, gibbous), Luna XV (pansele nos, full moon, opposite the Sun and joined to it by a straight line), Luna XVIII (amphicirtos, gibbous, waning), Luna XXII (dichotomos, half-moon, waning) and Luna XXVII (monoides, waning crescent). The inscriptions in the centre explain the geometry. The upper half of the circle is the 'upper hemisphere, in which the Moon recedes from the Sun', that is, the waxing phase. The lower half is the 'lower hemisphere, in which the Moon approaches the Sun', that is, the waning phase. The Greek-derived names (monoides, dichotomos, amphicirtos, pansele nos) are the traditional terms for the crescent, half, gibbous and full Moon. The diagram teaches how the Moon's illuminated portion changes with its elongation from the Sun over the roughly 29.5-day synodic month. It is the sort of figure used in computus and natural-science manuscripts.",
+    "basis": "textual",
+    "certainty": "high",
+    "evidence": "Visible: a circle with the Sun at the right and the Moon drawn in different phase shapes around the circumference. Each Moon has a label giving its age in Roman numerals (I, VIII, XII, XV, XVIII, XXII, XXVII). The full Moon is joined to the Sun by a line. Transcribed text: 'Emisperium superius per quod luna recedit a sole' and 'Emisperium inferius per quod luna propinquat soli', together with the phase names 'monoides', 'dichotomos', 'amphicirtos' and 'pansele nos'. External: the Greek terms and the 'lunar age' scheme belong to the medieval computistical and astronomical tradition (Bede and Isidore-type texts), but no specific source is asserted.",
+    "updated_at": "2026-11-17T11:13Z"
+  }
+]

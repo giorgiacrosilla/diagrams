@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "diagram_classification": "Cosmological / meteorological: a twelve-wind rose (wind wheel) with the four cardinal directions",
+    "interpretation": "The diagram is a wind rose. A circle is divided by twelve spokes into twelve sectors, each carrying the name of a wind. The cardinal points are written outside the rim: ORIENS (east) at the top, MERIDIES (south) on the right, OCCIDENS (west) at the bottom, SEPTENTRIO (north) on the left. This is the usual medieval orientation, with east at the top. The winds are grouped by direction. In the east: Subsolanus (also called Apeliotes), Vulturnus (Calcias) and Eurus, with the gloss that these winds are properly and distinctly so called. In the south: Euroauster (Euronotus), Auster (Notus) and Austroafricus (Libonotus). In the west: Africus (Libs), Favonius (Zephyrus) and Corus (Argestes). In the north: Circius (Thrascias), Septentrio (Aparctias) and Aquilo (Boreas). The central circle is empty. The inscriptions record Latin and Greek names for each wind. The numeral XII near the south suggests the total of twelve winds. The text near the east (\"haec sunt ... appellative / proprie distincte\") appears to be a gloss on the nomenclature. This is a classification of the winds from Isidore's De natura rerum / Etymologiae tradition, passed on through Bede and computistical-scientific compilations.",
+    "basis": "textual",
+    "certainty": "high",
+    "evidence": "Visible: a circle with twelve radial spokes, each sector labelled with a wind name, and the four cardinal terms ORIENS, MERIDIES, OCCIDENS and SEPTENTRIO outside the rim. Legible names include Subsolanus, Apeliotes, Vulturnus, Calcias, Eurus, Euroauster, Euronotus, Auster, Notus, Austroafricus, Libonotus, Africus, Libs, Favonius, Zephyrus, Corus, Argestes, Circius, Thrascias, Septentrio, Aparctias, Aquilo and Boreas. The numeral XII appears. External: the twelve-wind scheme with Latin and Greek names is a standard medieval pattern, associated with Isidore of Seville and its later use in cosmological and natural-science manuscripts. The reading of the gloss is uncertain.",
+    "updated_at": "2026-11-17T11:14Z"
+  }
+]

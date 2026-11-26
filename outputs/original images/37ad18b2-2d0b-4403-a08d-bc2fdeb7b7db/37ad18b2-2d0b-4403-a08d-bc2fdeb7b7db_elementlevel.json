@@ -1,0 +1,292 @@
+[
+  {
+    "id": 1,
+    "relation_type": "text_shape",
+    "subject": "SATU RNUS",
+    "predicate": "connected_to",
+    "object": "head at top of outermost circle",
+    "certainty": "high",
+    "evidence": "red text split into 'SATU' on the left and 'RNUS' on the right of a small head with blue hair placed on the outermost circle line at the top",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "text_shape",
+    "subject": "IO UIS",
+    "predicate": "connected_to",
+    "object": "head on second circle",
+    "certainty": "high",
+    "evidence": "red text split into 'IO' on the left and 'UIS' on the right of a small head with grey-brown hair placed on the second circle line",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "text_shape",
+    "subject": "MA RS",
+    "predicate": "connected_to",
+    "object": "head on third circle",
+    "certainty": "high",
+    "evidence": "red text split into 'MA' on the left and 'RS' on the right of a small head with blue hair placed on the third circle line",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "text_shape",
+    "subject": "SO L",
+    "predicate": "connected_to",
+    "object": "orange head with short rays on fourth circle",
+    "certainty": "high",
+    "evidence": "red text split into 'SO' on the left and 'L' on the right of an orange head with faint radiating strokes, placed on the fourth circle line",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "text_shape",
+    "subject": "UE NUS",
+    "predicate": "connected_to",
+    "object": "head on fifth circle",
+    "certainty": "medium",
+    "evidence": "red text split into 'UE' (reading uncertain) on the left and 'NUS' on the right of a small head with dark hair placed on the fifth circle line",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "text_shape",
+    "subject": "MER CUR",
+    "predicate": "connected_to",
+    "object": "head on sixth circle",
+    "certainty": "high",
+    "evidence": "red text split into 'MER' on the left and 'CUR' on the right of a small head with blue hair placed on the sixth circle line",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "text_shape",
+    "subject": "LU NA",
+    "predicate": "connected_to",
+    "object": "head on seventh circle",
+    "certainty": "high",
+    "evidence": "red text split into 'LU' on the left and 'NA' on the right of a small head with blue-grey hair placed on the seventh circle line, with a crescent-like mark above the head",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "text_shape",
+    "subject": "TER RA",
+    "predicate": "connected_to",
+    "object": "small brown central disc",
+    "certainty": "high",
+    "evidence": "red text split into 'TER' on the left and 'RA' on the right of a small round brown dot at the centre of the concentric circles",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "geometric",
+    "subject": "outermost circle",
+    "predicate": "contains",
+    "object": "second circle",
+    "certainty": "high",
+    "evidence": "concentric circles drawn with thin brown lines, the second lying fully within the first",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "geometric",
+    "subject": "second circle",
+    "predicate": "contains",
+    "object": "third circle",
+    "certainty": "high",
+    "evidence": "concentric nesting of thin brown circle lines",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 11,
+    "relation_type": "geometric",
+    "subject": "third circle",
+    "predicate": "contains",
+    "object": "fourth circle",
+    "certainty": "high",
+    "evidence": "concentric nesting of thin brown circle lines",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 12,
+    "relation_type": "geometric",
+    "subject": "fourth circle",
+    "predicate": "contains",
+    "object": "fifth circle",
+    "certainty": "high",
+    "evidence": "concentric nesting of thin brown circle lines",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 13,
+    "relation_type": "geometric",
+    "subject": "fifth circle",
+    "predicate": "contains",
+    "object": "sixth circle",
+    "certainty": "high",
+    "evidence": "concentric nesting of thin brown circle lines",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 14,
+    "relation_type": "geometric",
+    "subject": "sixth circle",
+    "predicate": "contains",
+    "object": "seventh circle",
+    "certainty": "high",
+    "evidence": "concentric nesting of thin brown circle lines",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 15,
+    "relation_type": "geometric",
+    "subject": "seventh circle",
+    "predicate": "contains",
+    "object": "small brown central disc",
+    "certainty": "high",
+    "evidence": "innermost circle encloses the small brown dot at the common centre",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 16,
+    "relation_type": "figurative",
+    "subject": "head on outermost circle",
+    "predicate": "connected_to",
+    "object": "outermost circle",
+    "certainty": "high",
+    "evidence": "head sits directly on the top of the circle line, which passes behind or at its hair",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 17,
+    "relation_type": "figurative",
+    "subject": "head on second circle",
+    "predicate": "connected_to",
+    "object": "second circle",
+    "certainty": "high",
+    "evidence": "head sits directly on the top of the second circle line",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 18,
+    "relation_type": "figurative",
+    "subject": "head on third circle",
+    "predicate": "connected_to",
+    "object": "third circle",
+    "certainty": "high",
+    "evidence": "head sits directly on the top of the third circle line",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 19,
+    "relation_type": "figurative",
+    "subject": "orange head with short rays on fourth circle",
+    "predicate": "connected_to",
+    "object": "fourth circle",
+    "certainty": "high",
+    "evidence": "head sits directly on the top of the fourth circle line",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 20,
+    "relation_type": "figurative",
+    "subject": "head on fifth circle",
+    "predicate": "connected_to",
+    "object": "fifth circle",
+    "certainty": "high",
+    "evidence": "head sits directly on the top of the fifth circle line",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 21,
+    "relation_type": "figurative",
+    "subject": "head on sixth circle",
+    "predicate": "connected_to",
+    "object": "sixth circle",
+    "certainty": "high",
+    "evidence": "head sits directly on the top of the sixth circle line",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 22,
+    "relation_type": "figurative",
+    "subject": "head on seventh circle",
+    "predicate": "connected_to",
+    "object": "seventh circle",
+    "certainty": "high",
+    "evidence": "head sits directly on the top of the seventh circle line",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 23,
+    "relation_type": "figurative",
+    "subject": "head on outermost circle",
+    "predicate": "above",
+    "object": "head on second circle",
+    "certainty": "high",
+    "evidence": "vertical column of heads along the central axis; this head is at the very top",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 24,
+    "relation_type": "figurative",
+    "subject": "head on second circle",
+    "predicate": "above",
+    "object": "head on third circle",
+    "certainty": "high",
+    "evidence": "heads aligned vertically along the central axis",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 25,
+    "relation_type": "figurative",
+    "subject": "head on third circle",
+    "predicate": "above",
+    "object": "orange head with short rays on fourth circle",
+    "certainty": "high",
+    "evidence": "heads aligned vertically along the central axis",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 26,
+    "relation_type": "figurative",
+    "subject": "orange head with short rays on fourth circle",
+    "predicate": "above",
+    "object": "head on fifth circle",
+    "certainty": "high",
+    "evidence": "heads aligned vertically along the central axis",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 27,
+    "relation_type": "figurative",
+    "subject": "head on fifth circle",
+    "predicate": "above",
+    "object": "head on sixth circle",
+    "certainty": "high",
+    "evidence": "heads aligned vertically along the central axis",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 28,
+    "relation_type": "figurative",
+    "subject": "head on sixth circle",
+    "predicate": "above",
+    "object": "head on seventh circle",
+    "certainty": "high",
+    "evidence": "heads aligned vertically along the central axis",
+    "updated_at": "2026-11-17T10:46Z"
+  },
+  {
+    "id": 29,
+    "relation_type": "figurative",
+    "subject": "head on seventh circle",
+    "predicate": "above",
+    "object": "small brown central disc",
+    "certainty": "high",
+    "evidence": "lowest head lies above the central dot",
+    "updated_at": "2026-11-17T10:46Z"
+  }
+]

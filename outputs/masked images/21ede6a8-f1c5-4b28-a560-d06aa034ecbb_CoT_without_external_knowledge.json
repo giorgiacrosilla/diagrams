@@ -1,0 +1,124 @@
+{
+  "element_analysis": [
+    {
+      "id": 1,
+      "relation_type": "text_shape",
+      "subject": "ist tem weil [illegible] ein stunde ale in disser [illegible] gestriben stet",
+      "predicate": "above",
+      "object": "face with red rays (top)",
+      "certainty": "high",
+      "evidence": "Free-standing lines of handwritten text run across the top of the image, above the red-rayed round figure with a face. A partly cut-off line of text sits above them.",
+      "updated_at": ""
+    },
+    {
+      "id": 2,
+      "relation_type": "figurative",
+      "subject": "face with red rays (top)",
+      "predicate": "above",
+      "object": "outer hatched ring",
+      "certainty": "medium",
+      "evidence": "The round figure with a drawn face and red triangular rays sits at the top, with its lower rays touching the upper edge of the large hatched ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 3,
+      "relation_type": "figurative",
+      "subject": "left crescent",
+      "predicate": "connected_to",
+      "object": "outer hatched ring",
+      "certainty": "low",
+      "evidence": "Brown crescent with red outline at the left, its inner curve close to or touching the left edge of the hatched ring. The horizontal line at mid-height passes near it.",
+      "updated_at": ""
+    },
+    {
+      "id": 4,
+      "relation_type": "figurative",
+      "subject": "five-pointed star outline (left)",
+      "predicate": "connected_to",
+      "object": "radiating lines",
+      "certainty": "low",
+      "evidence": "A small five-pointed star outline at the far left sits at the end of the thin horizontal line that extends from the centre through the ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 5,
+      "relation_type": "geometric",
+      "subject": "inner thin circle",
+      "predicate": "inside",
+      "object": "outer hatched ring",
+      "certainty": "high",
+      "evidence": "A thin single-line circle lies concentrically inside the wide band with short radial hatch marks.",
+      "updated_at": ""
+    },
+    {
+      "id": 6,
+      "relation_type": "geometric",
+      "subject": "red dots",
+      "predicate": "inside",
+      "object": "outer hatched ring",
+      "certainty": "high",
+      "evidence": "Small red dots are arranged in a circle in the space between the inner thin circle and the hatched band.",
+      "updated_at": ""
+    },
+    {
+      "id": 7,
+      "relation_type": "figurative",
+      "subject": "red short rays",
+      "predicate": "connected_to",
+      "object": "outer hatched ring",
+      "certainty": "low",
+      "evidence": "Short red strokes and thin lines radiate outward around the outside edge of the hatched ring at irregular intervals.",
+      "updated_at": ""
+    },
+    {
+      "id": 8,
+      "relation_type": "figurative",
+      "subject": "right crescent",
+      "predicate": "connected_to",
+      "object": "outer hatched ring",
+      "certainty": "low",
+      "evidence": "Brown crescent with red outline at the right, its inner curve close to the right edge of the hatched ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 9,
+      "relation_type": "geometric",
+      "subject": "central brown circle",
+      "predicate": "inside",
+      "object": "inner thin circle",
+      "certainty": "high",
+      "evidence": "A small brown circle with red outline and a central mark lies at the centre of the thin circle.",
+      "updated_at": ""
+    },
+    {
+      "id": 10,
+      "relation_type": "geometric",
+      "subject": "radiating lines",
+      "predicate": "connected_to",
+      "object": "central brown circle",
+      "certainty": "high",
+      "evidence": "Many thin straight lines radiate from the central brown circle outward across the inner circle towards the hatched ring.",
+      "updated_at": ""
+    },
+    {
+      "id": 11,
+      "relation_type": "figurative",
+      "subject": "outer hatched ring",
+      "predicate": "above",
+      "object": "bottom ring with face",
+      "certainty": "medium",
+      "evidence": "The brown circle with a double red outline and faint face-like marks sits just below the lower edge of the hatched ring, almost touching it.",
+      "updated_at": ""
+    }
+  ],
+  "interpretation": [
+    {
+      "diagram_classification": "cosmological / astronomical (computistic) diagram, probably a lunar–solar or eclipse diagram",
+      "interpretation": "The diagram appears to show the relation of the sun and the moon to a central earth. The red-rayed round figure with a face at the top is a personified sun. The brown circle with a red outline at the centre is the earth. The two crescents at left and right, and the double-outlined brown circle at the bottom, are probably the moon in different phases or positions, perhaps including a darkened or eclipsed moon. The wide hatched ring with the circle of red dots and the many radiating lines is most likely a graduated scale. It would divide the heavens or the day into equal parts (hours or degrees) and be used to read the positions of the sun and moon. The short red rays outside the ring suggest light radiating from the sun. The star outline at the left may be a marginal mark or a star or planet. The text at the top refers to \"ein stunde\" (an hour) and to what is written \"in disser [figure]\", so the diagram is probably tied to the calculation of hours or time, perhaps for an eclipse, in a German-language astronomical or calendrical manuscript.",
+      "basis": "visual",
+      "certainty": "medium",
+      "evidence": "The sun is identified by its face and its red triangular rays. The central circle is surrounded by concentric circles and a graduated ring, which is typical of astronomical and computistic schemes. The crescents are lunar in shape. The transcribed text at the top mentions an hour (\"stunde\") and a figure or diagram, which supports a time-reckoning reading. The text is partly illegible, so the reading cannot be confirmed. The identification of the star, the bottom circle and the exact function of the dots and lines is uncertain. In Step 1, several entries use 'connected_to' for crescents and rays that only touch or lie close to the ring. The star entry also links it to the radiating lines on weak grounds. The lower circle is described there only as a 'bottom ring with face'. These entries are therefore weak and are not relied on here.",
+      "updated_at": ""
+    }
+  ]
+}

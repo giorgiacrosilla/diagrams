@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "relation_type": "geometrical",
+    "subject": "outer circle made of alternating blue-grey, red and yellow segments",
+    "predicate": "contains",
+    "object": "inner ring of interlaced arcs",
+    "certainty": "high",
+    "evidence": "The outer circular band runs around the whole diagram. The interlaced arcs lie entirely within it and touch or cross it at several points.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 2,
+    "relation_type": "geometrical",
+    "subject": "upper blue-grey arc",
+    "predicate": "connected_to",
+    "object": "upper red arc on the left",
+    "certainty": "medium",
+    "evidence": "The blue-grey arc curves across the upper centre of the diagram. The red arc rises on its left side and crosses or joins it near the upper left.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 3,
+    "relation_type": "geometrical",
+    "subject": "short blue-grey arc at top centre",
+    "predicate": "connected_to",
+    "object": "upper red arc on the left",
+    "certainty": "medium",
+    "evidence": "The short horizontal blue-grey arc starts at the red vertical arc on its left and curves slightly downward.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 4,
+    "relation_type": "geometrical",
+    "subject": "short blue-grey arc at top centre",
+    "predicate": "connected_to",
+    "object": "yellow arc on the upper right",
+    "certainty": "medium",
+    "evidence": "The right end of the short blue-grey arc meets the curving yellow arc.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 5,
+    "relation_type": "geometrical",
+    "subject": "short blue-grey arc at bottom centre",
+    "predicate": "connected_to",
+    "object": "yellow arc on the lower left",
+    "certainty": "medium",
+    "evidence": "The left end of the short blue-grey arc meets the yellow arc.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 6,
+    "relation_type": "geometrical",
+    "subject": "short blue-grey arc at bottom centre",
+    "predicate": "connected_to",
+    "object": "red arc on the lower right",
+    "certainty": "medium",
+    "evidence": "The right end of the short blue-grey arc meets the red vertical arc.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 7,
+    "relation_type": "geometrical",
+    "subject": "short vertical blue-grey arc on the left",
+    "predicate": "connected_to",
+    "object": "red arc on the left",
+    "certainty": "medium",
+    "evidence": "The short vertical blue-grey arc ends at the lower edge of the left red arc.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 8,
+    "relation_type": "geometrical",
+    "subject": "short vertical blue-grey arc on the right",
+    "predicate": "connected_to",
+    "object": "red arc on the lower right",
+    "certainty": "medium",
+    "evidence": "The short vertical blue-grey arc ends at the upper edge of the red arc.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 9,
+    "relation_type": "geometrical",
+    "subject": "upper blue-grey arc",
+    "predicate": "above",
+    "object": "lower blue-grey arc",
+    "certainty": "high",
+    "evidence": "The two large blue-grey arcs are curved in opposite directions. One lies in the upper half of the diagram and the other in the lower half.",
+    "updated_at": "2026-11-18T11:27Z"
+  },
+  {
+    "id": 10,
+    "relation_type": "geometrical",
+    "subject": "empty central space",
+    "predicate": "inside",
+    "object": "outer circle made of alternating blue-grey, red and yellow segments",
+    "certainty": "high",
+    "evidence": "The central space is bounded by the four short blue-grey arcs and the arcs between them. It lies at the centre of the circle and has no text.",
+    "updated_at": "2026-11-18T11:27Z"
+  }
+]
